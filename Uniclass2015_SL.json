@@ -1,0 +1,2558 @@
+﻿{
+   "name":"Uniclass2015_SL",
+   "children":[
+      {
+         "name":"SL_20: Administrative, commercial and protective service spaces",
+         "children":[
+            {
+               "name":"SL_20_10: Legislative spaces",
+               "children":[
+                  {
+                     "name":"SL_20_10_47: Legislative chambers"
+                  },
+                  {
+                     "name":"SL_20_10_49: Legislative chamber viewing galleries"
+                  }
+               ]
+            },
+            {
+               "name":"SL_20_15: Administrative spaces",
+               "children":[
+                  {
+                     "name":"SL_20_15_50: Meeting rooms"
+                  },
+                  {
+                     "name":"SL_20_15_59: Offices"
+                  },
+                  {
+                     "name":"SL_20_15_71: Reception areas"
+                  }
+               ]
+            },
+            {
+               "name":"SL_20_45: Motor vehicle maintenance and fuelling spaces",
+               "children":[
+                  {
+                     "name":"SL_20_45_27: Electric motor vehicle charging points"
+                  },
+                  {
+                     "name":"SL_20_45_29: Fuel filling station air and water points"
+                  },
+                  {
+                     "name":"SL_20_45_30: Fuel filling station forecourts"
+                  },
+                  {
+                     "name":"SL_20_45_31: Fuel filling station tanks areas"
+                  },
+                  {
+                     "name":"SL_20_45_53: Motor vehicle maintenance areas"
+                  },
+                  {
+                     "name":"SL_20_45_95: Vehicle inspection pits"
+                  },
+                  {
+                     "name":"SL_20_45_96: Vehicle servicing areas"
+                  }
+               ]
+            },
+            {
+               "name":"SL_20_50: Commercial spaces",
+               "children":[
+                  {
+                     "name":"SL_20_50_03: Ambient wholesale spaces"
+                  },
+                  {
+                     "name":"SL_20_50_05: Auction rooms"
+                  },
+                  {
+                     "name":"SL_20_50_12: Checkout points"
+                  },
+                  {
+                     "name":"SL_20_50_22: Department store shop floors"
+                  },
+                  {
+                     "name":"SL_20_50_29: Financial and professional services outlets"
+                  },
+                  {
+                     "name":"SL_20_50_30: Fitting rooms"
+                  },
+                  {
+                     "name":"SL_20_50_32: Food and drink outlets"
+                  },
+                  {
+                     "name":"SL_20_50_36: Hair and beauty salons"
+                  },
+                  {
+                     "name":"SL_20_50_47: Livestock auction rooms"
+                  },
+                  {
+                     "name":"SL_20_50_51: Market stalls"
+                  },
+                  {
+                     "name":"SL_20_50_55: Motor vehicle showrooms"
+                  },
+                  {
+                     "name":"SL_20_50_70: Refrigerated wholesale spaces"
+                  },
+                  {
+                     "name":"SL_20_50_72: Retail kiosks"
+                  },
+                  {
+                     "name":"SL_20_50_85: Supermarket shop floors"
+                  },
+                  {
+                     "name":"SL_20_50_87: Tattoo and piercing parlours"
+                  },
+                  {
+                     "name":"SL_20_50_96: Waste and scrap yards"
+                  }
+               ]
+            },
+            {
+               "name":"SL_20_55: Postal communications spaces",
+               "children":[
+                  {
+                     "name":"SL_20_55_45: Letter sorting offices"
+                  },
+                  {
+                     "name":"SL_20_55_50: Mail order sorting and despatch facilities"
+                  },
+                  {
+                     "name":"SL_20_55_60: Parcel sorting offices"
+                  },
+                  {
+                     "name":"SL_20_55_65: Post rooms"
+                  }
+               ]
+            },
+            {
+               "name":"SL_20_60: Military protective spaces",
+               "children":[
+                  {
+                     "name":"SL_20_60_08: Bombardment shelters"
+                  },
+                  {
+                     "name":"SL_20_60_27: Emergency shelters"
+                  },
+                  {
+                     "name":"SL_20_60_70: Radiation protection shelters"
+                  },
+                  {
+                     "name":"SL_20_60_98: War emergency centres"
+                  }
+               ]
+            },
+            {
+               "name":"SL_20_62: Parade spaces",
+               "children":[
+                  {
+                     "name":"SL_20_62_65: Parade grounds"
+                  }
+               ]
+            },
+            {
+               "name":"SL_20_65: Law enforcement spaces",
+               "children":[
+                  {
+                     "name":"SL_20_65_15: Command and control spaces"
+                  },
+                  {
+                     "name":"SL_20_65_28: Examination rooms"
+                  },
+                  {
+                     "name":"SL_20_65_39: Identification control rooms"
+                  },
+                  {
+                     "name":"SL_20_65_40: Identification suites"
+                  },
+                  {
+                     "name":"SL_20_65_41: Interview monitoring rooms"
+                  },
+                  {
+                     "name":"SL_20_65_42: Interview rooms"
+                  },
+                  {
+                     "name":"SL_20_65_65: Police boxes"
+                  }
+               ]
+            },
+            {
+               "name":"SL_20_70: Judicial spaces",
+               "children":[
+                  {
+                     "name":"SL_20_70_15: Court rooms"
+                  },
+                  {
+                     "name":"SL_20_70_18: Court room viewing galleries"
+                  },
+                  {
+                     "name":"SL_20_70_23: Defendant docks"
+                  },
+                  {
+                     "name":"SL_20_70_28: Evidence rooms"
+                  },
+                  {
+                     "name":"SL_20_70_41: Judicial benches"
+                  },
+                  {
+                     "name":"SL_20_70_44: Jury boxes"
+                  },
+                  {
+                     "name":"SL_20_70_97: Witness stands"
+                  }
+               ]
+            },
+            {
+               "name":"SL_20_75: Detention spaces",
+               "children":[
+                  {
+                     "name":"SL_20_75_13: Charge areas"
+                  },
+                  {
+                     "name":"SL_20_75_15: Communal inmate dayrooms"
+                  },
+                  {
+                     "name":"SL_20_75_22: Detention cells"
+                  },
+                  {
+                     "name":"SL_20_75_28: Exercise yards"
+                  },
+                  {
+                     "name":"SL_20_75_35: Guard stations"
+                  },
+                  {
+                     "name":"SL_20_75_38: Holding cells"
+                  },
+                  {
+                     "name":"SL_20_75_75: Sally ports"
+                  },
+                  {
+                     "name":"SL_20_75_77: Secure visiting rooms"
+                  },
+                  {
+                     "name":"SL_20_75_95: Vehicle impound yards"
+                  }
+               ]
+            },
+            {
+               "name":"SL_20_80: Weapons training ranges",
+               "children":[
+                  {
+                     "name":"SL_20_80_03: Artillery firing ranges"
+                  },
+                  {
+                     "name":"SL_20_80_30: Firing ranges"
+                  },
+                  {
+                     "name":"SL_20_80_63: Pistol firing ranges"
+                  },
+                  {
+                     "name":"SL_20_80_72: Rifle firing ranges"
+                  }
+               ]
+            },
+            {
+               "name":"SL_20_85: Security spaces",
+               "children":[
+                  {
+                     "name":"SL_20_85_63: Pedestrian security check points"
+                  },
+                  {
+                     "name":"SL_20_85_75: Security control spaces"
+                  },
+                  {
+                     "name":"SL_20_85_80: Security offices"
+                  },
+                  {
+                     "name":"SL_20_85_95: Vehicular security check points"
+                  }
+               ]
+            },
+            {
+               "name":"SL_20_90: Incident support spaces",
+               "children":[
+                  {
+                     "name":"SL_20_90_30: Fire refuge spaces"
+                  },
+                  {
+                     "name":"SL_20_90_31: Fire training spaces"
+                  },
+                  {
+                     "name":"SL_20_90_47: Lifeboat vessel launch spaces"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"SL_25: Cultural, educational, scientific and information spaces",
+         "children":[
+            {
+               "name":"SL_25_05: Commemoration spaces",
+               "children":[
+                  {
+                     "name":"SL_25_05_72: Commemoration sites"
+                  }
+               ]
+            },
+            {
+               "name":"SL_25_10: Educational spaces",
+               "children":[
+                  {
+                     "name":"SL_25_10_04: Art classrooms"
+                  },
+                  {
+                     "name":"SL_25_10_05: Assembly halls"
+                  },
+                  {
+                     "name":"SL_25_10_08: Biology teaching laboratories"
+                  },
+                  {
+                     "name":"SL_25_10_13: Chemistry teaching laboratories"
+                  },
+                  {
+                     "name":"SL_25_10_14: Classrooms"
+                  },
+                  {
+                     "name":"SL_25_10_15: Common rooms"
+                  },
+                  {
+                     "name":"SL_25_10_17: Craft classrooms"
+                  },
+                  {
+                     "name":"SL_25_10_21: Dance studios"
+                  },
+                  {
+                     "name":"SL_25_10_22: Dissection theatres"
+                  },
+                  {
+                     "name":"SL_25_10_24: Drama studios"
+                  },
+                  {
+                     "name":"SL_25_10_25: Driving skid pans"
+                  },
+                  {
+                     "name":"SL_25_10_26: Driving tuition spaces"
+                  },
+                  {
+                     "name":"SL_25_10_28: Educational workshops"
+                  },
+                  {
+                     "name":"SL_25_10_30: Food technology classrooms"
+                  },
+                  {
+                     "name":"SL_25_10_40: Information and communications technology (ICT) laboratories"
+                  },
+                  {
+                     "name":"SL_25_10_46: Language laboratories"
+                  },
+                  {
+                     "name":"SL_25_10_47: Lecture theatres"
+                  },
+                  {
+                     "name":"SL_25_10_55: Music classrooms"
+                  },
+                  {
+                     "name":"SL_25_10_66: Physics teaching laboratories"
+                  },
+                  {
+                     "name":"SL_25_10_78: Seminar rooms"
+                  },
+                  {
+                     "name":"SL_25_10_84: Study rooms"
+                  }
+               ]
+            },
+            {
+               "name":"SL_25_20: Design spaces",
+               "children":[
+                  {
+                     "name":"SL_25_20_04: Artists' studios"
+                  },
+                  {
+                     "name":"SL_25_20_18: Creative art studios"
+                  },
+                  {
+                     "name":"SL_25_20_23: Designers' studios"
+                  }
+               ]
+            },
+            {
+               "name":"SL_25_30: Scientific and laboratory spaces",
+               "children":[
+                  {
+                     "name":"SL_25_30_02: Anechoic chambers"
+                  },
+                  {
+                     "name":"SL_25_30_04: Astronomical observatories"
+                  },
+                  {
+                     "name":"SL_25_30_05: Autoclave rooms"
+                  },
+                  {
+                     "name":"SL_25_30_07: Biological laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_10: Bioscience laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_13: Chemistry laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_14: Clean rooms"
+                  },
+                  {
+                     "name":"SL_25_30_15: Clinical biochemistry laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_16: Clinical microbiology laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_17: Clinical pathology laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_19: Containment laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_21: Dark rooms"
+                  },
+                  {
+                     "name":"SL_25_30_22: Dental laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_23: Dissection rooms"
+                  },
+                  {
+                     "name":"SL_25_30_26: Earth sciences laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_27: Engineering laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_28: Experiment control rooms"
+                  },
+                  {
+                     "name":"SL_25_30_29: Flow cytometry rooms"
+                  },
+                  {
+                     "name":"SL_25_30_30: Food testing laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_31: Forensics laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_32: Forensic scientific support rooms"
+                  },
+                  {
+                     "name":"SL_25_30_33: Geology laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_42: Instrument rooms"
+                  },
+                  {
+                     "name":"SL_25_30_46: Laboratory cold rooms"
+                  },
+                  {
+                     "name":"SL_25_30_47: Laboratory warm rooms"
+                  },
+                  {
+                     "name":"SL_25_30_50: Material testing laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_66: Physics laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_68: Psychology laboratories"
+                  },
+                  {
+                     "name":"SL_25_30_70: Radiation shielded rooms"
+                  },
+                  {
+                     "name":"SL_25_30_76: Scientific equipment rooms"
+                  },
+                  {
+                     "name":"SL_25_30_78: Seismograph rooms"
+                  },
+                  {
+                     "name":"SL_25_30_88: Testing rooms"
+                  }
+               ]
+            },
+            {
+               "name":"SL_25_50: Exhibition spaces",
+               "children":[
+                  {
+                     "name":"SL_25_50_15: Collection exhibition spaces"
+                  },
+                  {
+                     "name":"SL_25_50_16: Conservation rooms"
+                  },
+                  {
+                     "name":"SL_25_50_21: Diorama rooms"
+                  },
+                  {
+                     "name":"SL_25_50_26: External galleries"
+                  },
+                  {
+                     "name":"SL_25_50_29: Fauna exhibition spaces"
+                  },
+                  {
+                     "name":"SL_25_50_31: Flora exhibition spaces"
+                  },
+                  {
+                     "name":"SL_25_50_42: Internal galleries"
+                  },
+                  {
+                     "name":"SL_25_50_63: Planetariums"
+                  },
+                  {
+                     "name":"SL_25_50_94: Viewing spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_25_70: Information spaces",
+               "children":[
+                  {
+                     "name":"SL_25_70_02: Archives"
+                  },
+                  {
+                     "name":"SL_25_70_04: Audio-visual archives"
+                  },
+                  {
+                     "name":"SL_25_70_05: Audio-visual study rooms"
+                  },
+                  {
+                     "name":"SL_25_70_13: Conference rooms"
+                  },
+                  {
+                     "name":"SL_25_70_47: Library rooms"
+                  },
+                  {
+                     "name":"SL_25_70_72: Reading rooms"
+                  },
+                  {
+                     "name":"SL_25_70_73: Records stores"
+                  }
+               ]
+            },
+            {
+               "name":"SL_25_90: Worship spaces",
+               "children":[
+                  {
+                     "name":"SL_25_90_30: Faith spaces"
+                  },
+                  {
+                     "name":"SL_25_90_78: Shrines"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"SL_30: Industrial spaces",
+         "children":[
+            {
+               "name":"SL_30_10: Mineral extraction spaces",
+               "children":[
+                  {
+                     "name":"SL_30_10_57: Offshore oil and gas drilling spaces"
+                  },
+                  {
+                     "name":"SL_30_10_59: Onshore oil and gas drilling spaces"
+                  },
+                  {
+                     "name":"SL_30_10_69: Quarrying areas"
+                  },
+                  {
+                     "name":"SL_30_10_85: Surface mine workings"
+                  },
+                  {
+                     "name":"SL_30_10_91: Underground mine chambers"
+                  },
+                  {
+                     "name":"SL_30_10_93: Underground mine shafts"
+                  },
+                  {
+                     "name":"SL_30_10_94: Underground mine tunnels"
+                  }
+               ]
+            },
+            {
+               "name":"SL_30_20: Nuclear and chemical management spaces",
+               "children":[
+                  {
+                     "name":"SL_30_20_70: Radioactive decontamination spaces"
+                  },
+                  {
+                     "name":"SL_30_20_75: Radioactive waste package transfer spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_30_30: Mineral processing spaces",
+               "children":[
+                  {
+                     "name":"SL_30_30_33: Gas processing spaces"
+                  },
+                  {
+                     "name":"SL_30_30_58: Oil processing spaces"
+                  },
+                  {
+                     "name":"SL_30_30_59: Ore processing spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_30_40: Animal and plant products processing spaces",
+               "children":[
+                  {
+                     "name":"SL_30_40_07: Bottling rooms"
+                  },
+                  {
+                     "name":"SL_30_40_10: Butter making rooms"
+                  },
+                  {
+                     "name":"SL_30_40_18: Cheese making rooms"
+                  },
+                  {
+                     "name":"SL_30_40_30: Fish processing rooms"
+                  },
+                  {
+                     "name":"SL_30_40_32: Fresh fruit and vegetable packing rooms"
+                  },
+                  {
+                     "name":"SL_30_40_44: Juicing rooms"
+                  },
+                  {
+                     "name":"SL_30_40_50: Meat processing rooms"
+                  },
+                  {
+                     "name":"SL_30_40_54: Milk processing rooms"
+                  },
+                  {
+                     "name":"SL_30_40_63: Plant fibre sorting rooms"
+                  },
+                  {
+                     "name":"SL_30_40_65: Poultry and game processing rooms"
+                  },
+                  {
+                     "name":"SL_30_40_75: Saw mills"
+                  },
+                  {
+                     "name":"SL_30_40_80: Silk production rooms"
+                  },
+                  {
+                     "name":"SL_30_40_82: Spinning rooms"
+                  },
+                  {
+                     "name":"SL_30_40_87: Tanneries"
+                  },
+                  {
+                     "name":"SL_30_40_88: Threshing rooms"
+                  },
+                  {
+                     "name":"SL_30_40_90: Tobacco drying rooms"
+                  },
+                  {
+                     "name":"SL_30_40_96: Weaving rooms"
+                  },
+                  {
+                     "name":"SL_30_40_98: Wool sorting rooms"
+                  }
+               ]
+            },
+            {
+               "name":"SL_30_50: Manufacturing spaces",
+               "children":[
+                  {
+                     "name":"SL_30_50_27: Electronics clean rooms"
+                  },
+                  {
+                     "name":"SL_30_50_30: Heavy industrial spaces"
+                  },
+                  {
+                     "name":"SL_30_50_43: Light industrial spaces"
+                  },
+                  {
+                     "name":"SL_30_50_50: Manufacturing workshops"
+                  },
+                  {
+                     "name":"SL_30_50_60: Packaging lines"
+                  },
+                  {
+                     "name":"SL_30_50_61: Paint spray booths"
+                  },
+                  {
+                     "name":"SL_30_50_62: Pharmaceuticals clean rooms"
+                  },
+                  {
+                     "name":"SL_30_50_64: Printing spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_30_60: Cleaning and maintenance spaces",
+               "children":[
+                  {
+                     "name":"SL_30_60_11: Caretaker rooms"
+                  },
+                  {
+                     "name":"SL_30_60_13: Clothes drying and airing rooms"
+                  },
+                  {
+                     "name":"SL_30_60_22: Decontamination spaces"
+                  },
+                  {
+                     "name":"SL_30_60_24: Dry cleaning spaces"
+                  },
+                  {
+                     "name":"SL_30_60_42: Ironing rooms"
+                  },
+                  {
+                     "name":"SL_30_60_46: Laundrettes"
+                  },
+                  {
+                     "name":"SL_30_60_47: Laundries"
+                  },
+                  {
+                     "name":"SL_30_60_50: Maintenance workshops"
+                  },
+                  {
+                     "name":"SL_30_60_75: Service laundries"
+                  },
+                  {
+                     "name":"SL_30_60_94: Vehicle washes"
+                  },
+                  {
+                     "name":"SL_30_60_96: Wash up spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_30_80: Kinetic power generation",
+               "children":[
+                  {
+                     "name":"SL_30_80_96: Water mill houses"
+                  },
+                  {
+                     "name":"SL_30_80_97: Wind mill houses"
+                  }
+               ]
+            },
+            {
+               "name":"SL_30_85: Marine and water maintenance spaces",
+               "children":[
+                  {
+                     "name":"SL_30_85_08: Boat repair spaces"
+                  },
+                  {
+                     "name":"SL_30_85_24: Dry docks"
+                  },
+                  {
+                     "name":"SL_30_85_30: Floating docks"
+                  },
+                  {
+                     "name":"SL_30_85_97: Wet docks"
+                  }
+               ]
+            },
+            {
+               "name":"SL_30_90: Warehousing and distribution spaces",
+               "children":[
+                  {
+                     "name":"SL_30_90_33: Goods delivery bays"
+                  },
+                  {
+                     "name":"SL_30_90_48: Loading docks"
+                  },
+                  {
+                     "name":"SL_30_90_80: Sorting and distribution spaces"
+                  },
+                  {
+                     "name":"SL_30_90_84: Storage yards"
+                  },
+                  {
+                     "name":"SL_30_90_96: Warehouse spaces"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"SL_32: Water and land management spaces",
+         "children":[
+            {
+               "name":"SL_32_10: Agricultural and horticultural spaces",
+               "children":[
+                  {
+                     "name":"SL_32_10_03: Arable fields"
+                  },
+                  {
+                     "name":"SL_32_10_26: Farm yards"
+                  },
+                  {
+                     "name":"SL_32_10_28: Fisheries"
+                  },
+                  {
+                     "name":"SL_32_10_30: Fish farm tanks"
+                  },
+                  {
+                     "name":"SL_32_10_34: Glasshouse spaces"
+                  },
+                  {
+                     "name":"SL_32_10_39: Hothouse spaces"
+                  },
+                  {
+                     "name":"SL_32_10_47: Livestock fields"
+                  },
+                  {
+                     "name":"SL_32_10_52: Milking parlours"
+                  },
+                  {
+                     "name":"SL_32_10_55: Mushroom cultivation spaces"
+                  },
+                  {
+                     "name":"SL_32_10_60: Paddocks"
+                  },
+                  {
+                     "name":"SL_32_10_65: Poly tunnel spaces"
+                  },
+                  {
+                     "name":"SL_32_10_66: Poultry batteries"
+                  },
+                  {
+                     "name":"SL_32_10_77: Shearing spaces"
+                  },
+                  {
+                     "name":"SL_32_10_78: Sheep dips"
+                  },
+                  {
+                     "name":"SL_32_10_94: Vineyard spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_32_50: Marine ways and waterway spaces",
+               "children":[
+                  {
+                     "name":"SL_32_50_06: Beach ramps"
+                  },
+                  {
+                     "name":"SL_32_50_46: Landing stages"
+                  },
+                  {
+                     "name":"SL_32_50_79: Slipways"
+                  }
+               ]
+            },
+            {
+               "name":"SL_32_60: Marine and waterside spaces",
+               "children":[
+                  {
+                     "name":"SL_32_60_06: Beaches"
+                  },
+                  {
+                     "name":"SL_32_60_55: Mudflats"
+                  },
+                  {
+                     "name":"SL_32_60_76: Sand dunes"
+                  }
+               ]
+            },
+            {
+               "name":"SL_32_65: Natural spaces",
+               "children":[
+                  {
+                     "name":"SL_32_65_37: Heathlands"
+                  },
+                  {
+                     "name":"SL_32_65_50: Marshes and wet grasslands"
+                  },
+                  {
+                     "name":"SL_32_65_51: Meadows"
+                  },
+                  {
+                     "name":"SL_32_65_53: Moorlands"
+                  },
+                  {
+                     "name":"SL_32_65_59: Open grasslands"
+                  },
+                  {
+                     "name":"SL_32_65_71: River beds"
+                  },
+                  {
+                     "name":"SL_32_65_73: Rocks and screes"
+                  },
+                  {
+                     "name":"SL_32_65_76: Scrub"
+                  },
+                  {
+                     "name":"SL_32_65_78: Seasonal wetlands"
+                  },
+                  {
+                     "name":"SL_32_65_82: Species rich grassland"
+                  },
+                  {
+                     "name":"SL_32_65_95: Washland"
+                  }
+               ]
+            },
+            {
+               "name":"SL_32_80: Semi-natural spaces",
+               "children":[
+                  {
+                     "name":"SL_32_80_03: Amenity grass areas"
+                  },
+                  {
+                     "name":"SL_32_80_08: Brownfield sites"
+                  },
+                  {
+                     "name":"SL_32_80_23: Disused mineral extraction sites"
+                  },
+                  {
+                     "name":"SL_32_80_50: Mowing strips"
+                  },
+                  {
+                     "name":"SL_32_80_89: Transport corridor verges"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"SL_35: Medical, health, welfare and sanitary spaces",
+         "children":[
+            {
+               "name":"SL_35_10: Medical spaces",
+               "children":[
+                  {
+                     "name":"SL_35_10_08: Birthing rooms"
+                  },
+                  {
+                     "name":"SL_35_10_10: Burns units"
+                  },
+                  {
+                     "name":"SL_35_10_15: Consulting rooms"
+                  },
+                  {
+                     "name":"SL_35_10_30: First aid posts"
+                  },
+                  {
+                     "name":"SL_35_10_31: First aid rooms"
+                  },
+                  {
+                     "name":"SL_35_10_36: Hearing test rooms"
+                  },
+                  {
+                     "name":"SL_35_10_39: Hydrotherapy pools"
+                  },
+                  {
+                     "name":"SL_35_10_42: Intensive care units"
+                  },
+                  {
+                     "name":"SL_35_10_43: Isolation units"
+                  },
+                  {
+                     "name":"SL_35_10_51: Medical scanning and x-ray rooms"
+                  },
+                  {
+                     "name":"SL_35_10_53: Medical treatment spaces"
+                  },
+                  {
+                     "name":"SL_35_10_58: Occupational therapy rooms"
+                  },
+                  {
+                     "name":"SL_35_10_59: Operating theatres"
+                  },
+                  {
+                     "name":"SL_35_10_64: Pharmaceutical dispensaries"
+                  },
+                  {
+                     "name":"SL_35_10_65: Phototherapy spaces"
+                  },
+                  {
+                     "name":"SL_35_10_66: Physiotherapy rooms"
+                  },
+                  {
+                     "name":"SL_35_10_70: Radiography rooms"
+                  },
+                  {
+                     "name":"SL_35_10_71: Radiotherapy rooms"
+                  },
+                  {
+                     "name":"SL_35_10_74: Rehabilitation rooms"
+                  },
+                  {
+                     "name":"SL_35_10_96: Wards"
+                  }
+               ]
+            },
+            {
+               "name":"SL_35_50: Welfare spaces",
+               "children":[
+                  {
+                     "name":"SL_35_50_17: Crèches and nurseries"
+                  },
+                  {
+                     "name":"SL_35_50_21: Day care spaces"
+                  },
+                  {
+                     "name":"SL_35_50_60: Parent and baby rooms"
+                  }
+               ]
+            },
+            {
+               "name":"SL_35_60: Food management spaces",
+               "children":[
+                  {
+                     "name":"SL_35_60_14: Commercial kitchens"
+                  },
+                  {
+                     "name":"SL_35_60_16: Cooking spaces"
+                  },
+                  {
+                     "name":"SL_35_60_30: Food preparation areas"
+                  },
+                  {
+                     "name":"SL_35_60_56: Non-domestic kitchens"
+                  }
+               ]
+            },
+            {
+               "name":"SL_35_70: Funerary spaces",
+               "children":[
+                  {
+                     "name":"SL_35_70_12: Cemetery plots"
+                  },
+                  {
+                     "name":"SL_35_70_15: Columbariums"
+                  },
+                  {
+                     "name":"SL_35_70_18: Crematorium oven rooms"
+                  },
+                  {
+                     "name":"SL_35_70_32: Funeral vaults"
+                  },
+                  {
+                     "name":"SL_35_70_50: Mausoleums"
+                  },
+                  {
+                     "name":"SL_35_70_90: Tombs"
+                  }
+               ]
+            },
+            {
+               "name":"SL_35_80: Sanitary spaces",
+               "children":[
+                  {
+                     "name":"SL_35_80_06: Baby changing rooms"
+                  },
+                  {
+                     "name":"SL_35_80_08: Bathrooms"
+                  },
+                  {
+                     "name":"SL_35_80_59: Open shower areas"
+                  },
+                  {
+                     "name":"SL_35_80_68: Public toilets"
+                  },
+                  {
+                     "name":"SL_35_80_80: Showers"
+                  },
+                  {
+                     "name":"SL_35_80_89: Toilets"
+                  }
+               ]
+            },
+            {
+               "name":"SL_35_85: Animal spaces",
+               "children":[
+                  {
+                     "name":"SL_35_85_00: Animal arks"
+                  },
+                  {
+                     "name":"SL_35_85_01: Animal cages"
+                  },
+                  {
+                     "name":"SL_35_85_03: Animal enclosures"
+                  },
+                  {
+                     "name":"SL_35_85_04: Animal exercise arenas"
+                  },
+                  {
+                     "name":"SL_35_85_05: Aviaries"
+                  },
+                  {
+                     "name":"SL_35_85_12: Cattle byres"
+                  },
+                  {
+                     "name":"SL_35_85_39: Fish tanks"
+                  },
+                  {
+                     "name":"SL_35_85_45: Kennels"
+                  },
+                  {
+                     "name":"SL_35_85_47: Loose boxes"
+                  },
+                  {
+                     "name":"SL_35_85_62: Pens"
+                  },
+                  {
+                     "name":"SL_35_85_83: Stables"
+                  },
+                  {
+                     "name":"SL_35_85_84: Stable yards"
+                  },
+                  {
+                     "name":"SL_35_85_85: Stalls"
+                  },
+                  {
+                     "name":"SL_35_85_86: Sties"
+                  },
+                  {
+                     "name":"SL_35_85_88: Tack rooms"
+                  }
+               ]
+            },
+            {
+               "name":"SL_35_90: Animal medical, health, welfare and funerary spaces",
+               "children":[
+                  {
+                     "name":"SL_35_90_10: Animal burial plots"
+                  },
+                  {
+                     "name":"SL_35_90_15: Animal clinics"
+                  },
+                  {
+                     "name":"SL_35_90_22: Animal dispensaries"
+                  },
+                  {
+                     "name":"SL_35_90_32: Animal funerary spaces"
+                  },
+                  {
+                     "name":"SL_35_90_34: Animal grooming facilities"
+                  },
+                  {
+                     "name":"SL_35_90_37: Animal hydrotherapy pools"
+                  },
+                  {
+                     "name":"SL_35_90_59: Animal operating theatres"
+                  },
+                  {
+                     "name":"SL_35_90_72: Animal wards"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"SL_40: Recreational spaces",
+         "children":[
+            {
+               "name":"SL_40_05: Amusement spaces",
+               "children":[
+                  {
+                     "name":"SL_40_05_03: Amusement arcades"
+                  },
+                  {
+                     "name":"SL_40_05_13: Casino floors"
+                  },
+                  {
+                     "name":"SL_40_05_42: Indoor fairground spaces"
+                  },
+                  {
+                     "name":"SL_40_05_43: Indoor play spaces"
+                  },
+                  {
+                     "name":"SL_40_05_58: Observation decks"
+                  },
+                  {
+                     "name":"SL_40_05_59: Outdoor activity areas"
+                  },
+                  {
+                     "name":"SL_40_05_60: Outdoor fairground spaces"
+                  },
+                  {
+                     "name":"SL_40_05_61: Outdoor playgrounds"
+                  },
+                  {
+                     "name":"SL_40_05_68: Public parks and gardens"
+                  }
+               ]
+            },
+            {
+               "name":"SL_40_20: Dining spaces",
+               "children":[
+                  {
+                     "name":"SL_40_20_06: Bars"
+                  },
+                  {
+                     "name":"SL_40_20_09: Beverage stations"
+                  },
+                  {
+                     "name":"SL_40_20_27: Enclosed dining areas"
+                  },
+                  {
+                     "name":"SL_40_20_28: Food courts"
+                  },
+                  {
+                     "name":"SL_40_20_59: Outdoor dining areas"
+                  }
+               ]
+            },
+            {
+               "name":"SL_40_60: Performing arts spaces",
+               "children":[
+                  {
+                     "name":"SL_40_60_05: Auditoriums"
+                  },
+                  {
+                     "name":"SL_40_60_06: Bandstands"
+                  },
+                  {
+                     "name":"SL_40_60_11: Cat walks"
+                  },
+                  {
+                     "name":"SL_40_60_13: Circus rings"
+                  },
+                  {
+                     "name":"SL_40_60_21: Dance floors"
+                  },
+                  {
+                     "name":"SL_40_60_31: Fixed stages"
+                  },
+                  {
+                     "name":"SL_40_60_40: Indoor theatre spaces"
+                  },
+                  {
+                     "name":"SL_40_60_52: Mobile stages"
+                  },
+                  {
+                     "name":"SL_40_60_58: Orchestra pits"
+                  },
+                  {
+                     "name":"SL_40_60_59: Outdoor theatre spaces"
+                  },
+                  {
+                     "name":"SL_40_60_78: Sound recording studios"
+                  },
+                  {
+                     "name":"SL_40_60_80: Sound shells"
+                  },
+                  {
+                     "name":"SL_40_60_81: Sound stages"
+                  }
+               ]
+            },
+            {
+               "name":"SL_40_65: Performing arts ancillary spaces",
+               "children":[
+                  {
+                     "name":"SL_40_65_04: Audience lobbies"
+                  },
+                  {
+                     "name":"SL_40_65_24: Dressing rooms"
+                  },
+                  {
+                     "name":"SL_40_65_35: Green rooms"
+                  },
+                  {
+                     "name":"SL_40_65_47: Lighting control booths"
+                  },
+                  {
+                     "name":"SL_40_65_66: Projection booths"
+                  },
+                  {
+                     "name":"SL_40_65_70: Recording control booths"
+                  },
+                  {
+                     "name":"SL_40_65_72: Rehearsal rooms"
+                  },
+                  {
+                     "name":"SL_40_65_76: Scenery control booths"
+                  },
+                  {
+                     "name":"SL_40_65_79: Sound control booths"
+                  },
+                  {
+                     "name":"SL_40_65_80: Sound locks"
+                  },
+                  {
+                     "name":"SL_40_65_85: Stage wings"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"SL_42: Sport and activity spaces",
+         "children":[
+            {
+               "name":"SL_42_15: Courts, pitches and field sports spaces",
+               "children":[
+                  {
+                     "name":"SL_42_15_37: High jump areas"
+                  },
+                  {
+                     "name":"SL_42_15_42: Indoor sports courts and pitches"
+                  },
+                  {
+                     "name":"SL_42_15_44: Javelin throwing areas"
+                  },
+                  {
+                     "name":"SL_42_15_47: Long jump tracks and pits"
+                  },
+                  {
+                     "name":"SL_42_15_59: Outdoor sports courts"
+                  },
+                  {
+                     "name":"SL_42_15_60: Outdoor sports pitches and fields"
+                  },
+                  {
+                     "name":"SL_42_15_65: Pole vaulting areas"
+                  },
+                  {
+                     "name":"SL_42_15_74: Running tracks"
+                  },
+                  {
+                     "name":"SL_42_15_78: Shot put and hammer throwing areas"
+                  }
+               ]
+            },
+            {
+               "name":"SL_42_40: Indoor activity spaces",
+               "children":[
+                  {
+                     "name":"SL_42_40_09: Bouldering spaces"
+                  },
+                  {
+                     "name":"SL_42_40_14: Climbing wall areas"
+                  },
+                  {
+                     "name":"SL_42_40_20: Cycle tracks"
+                  },
+                  {
+                     "name":"SL_42_40_23: Dojo"
+                  },
+                  {
+                     "name":"SL_42_40_30: Fitness rooms"
+                  },
+                  {
+                     "name":"SL_42_40_35: Gymnasiums"
+                  },
+                  {
+                     "name":"SL_42_40_37: Gymnastics areas"
+                  },
+                  {
+                     "name":"SL_42_40_79: Snooker, billiards and pool halls"
+                  },
+                  {
+                     "name":"SL_42_40_90: Ten pin bowling alleys"
+                  }
+               ]
+            },
+            {
+               "name":"SL_42_55: Outdoor activity spaces",
+               "children":[
+                  {
+                     "name":"SL_42_55_01: Archery ranges"
+                  },
+                  {
+                     "name":"SL_42_55_07: BMX cycling tracks"
+                  },
+                  {
+                     "name":"SL_42_55_08: Bowling greens"
+                  },
+                  {
+                     "name":"SL_42_55_17: Cross-country cycling courses"
+                  },
+                  {
+                     "name":"SL_42_55_18: Cross country equestrian courses"
+                  },
+                  {
+                     "name":"SL_42_55_19: Cross-country rallying courses"
+                  },
+                  {
+                     "name":"SL_42_55_20: Cross-country running courses"
+                  },
+                  {
+                     "name":"SL_42_55_23: Dog racing tracks"
+                  },
+                  {
+                     "name":"SL_42_55_26: Equestrian arenas"
+                  },
+                  {
+                     "name":"SL_42_55_35: Golf fairways"
+                  },
+                  {
+                     "name":"SL_42_55_39: Horse racing courses"
+                  },
+                  {
+                     "name":"SL_42_55_53: Motor racing tracks"
+                  },
+                  {
+                     "name":"SL_42_55_60: Parkour courses"
+                  },
+                  {
+                     "name":"SL_42_55_65: Putting greens"
+                  },
+                  {
+                     "name":"SL_42_55_72: Road running courses"
+                  },
+                  {
+                     "name":"SL_42_55_76: Skateboarding parks"
+                  },
+                  {
+                     "name":"SL_42_55_82: Speedway tracks"
+                  },
+                  {
+                     "name":"SL_42_55_96: Walking trails"
+                  }
+               ]
+            },
+            {
+               "name":"SL_42_80: Sports and activity ancillary spaces",
+               "children":[
+                  {
+                     "name":"SL_42_80_65: Press boxes"
+                  },
+                  {
+                     "name":"SL_42_80_88: Technical areas and dugouts"
+                  }
+               ]
+            },
+            {
+               "name":"SL_42_85: Swimming spaces",
+               "children":[
+                  {
+                     "name":"SL_42_85_23: Diving pools"
+                  },
+                  {
+                     "name":"SL_42_85_64: Plunge pools"
+                  },
+                  {
+                     "name":"SL_42_85_80: Spa pools"
+                  },
+                  {
+                     "name":"SL_42_85_82: Splash pools"
+                  },
+                  {
+                     "name":"SL_42_85_83: Swimming pools"
+                  },
+                  {
+                     "name":"SL_42_85_94: Water flumes, slides and tubes"
+                  },
+                  {
+                     "name":"SL_42_85_97: Wave pools"
+                  },
+                  {
+                     "name":"SL_42_85_98: Whirlpools"
+                  }
+               ]
+            },
+            {
+               "name":"SL_42_90: Water activity spaces",
+               "children":[
+                  {
+                     "name":"SL_42_90_11: Canoe slalom courses"
+                  },
+                  {
+                     "name":"SL_42_90_12: Canoe sprint courses"
+                  },
+                  {
+                     "name":"SL_42_90_50: Motor boat courses"
+                  },
+                  {
+                     "name":"SL_42_90_73: Rowing courses"
+                  },
+                  {
+                     "name":"SL_42_90_75: Sailing courses"
+                  },
+                  {
+                     "name":"SL_42_90_97: Water skiing courses"
+                  },
+                  {
+                     "name":"SL_42_90_98: White water canoe courses"
+                  }
+               ]
+            },
+            {
+               "name":"SL_42_95: Winter sports spaces",
+               "children":[
+                  {
+                     "name":"SL_42_95_02: Alpine skiing courses"
+                  },
+                  {
+                     "name":"SL_42_95_04: Artificial ski slopes"
+                  },
+                  {
+                     "name":"SL_42_95_08: Bobsleigh courses"
+                  },
+                  {
+                     "name":"SL_42_95_19: Cross-country skiing courses"
+                  },
+                  {
+                     "name":"SL_42_95_20: Curling rinks"
+                  },
+                  {
+                     "name":"SL_42_95_32: Freestyle skiing courses"
+                  },
+                  {
+                     "name":"SL_42_95_40: Ice skating rinks"
+                  },
+                  {
+                     "name":"SL_42_95_76: Short track speed skating tracks"
+                  },
+                  {
+                     "name":"SL_42_95_79: Ski jumps"
+                  },
+                  {
+                     "name":"SL_42_95_80: Snowboarding courses"
+                  },
+                  {
+                     "name":"SL_42_95_83: Speed skating courses"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"SL_45: Residential spaces",
+         "children":[
+            {
+               "name":"SL_45_10: Living spaces",
+               "children":[
+                  {
+                     "name":"SL_45_10_06: Balconies"
+                  },
+                  {
+                     "name":"SL_45_10_08: Bedroom-studies"
+                  },
+                  {
+                     "name":"SL_45_10_09: Bedrooms"
+                  },
+                  {
+                     "name":"SL_45_10_12: Caravan pitches"
+                  },
+                  {
+                     "name":"SL_45_10_14: Communal living rooms"
+                  },
+                  {
+                     "name":"SL_45_10_16: Concierge offices"
+                  },
+                  {
+                     "name":"SL_45_10_18: Conservatories"
+                  },
+                  {
+                     "name":"SL_45_10_22: Domestic dining rooms"
+                  },
+                  {
+                     "name":"SL_45_10_23: Domestic kitchens"
+                  },
+                  {
+                     "name":"SL_45_10_24: Dormitories"
+                  },
+                  {
+                     "name":"SL_45_10_37: Hotel rooms"
+                  },
+                  {
+                     "name":"SL_45_10_44: Kitchen-dining rooms"
+                  },
+                  {
+                     "name":"SL_45_10_49: Living rooms"
+                  },
+                  {
+                     "name":"SL_45_10_57: Nursing home bedrooms"
+                  },
+                  {
+                     "name":"SL_45_10_60: Panic rooms"
+                  },
+                  {
+                     "name":"SL_45_10_85: Studies"
+                  },
+                  {
+                     "name":"SL_45_10_88: Tent pitches"
+                  },
+                  {
+                     "name":"SL_45_10_93: Utility rooms"
+                  },
+                  {
+                     "name":"SL_45_10_94: Verandas"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"SL_50: Waste disposal spaces",
+         "children":[
+            {
+               "name":"SL_50_10: Gas waste collection spaces"
+            },
+            {
+               "name":"SL_50_20: Wet waste collection spaces",
+               "children":[
+                  {
+                     "name":"SL_50_20_10: Wet waste collection spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_50_30: Drainage collection spaces"
+            },
+            {
+               "name":"SL_50_40: Dry waste collection spaces",
+               "children":[
+                  {
+                     "name":"SL_50_40_72: Refuse storage space"
+                  }
+               ]
+            },
+            {
+               "name":"SL_50_50: Gas waste treatment and disposal spaces",
+               "children":[
+                  {
+                     "name":"SL_50_50_92: Waste gas treatment spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_50_60: Wet waste treatment and disposal spaces",
+               "children":[
+                  {
+                     "name":"SL_50_60_94: Waste liquids treatment spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_50_70: Drainage treatment and disposal spaces"
+            },
+            {
+               "name":"SL_50_75: Wastewater treatment and disposal spaces",
+               "children":[
+                  {
+                     "name":"SL_50_75_40: Wastewater treatment spaces"
+                  },
+                  {
+                     "name":"SL_50_75_70: Wastewater disposal spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_50_80: Dry waste treatment and disposal spaces",
+               "children":[
+                  {
+                     "name":"SL_50_80_40: Dry waste treatment spaces"
+                  },
+                  {
+                     "name":"SL_50_80_70: Dry waste disposal spaces"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"SL_55: Piped supply spaces",
+         "children":[
+            {
+               "name":"SL_55_05: Gas extraction and treatment spaces",
+               "children":[
+                  {
+                     "name":"SL_55_05_30: Gas extraction spaces"
+                  },
+                  {
+                     "name":"SL_55_05_70: Gas treatment spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_55_10: Liquid fuel extraction and treatment spaces",
+               "children":[
+                  {
+                     "name":"SL_55_10_10: Oil extraction spaces"
+                  },
+                  {
+                     "name":"SL_55_10_50: Oil treatment spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_55_15: Water extraction and treatment spaces",
+               "children":[
+                  {
+                     "name":"SL_55_15_10: Water extraction spaces"
+                  },
+                  {
+                     "name":"SL_55_15_50: Water treatment spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_55_20: Gas supply spaces"
+            },
+            {
+               "name":"SL_55_30: Fire extinguishing supply spaces"
+            },
+            {
+               "name":"SL_55_40: Steam supply spaces"
+            },
+            {
+               "name":"SL_55_50: Liquid fuel supply spaces"
+            },
+            {
+               "name":"SL_55_60: Process liquid supply spaces"
+            },
+            {
+               "name":"SL_55_65: Ventilation and air conditioning spaces"
+            },
+            {
+               "name":"SL_55_70: Water supply spaces"
+            },
+            {
+               "name":"SL_55_90: Piped solids supply spaces"
+            }
+         ]
+      },
+      {
+         "name":"SL_60: Heating, cooling and refrigeration spaces",
+         "children":[
+            {
+               "name":"SL_60_30: Rail and paving heating spaces"
+            },
+            {
+               "name":"SL_60_40: Space heating and cooling spaces"
+            },
+            {
+               "name":"SL_60_60: Refrigeration spaces"
+            },
+            {
+               "name":"SL_60_80: Drying spaces",
+               "children":[
+                  {
+                     "name":"SL_60_80_25: Drying rooms"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"SL_70: Electrical power generation and lighting spaces",
+         "children":[
+            {
+               "name":"SL_70_10: Electrical power generation spaces",
+               "children":[
+                  {
+                     "name":"SL_70_10_91: Turbine rooms"
+                  }
+               ]
+            },
+            {
+               "name":"SL_70_30: Electricity distribution and transmission spaces",
+               "children":[
+                  {
+                     "name":"SL_70_30_35: High-voltage electricity substation chambers"
+                  },
+                  {
+                     "name":"SL_70_30_45: Low-voltage electricity substation chambers"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"SL_75: Communications, security, safety and protection spaces",
+         "children":[
+            {
+               "name":"SL_75_10: Communications spaces",
+               "children":[
+                  {
+                     "name":"SL_75_10_21: Communications equipment rooms"
+                  },
+                  {
+                     "name":"SL_75_10_23: Digital data transmission networks"
+                  },
+                  {
+                     "name":"SL_75_10_70: Radio broadcast control booths"
+                  },
+                  {
+                     "name":"SL_75_10_73: Radio studios"
+                  },
+                  {
+                     "name":"SL_75_10_88: Telecommunications control spaces"
+                  },
+                  {
+                     "name":"SL_75_10_89: Telephone boxes and booths"
+                  },
+                  {
+                     "name":"SL_75_10_90: Telephone exchange spaces"
+                  },
+                  {
+                     "name":"SL_75_10_91: Television broadcast control booths"
+                  },
+                  {
+                     "name":"SL_75_10_93: Television studios"
+                  }
+               ]
+            },
+            {
+               "name":"SL_75_30: Signalling spaces",
+               "children":[
+                  {
+                     "name":"SL_75_30_80: Signal boxes"
+                  }
+               ]
+            },
+            {
+               "name":"SL_75_40: Electronic security spaces",
+               "children":[
+                  {
+                     "name":"SL_75_40_28: Electronic security control rooms"
+                  }
+               ]
+            },
+            {
+               "name":"SL_75_50: Safety and protection spaces"
+            },
+            {
+               "name":"SL_75_60: Environmental safety"
+            },
+            {
+               "name":"SL_75_70: Control and management spaces"
+            },
+            {
+               "name":"SL_75_80: Protection spaces"
+            }
+         ]
+      },
+      {
+         "name":"SL_80: Transport spaces",
+         "children":[
+            {
+               "name":"SL_80_05: Aerospace ground spaces",
+               "children":[
+                  {
+                     "name":"SL_80_05_02: Aeroplane landing strips"
+                  },
+                  {
+                     "name":"SL_80_05_03: Aeroplane runways"
+                  },
+                  {
+                     "name":"SL_80_05_04: Aircraft fuelling spaces"
+                  },
+                  {
+                     "name":"SL_80_05_05: Aircraft manoeuvring areas"
+                  },
+                  {
+                     "name":"SL_80_05_06: Aircraft standing areas"
+                  },
+                  {
+                     "name":"SL_80_05_07: Aircraft storage spaces"
+                  },
+                  {
+                     "name":"SL_80_05_33: Gliding runways"
+                  },
+                  {
+                     "name":"SL_80_05_37: Hang gliding launch spaces"
+                  },
+                  {
+                     "name":"SL_80_05_38: Helipads"
+                  },
+                  {
+                     "name":"SL_80_05_82: Spacecraft landing strips"
+                  },
+                  {
+                     "name":"SL_80_05_84: Spacecraft launch pads"
+                  }
+               ]
+            },
+            {
+               "name":"SL_80_10: Loading and embarkation spaces",
+               "children":[
+                  {
+                     "name":"SL_80_10_06: Baggage claim areas"
+                  },
+                  {
+                     "name":"SL_80_10_07: Baggage handling areas"
+                  },
+                  {
+                     "name":"SL_80_10_09: Boarding areas"
+                  },
+                  {
+                     "name":"SL_80_10_10: Bus stops"
+                  },
+                  {
+                     "name":"SL_80_10_12: Cargo handling areas"
+                  },
+                  {
+                     "name":"SL_80_10_13: Cargo loading areas"
+                  },
+                  {
+                     "name":"SL_80_10_16: Concourses"
+                  },
+                  {
+                     "name":"SL_80_10_20: Customs control areas"
+                  },
+                  {
+                     "name":"SL_80_10_22: Departure lounges"
+                  },
+                  {
+                     "name":"SL_80_10_33: Gangways"
+                  },
+                  {
+                     "name":"SL_80_10_55: Passenger gates"
+                  },
+                  {
+                     "name":"SL_80_10_60: Passport control offices"
+                  },
+                  {
+                     "name":"SL_80_10_77: Security screening areas"
+                  }
+               ]
+            },
+            {
+               "name":"SL_80_15: Aerospace maintenance spaces",
+               "children":[
+                  {
+                     "name":"SL_80_15_01: Aircraft cleaning spaces"
+                  },
+                  {
+                     "name":"SL_80_15_04: Aircraft repair spaces"
+                  },
+                  {
+                     "name":"SL_80_15_06: Airport control spaces"
+                  },
+                  {
+                     "name":"SL_80_15_79: Spacecraft cleaning spaces"
+                  },
+                  {
+                     "name":"SL_80_15_81: Spacecraft preparation spaces"
+                  },
+                  {
+                     "name":"SL_80_15_82: Spacecraft repair spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_80_20: Cableways",
+               "children":[
+                  {
+                     "name":"SL_80_20_13: Cableways"
+                  }
+               ]
+            },
+            {
+               "name":"SL_80_30: Cable transport storage and maintenance spaces",
+               "children":[
+                  {
+                     "name":"SL_80_30_34: Gondola repair and cleaning spaces"
+                  },
+                  {
+                     "name":"SL_80_30_35: Gondola storage spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_80_35: Highways",
+               "children":[
+                  {
+                     "name":"SL_80_35_04: Arrestor beds"
+                  },
+                  {
+                     "name":"SL_80_35_08: Bus manoeuvring areas"
+                  },
+                  {
+                     "name":"SL_80_35_11: Car manoeuvring areas"
+                  },
+                  {
+                     "name":"SL_80_35_13: Carriageways"
+                  },
+                  {
+                     "name":"SL_80_35_16: Central reservations"
+                  },
+                  {
+                     "name":"SL_80_35_18: Crossovers"
+                  },
+                  {
+                     "name":"SL_80_35_19: Cycle crossings"
+                  },
+                  {
+                     "name":"SL_80_35_20: Cycle lanes"
+                  },
+                  {
+                     "name":"SL_80_35_36: Hard shoulders"
+                  },
+                  {
+                     "name":"SL_80_35_37: Hard standings"
+                  },
+                  {
+                     "name":"SL_80_35_39: Highway pull-offs"
+                  },
+                  {
+                     "name":"SL_80_35_40: Highway roundabouts"
+                  },
+                  {
+                     "name":"SL_80_35_42: Intersections"
+                  },
+                  {
+                     "name":"SL_80_35_44: Junctions"
+                  },
+                  {
+                     "name":"SL_80_35_46: Lay-bys and passing places"
+                  },
+                  {
+                     "name":"SL_80_35_57: Non-motorized use crossings"
+                  },
+                  {
+                     "name":"SL_80_35_59: Ox-bow laybys"
+                  },
+                  {
+                     "name":"SL_80_35_62: Pedestrian crossings"
+                  },
+                  {
+                     "name":"SL_80_35_64: Pedestrian refuges and islands"
+                  },
+                  {
+                     "name":"SL_80_35_66: Police ramps"
+                  },
+                  {
+                     "name":"SL_80_35_70: Railway crossings"
+                  },
+                  {
+                     "name":"SL_80_35_71: Refuge areas"
+                  },
+                  {
+                     "name":"SL_80_35_72: Roadside rest areas"
+                  },
+                  {
+                     "name":"SL_80_35_77: Side reservations"
+                  },
+                  {
+                     "name":"SL_80_35_78: Side road carriageways"
+                  },
+                  {
+                     "name":"SL_80_35_80: Slip road carriageways"
+                  },
+                  {
+                     "name":"SL_80_35_81: Soft shoulders"
+                  },
+                  {
+                     "name":"SL_80_35_87: Taxi ranks"
+                  },
+                  {
+                     "name":"SL_80_35_90: Truck manoeuvring areas"
+                  },
+                  {
+                     "name":"SL_80_35_94: Vaulted spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_80_45: Highway storage and maintenance spaces",
+               "children":[
+                  {
+                     "name":"SL_80_45_09: Bus standing spaces"
+                  },
+                  {
+                     "name":"SL_80_45_11: Car park attendant booths"
+                  },
+                  {
+                     "name":"SL_80_45_13: Car park ramps"
+                  },
+                  {
+                     "name":"SL_80_45_40: Indoor vehicle parking spaces"
+                  },
+                  {
+                     "name":"SL_80_45_59: Outdoor vehicle parking spaces"
+                  },
+                  {
+                     "name":"SL_80_45_91: Truck standing spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_80_50: Railways",
+               "children":[
+                  {
+                     "name":"SL_80_50_50: Marshalling yards"
+                  },
+                  {
+                     "name":"SL_80_50_58: Railway overpasses"
+                  },
+                  {
+                     "name":"SL_80_50_71: Railway side reservations"
+                  },
+                  {
+                     "name":"SL_80_50_77: Railway signal control spaces"
+                  },
+                  {
+                     "name":"SL_80_50_90: Train stops"
+                  },
+                  {
+                     "name":"SL_80_50_92: Railway underpasses"
+                  }
+               ]
+            },
+            {
+               "name":"SL_80_60: Rail maintenance spaces",
+               "children":[
+                  {
+                     "name":"SL_80_60_11: Carriage cleaning spaces"
+                  },
+                  {
+                     "name":"SL_80_60_26: Engine fuelling areas"
+                  },
+                  {
+                     "name":"SL_80_60_27: Engine inspection pits"
+                  },
+                  {
+                     "name":"SL_80_60_28: Engine servicing areas"
+                  },
+                  {
+                     "name":"SL_80_60_29: Engine wash areas"
+                  },
+                  {
+                     "name":"SL_80_60_70: Rail repair spaces"
+                  },
+                  {
+                     "name":"SL_80_60_95: Wagon decontamination spaces"
+                  },
+                  {
+                     "name":"SL_80_60_97: Wagon maintenance spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_80_70: Marine transport spaces",
+               "children":[
+                  {
+                     "name":"SL_80_70_11: Canal locks"
+                  },
+                  {
+                     "name":"SL_80_70_37: Harbour locks"
+                  }
+               ]
+            },
+            {
+               "name":"SL_80_90: Transport hubs"
+            },
+            {
+               "name":"SL_80_92: Grid systems",
+               "children":[
+                  {
+                     "name":"SL_80_92_34: Geospatial grids"
+                  },
+                  {
+                     "name":"SL_80_92_37: Horizontal alignment grids"
+                  },
+                  {
+                     "name":"SL_80_92_94: Vertical alignment grids"
+                  }
+               ]
+            },
+            {
+               "name":"SL_80_94: Bridge and structure spaces",
+               "children":[
+                  {
+                     "name":"SL_80_94_07: Bearing shelves"
+                  },
+                  {
+                     "name":"SL_80_94_09: Bridge aprons"
+                  },
+                  {
+                     "name":"SL_80_94_71: Retaining wall aprons"
+                  }
+               ]
+            },
+            {
+               "name":"SL_80_96: Tunnel and shaft spaces",
+               "children":[
+                  {
+                     "name":"SL_80_96_20: Drift tunnel portals"
+                  }
+               ]
+            },
+            {
+               "name":"SL_80_98: Transport kinematic envelopes",
+               "children":[
+                  {
+                     "name":"SL_80_98_01: Access spaces"
+                  },
+                  {
+                     "name":"SL_80_98_09: Bridge headrooms"
+                  },
+                  {
+                     "name":"SL_80_98_15: Collapse radius"
+                  },
+                  {
+                     "name":"SL_80_98_75: Safety clearance zones"
+                  },
+                  {
+                     "name":"SL_80_98_85: Swept path areas"
+                  },
+                  {
+                     "name":"SL_80_98_90: Tunnel headrooms"
+                  },
+                  {
+                     "name":"SL_80_98_97: Working widths"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"SL_90: Circulation and storage spaces",
+         "children":[
+            {
+               "name":"SL_90_10: Circulation spaces",
+               "children":[
+                  {
+                     "name":"SL_90_10_02: Air locks"
+                  },
+                  {
+                     "name":"SL_90_10_08: Breezeways"
+                  },
+                  {
+                     "name":"SL_90_10_15: Corridors"
+                  },
+                  {
+                     "name":"SL_90_10_16: Covered walkways and internal bridges"
+                  },
+                  {
+                     "name":"SL_90_10_24: Drop-off and collection areas"
+                  },
+                  {
+                     "name":"SL_90_10_27: Entrance halls"
+                  },
+                  {
+                     "name":"SL_90_10_28: Escalators and travellators"
+                  },
+                  {
+                     "name":"SL_90_10_30: Fire stairways"
+                  },
+                  {
+                     "name":"SL_90_10_34: Goods conveyors"
+                  },
+                  {
+                     "name":"SL_90_10_36: Hallways"
+                  },
+                  {
+                     "name":"SL_90_10_46: Landings"
+                  },
+                  {
+                     "name":"SL_90_10_47: Lift cars"
+                  },
+                  {
+                     "name":"SL_90_10_51: Lobbies"
+                  },
+                  {
+                     "name":"SL_90_10_64: Porches"
+                  },
+                  {
+                     "name":"SL_90_10_68: Public squares"
+                  },
+                  {
+                     "name":"SL_90_10_71: Retail circulation spaces"
+                  },
+                  {
+                     "name":"SL_90_10_77: Shelters"
+                  },
+                  {
+                     "name":"SL_90_10_87: Stairways"
+                  },
+                  {
+                     "name":"SL_90_10_94: Vestibules"
+                  },
+                  {
+                     "name":"SL_90_10_95: Walkways"
+                  },
+                  {
+                     "name":"SL_90_10_96: Wheelchair circulation spaces"
+                  }
+               ]
+            },
+            {
+               "name":"SL_90_20: Common spaces",
+               "children":[
+                  {
+                     "name":"SL_90_20_01: Accident and emergency waiting rooms"
+                  },
+                  {
+                     "name":"SL_90_20_04: Audience seating areas"
+                  },
+                  {
+                     "name":"SL_90_20_05: Audience standing areas"
+                  },
+                  {
+                     "name":"SL_90_20_08: Breakout spaces"
+                  },
+                  {
+                     "name":"SL_90_20_13: Changing rooms"
+                  },
+                  {
+                     "name":"SL_90_20_14: Cloakrooms"
+                  },
+                  {
+                     "name":"SL_90_20_15: Corporate boxes and VIP seating"
+                  },
+                  {
+                     "name":"SL_90_20_16: Customer service counter areas"
+                  },
+                  {
+                     "name":"SL_90_20_69: Queuing areas"
+                  },
+                  {
+                     "name":"SL_90_20_82: Spectator seating areas"
+                  },
+                  {
+                     "name":"SL_90_20_83: Spectator standing areas"
+                  },
+                  {
+                     "name":"SL_90_20_88: Temporary seating areas"
+                  },
+                  {
+                     "name":"SL_90_20_89: Ticket offices"
+                  },
+                  {
+                     "name":"SL_90_20_96: Waiting rooms"
+                  }
+               ]
+            },
+            {
+               "name":"SL_90_50: Storage spaces",
+               "children":[
+                  {
+                     "name":"SL_90_50_04: Arms depots and armouries"
+                  },
+                  {
+                     "name":"SL_90_50_06: Baggage storage areas"
+                  },
+                  {
+                     "name":"SL_90_50_07: Battery stores"
+                  },
+                  {
+                     "name":"SL_90_50_08: Blood banks"
+                  },
+                  {
+                     "name":"SL_90_50_09: Boat storage spaces"
+                  },
+                  {
+                     "name":"SL_90_50_11: Cargo storage areas"
+                  },
+                  {
+                     "name":"SL_90_50_12: Car ports"
+                  },
+                  {
+                     "name":"SL_90_50_13: Chemicals stores"
+                  },
+                  {
+                     "name":"SL_90_50_14: Clothes stores"
+                  },
+                  {
+                     "name":"SL_90_50_15: Cold stores"
+                  },
+                  {
+                     "name":"SL_90_50_24: Dry waste storage spaces"
+                  },
+                  {
+                     "name":"SL_90_50_25: Dungsteads"
+                  },
+                  {
+                     "name":"SL_90_50_26: Effluent tanks"
+                  },
+                  {
+                     "name":"SL_90_50_27: Equipment stores"
+                  },
+                  {
+                     "name":"SL_90_50_28: Explosives and ordnance storerooms"
+                  },
+                  {
+                     "name":"SL_90_50_30: Feed stores"
+                  },
+                  {
+                     "name":"SL_90_50_31: Flammable chemical stores"
+                  },
+                  {
+                     "name":"SL_90_50_32: Fuel storage areas"
+                  },
+                  {
+                     "name":"SL_90_50_33: Garages"
+                  },
+                  {
+                     "name":"SL_90_50_34: Gas storage spaces"
+                  },
+                  {
+                     "name":"SL_90_50_35: General storerooms"
+                  },
+                  {
+                     "name":"SL_90_50_36: Goods stores"
+                  },
+                  {
+                     "name":"SL_90_50_37: Grain stores"
+                  },
+                  {
+                     "name":"SL_90_50_38: Hazardous waste storage spaces"
+                  },
+                  {
+                     "name":"SL_90_50_44: Janitor stores"
+                  },
+                  {
+                     "name":"SL_90_50_45: Keg stores"
+                  },
+                  {
+                     "name":"SL_90_50_46: Larders and pantries"
+                  },
+                  {
+                     "name":"SL_90_50_47: Left luggage stores"
+                  },
+                  {
+                     "name":"SL_90_50_48: Locker rooms"
+                  },
+                  {
+                     "name":"SL_90_50_52: Mineral storage spaces"
+                  },
+                  {
+                     "name":"SL_90_50_54: Morgues"
+                  },
+                  {
+                     "name":"SL_90_50_55: Mortuaries"
+                  },
+                  {
+                     "name":"SL_90_50_58: Oil storage spaces"
+                  },
+                  {
+                     "name":"SL_90_50_65: Pharmaceutical stores"
+                  },
+                  {
+                     "name":"SL_90_50_70: Raw materials storage silos"
+                  },
+                  {
+                     "name":"SL_90_50_71: Raw materials storage spaces"
+                  },
+                  {
+                     "name":"SL_90_50_72: Raw materials storage tanks"
+                  },
+                  {
+                     "name":"SL_90_50_77: Secure storerooms"
+                  },
+                  {
+                     "name":"SL_90_50_80: Solid fuel storerooms"
+                  },
+                  {
+                     "name":"SL_90_50_84: Storage rooms"
+                  },
+                  {
+                     "name":"SL_90_50_88: Tissue and organ stores"
+                  },
+                  {
+                     "name":"SL_90_50_90: Vaults and strong rooms"
+                  },
+                  {
+                     "name":"SL_90_50_93: Walk-in wardrobes"
+                  },
+                  {
+                     "name":"SL_90_50_94: Waste gas storage spaces"
+                  },
+                  {
+                     "name":"SL_90_50_95: Waste liquids storage spaces"
+                  },
+                  {
+                     "name":"SL_90_50_96: Waste solids storage spaces"
+                  },
+                  {
+                     "name":"SL_90_50_97: Wet waste storage spaces"
+                  },
+                  {
+                     "name":"SL_90_50_98: Wine cellars"
+                  }
+               ]
+            },
+            {
+               "name":"SL_90_60: Unoccupied voids",
+               "children":[
+                  {
+                     "name":"SL_90_60_01: Access spaces"
+                  },
+                  {
+                     "name":"SL_90_60_02: Air shafts"
+                  },
+                  {
+                     "name":"SL_90_60_10: Cavities"
+                  },
+                  {
+                     "name":"SL_90_60_12: Chimneys"
+                  },
+                  {
+                     "name":"SL_90_60_13: Chutes"
+                  },
+                  {
+                     "name":"SL_90_60_18: Crawl spaces"
+                  },
+                  {
+                     "name":"SL_90_60_49: Lift pits"
+                  },
+                  {
+                     "name":"SL_90_60_50: Lift shafts"
+                  },
+                  {
+                     "name":"SL_90_60_51: Light wells"
+                  },
+                  {
+                     "name":"SL_90_60_72: Roof surface spaces"
+                  },
+                  {
+                     "name":"SL_90_60_74: Roof voids"
+                  }
+               ]
+            },
+            {
+               "name":"SL_90_90: Plant and control spaces",
+               "children":[
+                  {
+                     "name":"SL_90_90_01: Access floor voids"
+                  },
+                  {
+                     "name":"SL_90_90_08: Boiler rooms"
+                  },
+                  {
+                     "name":"SL_90_90_13: Ceiling voids"
+                  },
+                  {
+                     "name":"SL_90_90_15: Control rooms"
+                  },
+                  {
+                     "name":"SL_90_90_32: Furnace rooms"
+                  },
+                  {
+                     "name":"SL_90_90_42: Incinerator rooms"
+                  },
+                  {
+                     "name":"SL_90_90_48: Lift machine rooms"
+                  },
+                  {
+                     "name":"SL_90_90_64: Plant rooms"
+                  },
+                  {
+                     "name":"SL_90_90_77: Server rooms"
+                  },
+                  {
+                     "name":"SL_90_90_78: Services shafts"
+                  },
+                  {
+                     "name":"SL_90_90_85: Switch rooms"
+                  },
+                  {
+                     "name":"SL_90_90_87: Tank rooms"
+                  },
+                  {
+                     "name":"SL_90_90_90: Transformer rooms"
+                  },
+                  {
+                     "name":"SL_90_90_96: Wall services voids"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

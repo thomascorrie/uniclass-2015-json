@@ -1,7 +1,7 @@
 # uniclass-2015-json
-Uniclass 2015 classification tables reformatted in JSON.
+Uniclass 2015 classification tables reformatted in [JSON](http://www.json.org/). Similar to the [csv version by buildig](https://github.com/buildig/uniclass-2015)
 
-The table are published by the [NBS](https://toolkit.thenbs.com/articles/classification#classificationtables)
+The tables are published by the [NBS](https://toolkit.thenbs.com/articles/classification#classificationtables)
 
 | Table | Status and Revision Information |
 | ----- | --------------------------------|
@@ -14,3 +14,5 @@ The table are published by the [NBS](https://toolkit.thenbs.com/articles/classif
 | Pr - Products | 	v1.6, Published April 2017	
 | TE - Tools and Equipment | 	v1.1, Published April 2017	
 | Zz- CAD | 	v1.0, Published July 2015
+| FI - Form of information |	Beta status – consultation ongoing	
+| PM - Project management |	Beta status – consultation ongoing

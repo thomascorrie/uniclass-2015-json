@@ -1,0 +1,167 @@
+﻿{
+   "name":"Uniclass2015_FI",
+   "children":[
+      {
+         "name":"FI_10: Communication",
+         "children":[
+            {
+               "name":"FI_10_10: Brochure/ leaflet"
+            },
+            {
+               "name":"FI_10_15: Comment"
+            },
+            {
+               "name":"FI_10_20: Correspondence"
+            },
+            {
+               "name":"FI_10_30: File note"
+            },
+            {
+               "name":"FI_10_50: Memo"
+            },
+            {
+               "name":"FI_10_70: Request for information"
+            },
+            {
+               "name":"FI_10_90: Technical query"
+            }
+         ]
+      },
+      {
+         "name":"FI_20: Contractual",
+         "children":[
+            {
+               "name":"FI_20_05: Application"
+            },
+            {
+               "name":"FI_20_15: Contract"
+            },
+            {
+               "name":"FI_20_40: Instruction"
+            }
+         ]
+      },
+      {
+         "name":"FI_30: Data set",
+         "children":[
+            {
+               "name":"FI_30_35: GIS dataset"
+            },
+            {
+               "name":"FI_30_40: Information Exchange File"
+            },
+            {
+               "name":"FI_30_70: Room data sheet"
+            }
+         ]
+      },
+      {
+         "name":"FI_40: Design information",
+         "children":[
+            {
+               "name":"FI_40_10: Calculation"
+            },
+            {
+               "name":"FI_40_75: Schedule or Table"
+            },
+            {
+               "name":"FI_40_80: Specification"
+            }
+         ]
+      },
+      {
+         "name":"FI_50: Financial",
+         "children":[
+            {
+               "name":"FI_50_10: Bills of Quantity"
+            },
+            {
+               "name":"FI_50_15: Cost Plan"
+            },
+            {
+               "name":"FI_50_40: Invoice"
+            }
+         ]
+      },
+      {
+         "name":"FI_60: Graphical",
+         "children":[
+            {
+               "name":"FI_60_05: Animation file"
+            },
+            {
+               "name":"FI_60_15: Clash rendition"
+            },
+            {
+               "name":"FI_60_20: Drawing"
+            },
+            {
+               "name":"FI_60_50: Model - Two dimensional"
+            },
+            {
+               "name":"FI_60_55: Model - Three dimensional"
+            },
+            {
+               "name":"FI_60_60: Photograph"
+            },
+            {
+               "name":"FI_60_95: Visualization"
+            }
+         ]
+      },
+      {
+         "name":"FI_70: Planning control",
+         "children":[
+            {
+               "name":"FI_70_15: Consent"
+            }
+         ]
+      },
+      {
+         "name":"FI_80: Project planning",
+         "children":[
+            {
+               "name":"FI_80_50: Method statement"
+            },
+            {
+               "name":"FI_80_60: Policy/Procedure"
+            },
+            {
+               "name":"FI_80_65: Programme"
+            }
+         ]
+      },
+      {
+         "name":"FI_90: Record information",
+         "children":[
+            {
+               "name":"FI_90_15: Certificate"
+            },
+            {
+               "name":"FI_90_30: Forms"
+            },
+            {
+               "name":"FI_90_50: Manual"
+            },
+            {
+               "name":"FI_90_60: Plan"
+            },
+            {
+               "name":"FI_90_70: Register"
+            },
+            {
+               "name":"FI_90_75: Report"
+            },
+            {
+               "name":"FI_90_80: Snagging list"
+            },
+            {
+               "name":"FI_90_85: Survey"
+            },
+            {
+               "name":"FI_90_90: Transmittal"
+            }
+         ]
+      }
+   ]
+}

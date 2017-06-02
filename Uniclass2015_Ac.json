@@ -1,0 +1,2541 @@
+﻿{
+   "name":"Uniclass2015_Ac",
+   "children":[
+      {
+         "name":"Ac_10: Preparation and repair",
+         "children":[
+            {
+               "name":"Ac_10_10: Deconstruction and demolition",
+               "children":[
+                  {
+                     "name":"Ac_10_10_20: Deconstruction"
+                  },
+                  {
+                     "name":"Ac_10_10_25: Demolition"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_10_20: Decontamination"
+            },
+            {
+               "name":"Ac_10_30: Site clearance",
+               "children":[
+                  {
+                     "name":"Ac_10_30_10: Bush and scrub removal"
+                  },
+                  {
+                     "name":"Ac_10_30_15: Constructed material clearance"
+                  },
+                  {
+                     "name":"Ac_10_30_80: Soil removal"
+                  },
+                  {
+                     "name":"Ac_10_30_90: Tree removal"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_10_70: Remediation, repair and renovation",
+               "children":[
+                  {
+                     "name":"Ac_10_70_65: Remediation"
+                  },
+                  {
+                     "name":"Ac_10_70_70: Renovation"
+                  },
+                  {
+                     "name":"Ac_10_70_75: Repair"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_10_80: Structure moving"
+            }
+         ]
+      },
+      {
+         "name":"Ac_15: Survey activities",
+         "children":[
+            {
+               "name":"Ac_15_05: Aquatic surveying",
+               "children":[
+                  {
+                     "name":"Ac_15_05_11: Canals surveying"
+                  },
+                  {
+                     "name":"Ac_15_05_15: Coastal surveying"
+                  },
+                  {
+                     "name":"Ac_15_05_36: Hydrological surveying"
+                  },
+                  {
+                     "name":"Ac_15_05_46: Lakes and ponds surveying"
+                  },
+                  {
+                     "name":"Ac_15_05_70: Reservoirs surveying"
+                  },
+                  {
+                     "name":"Ac_15_05_72: Rivers and streams surveying"
+                  },
+                  {
+                     "name":"Ac_15_05_73: River estuary surveying"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_15_10: Surveying methods",
+               "children":[
+                  {
+                     "name":"Ac_15_10_01: Acoustic surveying"
+                  },
+                  {
+                     "name":"Ac_15_10_03: Aerial surveying"
+                  },
+                  {
+                     "name":"Ac_15_10_10: Borehole surveying"
+                  },
+                  {
+                     "name":"Ac_15_10_14: Closed-circuit television surveying"
+                  },
+                  {
+                     "name":"Ac_15_10_22: Desk top studying"
+                  },
+                  {
+                     "name":"Ac_15_10_32: Geophysical surveying"
+                  },
+                  {
+                     "name":"Ac_15_10_34: Ground penetrating radar surveying"
+                  },
+                  {
+                     "name":"Ac_15_10_70: Radio frequency location surveying"
+                  },
+                  {
+                     "name":"Ac_15_10_80: Satellite surveying"
+                  },
+                  {
+                     "name":"Ac_15_10_90: Trial holes surveying"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_15_15: Building services condition surveying",
+               "children":[
+                  {
+                     "name":"Ac_15_15_06: Below ground services surveying"
+                  },
+                  {
+                     "name":"Ac_15_15_08: Boilers, heating and hot water systems surveying"
+                  },
+                  {
+                     "name":"Ac_15_15_11: Catering equipment surveying"
+                  },
+                  {
+                     "name":"Ac_15_15_15: Cold water and water treatment systems surveying"
+                  },
+                  {
+                     "name":"Ac_15_15_16: Control systems surveying"
+                  },
+                  {
+                     "name":"Ac_15_15_28: Escalator and moving pavement systems surveying"
+                  },
+                  {
+                     "name":"Ac_15_15_30: Fire alarm systems surveying"
+                  },
+                  {
+                     "name":"Ac_15_15_34: Generators system surveying"
+                  },
+                  {
+                     "name":"Ac_15_15_47: Lift installation surveying"
+                  },
+                  {
+                     "name":"Ac_15_15_48: Low voltage general power electrical installations surveying"
+                  },
+                  {
+                     "name":"Ac_15_15_71: Refrigeration systems surveying"
+                  },
+                  {
+                     "name":"Ac_15_15_82: Sprinkler systems surveying"
+                  },
+                  {
+                     "name":"Ac_15_15_95: Ventilation and air conditioning systems surveying"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_15_20: Ecological and environmental surveying",
+               "children":[
+                  {
+                     "name":"Ac_15_20_03: Animal conservation assessment surveying"
+                  },
+                  {
+                     "name":"Ac_15_20_05: Arboricultural surveying"
+                  },
+                  {
+                     "name":"Ac_15_20_08: Bird and pest surveying"
+                  },
+                  {
+                     "name":"Ac_15_20_25: Ecological building surveying"
+                  },
+                  {
+                     "name":"Ac_15_20_27: Ecological site surveying"
+                  },
+                  {
+                     "name":"Ac_15_20_28: Environmental impact assessment surveying"
+                  },
+                  {
+                     "name":"Ac_15_20_40: Invasive species surveying"
+                  },
+                  {
+                     "name":"Ac_15_20_46: Landscape character assessing"
+                  },
+                  {
+                     "name":"Ac_15_20_48: Landscape visual assessing"
+                  },
+                  {
+                     "name":"Ac_15_20_58: Ornithological surveying"
+                  },
+                  {
+                     "name":"Ac_15_20_85: Strategic environmental assessing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_15_30: Geometric surveying",
+               "children":[
+                  {
+                     "name":"Ac_15_30_50: Measured and metric surveying"
+                  },
+                  {
+                     "name":"Ac_15_30_90: Topographical surveying"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_15_40: Hazardous material surveying",
+               "children":[
+                  {
+                     "name":"Ac_15_40_05: Asbestos surveying"
+                  },
+                  {
+                     "name":"Ac_15_40_45: Lead paint surveying"
+                  },
+                  {
+                     "name":"Ac_15_40_70: Radon and hazardous ground gases surveying"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_15_45: Historic building and site surveying",
+               "children":[
+                  {
+                     "name":"Ac_15_45_35: Historic building surveying"
+                  },
+                  {
+                     "name":"Ac_15_45_37: Historic site surveying"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_15_50: Building fabric surveying",
+               "children":[
+                  {
+                     "name":"Ac_15_50_10: Building surveying"
+                  },
+                  {
+                     "name":"Ac_15_50_15: Concealed elements surveying"
+                  },
+                  {
+                     "name":"Ac_15_50_17: Concrete cover surveying"
+                  },
+                  {
+                     "name":"Ac_15_50_20: Damp ingress and excess moisture surveying"
+                  },
+                  {
+                     "name":"Ac_15_50_22: Dilapidations surveying"
+                  },
+                  {
+                     "name":"Ac_15_50_25: Doors, windows and glazing surveying"
+                  },
+                  {
+                     "name":"Ac_15_50_50: Masonry surveying"
+                  },
+                  {
+                     "name":"Ac_15_50_52: Metalwork surveying"
+                  },
+                  {
+                     "name":"Ac_15_50_73: Roof surveying"
+                  },
+                  {
+                     "name":"Ac_15_50_85: Structural surveying"
+                  },
+                  {
+                     "name":"Ac_15_50_90: Timber surveying"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_15_55: Performance surveying",
+               "children":[
+                  {
+                     "name":"Ac_15_55_02: Access auditing"
+                  },
+                  {
+                     "name":"Ac_15_55_04: Acoustics and noise transfer surveying"
+                  },
+                  {
+                     "name":"Ac_15_55_06: Airtightness surveying"
+                  },
+                  {
+                     "name":"Ac_15_55_26: Energy assessment surveying"
+                  },
+                  {
+                     "name":"Ac_15_55_30: Fire protection surveying"
+                  },
+                  {
+                     "name":"Ac_15_55_75: Security auditing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_15_60: Rail track surveying"
+            },
+            {
+               "name":"Ac_15_70: Road and bridge surveying",
+               "children":[
+                  {
+                     "name":"Ac_15_70_90: Traffic surveying"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_15_75: Ground investigating",
+               "children":[
+                  {
+                     "name":"Ac_15_75_20: Geochemical surveying"
+                  },
+                  {
+                     "name":"Ac_15_75_25: Geoenvironmental exploratory investigating"
+                  },
+                  {
+                     "name":"Ac_15_75_30: Geoenvironmental ground investigating"
+                  },
+                  {
+                     "name":"Ac_15_75_35: Geological boundaries surveying"
+                  },
+                  {
+                     "name":"Ac_15_75_40: Geological faults surveying"
+                  },
+                  {
+                     "name":"Ac_15_75_45: Geological surveying"
+                  },
+                  {
+                     "name":"Ac_15_75_50: Geotechnical ground investigating"
+                  },
+                  {
+                     "name":"Ac_15_75_55: Geotechnical substructure investigating"
+                  },
+                  {
+                     "name":"Ac_15_75_60: Ground levels surveying"
+                  },
+                  {
+                     "name":"Ac_15_75_65: Ground water table surveying"
+                  },
+                  {
+                     "name":"Ac_15_75_70: Preliminary site investigating"
+                  },
+                  {
+                     "name":"Ac_15_75_80: Soil surveying"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_15_80: Site surveying",
+               "children":[
+                  {
+                     "name":"Ac_15_80_65: Preliminary site surveying"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_15_90: Tunnel surveying"
+            }
+         ]
+      },
+      {
+         "name":"Ac_20: Administrative, commercial and protective services activities",
+         "children":[
+            {
+               "name":"Ac_20_10: Legislative activities",
+               "children":[
+                  {
+                     "name":"Ac_20_10_47: Legislating activities"
+                  },
+                  {
+                     "name":"Ac_20_10_66: Public viewing of legislating activities"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_20_15: Administrative office activities",
+               "children":[
+                  {
+                     "name":"Ac_20_15_15: Counter service"
+                  },
+                  {
+                     "name":"Ac_20_15_22: Desk-based office tasks"
+                  },
+                  {
+                     "name":"Ac_20_15_50: Meetings"
+                  },
+                  {
+                     "name":"Ac_20_15_59: Office maintenance tasks"
+                  },
+                  {
+                     "name":"Ac_20_15_71: Reception tasks"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_20_45: Motor vehicle maintenance and fuelling activities",
+               "children":[
+                  {
+                     "name":"Ac_20_45_30: Fuel station air and water dispensing"
+                  },
+                  {
+                     "name":"Ac_20_45_31: Fuel station fuel storing"
+                  },
+                  {
+                     "name":"Ac_20_45_51: Motor vehicle fuelling"
+                  },
+                  {
+                     "name":"Ac_20_45_53: Motor vehicle maintaining"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_20_50: Commercial activities",
+               "children":[
+                  {
+                     "name":"Ac_20_50_03: Ambient products wholesale selling"
+                  },
+                  {
+                     "name":"Ac_20_50_05: Auctioning"
+                  },
+                  {
+                     "name":"Ac_20_50_12: Checking out and paying"
+                  },
+                  {
+                     "name":"Ac_20_50_22: Department store retail selling"
+                  },
+                  {
+                     "name":"Ac_20_50_29: Financial and professional services activity"
+                  },
+                  {
+                     "name":"Ac_20_50_32: Food and drink retail selling"
+                  },
+                  {
+                     "name":"Ac_20_50_33: General retail selling"
+                  },
+                  {
+                     "name":"Ac_20_50_36: Hair and beauty treatment activities"
+                  },
+                  {
+                     "name":"Ac_20_50_45: Kiosk retail selling"
+                  },
+                  {
+                     "name":"Ac_20_50_47: Livestock wholesale selling"
+                  },
+                  {
+                     "name":"Ac_20_50_50: Mail order sorting and despatching"
+                  },
+                  {
+                     "name":"Ac_20_50_51: Market retail selling"
+                  },
+                  {
+                     "name":"Ac_20_50_55: Motor vehicle selling"
+                  },
+                  {
+                     "name":"Ac_20_50_70: Refrigerated products wholesale selling"
+                  },
+                  {
+                     "name":"Ac_20_50_85: Supermarket retail selling"
+                  },
+                  {
+                     "name":"Ac_20_50_87: Tattooing and piercing"
+                  },
+                  {
+                     "name":"Ac_20_50_90: Trying out goods"
+                  },
+                  {
+                     "name":"Ac_20_50_96: Waste and scrap wholesale selling"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_20_55: Postal communications activities",
+               "children":[
+                  {
+                     "name":"Ac_20_55_45: Letter sorting"
+                  },
+                  {
+                     "name":"Ac_20_55_60: Parcel sorting"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_20_60: Military protective activities",
+               "children":[
+                  {
+                     "name":"Ac_20_60_08: Bombardment sheltering"
+                  },
+                  {
+                     "name":"Ac_20_60_70: Radioactive fallout sheltering"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_20_62: Parade activities",
+               "children":[
+                  {
+                     "name":"Ac_20_62_65: Parading"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_20_65: Law enforcement activities",
+               "children":[
+                  {
+                     "name":"Ac_20_65_08: Breathalyzing"
+                  },
+                  {
+                     "name":"Ac_20_65_15: Counter terrorism activities"
+                  },
+                  {
+                     "name":"Ac_20_65_19: Custody activities"
+                  },
+                  {
+                     "name":"Ac_20_65_40: Identification parading"
+                  },
+                  {
+                     "name":"Ac_20_65_59: Operational activities"
+                  },
+                  {
+                     "name":"Ac_20_65_65: Police detaining"
+                  },
+                  {
+                     "name":"Ac_20_65_87: Testing for illegal substances"
+                  },
+                  {
+                     "name":"Ac_20_65_94: Victim examining"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_20_70: Judicial activities",
+               "children":[
+                  {
+                     "name":"Ac_20_70_15: Conducting trials and hearings"
+                  },
+                  {
+                     "name":"Ac_20_70_23: Defendant seating"
+                  },
+                  {
+                     "name":"Ac_20_70_27: Evidence drying"
+                  },
+                  {
+                     "name":"Ac_20_70_28: Evidence storing"
+                  },
+                  {
+                     "name":"Ac_20_70_41: Judicial seating"
+                  },
+                  {
+                     "name":"Ac_20_70_44: Jury seating"
+                  },
+                  {
+                     "name":"Ac_20_70_68: Public gallery viewing"
+                  },
+                  {
+                     "name":"Ac_20_70_93: Victim supporting"
+                  },
+                  {
+                     "name":"Ac_20_70_94: Vulnerable victim supporting"
+                  },
+                  {
+                     "name":"Ac_20_70_95: Vulnerable witness supporting"
+                  },
+                  {
+                     "name":"Ac_20_70_97: Witness standing"
+                  },
+                  {
+                     "name":"Ac_20_70_98: Witness supporting"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_20_75: Detention activities",
+               "children":[
+                  {
+                     "name":"Ac_20_75_12: Close supervising"
+                  },
+                  {
+                     "name":"Ac_20_75_15: Communal inmate day activities"
+                  },
+                  {
+                     "name":"Ac_20_75_20: Detainee exercising"
+                  },
+                  {
+                     "name":"Ac_20_75_22: Detainee processing "
+                  },
+                  {
+                     "name":"Ac_20_75_35: Guarding detainees"
+                  },
+                  {
+                     "name":"Ac_20_75_38: Holding of prisoners"
+                  },
+                  {
+                     "name":"Ac_20_75_41: Inmate exercising"
+                  },
+                  {
+                     "name":"Ac_20_75_44: Juvenile detaining"
+                  },
+                  {
+                     "name":"Ac_20_75_67: Prison detaining"
+                  },
+                  {
+                     "name":"Ac_20_75_75: Secure entering and exiting"
+                  },
+                  {
+                     "name":"Ac_20_75_77: Secure visiting"
+                  },
+                  {
+                     "name":"Ac_20_75_95: Vehicle impounding"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_20_80: Weapons training activities",
+               "children":[
+                  {
+                     "name":"Ac_20_80_29: Firearms training"
+                  },
+                  {
+                     "name":"Ac_20_80_31: Firing of weapons"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_20_85: Security activities",
+               "children":[
+                  {
+                     "name":"Ac_20_85_08: Biometric identifying"
+                  },
+                  {
+                     "name":"Ac_20_85_63: Pedestrian security checking"
+                  },
+                  {
+                     "name":"Ac_20_85_77: Secure activities"
+                  },
+                  {
+                     "name":"Ac_20_85_79: Sensitive activities"
+                  },
+                  {
+                     "name":"Ac_20_85_95: Vehicular security checking"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_20_90: Incident support activities",
+               "children":[
+                  {
+                     "name":"Ac_20_90_31: Fire training"
+                  },
+                  {
+                     "name":"Ac_20_90_41: Incident prevention"
+                  },
+                  {
+                     "name":"Ac_20_90_42: Incident support"
+                  },
+                  {
+                     "name":"Ac_20_90_78: Sheltering from fire"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ac_25: Cultural, educational, scientific and information activities",
+         "children":[
+            {
+               "name":"Ac_25_05: Commemoration activities",
+               "children":[
+                  {
+                     "name":"Ac_25_05_15: Commemoration events"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_25_10: Educational activities",
+               "children":[
+                  {
+                     "name":"Ac_25_10_05: Assembling"
+                  },
+                  {
+                     "name":"Ac_25_10_15: Communal educational activities"
+                  },
+                  {
+                     "name":"Ac_25_10_26: Driving tuition"
+                  },
+                  {
+                     "name":"Ac_25_10_35: Group work"
+                  },
+                  {
+                     "name":"Ac_25_10_47: Lecturing"
+                  },
+                  {
+                     "name":"Ac_25_10_71: Researching"
+                  },
+                  {
+                     "name":"Ac_25_10_78: Seminar activities"
+                  },
+                  {
+                     "name":"Ac_25_10_84: Studying"
+                  },
+                  {
+                     "name":"Ac_25_10_88: Teaching"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_25_20: Design and craft activities",
+               "children":[
+                  {
+                     "name":"Ac_25_20_13: Ceramics making"
+                  },
+                  {
+                     "name":"Ac_25_20_15: Craft activities"
+                  },
+                  {
+                     "name":"Ac_25_20_21: Designing"
+                  },
+                  {
+                     "name":"Ac_25_20_24: Drawing"
+                  },
+                  {
+                     "name":"Ac_25_20_60: Painting"
+                  },
+                  {
+                     "name":"Ac_25_20_88: Technical drawing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_25_30: Scientific and laboratory activities",
+               "children":[
+                  {
+                     "name":"Ac_25_30_02: Anechoic chamber activities"
+                  },
+                  {
+                     "name":"Ac_25_30_04: Astronomy activities"
+                  },
+                  {
+                     "name":"Ac_25_30_07: Biology activities"
+                  },
+                  {
+                     "name":"Ac_25_30_10: Bioscience activities"
+                  },
+                  {
+                     "name":"Ac_25_30_13: Chemistry activities"
+                  },
+                  {
+                     "name":"Ac_25_30_15: Clinical biochemistry activities"
+                  },
+                  {
+                     "name":"Ac_25_30_16: Clinical microbiology activities"
+                  },
+                  {
+                     "name":"Ac_25_30_17: Clinical pathology activities"
+                  },
+                  {
+                     "name":"Ac_25_30_19: Containment activities"
+                  },
+                  {
+                     "name":"Ac_25_30_21: Dark room activities"
+                  },
+                  {
+                     "name":"Ac_25_30_22: Dental laboratory activities"
+                  },
+                  {
+                     "name":"Ac_25_30_23: Dissection"
+                  },
+                  {
+                     "name":"Ac_25_30_26: Earth sciences activities"
+                  },
+                  {
+                     "name":"Ac_25_30_27: Engineering activities"
+                  },
+                  {
+                     "name":"Ac_25_30_28: Experiment controlling"
+                  },
+                  {
+                     "name":"Ac_25_30_29: Flow cytometry activities"
+                  },
+                  {
+                     "name":"Ac_25_30_30: Food testing"
+                  },
+                  {
+                     "name":"Ac_25_30_31: Forensic science activities"
+                  },
+                  {
+                     "name":"Ac_25_30_33: Geology activities"
+                  },
+                  {
+                     "name":"Ac_25_30_36: Hyperbaric chamber activities"
+                  },
+                  {
+                     "name":"Ac_25_30_46: Laboratory cold activities"
+                  },
+                  {
+                     "name":"Ac_25_30_47: Laboratory warm activities"
+                  },
+                  {
+                     "name":"Ac_25_30_50: Material testing"
+                  },
+                  {
+                     "name":"Ac_25_30_66: Physics activities"
+                  },
+                  {
+                     "name":"Ac_25_30_68: Psychology activities"
+                  },
+                  {
+                     "name":"Ac_25_30_70: Radiation shielded activities"
+                  },
+                  {
+                     "name":"Ac_25_30_72: Results interpreting"
+                  },
+                  {
+                     "name":"Ac_25_30_76: Scientific instrument activities"
+                  },
+                  {
+                     "name":"Ac_25_30_78: Seismograph activities"
+                  },
+                  {
+                     "name":"Ac_25_30_85: Sterilizing activities"
+                  },
+                  {
+                     "name":"Ac_25_30_89: Tissue culturing"
+                  },
+                  {
+                     "name":"Ac_25_30_90: Toxicology activities"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_25_50: Exhibition activities",
+               "children":[
+                  {
+                     "name":"Ac_25_50_04: Art exhibiting"
+                  },
+                  {
+                     "name":"Ac_25_50_15: Collection exhibiting"
+                  },
+                  {
+                     "name":"Ac_25_50_16: Conservation of art and artefacts"
+                  },
+                  {
+                     "name":"Ac_25_50_21: Diorama exhibiting"
+                  },
+                  {
+                     "name":"Ac_25_50_29: Fauna exhibiting"
+                  },
+                  {
+                     "name":"Ac_25_50_31: Flora exhibiting"
+                  },
+                  {
+                     "name":"Ac_25_50_65: Projecting representations of the night sky"
+                  },
+                  {
+                     "name":"Ac_25_50_73: Sculpture exhibiting"
+                  },
+                  {
+                     "name":"Ac_25_50_94: Viewing activities"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_25_70: Information activities",
+               "children":[
+                  {
+                     "name":"Ac_25_70_04: Archiving"
+                  },
+                  {
+                     "name":"Ac_25_70_05: Audio-visual studying"
+                  },
+                  {
+                     "name":"Ac_25_70_11: Cataloguing"
+                  },
+                  {
+                     "name":"Ac_25_70_23: Domestic book storing and reading"
+                  },
+                  {
+                     "name":"Ac_25_70_30: Film storing"
+                  },
+                  {
+                     "name":"Ac_25_70_47: Library storing"
+                  },
+                  {
+                     "name":"Ac_25_70_71: Reading"
+                  },
+                  {
+                     "name":"Ac_25_70_72: Records storing"
+                  },
+                  {
+                     "name":"Ac_25_70_76: Scanning"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_25_90: Worship activities",
+               "children":[
+                  {
+                     "name":"Ac_25_90_12: Ceremonial worship activities"
+                  },
+                  {
+                     "name":"Ac_25_90_15: Conducting acts of worship"
+                  },
+                  {
+                     "name":"Ac_25_90_60: Pastoral care"
+                  },
+                  {
+                     "name":"Ac_25_90_67: Preparing for acts of worship"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ac_30: Industrial activities",
+         "children":[
+            {
+               "name":"Ac_30_10: Mineral extraction activities",
+               "children":[
+                  {
+                     "name":"Ac_30_10_57: Offshore oil and gas drilling"
+                  },
+                  {
+                     "name":"Ac_30_10_59: Onshore oil and gas drilling"
+                  },
+                  {
+                     "name":"Ac_30_10_60: Opencast mining"
+                  },
+                  {
+                     "name":"Ac_30_10_69: Quarrying"
+                  },
+                  {
+                     "name":"Ac_30_10_91: Underground mining"
+                  },
+                  {
+                     "name":"Ac_30_10_93: Underground mine accessing"
+                  },
+                  {
+                     "name":"Ac_30_10_94: Underground mine tunnelling"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_30_20: Nuclear and chemical management activities",
+               "children":[
+                  {
+                     "name":"Ac_30_20_30: High heat highly enriched uranium radioactive waste managing"
+                  },
+                  {
+                     "name":"Ac_30_20_35: High heat mixed oxide fuel radioactive waste managing"
+                  },
+                  {
+                     "name":"Ac_30_20_40: High heat plutonium radioactive waste managing"
+                  },
+                  {
+                     "name":"Ac_30_20_45: High heat radioactive waste managing"
+                  },
+                  {
+                     "name":"Ac_30_20_50: High heat spent fuel radioactive waste managing"
+                  },
+                  {
+                     "name":"Ac_30_20_60: Low heat depleted natural low enrichment uranium managing"
+                  },
+                  {
+                     "name":"Ac_30_20_65: Low heat robust shielded radioactive waste managing"
+                  },
+                  {
+                     "name":"Ac_30_20_70: Low heat shielded radioactive waste managing"
+                  },
+                  {
+                     "name":"Ac_30_20_75: Low heat unshielded radioactive waste managing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_30_30: Mineral processing activities",
+               "children":[
+                  {
+                     "name":"Ac_30_30_33: Gas processing"
+                  },
+                  {
+                     "name":"Ac_30_30_58: Oil processing"
+                  },
+                  {
+                     "name":"Ac_30_30_59: Ore processing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_30_40: Animal and plant products processing activities",
+               "children":[
+                  {
+                     "name":"Ac_30_40_06: Baking"
+                  },
+                  {
+                     "name":"Ac_30_40_07: Bottling"
+                  },
+                  {
+                     "name":"Ac_30_40_09: Brewing"
+                  },
+                  {
+                     "name":"Ac_30_40_10: Butter-making"
+                  },
+                  {
+                     "name":"Ac_30_40_11: Canning"
+                  },
+                  {
+                     "name":"Ac_30_40_18: Cheese making"
+                  },
+                  {
+                     "name":"Ac_30_40_22: Distilling"
+                  },
+                  {
+                     "name":"Ac_30_40_30: Fish processing"
+                  },
+                  {
+                     "name":"Ac_30_40_32: Fresh fruit and vegetable packing"
+                  },
+                  {
+                     "name":"Ac_30_40_44: Juicing"
+                  },
+                  {
+                     "name":"Ac_30_40_52: Meat processing"
+                  },
+                  {
+                     "name":"Ac_30_40_54: Milk processing"
+                  },
+                  {
+                     "name":"Ac_30_40_55: Milling"
+                  },
+                  {
+                     "name":"Ac_30_40_63: Plant fibre sorting"
+                  },
+                  {
+                     "name":"Ac_30_40_65: Poultry processing"
+                  },
+                  {
+                     "name":"Ac_30_40_80: Slaughtering"
+                  },
+                  {
+                     "name":"Ac_30_40_87: Tanning"
+                  },
+                  {
+                     "name":"Ac_30_40_88: Threshing"
+                  },
+                  {
+                     "name":"Ac_30_40_89: Timber sawing"
+                  },
+                  {
+                     "name":"Ac_30_40_90: Tobacco drying"
+                  },
+                  {
+                     "name":"Ac_30_40_96: Wine making"
+                  },
+                  {
+                     "name":"Ac_30_40_98: Wool sorting"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_30_50: Manufacturing activities",
+               "children":[
+                  {
+                     "name":"Ac_30_50_27: Electronics clean activities"
+                  },
+                  {
+                     "name":"Ac_30_50_30: Heavy industrial activities"
+                  },
+                  {
+                     "name":"Ac_30_50_53: Light industrial activities"
+                  },
+                  {
+                     "name":"Ac_30_50_60: Packaging"
+                  },
+                  {
+                     "name":"Ac_30_50_61: Paint spraying"
+                  },
+                  {
+                     "name":"Ac_30_50_64: Printing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_30_60: Cleaning and maintenance activities",
+               "children":[
+                  {
+                     "name":"Ac_30_60_12: Cleaning"
+                  },
+                  {
+                     "name":"Ac_30_60_13: Clothes drying and airing"
+                  },
+                  {
+                     "name":"Ac_30_60_15: Commercial laundering"
+                  },
+                  {
+                     "name":"Ac_30_60_22: Decontaminating"
+                  },
+                  {
+                     "name":"Ac_30_60_23: Domestic laundering"
+                  },
+                  {
+                     "name":"Ac_30_60_24: Dry cleaning"
+                  },
+                  {
+                     "name":"Ac_30_60_42: Ironing"
+                  },
+                  {
+                     "name":"Ac_30_60_47: Laundering"
+                  },
+                  {
+                     "name":"Ac_30_60_75: Service laundering"
+                  },
+                  {
+                     "name":"Ac_30_60_94: Vehicle washing"
+                  },
+                  {
+                     "name":"Ac_30_60_96: Washing up"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_30_80: Kinetic power generation"
+            },
+            {
+               "name":"Ac_30_85: Marine and water storage and maintenance activities",
+               "children":[
+                  {
+                     "name":"Ac_30_85_08: Boat repairing"
+                  },
+                  {
+                     "name":"Ac_30_85_24: Dry dock ship repairing"
+                  },
+                  {
+                     "name":"Ac_30_85_30: Floating dock ship repairing"
+                  },
+                  {
+                     "name":"Ac_30_85_97: Wet dock ship repairing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_30_90: Warehousing and distribution activities",
+               "children":[
+                  {
+                     "name":"Ac_30_90_33: Goods delivery"
+                  },
+                  {
+                     "name":"Ac_30_90_48: Loading and unloading"
+                  },
+                  {
+                     "name":"Ac_30_90_80: Sorting and distributing"
+                  },
+                  {
+                     "name":"Ac_30_90_96: Warehousing"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ac_32: Water and land management activities",
+         "children":[
+            {
+               "name":"Ac_32_10: Agricultural and horticultural activities",
+               "children":[
+                  {
+                     "name":"Ac_32_10_02: Agricultural maintenance"
+                  },
+                  {
+                     "name":"Ac_32_10_26: Farm yard activities"
+                  },
+                  {
+                     "name":"Ac_32_10_27: Fertilizing"
+                  },
+                  {
+                     "name":"Ac_32_10_29: Fish cultivating"
+                  },
+                  {
+                     "name":"Ac_32_10_34: Glasshouse growing"
+                  },
+                  {
+                     "name":"Ac_32_10_36: Hedge laying"
+                  },
+                  {
+                     "name":"Ac_32_10_38: Horticultural activities"
+                  },
+                  {
+                     "name":"Ac_32_10_42: Irrigating"
+                  },
+                  {
+                     "name":"Ac_32_10_47: Livestock activities"
+                  },
+                  {
+                     "name":"Ac_32_10_52: Milking"
+                  },
+                  {
+                     "name":"Ac_32_10_55: Mushroom cultivating"
+                  },
+                  {
+                     "name":"Ac_32_10_61: Pest management"
+                  },
+                  {
+                     "name":"Ac_32_10_64: Ploughing"
+                  },
+                  {
+                     "name":"Ac_32_10_66: Poultry rearing"
+                  },
+                  {
+                     "name":"Ac_32_10_68: Propagating"
+                  },
+                  {
+                     "name":"Ac_32_10_70: Pruning"
+                  },
+                  {
+                     "name":"Ac_32_10_77: Sheep shearing"
+                  },
+                  {
+                     "name":"Ac_32_10_78: Sheep dipping"
+                  },
+                  {
+                     "name":"Ac_32_10_79: Silviculture"
+                  },
+                  {
+                     "name":"Ac_32_10_80: Sowing"
+                  },
+                  {
+                     "name":"Ac_32_10_94: Viticulture"
+                  },
+                  {
+                     "name":"Ac_32_10_96: Weed management"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_32_50: Marine and water activities",
+               "children":[
+                  {
+                     "name":"Ac_32_50_30: Flood defending"
+                  },
+                  {
+                     "name":"Ac_32_50_38: Harbour protecting"
+                  },
+                  {
+                     "name":"Ac_32_50_94: Vessel berthing"
+                  },
+                  {
+                     "name":"Ac_32_50_95: Vessel launching"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_32_60: Natural spaces activities",
+               "children":[
+                  {
+                     "name":"Ac_32_60_27: Erosion"
+                  },
+                  {
+                     "name":"Ac_32_60_30: Flooding"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ac_35: Medical, health, welfare and sanitary activities",
+         "children":[
+            {
+               "name":"Ac_35_10: Medical activities",
+               "children":[
+                  {
+                     "name":"Ac_35_10_08: Birthing"
+                  },
+                  {
+                     "name":"Ac_35_10_10: Burns treating"
+                  },
+                  {
+                     "name":"Ac_35_10_15: Consulting"
+                  },
+                  {
+                     "name":"Ac_35_10_31: First aiding"
+                  },
+                  {
+                     "name":"Ac_35_10_36: Hearing testing"
+                  },
+                  {
+                     "name":"Ac_35_10_39: Hydrotherapy"
+                  },
+                  {
+                     "name":"Ac_35_10_42: Intensive caring"
+                  },
+                  {
+                     "name":"Ac_35_10_43: Isolation caring"
+                  },
+                  {
+                     "name":"Ac_35_10_51: Medical scanning"
+                  },
+                  {
+                     "name":"Ac_35_10_53: Midwifery"
+                  },
+                  {
+                     "name":"Ac_35_10_57: Nursing"
+                  },
+                  {
+                     "name":"Ac_35_10_58: Occupational therapy"
+                  },
+                  {
+                     "name":"Ac_35_10_61: Patient examining"
+                  },
+                  {
+                     "name":"Ac_35_10_62: Patient screening"
+                  },
+                  {
+                     "name":"Ac_35_10_64: Pharmaceutical dispensing"
+                  },
+                  {
+                     "name":"Ac_35_10_65: Phototherapy"
+                  },
+                  {
+                     "name":"Ac_35_10_66: Physiotherapy"
+                  },
+                  {
+                     "name":"Ac_35_10_70: Radiography"
+                  },
+                  {
+                     "name":"Ac_35_10_71: Radiotherapy"
+                  },
+                  {
+                     "name":"Ac_35_10_74: Rehabilitating"
+                  },
+                  {
+                     "name":"Ac_35_10_85: Surgical operating"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_35_50: Welfare activities",
+               "children":[
+                  {
+                     "name":"Ac_35_50_21: Day care"
+                  },
+                  {
+                     "name":"Ac_35_50_42: Infant caring"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_35_60: Food management activities",
+               "children":[
+                  {
+                     "name":"Ac_35_60_16: Cooking"
+                  },
+                  {
+                     "name":"Ac_35_60_30: Food preparation"
+                  },
+                  {
+                     "name":"Ac_35_60_31: Food serving"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_35_70: Funerary activities",
+               "children":[
+                  {
+                     "name":"Ac_35_70_04: Ash urn storing"
+                  },
+                  {
+                     "name":"Ac_35_70_10: Burial"
+                  },
+                  {
+                     "name":"Ac_35_70_18: Cremating"
+                  },
+                  {
+                     "name":"Ac_35_70_42: Interment in a vault or tomb"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_35_80: Sanitary activities",
+               "children":[
+                  {
+                     "name":"Ac_35_80_06: Baby changing"
+                  },
+                  {
+                     "name":"Ac_35_80_07: Bathing"
+                  },
+                  {
+                     "name":"Ac_35_80_80: Showering"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_35_85: Animal activities",
+               "children":[
+                  {
+                     "name":"Ac_35_85_02: Animal care"
+                  },
+                  {
+                     "name":"Ac_35_85_04: Animal exercising"
+                  },
+                  {
+                     "name":"Ac_35_85_88: Tack maintaining"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_35_90: Animal medical, health, welfare, funerary and sanitary activities",
+               "children":[
+                  {
+                     "name":"Ac_35_90_25: Animal drug dispensing"
+                  },
+                  {
+                     "name":"Ac_35_90_32: Animal funerary activities"
+                  },
+                  {
+                     "name":"Ac_35_90_34: Animal grooming"
+                  },
+                  {
+                     "name":"Ac_35_90_39: Animal hydrotherapy"
+                  },
+                  {
+                     "name":"Ac_35_90_59: Veterinary caring"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ac_40: Recreational activities",
+         "children":[
+            {
+               "name":"Ac_40_05: Amusement activities",
+               "children":[
+                  {
+                     "name":"Ac_40_05_03: Amusement arcade activities"
+                  },
+                  {
+                     "name":"Ac_40_05_33: Gambling"
+                  },
+                  {
+                     "name":"Ac_40_05_42: Indoor fairground riding"
+                  },
+                  {
+                     "name":"Ac_40_05_58: Observing"
+                  },
+                  {
+                     "name":"Ac_40_05_59: Outdoor activities"
+                  },
+                  {
+                     "name":"Ac_40_05_60: Outdoor fairground riding"
+                  },
+                  {
+                     "name":"Ac_40_05_63: Playing"
+                  },
+                  {
+                     "name":"Ac_40_05_89: Theme park activities"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_40_20: Dining activities",
+               "children":[
+                  {
+                     "name":"Ac_40_20_09: Beverage dispensing"
+                  },
+                  {
+                     "name":"Ac_40_20_27: Enclosed dining"
+                  },
+                  {
+                     "name":"Ac_40_20_28: Food dispensing"
+                  },
+                  {
+                     "name":"Ac_40_20_59: Outdoor dining"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_40_35: Historic recreational activities",
+               "children":[
+                  {
+                     "name":"Ac_40_35_37: Historic earthworks exploring"
+                  },
+                  {
+                     "name":"Ac_40_35_38: Historic ruins exploring"
+                  },
+                  {
+                     "name":"Ac_40_35_39: Historic sites exploring"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_40_60: Performing arts performance activities",
+               "children":[
+                  {
+                     "name":"Ac_40_60_13: Circus performing"
+                  },
+                  {
+                     "name":"Ac_40_60_21: Dancing"
+                  },
+                  {
+                     "name":"Ac_40_60_29: Fashion showing"
+                  },
+                  {
+                     "name":"Ac_40_60_30: Filming"
+                  },
+                  {
+                     "name":"Ac_40_60_31: Film screening"
+                  },
+                  {
+                     "name":"Ac_40_60_38: Indoor music performing"
+                  },
+                  {
+                     "name":"Ac_40_60_40: Indoor theatre activities"
+                  },
+                  {
+                     "name":"Ac_40_60_55: Music recording"
+                  },
+                  {
+                     "name":"Ac_40_60_58: Outdoor music performing"
+                  },
+                  {
+                     "name":"Ac_40_60_59: Outdoor theatre activities"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_40_65: Performing arts ancillary activities",
+               "children":[
+                  {
+                     "name":"Ac_40_65_02: Amphitheatre seating"
+                  },
+                  {
+                     "name":"Ac_40_65_03: Artiste changing and make-up activities"
+                  },
+                  {
+                     "name":"Ac_40_65_04: Audience breaking out"
+                  },
+                  {
+                     "name":"Ac_40_65_05: Audience seating"
+                  },
+                  {
+                     "name":"Ac_40_65_06: Backstage activities"
+                  },
+                  {
+                     "name":"Ac_40_65_55: Music recording controlling"
+                  },
+                  {
+                     "name":"Ac_40_65_59: Overhead scenery storing"
+                  },
+                  {
+                     "name":"Ac_40_65_76: Scenery controlling"
+                  },
+                  {
+                     "name":"Ac_40_65_79: Sound controlling"
+                  },
+                  {
+                     "name":"Ac_40_65_80: Sound excluding"
+                  },
+                  {
+                     "name":"Ac_40_65_88: Theatrical lighting controlling"
+                  },
+                  {
+                     "name":"Ac_40_65_89: Theatrical rehearsing"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ac_42: Sports activities",
+         "children":[
+            {
+               "name":"Ac_42_15: Courts, pitches and field sport activities",
+               "children":[
+                  {
+                     "name":"Ac_42_15_30: Field athletics"
+                  },
+                  {
+                     "name":"Ac_42_15_42: Indoor court sports"
+                  },
+                  {
+                     "name":"Ac_42_15_58: Outdoor court sports"
+                  },
+                  {
+                     "name":"Ac_42_15_59: Outdoor field sports"
+                  },
+                  {
+                     "name":"Ac_42_15_90: Track athletics"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_42_40: Indoor sports activities",
+               "children":[
+                  {
+                     "name":"Ac_42_40_09: Bouldering"
+                  },
+                  {
+                     "name":"Ac_42_40_14: Climbing wall activities"
+                  },
+                  {
+                     "name":"Ac_42_40_28: Exercising"
+                  },
+                  {
+                     "name":"Ac_42_40_37: Gymnastics"
+                  },
+                  {
+                     "name":"Ac_42_40_79: Snooker, billiards and pool"
+                  },
+                  {
+                     "name":"Ac_42_40_90: Ten pin bowling"
+                  },
+                  {
+                     "name":"Ac_42_40_92: Track cycling"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_42_55: Outdoor sports activities",
+               "children":[
+                  {
+                     "name":"Ac_42_55_01: Archery"
+                  },
+                  {
+                     "name":"Ac_42_55_07: BMX cycling"
+                  },
+                  {
+                     "name":"Ac_42_55_08: Bowling"
+                  },
+                  {
+                     "name":"Ac_42_55_18: Cross-country cycling"
+                  },
+                  {
+                     "name":"Ac_42_55_19: Cross-country rallying"
+                  },
+                  {
+                     "name":"Ac_42_55_20: Cross-country running"
+                  },
+                  {
+                     "name":"Ac_42_55_23: Dog racing"
+                  },
+                  {
+                     "name":"Ac_42_55_26: Equestrian dressage"
+                  },
+                  {
+                     "name":"Ac_42_55_27: Equestrian cross country eventing"
+                  },
+                  {
+                     "name":"Ac_42_55_28: Equestrian show jumping"
+                  },
+                  {
+                     "name":"Ac_42_55_30: Fishing"
+                  },
+                  {
+                     "name":"Ac_42_55_34: Golfing"
+                  },
+                  {
+                     "name":"Ac_42_55_39: Horse racing"
+                  },
+                  {
+                     "name":"Ac_42_55_40: Hunting"
+                  },
+                  {
+                     "name":"Ac_42_55_53: Motor racing"
+                  },
+                  {
+                     "name":"Ac_42_55_58: Orienteering"
+                  },
+                  {
+                     "name":"Ac_42_55_60: Parkour"
+                  },
+                  {
+                     "name":"Ac_42_55_70: Recreational cycling"
+                  },
+                  {
+                     "name":"Ac_42_55_71: Recreational walking"
+                  },
+                  {
+                     "name":"Ac_42_55_72: Riding"
+                  },
+                  {
+                     "name":"Ac_42_55_74: Running"
+                  },
+                  {
+                     "name":"Ac_42_55_76: Skateboarding"
+                  },
+                  {
+                     "name":"Ac_42_55_82: Speedway racing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_42_80: Sports ancillary activities",
+               "children":[
+                  {
+                     "name":"Ac_42_80_15: Corporate and VIP spectating"
+                  },
+                  {
+                     "name":"Ac_42_80_50: Manager and coach seating"
+                  },
+                  {
+                     "name":"Ac_42_80_65: Press spectating"
+                  },
+                  {
+                     "name":"Ac_42_80_72: Reserves seating"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_42_85: Swimming activities",
+               "children":[
+                  {
+                     "name":"Ac_42_85_15: Competition swimming"
+                  },
+                  {
+                     "name":"Ac_42_85_22: Diving"
+                  },
+                  {
+                     "name":"Ac_42_85_71: Recreational swimming"
+                  },
+                  {
+                     "name":"Ac_42_85_80: Spa activities"
+                  },
+                  {
+                     "name":"Ac_42_85_92: Underwater observation"
+                  },
+                  {
+                     "name":"Ac_42_85_94: Water flume, slide and tube riding"
+                  },
+                  {
+                     "name":"Ac_42_85_95: Water polo"
+                  },
+                  {
+                     "name":"Ac_42_85_97: Wave riding"
+                  },
+                  {
+                     "name":"Ac_42_85_98: Whirlpool bath activities"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_42_90: Water activities",
+               "children":[
+                  {
+                     "name":"Ac_42_90_11: Canoe slalom"
+                  },
+                  {
+                     "name":"Ac_42_90_12: Canoe sprint"
+                  },
+                  {
+                     "name":"Ac_42_90_50: Motor boating"
+                  },
+                  {
+                     "name":"Ac_42_90_73: Rowing"
+                  },
+                  {
+                     "name":"Ac_42_90_75: Sailing"
+                  },
+                  {
+                     "name":"Ac_42_90_97: Water skiing"
+                  },
+                  {
+                     "name":"Ac_42_90_98: White water canoeing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_42_95: Winter sports activities",
+               "children":[
+                  {
+                     "name":"Ac_42_95_02: Alpine skiing"
+                  },
+                  {
+                     "name":"Ac_42_95_08: Bobsleighing"
+                  },
+                  {
+                     "name":"Ac_42_95_19: Cross-country skiing"
+                  },
+                  {
+                     "name":"Ac_42_95_20: Curling"
+                  },
+                  {
+                     "name":"Ac_42_95_32: Freestyle skiing"
+                  },
+                  {
+                     "name":"Ac_42_95_40: Ice skating"
+                  },
+                  {
+                     "name":"Ac_42_95_41: Ice hockey"
+                  },
+                  {
+                     "name":"Ac_42_95_49: Luge"
+                  },
+                  {
+                     "name":"Ac_42_95_76: Short track speed skating"
+                  },
+                  {
+                     "name":"Ac_42_95_77: Skeleton sledding"
+                  },
+                  {
+                     "name":"Ac_42_95_78: Skiing"
+                  },
+                  {
+                     "name":"Ac_42_95_79: Ski jumping"
+                  },
+                  {
+                     "name":"Ac_42_95_80: Snowboarding"
+                  },
+                  {
+                     "name":"Ac_42_95_83: Speed skating"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ac_45: Residential activities",
+         "children":[
+            {
+               "name":"Ac_45_10: Residential activities",
+               "children":[
+                  {
+                     "name":"Ac_45_10_11: Camping"
+                  },
+                  {
+                     "name":"Ac_45_10_12: Caravanning"
+                  },
+                  {
+                     "name":"Ac_45_10_14: Communal socializing"
+                  },
+                  {
+                     "name":"Ac_45_10_16: Concierge servicing"
+                  },
+                  {
+                     "name":"Ac_45_10_22: Dining"
+                  },
+                  {
+                     "name":"Ac_45_10_33: Gardening"
+                  },
+                  {
+                     "name":"Ac_45_10_79: Sleeping"
+                  },
+                  {
+                     "name":"Ac_45_10_87: Studying"
+                  },
+                  {
+                     "name":"Ac_45_10_93: Utility activities"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ac_50: Waste disposal activities",
+         "children":[
+            {
+               "name":"Ac_50_40: Dry waste collecting",
+               "children":[
+                  {
+                     "name":"Ac_50_40_72: Refuse storing"
+                  },
+                  {
+                     "name":"Ac_50_40_78: Scrapping"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ac_55: Piped supply activities"
+      },
+      {
+         "name":"Ac_60: Heating, cooling and refrigeration activities"
+      },
+      {
+         "name":"Ac_65: Ventilation and air conditioning activities"
+      },
+      {
+         "name":"Ac_70: Electrical activities"
+      },
+      {
+         "name":"Ac_75: Communications, security, safety and protection activities"
+      },
+      {
+         "name":"Ac_80: Transport activities",
+         "children":[
+            {
+               "name":"Ac_80_00: Accommodation works activities"
+            },
+            {
+               "name":"Ac_80_05: Aerospace ground activities",
+               "children":[
+                  {
+                     "name":"Ac_80_05_02: Aeroplane landing"
+                  },
+                  {
+                     "name":"Ac_80_05_03: Aeroplane take-off"
+                  },
+                  {
+                     "name":"Ac_80_05_05: Aircraft manoeuvring"
+                  },
+                  {
+                     "name":"Ac_80_05_06: Aircraft manoeuvring buffering"
+                  },
+                  {
+                     "name":"Ac_80_05_07: Aircraft standing"
+                  },
+                  {
+                     "name":"Ac_80_05_08: Aircraft storing"
+                  },
+                  {
+                     "name":"Ac_80_05_09: Airport controlling"
+                  },
+                  {
+                     "name":"Ac_80_05_33: Glider landing"
+                  },
+                  {
+                     "name":"Ac_80_05_34: Glider take-off"
+                  },
+                  {
+                     "name":"Ac_80_05_36: Hang gliding landing"
+                  },
+                  {
+                     "name":"Ac_80_05_37: Hang gliding take-off"
+                  },
+                  {
+                     "name":"Ac_80_05_38: Helicopter landing"
+                  },
+                  {
+                     "name":"Ac_80_05_39: Helicopter take-off"
+                  },
+                  {
+                     "name":"Ac_80_05_82: Spacecraft landing"
+                  },
+                  {
+                     "name":"Ac_80_05_84: Spacecraft take-off"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_80_10: Loading and embarkation activities",
+               "children":[
+                  {
+                     "name":"Ac_80_10_04: Aircraft fuelling"
+                  },
+                  {
+                     "name":"Ac_80_10_06: Baggage claiming"
+                  },
+                  {
+                     "name":"Ac_80_10_07: Baggage handling"
+                  },
+                  {
+                     "name":"Ac_80_10_08: Baggage loading"
+                  },
+                  {
+                     "name":"Ac_80_10_12: Cargo handling"
+                  },
+                  {
+                     "name":"Ac_80_10_13: Cargo loading"
+                  },
+                  {
+                     "name":"Ac_80_10_20: Customs controlling"
+                  },
+                  {
+                     "name":"Ac_80_10_60: Passenger arriving"
+                  },
+                  {
+                     "name":"Ac_80_10_61: Passenger departing"
+                  },
+                  {
+                     "name":"Ac_80_10_62: Passenger disembarking"
+                  },
+                  {
+                     "name":"Ac_80_10_63: Passenger embarking"
+                  },
+                  {
+                     "name":"Ac_80_10_64: Passenger gathering"
+                  },
+                  {
+                     "name":"Ac_80_10_65: Passport controlling"
+                  },
+                  {
+                     "name":"Ac_80_10_86: Ticketing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_80_15: Aerospace maintenance activities",
+               "children":[
+                  {
+                     "name":"Ac_80_15_01: Aircraft cleaning"
+                  },
+                  {
+                     "name":"Ac_80_15_02: Aircraft maintaining"
+                  },
+                  {
+                     "name":"Ac_80_15_04: Aircraft repairing"
+                  },
+                  {
+                     "name":"Ac_80_15_79: Spacecraft cleaning"
+                  },
+                  {
+                     "name":"Ac_80_15_80: Spacecraft maintaining"
+                  },
+                  {
+                     "name":"Ac_80_15_81: Spacecraft preparing"
+                  },
+                  {
+                     "name":"Ac_80_15_82: Spacecraft repairing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_80_20: Cable way activities",
+               "children":[
+                  {
+                     "name":"Ac_80_20_13: Cableway travelling"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_80_30: Cable transport storage and maintenance activities",
+               "children":[
+                  {
+                     "name":"Ac_80_30_34: Gondola repair and cleaning"
+                  },
+                  {
+                     "name":"Ac_80_30_35: Gondola storing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_80_35: Highway activities",
+               "children":[
+                  {
+                     "name":"Ac_80_35_08: Bus manoeuvring"
+                  },
+                  {
+                     "name":"Ac_80_35_12: Car manoeuvring"
+                  },
+                  {
+                     "name":"Ac_80_35_16: Carriageway separating"
+                  },
+                  {
+                     "name":"Ac_80_35_24: Driving"
+                  },
+                  {
+                     "name":"Ac_80_35_46: Laying-by and passing"
+                  },
+                  {
+                     "name":"Ac_80_35_63: Pedestrian crossing"
+                  },
+                  {
+                     "name":"Ac_80_35_64: Pedestrian standing"
+                  },
+                  {
+                     "name":"Ac_80_35_70: Railway crossing"
+                  },
+                  {
+                     "name":"Ac_80_35_73: Road buffering"
+                  },
+                  {
+                     "name":"Ac_80_35_90: Truck manoeuvring"
+                  },
+                  {
+                     "name":"Ac_80_35_95: Vehicle manoeuvring"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_80_45: Highway storage and maintenance activities",
+               "children":[
+                  {
+                     "name":"Ac_80_45_09: Bus standing"
+                  },
+                  {
+                     "name":"Ac_80_45_40: Indoor vehicle parking"
+                  },
+                  {
+                     "name":"Ac_80_45_59: Outdoor vehicle parking"
+                  },
+                  {
+                     "name":"Ac_80_45_91: Truck standing"
+                  },
+                  {
+                     "name":"Ac_80_45_94: Vehicle fuelling and charging"
+                  },
+                  {
+                     "name":"Ac_80_45_95: Vehicle inspecting"
+                  },
+                  {
+                     "name":"Ac_80_45_96: Vehicle servicing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_80_50: Railway activities",
+               "children":[
+                  {
+                     "name":"Ac_80_50_50: Marshalling"
+                  },
+                  {
+                     "name":"Ac_80_50_70: Rail over passing"
+                  },
+                  {
+                     "name":"Ac_80_50_71: Rail signal controlling"
+                  },
+                  {
+                     "name":"Ac_80_50_73: Railway track buffering"
+                  },
+                  {
+                     "name":"Ac_80_50_75: Railway travel"
+                  },
+                  {
+                     "name":"Ac_80_50_76: Rail under passing"
+                  },
+                  {
+                     "name":"Ac_80_50_90: Train stopping"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_80_60: Rail storage and maintenance activities",
+               "children":[
+                  {
+                     "name":"Ac_80_60_11: Carriage cleaning"
+                  },
+                  {
+                     "name":"Ac_80_60_26: Engine fuelling"
+                  },
+                  {
+                     "name":"Ac_80_60_27: Engine inspecting"
+                  },
+                  {
+                     "name":"Ac_80_60_28: Engine servicing"
+                  },
+                  {
+                     "name":"Ac_80_60_29: Engine washing"
+                  },
+                  {
+                     "name":"Ac_80_60_70: Rail repairing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_80_70: Marine way and waterway activities",
+               "children":[
+                  {
+                     "name":"Ac_80_70_11: Canal level changing"
+                  },
+                  {
+                     "name":"Ac_80_70_12: Canal travelling"
+                  },
+                  {
+                     "name":"Ac_80_70_37: Harbour level changing"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_80_94: Bridge function",
+               "children":[
+                  {
+                     "name":"Ac_80_94_41: Bridge inspecting"
+                  },
+                  {
+                     "name":"Ac_80_94_60: Passing over a bridge"
+                  },
+                  {
+                     "name":"Ac_80_94_90: Passing under a bridge"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ac_85: Operation and maintenance activities",
+         "children":[
+            {
+               "name":"Ac_85_10: Barrier and fence maintenance activities",
+               "children":[
+                  {
+                     "name":"Ac_85_10_06: Barrier maintenance"
+                  },
+                  {
+                     "name":"Ac_85_10_30: Fencing maintenance"
+                  },
+                  {
+                     "name":"Ac_85_10_45: Kerbs and channels maintenance"
+                  },
+                  {
+                     "name":"Ac_85_10_95: Vehicle restraint systems maintenance"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_85_30: Flora maintenance activities",
+               "children":[
+                  {
+                     "name":"Ac_85_30_01: Amenity grass maintenance"
+                  },
+                  {
+                     "name":"Ac_85_30_02: Amenity planting maintenance"
+                  },
+                  {
+                     "name":"Ac_85_30_04: Aquatic and wetland planting maintenance"
+                  },
+                  {
+                     "name":"Ac_85_30_28: External container planting maintenance"
+                  },
+                  {
+                     "name":"Ac_85_30_30: Forestry maintenance"
+                  },
+                  {
+                     "name":"Ac_85_30_37: Hedgerow maintenance"
+                  },
+                  {
+                     "name":"Ac_85_30_40: Internal container planting maintenance"
+                  },
+                  {
+                     "name":"Ac_85_30_47: Living roof maintenance"
+                  },
+                  {
+                     "name":"Ac_85_30_50: Meadow grass maintenance"
+                  },
+                  {
+                     "name":"Ac_85_30_80: Sports turf maintenance"
+                  },
+                  {
+                     "name":"Ac_85_30_95: Vegetation control maintenance"
+                  },
+                  {
+                     "name":"Ac_85_30_97: Wildflowers meadow maintenance"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_85_50: Marine maintenance activities",
+               "children":[
+                  {
+                     "name":"Ac_85_50_24: Dredging"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_85_60: Paving maintenance activities",
+               "children":[
+                  {
+                     "name":"Ac_85_60_02: Asphalt paving maintenance"
+                  },
+                  {
+                     "name":"Ac_85_60_04: Asphalt sports paving maintenance"
+                  },
+                  {
+                     "name":"Ac_85_60_10: Bound aggregate paving maintenance"
+                  },
+                  {
+                     "name":"Ac_85_60_50: Mat and sheet paving maintenance"
+                  },
+                  {
+                     "name":"Ac_85_60_80: Sport or play paving maintenance"
+                  },
+                  {
+                     "name":"Ac_85_60_82: Sports or play unbound paving maintenance"
+                  },
+                  {
+                     "name":"Ac_85_60_92: Unbound paving maintenance"
+                  },
+                  {
+                     "name":"Ac_85_60_93: Unit paving maintenance"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_85_65: Plant and controls operating",
+               "children":[
+                  {
+                     "name":"Ac_85_65_08: Boiler operating"
+                  },
+                  {
+                     "name":"Ac_85_65_15: Controlling"
+                  },
+                  {
+                     "name":"Ac_85_65_26: Electrical switching"
+                  },
+                  {
+                     "name":"Ac_85_65_27: Equipment operating"
+                  },
+                  {
+                     "name":"Ac_85_65_32: Furnace operating"
+                  },
+                  {
+                     "name":"Ac_85_65_42: Incinerating"
+                  },
+                  {
+                     "name":"Ac_85_65_48: Lift machine operating"
+                  },
+                  {
+                     "name":"Ac_85_65_50: Meter checking"
+                  },
+                  {
+                     "name":"Ac_85_65_64: Plant operating"
+                  },
+                  {
+                     "name":"Ac_85_65_77: Server operating"
+                  },
+                  {
+                     "name":"Ac_85_65_90: Transformer operating"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_85_70: Retrospective application activities",
+               "children":[
+                  {
+                     "name":"Ac_85_70_40: Insulating and waterproofing retrofitted living roofs"
+                  },
+                  {
+                     "name":"Ac_85_70_70: Retrospective applying of fire retardant treatment"
+                  },
+                  {
+                     "name":"Ac_85_70_75: Retrospective applying of preservative treatment"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ac_90: Circulation and plant activities",
+         "children":[
+            {
+               "name":"Ac_90_10: Circulation activities",
+               "children":[
+                  {
+                     "name":"Ac_90_10_02: Air blocking"
+                  },
+                  {
+                     "name":"Ac_90_10_14: Circulating between rooms"
+                  },
+                  {
+                     "name":"Ac_90_10_16: Covered walking"
+                  },
+                  {
+                     "name":"Ac_90_10_24: Dropping-off and collecting"
+                  },
+                  {
+                     "name":"Ac_90_10_27: Entering and exiting"
+                  },
+                  {
+                     "name":"Ac_90_10_34: Goods conveying"
+                  },
+                  {
+                     "name":"Ac_90_10_49: Lift stopping and calling"
+                  },
+                  {
+                     "name":"Ac_90_10_50: Lift travelling"
+                  },
+                  {
+                     "name":"Ac_90_10_77: Sheltering"
+                  },
+                  {
+                     "name":"Ac_90_10_78: Shoppers moving and circulation"
+                  },
+                  {
+                     "name":"Ac_90_10_93: Uncovered walking"
+                  },
+                  {
+                     "name":"Ac_90_10_96: Wheelchair travelling"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_90_20: Common activities",
+               "children":[
+                  {
+                     "name":"Ac_90_20_09: Briefing"
+                  },
+                  {
+                     "name":"Ac_90_20_13: Changing"
+                  },
+                  {
+                     "name":"Ac_90_20_42: Interviewing"
+                  },
+                  {
+                     "name":"Ac_90_20_69: Queuing"
+                  },
+                  {
+                     "name":"Ac_90_20_72: Resting"
+                  },
+                  {
+                     "name":"Ac_90_20_82: Spectator seating"
+                  },
+                  {
+                     "name":"Ac_90_20_83: Spectator standing"
+                  },
+                  {
+                     "name":"Ac_90_20_96: Waiting"
+                  }
+               ]
+            },
+            {
+               "name":"Ac_90_50: Storing activities",
+               "children":[
+                  {
+                     "name":"Ac_90_50_02: Aircraft storing"
+                  },
+                  {
+                     "name":"Ac_90_50_04: Arms storing"
+                  },
+                  {
+                     "name":"Ac_90_50_06: Baggage storing"
+                  },
+                  {
+                     "name":"Ac_90_50_07: Beer storing"
+                  },
+                  {
+                     "name":"Ac_90_50_09: Blood storing"
+                  },
+                  {
+                     "name":"Ac_90_50_10: Boat storing"
+                  },
+                  {
+                     "name":"Ac_90_50_11: Cargo storing"
+                  },
+                  {
+                     "name":"Ac_90_50_13: Chemicals storing"
+                  },
+                  {
+                     "name":"Ac_90_50_14: Clothes storing"
+                  },
+                  {
+                     "name":"Ac_90_50_15: Cold storing"
+                  },
+                  {
+                     "name":"Ac_90_50_24: Dry waste storing"
+                  },
+                  {
+                     "name":"Ac_90_50_25: Evidence storing"
+                  },
+                  {
+                     "name":"Ac_90_50_26: Explosives storing"
+                  },
+                  {
+                     "name":"Ac_90_50_28: Feed storing"
+                  },
+                  {
+                     "name":"Ac_90_50_29: Flammable chemicals storing"
+                  },
+                  {
+                     "name":"Ac_90_50_30: Food storing"
+                  },
+                  {
+                     "name":"Ac_90_50_32: Fuel storing"
+                  },
+                  {
+                     "name":"Ac_90_50_34: Gas storing"
+                  },
+                  {
+                     "name":"Ac_90_50_35: General storing"
+                  },
+                  {
+                     "name":"Ac_90_50_36: Glider storing"
+                  },
+                  {
+                     "name":"Ac_90_50_37: Goods storing"
+                  },
+                  {
+                     "name":"Ac_90_50_39: Grain storing"
+                  },
+                  {
+                     "name":"Ac_90_50_41: Hang glider storing"
+                  },
+                  {
+                     "name":"Ac_90_50_42: Hazardous waste storing"
+                  },
+                  {
+                     "name":"Ac_90_50_44: Helicoptor storing"
+                  },
+                  {
+                     "name":"Ac_90_50_47: Left luggage storing"
+                  },
+                  {
+                     "name":"Ac_90_50_52: Medical records storing"
+                  },
+                  {
+                     "name":"Ac_90_50_53: Mineral storing"
+                  },
+                  {
+                     "name":"Ac_90_50_58: Oil storing"
+                  },
+                  {
+                     "name":"Ac_90_50_59: Outdoor storing"
+                  },
+                  {
+                     "name":"Ac_90_50_65: Pharmacy storing"
+                  },
+                  {
+                     "name":"Ac_90_50_70: Raw materials storing"
+                  },
+                  {
+                     "name":"Ac_90_50_75: Scientific equipment storing"
+                  },
+                  {
+                     "name":"Ac_90_50_77: Secure storing"
+                  },
+                  {
+                     "name":"Ac_90_50_80: Solid fuel storing"
+                  },
+                  {
+                     "name":"Ac_90_50_84: Storage of human remains"
+                  },
+                  {
+                     "name":"Ac_90_50_91: Vehicle storing"
+                  },
+                  {
+                     "name":"Ac_90_50_92: Walk-in clothes storing"
+                  },
+                  {
+                     "name":"Ac_90_50_93: Waste gas storing"
+                  },
+                  {
+                     "name":"Ac_90_50_94: Waste liquids storing"
+                  },
+                  {
+                     "name":"Ac_90_50_95: Waste solids storing"
+                  },
+                  {
+                     "name":"Ac_90_50_96: Water storing"
+                  },
+                  {
+                     "name":"Ac_90_50_97: Wet waste storing"
+                  },
+                  {
+                     "name":"Ac_90_50_98: Wine storing"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

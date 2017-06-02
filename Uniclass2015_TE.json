@@ -1,0 +1,2498 @@
+﻿{
+   "name":"Uniclass2015_TE",
+   "children":[
+      {
+         "name":"TE_10: Formwork",
+         "children":[
+            {
+               "name":"TE_10_10: Wall and floor formwork systems",
+               "children":[
+                  {
+                     "name":"TE_10_10_20: Face contact material",
+                     "children":[
+                        {
+                           "name":"TE_10_10_20_07: Beam boxes"
+                        },
+                        {
+                           "name":"TE_10_10_20_24: Draw forms"
+                        },
+                        {
+                           "name":"TE_10_10_20_30: Formwork lining"
+                        },
+                        {
+                           "name":"TE_10_10_20_31: Formwork panels"
+                        },
+                        {
+                           "name":"TE_10_10_20_46: Lap plates"
+                        },
+                        {
+                           "name":"TE_10_10_20_85: Stop end forms"
+                        },
+                        {
+                           "name":"TE_10_10_20_97: Wrecking strips"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_10_10_50: Structural members",
+                     "children":[
+                        {
+                           "name":"TE_10_10_50_85: Strongbacks"
+                        },
+                        {
+                           "name":"TE_10_10_50_96: Walers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_10_10_70: Box out",
+                     "children":[
+                        {
+                           "name":"TE_10_10_70_16: Core forms"
+                        },
+                        {
+                           "name":"TE_10_10_70_23: Door formers"
+                        },
+                        {
+                           "name":"TE_10_10_70_94: Void forms"
+                        },
+                        {
+                           "name":"TE_10_10_70_96: Window formers"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_10_40: Form laying equipment, sheets and accessories",
+               "children":[
+                  {
+                     "name":"TE_10_40_10: Access doors and traps"
+                  },
+                  {
+                     "name":"TE_10_40_20: Clamps",
+                     "children":[
+                        {
+                           "name":"TE_10_40_20_07: Beam shutter clamps"
+                        },
+                        {
+                           "name":"TE_10_40_20_16: Column shutter clamps"
+                        },
+                        {
+                           "name":"TE_10_40_20_60: Panel clamps"
+                        },
+                        {
+                           "name":"TE_10_40_20_96: Wall shutter clamps"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_10_40_30: Formwork ties",
+                     "children":[
+                        {
+                           "name":"TE_10_40_30_16: Coil ties"
+                        },
+                        {
+                           "name":"TE_10_40_30_36: Hanger ties"
+                        },
+                        {
+                           "name":"TE_10_40_30_64: Pigtail ties"
+                        },
+                        {
+                           "name":"TE_10_40_30_80: Snap ties"
+                        },
+                        {
+                           "name":"TE_10_40_30_87: Taper ties"
+                        },
+                        {
+                           "name":"TE_10_40_30_89: Tie sleeves"
+                        },
+                        {
+                           "name":"TE_10_40_30_90: Through ties"
+                        },
+                        {
+                           "name":"TE_10_40_30_96: Water bar ties"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_10_40_40: Keys"
+                  },
+                  {
+                     "name":"TE_10_40_50: Road forms"
+                  },
+                  {
+                     "name":"TE_10_40_60: Shutters/ sheeting"
+                  },
+                  {
+                     "name":"TE_10_40_70: Telescopic floor centres"
+                  },
+                  {
+                     "name":"TE_10_40_80: Wedges"
+                  },
+                  {
+                     "name":"TE_10_40_90: Wrot"
+                  }
+               ]
+            },
+            {
+               "name":"TE_10_60: Formwork sealing and cleaning products"
+            },
+            {
+               "name":"TE_10_80: Formwork scaffolding and supports",
+               "children":[
+                  {
+                     "name":"TE_10_80_10: Telescopic props"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"TE_20: Scaffolding, access, shoring and fencing",
+         "children":[
+            {
+               "name":"TE_20_10: Complete scaffolding",
+               "children":[
+                  {
+                     "name":"TE_20_10_10: Access towers",
+                     "children":[
+                        {
+                           "name":"TE_20_10_10_46: Ladder towers"
+                        },
+                        {
+                           "name":"TE_20_10_10_85: Stair towers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_20_10_20: Mobile working towers"
+                  },
+                  {
+                     "name":"TE_20_10_30: Mobile elevating work platform"
+                  },
+                  {
+                     "name":"TE_20_10_50: Prefabricated scaffold",
+                     "children":[
+                        {
+                           "name":"TE_20_10_50_31: Frame scaffold"
+                        },
+                        {
+                           "name":"TE_20_10_50_86: System scaffold"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_20_10_60: Scaffolding",
+                     "children":[
+                        {
+                           "name":"TE_20_10_60_08: Bracket scaffold"
+                        },
+                        {
+                           "name":"TE_20_10_60_11: Cantilevered scaffold"
+                        },
+                        {
+                           "name":"TE_20_10_60_29: Facade scaffold"
+                        },
+                        {
+                           "name":"TE_20_10_60_31: Free standing scaffold"
+                        },
+                        {
+                           "name":"TE_20_10_60_68: Putlog scaffold"
+                        },
+                        {
+                           "name":"TE_20_10_60_85: Suspended scaffold"
+                        },
+                        {
+                           "name":"TE_20_10_60_88: Timber scaffold"
+                        },
+                        {
+                           "name":"TE_20_10_60_90: Trestle scaffold"
+                        },
+                        {
+                           "name":"TE_20_10_60_91: Tube and coupler scaffold"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_20_10_80: Suspended work platform"
+                  }
+               ]
+            },
+            {
+               "name":"TE_20_30: Scaffolding parts",
+               "children":[
+                  {
+                     "name":"TE_20_30_10: Access ways",
+                     "children":[
+                        {
+                           "name":"TE_20_30_10_47: Landings"
+                        },
+                        {
+                           "name":"TE_20_30_10_85: Stairways"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_20_30_20: Cages"
+                  },
+                  {
+                     "name":"TE_20_30_30: Guardrails",
+                     "children":[
+                        {
+                           "name":"TE_20_30_30_35: Guardboards"
+                        },
+                        {
+                           "name":"TE_20_30_30_36: Handrails"
+                        },
+                        {
+                           "name":"TE_20_30_30_41: Intermediate guardrails"
+                        },
+                        {
+                           "name":"TE_20_30_30_89: Toe boards"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_20_30_40: Frames and framing members",
+                     "children":[
+                        {
+                           "name":"TE_20_30_40_46: Lateral braces"
+                        },
+                        {
+                           "name":"TE_20_30_40_48: Longitudinal braces"
+                        },
+                        {
+                           "name":"TE_20_30_40_59: Outriggers"
+                        },
+                        {
+                           "name":"TE_20_30_40_64: Plan braces"
+                        },
+                        {
+                           "name":"TE_20_30_40_68: Putlogs"
+                        },
+                        {
+                           "name":"TE_20_30_40_85: Standards"
+                        },
+                        {
+                           "name":"TE_20_30_40_90: Transoms"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_20_30_50: Scaffold fittings",
+                     "children":[
+                        {
+                           "name":"TE_20_30_50_03: Anchorages"
+                        },
+                        {
+                           "name":"TE_20_30_50_06: Base plates"
+                        },
+                        {
+                           "name":"TE_20_30_50_28: Expanding spigots"
+                        },
+                        {
+                           "name":"TE_20_30_50_48: Loose spigots"
+                        },
+                        {
+                           "name":"TE_20_30_50_60: Parallel couplers"
+                        },
+                        {
+                           "name":"TE_20_30_50_68: Putlog clips"
+                        },
+                        {
+                           "name":"TE_20_30_50_72: Right angle couplers"
+                        },
+                        {
+                           "name":"TE_20_30_50_80: Sleeve couplers"
+                        },
+                        {
+                           "name":"TE_20_30_50_86: Swivel couplers"
+                        },
+                        {
+                           "name":"TE_20_30_50_88: Tie members"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_20_30_60: Stabilisers",
+                     "children":[
+                        {
+                           "name":"TE_20_30_60_06: Ballast"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_20_30_70: Protection screens",
+                     "children":[
+                        {
+                           "name":"TE_20_30_70_78: Sheeting"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_20_30_80: Work platforms",
+                     "children":[
+                        {
+                           "name":"TE_20_30_80_01: Adjustable platforms"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_20_40: Access equipment",
+               "children":[
+                  {
+                     "name":"TE_20_40_10: Ladders and steps",
+                     "children":[
+                        {
+                           "name":"TE_20_40_10_03: A-frame ladders"
+                        },
+                        {
+                           "name":"TE_20_40_10_28: Extension ladders"
+                        },
+                        {
+                           "name":"TE_20_40_10_38: Hop-up steps"
+                        },
+                        {
+                           "name":"TE_20_40_10_64: Platform step ladders"
+                        },
+                        {
+                           "name":"TE_20_40_10_66: Podium ladders"
+                        },
+                        {
+                           "name":"TE_20_40_10_85: Swing-back step ladders"
+                        },
+                        {
+                           "name":"TE_20_40_10_88: Telescopic ladders"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_20_50: Shoring, planking and strutting",
+               "children":[
+                  {
+                     "name":"TE_20_50_10: Adjustable struts"
+                  },
+                  {
+                     "name":"TE_20_50_20: Baulk timber"
+                  },
+                  {
+                     "name":"TE_20_50_30: Dogs"
+                  },
+                  {
+                     "name":"TE_20_50_40: Folding wedges"
+                  },
+                  {
+                     "name":"TE_20_50_50: Needles"
+                  },
+                  {
+                     "name":"TE_20_50_60: Planking/ strutting timber"
+                  },
+                  {
+                     "name":"TE_20_50_70: Sole plates"
+                  }
+               ]
+            },
+            {
+               "name":"TE_20_80: Temporary fencing structures",
+               "children":[
+                  {
+                     "name":"TE_20_80_20: Fencing boarding"
+                  },
+                  {
+                     "name":"TE_20_80_30: Fencing chestnut"
+                  },
+                  {
+                     "name":"TE_20_80_40: Fencing panels"
+                  },
+                  {
+                     "name":"TE_20_80_50: Fencing supports"
+                  },
+                  {
+                     "name":"TE_20_80_80: Temporary hoardings",
+                     "children":[
+                        {
+                           "name":"TE_20_80_80_28: External"
+                        },
+                        {
+                           "name":"TE_20_80_80_41: Internal"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_20_90: Tube straightening equipment"
+            }
+         ]
+      },
+      {
+         "name":"TE_30: Lifting appliances and conveyors",
+         "children":[
+            {
+               "name":"TE_30_10: Cranes",
+               "children":[
+                  {
+                     "name":"TE_30_10_10: Crane structures",
+                     "children":[
+                        {
+                           "name":"TE_30_10_10_01: Aerial crane"
+                        },
+                        {
+                           "name":"TE_30_10_10_03: All terrain (AT) cranes"
+                        },
+                        {
+                           "name":"TE_30_10_10_18: Crawler cranes"
+                        },
+                        {
+                           "name":"TE_30_10_10_30: Floating cranes"
+                        },
+                        {
+                           "name":"TE_30_10_10_44: Jib crane"
+                        },
+                        {
+                           "name":"TE_30_10_10_47: Level luffing cranes"
+                        },
+                        {
+                           "name":"TE_30_10_10_52: Mounted cranes"
+                        },
+                        {
+                           "name":"TE_30_10_10_70: Railroad cranes"
+                        },
+                        {
+                           "name":"TE_30_10_10_74: Rough terrain (RT) cranes"
+                        },
+                        {
+                           "name":"TE_30_10_10_76: Self-erecting cranes"
+                        },
+                        {
+                           "name":"TE_30_10_10_78: Sidelift cranes"
+                        },
+                        {
+                           "name":"TE_30_10_10_88: Telescopic cranes"
+                        },
+                        {
+                           "name":"TE_30_10_10_89: Tower cranes"
+                        },
+                        {
+                           "name":"TE_30_10_10_91: Turret cranes"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_30_10_50: Crane equipment",
+                     "children":[
+                        {
+                           "name":"TE_30_10_50_15: Concrete skips"
+                        },
+                        {
+                           "name":"TE_30_10_50_22: Demolition balls"
+                        },
+                        {
+                           "name":"TE_30_10_50_28: Excavating crane grabs"
+                        },
+                        {
+                           "name":"TE_30_10_50_71: Rehandling crane grabs"
+                        },
+                        {
+                           "name":"TE_30_10_50_74: Rubbish buckets"
+                        },
+                        {
+                           "name":"TE_30_10_50_88: Tipping buckets"
+                        },
+                        {
+                           "name":"TE_30_10_50_89: Tower crane track"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_30_20: Construction lifts",
+               "children":[
+                  {
+                     "name":"TE_30_20_10: Bottom/ landing gates"
+                  },
+                  {
+                     "name":"TE_30_20_40: Lift cages"
+                  },
+                  {
+                     "name":"TE_30_20_50: Lifting mechanisms"
+                  },
+                  {
+                     "name":"TE_30_20_60: Lift platforms"
+                  },
+                  {
+                     "name":"TE_30_20_80: Safety limiters"
+                  }
+               ]
+            },
+            {
+               "name":"TE_30_30: Winches",
+               "children":[
+                  {
+                     "name":"TE_30_30_10: Double drum friction winches"
+                  },
+                  {
+                     "name":"TE_30_30_70: Single drum winches"
+                  }
+               ]
+            },
+            {
+               "name":"TE_30_40: Hoists",
+               "children":[
+                  {
+                     "name":"TE_30_40_10: Lorry loaders"
+                  },
+                  {
+                     "name":"TE_30_40_40: Mobile hoists"
+                  },
+                  {
+                     "name":"TE_30_40_60: Rack and pinion dual use hoists"
+                  },
+                  {
+                     "name":"TE_30_40_70: Rack and pinion single use hoists"
+                  },
+                  {
+                     "name":"TE_30_40_80: Scaffold hoists"
+                  }
+               ]
+            },
+            {
+               "name":"TE_30_50: Conveyors",
+               "children":[
+                  {
+                     "name":"TE_30_50_10: Belt conveyors",
+                     "children":[
+                        {
+                           "name":"TE_30_50_10_03: Apron conveyors"
+                        },
+                        {
+                           "name":"TE_30_50_10_10: Bucket conveyors"
+                        },
+                        {
+                           "name":"TE_30_50_10_15: Conveyor belts"
+                        },
+                        {
+                           "name":"TE_30_50_10_29: Factory conveyors"
+                        },
+                        {
+                           "name":"TE_30_50_10_47: Link conveyors"
+                        },
+                        {
+                           "name":"TE_30_50_10_76: Screw conveyors"
+                        },
+                        {
+                           "name":"TE_30_50_10_85: Steep incline conveyors"
+                        },
+                        {
+                           "name":"TE_30_50_10_94: Vibrators for material conveying"
+                        },
+                        {
+                           "name":"TE_30_50_10_96: Weighing conveyors"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_30_50_20: Bucket railways"
+                  }
+               ]
+            },
+            {
+               "name":"TE_30_60: Lifting platforms",
+               "children":[
+                  {
+                     "name":"TE_30_60_50: Self propelled platforms"
+                  },
+                  {
+                     "name":"TE_30_60_60: Scissor lifts"
+                  },
+                  {
+                     "name":"TE_30_60_70: Telescopic platforms"
+                  },
+                  {
+                     "name":"TE_30_60_80: Trailer mounted / portable platforms"
+                  },
+                  {
+                     "name":"TE_30_60_90: Vehicle mounted platforms"
+                  }
+               ]
+            },
+            {
+               "name":"TE_30_70: Lifting and jacking gear",
+               "children":[
+                  {
+                     "name":"TE_30_70_10: Pipe winches",
+                     "children":[
+                        {
+                           "name":"TE_30_70_10_33: Gantry pipe winches"
+                        },
+                        {
+                           "name":"TE_30_70_10_78: Shear legs pipe winches"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_30_70_20: Chain blocks"
+                  },
+                  {
+                     "name":"TE_30_70_30: Chains"
+                  },
+                  {
+                     "name":"TE_30_70_40: Jacks",
+                     "children":[
+                        {
+                           "name":"TE_30_70_40_39: Hydraulic jacks"
+                        },
+                        {
+                           "name":"TE_30_70_40_70: Ratchet jacks"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_30_70_50: Pull lift"
+                  },
+                  {
+                     "name":"TE_30_70_60: Ropes"
+                  },
+                  {
+                     "name":"TE_30_70_70: Slings/ brothers"
+                  },
+                  {
+                     "name":"TE_30_70_80: Wires"
+                  }
+               ]
+            },
+            {
+               "name":"TE_30_80: Lifting trucks",
+               "children":[
+                  {
+                     "name":"TE_30_80_30: Lift trucks"
+                  },
+                  {
+                     "name":"TE_30_80_50: Manual lift trucks"
+                  },
+                  {
+                     "name":"TE_30_80_70: Portal lift trucks"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"TE_40: Construction vehicles",
+         "children":[
+            {
+               "name":"TE_40_10: Lorries and trucks",
+               "children":[
+                  {
+                     "name":"TE_40_10_10: Dumper trucks",
+                     "children":[
+                        {
+                           "name":"TE_40_10_10_04: Articulated dumpers"
+                        },
+                        {
+                           "name":"TE_40_10_10_71: Rigid dumpers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_40_10_50: Lorries",
+                     "children":[
+                        {
+                           "name":"TE_40_10_50_04: Articulated lorries"
+                        },
+                        {
+                           "name":"TE_40_10_50_30: Fixed body lorries"
+                        },
+                        {
+                           "name":"TE_40_10_50_36: Haulers"
+                        },
+                        {
+                           "name":"TE_40_10_50_63: Pick up trucks"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_40_10_70: Tipper lorries",
+                     "children":[
+                        {
+                           "name":"TE_40_10_70_31: Front tippers"
+                        },
+                        {
+                           "name":"TE_40_10_70_34: Gravity tippers"
+                        },
+                        {
+                           "name":"TE_40_10_70_39: Hydraulic tippers"
+                        },
+                        {
+                           "name":"TE_40_10_70_55: Multi-bucket tippers"
+                        },
+                        {
+                           "name":"TE_40_10_70_71: Rear tippers"
+                        },
+                        {
+                           "name":"TE_40_10_70_73: Rolling tippers"
+                        },
+                        {
+                           "name":"TE_40_10_70_78: Side tippers"
+                        },
+                        {
+                           "name":"TE_40_10_70_88: Three way tippers"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_40_30: Tractors and equipment",
+               "children":[
+                  {
+                     "name":"TE_40_30_10: Tractors",
+                     "children":[
+                        {
+                           "name":"TE_40_30_10_03: Agricultural type tractor"
+                        },
+                        {
+                           "name":"TE_40_30_10_52: Motor grader"
+                        },
+                        {
+                           "name":"TE_40_30_10_87: Tractor with bull/ angle dozer"
+                        },
+                        {
+                           "name":"TE_40_30_10_88: Tractor with dozer"
+                        },
+                        {
+                           "name":"TE_40_30_10_89: Tractor with dozer and ripper attachment"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_40_30_30: Tractor equipment",
+                     "children":[
+                        {
+                           "name":"TE_40_30_30_52: Motorized scraper"
+                        },
+                        {
+                           "name":"TE_40_30_30_53: Motorized elevating scraper"
+                        },
+                        {
+                           "name":"TE_40_30_30_78: Semi trailer tractor trucks"
+                        },
+                        {
+                           "name":"TE_40_30_30_87: Tractor loading shovel"
+                        },
+                        {
+                           "name":"TE_40_30_30_88: Tractor loading shovel with back hoe equipment"
+                        },
+                        {
+                           "name":"TE_40_30_30_89: Tractor loading shovel with four in one attachment"
+                        },
+                        {
+                           "name":"TE_40_30_30_90: Tractor mounted loading shovel with ripper attachment"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_40_30_70: Vehicle superstructures and trailers",
+                     "children":[
+                        {
+                           "name":"TE_40_30_70_37: Heavy duty trailers"
+                        },
+                        {
+                           "name":"TE_40_30_70_47: Low loaders"
+                        },
+                        {
+                           "name":"TE_40_30_70_78: Semi-trailers"
+                        },
+                        {
+                           "name":"TE_40_30_70_79: Silo vehicles"
+                        },
+                        {
+                           "name":"TE_40_30_70_88: Tipping trailers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_40_30_80: Vehicle equipment",
+                     "children":[
+                        {
+                           "name":"TE_40_30_80_79: Shuttle train"
+                        },
+                        {
+                           "name":"TE_40_30_80_88: Tipper chassis"
+                        },
+                        {
+                           "name":"TE_40_30_80_90: Truck chassis for vehicle superstructures"
+                        },
+                        {
+                           "name":"TE_40_30_80_91: Turntable skip"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_40_50: Service vehicles",
+               "children":[
+                  {
+                     "name":"TE_40_50_10: Vehicles",
+                     "children":[
+                        {
+                           "name":"TE_40_50_10_15: Coaches/ buses"
+                        },
+                        {
+                           "name":"TE_40_50_10_60: Passenger/ goods cross-country vehicles"
+                        },
+                        {
+                           "name":"TE_40_50_10_72: Road sweepers with gully emptiers"
+                        },
+                        {
+                           "name":"TE_40_50_10_77: Self-propelled road sweepers/ cleaners"
+                        },
+                        {
+                           "name":"TE_40_50_10_84: Station wagons"
+                        },
+                        {
+                           "name":"TE_40_50_10_94: Vans"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_40_50_50: Water supply vehicles and equipment",
+                     "children":[
+                        {
+                           "name":"TE_40_50_50_77: Self propelled water tanker"
+                        },
+                        {
+                           "name":"TE_40_50_50_96: Water storage tank trailer"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_40_50_60: Fuel supply vehicles and equipment",
+                     "children":[
+                        {
+                           "name":"TE_40_50_60_31: Fuel storage tank"
+                        },
+                        {
+                           "name":"TE_40_50_60_32: Fuel storage tank trailer"
+                        },
+                        {
+                           "name":"TE_40_50_60_47: LPG cylinder"
+                        },
+                        {
+                           "name":"TE_40_50_60_77: Self propelled fuel tanker"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_40_70: Excavators, loaders and dredgers",
+               "children":[
+                  {
+                     "name":"TE_40_70_10: Dozers and graders",
+                     "children":[
+                        {
+                           "name":"TE_40_70_10_03: Angling dozers"
+                        },
+                        {
+                           "name":"TE_40_70_10_18: Crawler dozers"
+                        },
+                        {
+                           "name":"TE_40_70_10_73: Road graders"
+                        },
+                        {
+                           "name":"TE_40_70_10_85: Straight dozers"
+                        },
+                        {
+                           "name":"TE_40_70_10_90: Tracked dozers"
+                        },
+                        {
+                           "name":"TE_40_70_10_96: Wheeled dozers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_40_70_20: Dredging boats and equipment",
+                     "children":[
+                        {
+                           "name":"TE_40_70_20_04: Armoured pumps"
+                        },
+                        {
+                           "name":"TE_40_70_20_09: Bucket chain dredgers"
+                        },
+                        {
+                           "name":"TE_40_70_20_10: Buckhow diggers and scrapers"
+                        },
+                        {
+                           "name":"TE_40_70_20_19: Cutter dredgers"
+                        },
+                        {
+                           "name":"TE_40_70_20_34: Grab type dredgers"
+                        },
+                        {
+                           "name":"TE_40_70_20_84: Suction dredgers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_40_70_30: Excavators",
+                     "children":[
+                        {
+                           "name":"TE_40_70_30_07: Boom-type trenching machines"
+                        },
+                        {
+                           "name":"TE_40_70_30_09: Bucket trenchers"
+                        },
+                        {
+                           "name":"TE_40_70_30_10: Bucket wheel excavators"
+                        },
+                        {
+                           "name":"TE_40_70_30_11: Cable mobile excavators"
+                        },
+                        {
+                           "name":"TE_40_70_30_12: Cable track excavators"
+                        },
+                        {
+                           "name":"TE_40_70_30_32: Full circle slew excavators"
+                        },
+                        {
+                           "name":"TE_40_70_30_36: Highway trenchers"
+                        },
+                        {
+                           "name":"TE_40_70_30_38: Hydraulic mobile excavators"
+                        },
+                        {
+                           "name":"TE_40_70_30_39: Hydraulic track-laying excavators"
+                        },
+                        {
+                           "name":"TE_40_70_30_52: Mini excavators"
+                        },
+                        {
+                           "name":"TE_40_70_30_64: Pipe layers"
+                        },
+                        {
+                           "name":"TE_40_70_30_72: Rope operated excavators"
+                        },
+                        {
+                           "name":"TE_40_70_30_88: Telescopic excavators"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_40_70_40: Loaders",
+                     "children":[
+                        {
+                           "name":"TE_40_70_40_18: Crawler loaders"
+                        },
+                        {
+                           "name":"TE_40_70_40_22: Digging arm loaders"
+                        },
+                        {
+                           "name":"TE_40_70_40_79: Skid steer loaders"
+                        },
+                        {
+                           "name":"TE_40_70_40_90: Track laying loaders"
+                        },
+                        {
+                           "name":"TE_40_70_40_97: Wheel loaders"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_40_70_50: Scrapers",
+                     "children":[
+                        {
+                           "name":"TE_40_70_50_27: Elevating scrapers"
+                        },
+                        {
+                           "name":"TE_40_70_50_30: Four wheeled scrapers"
+                        },
+                        {
+                           "name":"TE_40_70_50_77: Scraper systems, gravel extraction"
+                        },
+                        {
+                           "name":"TE_40_70_50_90: Track laying scrapers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_40_70_90: Attachments for excavators, loaders, dozers and scrapers",
+                     "children":[
+                        {
+                           "name":"TE_40_70_90_06: Backacters"
+                        },
+                        {
+                           "name":"TE_40_70_90_07: Backhoe loaders"
+                        },
+                        {
+                           "name":"TE_40_70_90_24: Draglines"
+                        },
+                        {
+                           "name":"TE_40_70_90_28: Excavator mats"
+                        },
+                        {
+                           "name":"TE_40_70_90_29: Face shovels"
+                        },
+                        {
+                           "name":"TE_40_70_90_34: Graders"
+                        },
+                        {
+                           "name":"TE_40_70_90_37: Hinge type rippers"
+                        },
+                        {
+                           "name":"TE_40_70_90_60: Parallelogram type rippers"
+                        },
+                        {
+                           "name":"TE_40_70_90_63: Percussion breakers"
+                        },
+                        {
+                           "name":"TE_40_70_90_90: Trenchers"
+                        },
+                        {
+                           "name":"TE_40_70_90_94: Variable geometry rippers"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"TE_50: Tunnelling, drilling and compaction",
+         "children":[
+            {
+               "name":"TE_50_10: Tunnelling and shaft machines",
+               "children":[
+                  {
+                     "name":"TE_50_10_10: Blasting equipment",
+                     "children":[
+                        {
+                           "name":"TE_50_10_10_23: Detonators"
+                        },
+                        {
+                           "name":"TE_50_10_10_28: Explosives"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_50_10_20: Cutting machines",
+                     "children":[
+                        {
+                           "name":"TE_50_10_20_60: Partial cutting machines"
+                        },
+                        {
+                           "name":"TE_50_10_20_88: Thrust boring equipment"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_50_10_30: Drilling vehicles"
+                  },
+                  {
+                     "name":"TE_50_10_40: Explosives vehicles"
+                  },
+                  {
+                     "name":"TE_50_10_70: Rough press equipment"
+                  },
+                  {
+                     "name":"TE_50_10_80: Shields",
+                     "children":[
+                        {
+                           "name":"TE_50_10_80_20: Cutter shields"
+                        },
+                        {
+                           "name":"TE_50_10_80_91: Tunnel shields"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_50_20: Drilling, piling, canal trimming",
+               "children":[
+                  {
+                     "name":"TE_50_20_10: Drilling machines and plant",
+                     "children":[
+                        {
+                           "name":"TE_50_20_10_15: Core cutting machines"
+                        },
+                        {
+                           "name":"TE_50_20_10_21: Drilling machines for foundations piles"
+                        },
+                        {
+                           "name":"TE_50_20_10_22: Drilling machines for post and mast holes"
+                        },
+                        {
+                           "name":"TE_50_20_10_23: Drilling machines for soil exploration"
+                        },
+                        {
+                           "name":"TE_50_20_10_24: Drilling vehicles"
+                        },
+                        {
+                           "name":"TE_50_20_10_36: Hammer-action drills"
+                        },
+                        {
+                           "name":"TE_50_20_10_66: Pressure drilling machines"
+                        },
+                        {
+                           "name":"TE_50_20_10_86: Suction drilling systems"
+                        },
+                        {
+                           "name":"TE_50_20_10_97: Well drilling systems"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_50_20_20: Pile drivers (rammers) and pulling tools",
+                     "children":[
+                        {
+                           "name":"TE_50_20_20_21: Diesel hammer"
+                        },
+                        {
+                           "name":"TE_50_20_20_22: Double-acting piling hammers"
+                        },
+                        {
+                           "name":"TE_50_20_20_23: Drop hammers"
+                        },
+                        {
+                           "name":"TE_50_20_20_28: Extractors"
+                        },
+                        {
+                           "name":"TE_50_20_20_42: Impulse hammers"
+                        },
+                        {
+                           "name":"TE_50_20_20_43: Internal drop hammers for use with cased piles"
+                        },
+                        {
+                           "name":"TE_50_20_20_94: Vibrating hammer/extractor"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_50_20_30: Auger piling plant"
+                  },
+                  {
+                     "name":"TE_50_20_40: Piling accessories",
+                     "children":[
+                        {
+                           "name":"TE_50_20_40_23: Dollies"
+                        },
+                        {
+                           "name":"TE_50_20_40_36: Hanging leaders"
+                        },
+                        {
+                           "name":"TE_50_20_40_64: Pile helmets"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_50_20_60: Canal sheeting equipment",
+                     "children":[
+                        {
+                           "name":"TE_50_20_60_02: Adjustable steel trench struts"
+                        },
+                        {
+                           "name":"TE_50_20_60_11: Canal sheeting"
+                        },
+                        {
+                           "name":"TE_50_20_60_12: Canal shoring"
+                        },
+                        {
+                           "name":"TE_50_20_60_80: Sliding-blade sheeting"
+                        },
+                        {
+                           "name":"TE_50_20_60_85: Steel trench sheets"
+                        },
+                        {
+                           "name":"TE_50_20_60_90: Trench ring lifters"
+                        },
+                        {
+                           "name":"TE_50_20_60_91: Trench struts and sheets"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_50_20_70: Diaphragm walling plant"
+                  },
+                  {
+                     "name":"TE_50_20_80: Hydraulic pipe pushers"
+                  }
+               ]
+            },
+            {
+               "name":"TE_50_30: Compaction equipment",
+               "children":[
+                  {
+                     "name":"TE_50_30_10: Rollers",
+                     "children":[
+                        {
+                           "name":"TE_50_30_10_15: Combination vibration rollers"
+                        },
+                        {
+                           "name":"TE_50_30_10_23: Double vibrating rollers"
+                        },
+                        {
+                           "name":"TE_50_30_10_60: Pavement rollers"
+                        },
+                        {
+                           "name":"TE_50_30_10_65: Pneumatic tyre rollers"
+                        },
+                        {
+                           "name":"TE_50_30_10_72: Roller trains"
+                        },
+                        {
+                           "name":"TE_50_30_10_77: Sheepsfoot rollers"
+                        },
+                        {
+                           "name":"TE_50_30_10_79: Single rollers"
+                        },
+                        {
+                           "name":"TE_50_30_10_85: Static three-wheeled and tandem rollers"
+                        },
+                        {
+                           "name":"TE_50_30_10_87: Tandem vibrating rollers"
+                        },
+                        {
+                           "name":"TE_50_30_10_89: Trailer vibration rollers"
+                        },
+                        {
+                           "name":"TE_50_30_10_91: Twin rollers with seat and steering wheel"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_50_30_40: Rammers",
+                     "children":[
+                        {
+                           "name":"TE_50_30_40_44: Jumping rammers"
+                        },
+                        {
+                           "name":"TE_50_30_40_94: Vibration rammers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_50_30_60: Soil compactors",
+                     "children":[
+                        {
+                           "name":"TE_50_30_60_77: Sheepsfoot compactors"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_50_40: Road construction equipment",
+               "children":[
+                  {
+                     "name":"TE_50_40_10: Soil stabilisation machines"
+                  },
+                  {
+                     "name":"TE_50_40_20: Concrete road finishers and spreaders"
+                  },
+                  {
+                     "name":"TE_50_40_30: Asphalt, mastic and tar preparation equipment",
+                     "children":[
+                        {
+                           "name":"TE_50_40_30_04: Asphalt road finishers"
+                        },
+                        {
+                           "name":"TE_50_40_30_37: Heatable bitumen storage tanks"
+                        },
+                        {
+                           "name":"TE_50_40_30_50: Mastic finishers"
+                        },
+                        {
+                           "name":"TE_50_40_30_87: Tar and mastic heaters"
+                        },
+                        {
+                           "name":"TE_50_40_30_88: Tar sprayers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_50_40_40: Spreaders",
+                     "children":[
+                        {
+                           "name":"TE_50_40_40_04: Asphalt spreaders"
+                        },
+                        {
+                           "name":"TE_50_40_40_15: Coated asphalt spreaders"
+                        },
+                        {
+                           "name":"TE_50_40_40_80: Spreaders for soil stabilisation"
+                        },
+                        {
+                           "name":"TE_50_40_40_85: Stone spreaders"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_50_40_50: Joint cutters",
+                     "children":[
+                        {
+                           "name":"TE_50_40_50_44: Joint formers"
+                        },
+                        {
+                           "name":"TE_50_40_50_45: Joint matchers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_50_40_60: Road milling cutters"
+                  },
+                  {
+                     "name":"TE_50_40_70: Gas infra-red units, road drying equipment"
+                  },
+                  {
+                     "name":"TE_50_40_80: Paving stone laying machines"
+                  }
+               ]
+            },
+            {
+               "name":"TE_50_50: Canal bank grading, compacting, concreting and asphalting machinery, canal bed cleaning machines"
+            },
+            {
+               "name":"TE_50_60: Track-laying machines"
+            },
+            {
+               "name":"TE_50_70: Machines for road repair and maintenance",
+               "children":[
+                  {
+                     "name":"TE_50_70_10: Asphalt pavement equipment",
+                     "children":[
+                        {
+                           "name":"TE_50_70_10_04: Asphalt pavement recycling machines"
+                        },
+                        {
+                           "name":"TE_50_70_10_05: Asphalt pavement reshapers"
+                        },
+                        {
+                           "name":"TE_50_70_10_72: Road surface rippers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_50_70_20: Joint cleaning and filling machines"
+                  },
+                  {
+                     "name":"TE_50_70_30: Repair kits"
+                  },
+                  {
+                     "name":"TE_50_70_40: Stone and sand spreaders"
+                  },
+                  {
+                     "name":"TE_50_70_50: Road marking machines"
+                  },
+                  {
+                     "name":"TE_50_70_60: Sweeping machines"
+                  },
+                  {
+                     "name":"TE_50_70_70: Slope mowing machines"
+                  },
+                  {
+                     "name":"TE_50_70_80: Scarifiers"
+                  }
+               ]
+            },
+            {
+               "name":"TE_50_80: Planers",
+               "children":[
+                  {
+                     "name":"TE_50_80_20: Heater planers"
+                  },
+                  {
+                     "name":"TE_50_80_40: Cold planers"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"TE_60: Concrete and stone production",
+         "children":[
+            {
+               "name":"TE_60_10: Complete plant",
+               "children":[
+                  {
+                     "name":"TE_60_10_10: Complete plant for the cement, lime, gypsum, trass and chalk industry"
+                  },
+                  {
+                     "name":"TE_60_10_50: Complete plant for the sand, clay, gravel and broken stone industry"
+                  }
+               ]
+            },
+            {
+               "name":"TE_60_20: Breakers, crushers, mills",
+               "children":[
+                  {
+                     "name":"TE_60_20_10: Stone breakers"
+                  },
+                  {
+                     "name":"TE_60_20_30: Brick crushers"
+                  },
+                  {
+                     "name":"TE_60_20_40: Gyratory crushers"
+                  },
+                  {
+                     "name":"TE_60_20_50: Impact-type crushers"
+                  },
+                  {
+                     "name":"TE_60_20_60: Hammer crushers"
+                  },
+                  {
+                     "name":"TE_60_20_70: Roller crushers"
+                  },
+                  {
+                     "name":"TE_60_20_80: Mills",
+                     "children":[
+                        {
+                           "name":"TE_60_20_80_36: Hammer mills"
+                        },
+                        {
+                           "name":"TE_60_20_80_42: Impact mills"
+                        },
+                        {
+                           "name":"TE_60_20_80_72: Roller mills"
+                        },
+                        {
+                           "name":"TE_60_20_80_91: Tube mills"
+                        },
+                        {
+                           "name":"TE_60_20_80_94: Vibrating grinding mills"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_60_30: Screening and sorting plant",
+               "children":[
+                  {
+                     "name":"TE_60_30_10: Circular vibratory screens"
+                  },
+                  {
+                     "name":"TE_60_30_20: Eccentric vibratory screens"
+                  },
+                  {
+                     "name":"TE_60_30_40: Linear vibratory screens"
+                  },
+                  {
+                     "name":"TE_60_30_70: Screens with electromagnetic drive"
+                  },
+                  {
+                     "name":"TE_60_30_80: Vibrating screens"
+                  }
+               ]
+            },
+            {
+               "name":"TE_60_40: Cleaning and storage plant",
+               "children":[
+                  {
+                     "name":"TE_60_40_10: Drying installations for the stone and aggregate industry"
+                  },
+                  {
+                     "name":"TE_60_40_20: Dust extraction plant"
+                  },
+                  {
+                     "name":"TE_60_40_30: Recycling plant for construction debris"
+                  },
+                  {
+                     "name":"TE_60_40_40: Silos for gravel and broken stone"
+                  },
+                  {
+                     "name":"TE_60_40_50: Stackers and reclaimers"
+                  },
+                  {
+                     "name":"TE_60_40_60: Washing machines, scoops for sand, gravel, etc."
+                  }
+               ]
+            },
+            {
+               "name":"TE_60_60: Concrete plant and equipment",
+               "children":[
+                  {
+                     "name":"TE_60_60_10: Concrete and mortar mixers",
+                     "children":[
+                        {
+                           "name":"TE_60_60_10_13: Closed drum mixers"
+                        },
+                        {
+                           "name":"TE_60_60_10_15: Concrete processing systems"
+                        },
+                        {
+                           "name":"TE_60_60_10_16: Concrete systems with horizontal aggregate feed"
+                        },
+                        {
+                           "name":"TE_60_60_10_17: Concrete processing systems with vertical aggregate feed"
+                        },
+                        {
+                           "name":"TE_60_60_10_36: Hand scrapers, scraper installations"
+                        },
+                        {
+                           "name":"TE_60_60_10_51: Metering and weighing equipment"
+                        },
+                        {
+                           "name":"TE_60_60_10_58: Open drum mixers with hopper"
+                        },
+                        {
+                           "name":"TE_60_60_10_59: Open drum mixers without hopper"
+                        },
+                        {
+                           "name":"TE_60_60_10_71: Reversing drum mixers with hopper, weigher and feed shovel"
+                        },
+                        {
+                           "name":"TE_60_60_10_73: Rotary mixers"
+                        },
+                        {
+                           "name":"TE_60_60_10_78: Silos for cement and aggregates"
+                        },
+                        {
+                           "name":"TE_60_60_10_88: Tilting drum mixers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_60_60_20: Concrete transport, concrete and mortar conveying",
+                     "children":[
+                        {
+                           "name":"TE_60_60_20_15: Concrete agitators"
+                        },
+                        {
+                           "name":"TE_60_60_20_16: Concrete and mortar buckets"
+                        },
+                        {
+                           "name":"TE_60_60_20_17: Concrete pumps and equipment"
+                        },
+                        {
+                           "name":"TE_60_60_20_18: Concrete truck mixer/agitators with separate engine with mechanical/hydraulic drive to drum"
+                        },
+                        {
+                           "name":"TE_60_60_20_27: Equipment for washing out concrete residues"
+                        },
+                        {
+                           "name":"TE_60_60_20_47: Lorry mounted concrete pumps with boom"
+                        },
+                        {
+                           "name":"TE_60_60_20_53: Mobile mixers"
+                        },
+                        {
+                           "name":"TE_60_60_20_54: Mortar/screed pumps"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_60_60_30: Attachments for concrete and mortar plant",
+                     "children":[
+                        {
+                           "name":"TE_60_60_30_02: Aggregate feed aprons"
+                        },
+                        {
+                           "name":"TE_60_60_30_65: Power driven loading shovels"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_60_60_40: Concrete piping",
+                     "children":[
+                        {
+                           "name":"TE_60_60_40_30: Flexible distributor hose"
+                        },
+                        {
+                           "name":"TE_60_60_40_53: Mortar/screed pump hoses"
+                        },
+                        {
+                           "name":"TE_60_60_40_64: Pipe cleaning equipment"
+                        },
+                        {
+                           "name":"TE_60_60_40_78: Shut off pipe sections"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_60_60_50: Batching plant",
+                     "children":[
+                        {
+                           "name":"TE_60_60_50_01: Aerated silos"
+                        },
+                        {
+                           "name":"TE_60_60_50_05: Autofeed equipment"
+                        },
+                        {
+                           "name":"TE_60_60_50_06: Batch loaders"
+                        },
+                        {
+                           "name":"TE_60_60_50_27: Electronic weigh gear"
+                        },
+                        {
+                           "name":"TE_60_60_50_39: Hydraulic cement weigh gear"
+                        },
+                        {
+                           "name":"TE_60_60_50_48: Loading hoppers with weigh gear and loading shovel"
+                        },
+                        {
+                           "name":"TE_60_60_50_76: Screw discharge gear"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_60_60_60: Concrete and mortar application",
+                     "children":[
+                        {
+                           "name":"TE_60_60_60_16: Concrete guns"
+                        },
+                        {
+                           "name":"TE_60_60_60_17: Concrete injectors"
+                        },
+                        {
+                           "name":"TE_60_60_60_35: Gunite equipment"
+                        },
+                        {
+                           "name":"TE_60_60_60_71: Rendering machines"
+                        },
+                        {
+                           "name":"TE_60_60_60_80: Spreaders"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_60_60_70: Concrete compaction and finishing equipment",
+                     "children":[
+                        {
+                           "name":"TE_60_60_70_28: External vibrators"
+                        },
+                        {
+                           "name":"TE_60_60_70_41: Immersion vibrators"
+                        },
+                        {
+                           "name":"TE_60_60_70_64: Power floats"
+                        },
+                        {
+                           "name":"TE_60_60_70_65: Power trowels"
+                        },
+                        {
+                           "name":"TE_60_60_70_76: Screed boards"
+                        },
+                        {
+                           "name":"TE_60_60_70_85: Surface vibrators"
+                        },
+                        {
+                           "name":"TE_60_60_70_87: Tamper vibrators"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_60_60_80: Grouting equipment",
+                     "children":[
+                        {
+                           "name":"TE_60_60_80_02: Agitating tanks for use with grout pumps"
+                        },
+                        {
+                           "name":"TE_60_60_80_33: Grout mixers"
+                        },
+                        {
+                           "name":"TE_60_60_80_34: Grouting machines with pump and hopper"
+                        },
+                        {
+                           "name":"TE_60_60_80_35: Grout pumps"
+                        },
+                        {
+                           "name":"TE_60_60_80_73: Roller type grout mixers"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_60_80: Quarrying and tooling equipment",
+               "children":[
+                  {
+                     "name":"TE_60_80_10: Stone drilling machines"
+                  },
+                  {
+                     "name":"TE_60_80_20: Stone cleaving machines and equipment"
+                  },
+                  {
+                     "name":"TE_60_80_30: Stone sawing equipment",
+                     "children":[
+                        {
+                           "name":"TE_60_80_30_20: Cutting-out saws"
+                        },
+                        {
+                           "name":"TE_60_80_30_71: Reciprocating sawing machines"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_60_80_40: Abrasive cutting off machines"
+                  },
+                  {
+                     "name":"TE_60_80_50: Slab cutting machines and equipment"
+                  },
+                  {
+                     "name":"TE_60_80_60: Milling machines"
+                  },
+                  {
+                     "name":"TE_60_80_70: Sanding and polishing machines and lines"
+                  },
+                  {
+                     "name":"TE_60_80_80: Grouting machines for cast stone slabs"
+                  },
+                  {
+                     "name":"TE_60_80_90: Diamond tools"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"TE_70: Equipment and tools",
+         "children":[
+            {
+               "name":"TE_70_10: Site accommodation and temporary services",
+               "children":[
+                  {
+                     "name":"TE_70_10_10: Site accommodation and fittings",
+                     "children":[
+                        {
+                           "name":"TE_70_10_10_16: Containers"
+                        },
+                        {
+                           "name":"TE_70_10_10_51: Mess room fittings"
+                        },
+                        {
+                           "name":"TE_70_10_10_53: Motor caravans"
+                        },
+                        {
+                           "name":"TE_70_10_10_58: Office fittings"
+                        },
+                        {
+                           "name":"TE_70_10_10_78: Site huts"
+                        },
+                        {
+                           "name":"TE_70_10_10_84: Static caravans"
+                        },
+                        {
+                           "name":"TE_70_10_10_85: Store fittings"
+                        },
+                        {
+                           "name":"TE_70_10_10_89: Toilet units"
+                        },
+                        {
+                           "name":"TE_70_10_10_90: Toilet vehicles and cabins"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_10_20: Installations and equipment for winter construction",
+                     "children":[
+                        {
+                           "name":"TE_70_10_20_16: Construction drying equipment"
+                        },
+                        {
+                           "name":"TE_70_10_20_80: Space heaters"
+                        },
+                        {
+                           "name":"TE_70_10_20_85: Steam generators, water heaters"
+                        },
+                        {
+                           "name":"TE_70_10_20_96: Watchman's heaters"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_10_30: Site lighting equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_10_30_64: Portable floodlights"
+                        },
+                        {
+                           "name":"TE_70_10_30_88: Tilley lamps"
+                        },
+                        {
+                           "name":"TE_70_10_30_96: Warning lamps"
+                        },
+                        {
+                           "name":"TE_70_10_30_97: Watchman's lamps"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_10_40: Site electrical equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_10_40_11: Cable and pipeline detectors"
+                        },
+                        {
+                           "name":"TE_70_10_40_12: Cable laying machines and equipment"
+                        },
+                        {
+                           "name":"TE_70_10_40_79: Site electrical distributors"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_10_50: Power generating units",
+                     "children":[
+                        {
+                           "name":"TE_70_10_50_50: Mobile power generating units"
+                        },
+                        {
+                           "name":"TE_70_10_50_85: Stationery power generating units"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_10_60: Frequency and voltage transformers"
+                  },
+                  {
+                     "name":"TE_70_10_70: Drainage equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_10_70_24: Drainage rods"
+                        },
+                        {
+                           "name":"TE_70_10_70_28: Expanding drain stoppers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_10_80: Rubbish collection and disposal equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_10_80_74: Rubbish chutes"
+                        },
+                        {
+                           "name":"TE_70_10_80_79: Skips"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_70_20: Site equipment",
+               "children":[
+                  {
+                     "name":"TE_70_20_10: Welding equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_20_10_22: Diesel welding sets"
+                        },
+                        {
+                           "name":"TE_70_20_10_37: Head screens"
+                        },
+                        {
+                           "name":"TE_70_20_10_38: Helmets"
+                        },
+                        {
+                           "name":"TE_70_20_10_59: Oxy-acetylene cutting and welding sets"
+                        },
+                        {
+                           "name":"TE_70_20_10_88: Thermic boring equipment"
+                        },
+                        {
+                           "name":"TE_70_20_10_92: Underwater welding equipment"
+                        },
+                        {
+                           "name":"TE_70_20_10_96: Welding electrodes"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_20_20: Protective equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_20_20_34: Goggles"
+                        },
+                        {
+                           "name":"TE_70_20_20_65: Protective nets"
+                        },
+                        {
+                           "name":"TE_70_20_20_75: Safety harnesses"
+                        },
+                        {
+                           "name":"TE_70_20_20_96: Warning signs"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_20_30: Road works equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_20_30_06: Barrier trestles"
+                        },
+                        {
+                           "name":"TE_70_20_30_18: Crossing plates"
+                        },
+                        {
+                           "name":"TE_70_20_30_21: Danger lamps"
+                        },
+                        {
+                           "name":"TE_70_20_30_30: Flashing bollards"
+                        },
+                        {
+                           "name":"TE_70_20_30_31: Flashing traffic warning lamps"
+                        },
+                        {
+                           "name":"TE_70_20_30_41: Illuminated traffic information signs"
+                        },
+                        {
+                           "name":"TE_70_20_30_72: Road cones"
+                        },
+                        {
+                           "name":"TE_70_20_30_80: Speed deterrents"
+                        },
+                        {
+                           "name":"TE_70_20_30_87: Traffic control lamps"
+                        },
+                        {
+                           "name":"TE_70_20_30_88: Traffic control signs"
+                        },
+                        {
+                           "name":"TE_70_20_30_89: Traffic information signs"
+                        },
+                        {
+                           "name":"TE_70_20_30_90: Traffic lights"
+                        },
+                        {
+                           "name":"TE_70_20_30_91: Traffic warning signs"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_20_40: Damp proof course equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_20_40_11: Caulking gun"
+                        },
+                        {
+                           "name":"TE_70_20_40_27: Electro-osmosis equipment"
+                        },
+                        {
+                           "name":"TE_70_20_40_34: Gravity feed equipment"
+                        },
+                        {
+                           "name":"TE_70_20_40_37: High pressure injection equipment"
+                        },
+                        {
+                           "name":"TE_70_20_40_48: Low pressure injection equipment"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_20_50: Cleaning and surface preparation equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_20_50_08: Blasting machines and equipment"
+                        },
+                        {
+                           "name":"TE_70_20_50_37: High pressure and steam jet cleaners"
+                        },
+                        {
+                           "name":"TE_70_20_50_48: Low pressure cleaning machines"
+                        },
+                        {
+                           "name":"TE_70_20_50_92: Underwater cleaning equipment"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_20_60: Compressors",
+                     "children":[
+                        {
+                           "name":"TE_70_20_60_47: Lorry-mounted compressors"
+                        },
+                        {
+                           "name":"TE_70_20_60_90: Tractor-mounted compressors"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_20_70: Compressed-air machines and equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_20_70_02: Air hoses"
+                        },
+                        {
+                           "name":"TE_70_20_70_03: Air receivers"
+                        },
+                        {
+                           "name":"TE_70_20_70_55: Mufflers"
+                        },
+                        {
+                           "name":"TE_70_20_70_89: Tool silencers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_20_80: Steel reinforcement cutting and bending plant and equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_20_80_06: Bar bending machines"
+                        },
+                        {
+                           "name":"TE_70_20_80_07: Bar cropper machines"
+                        },
+                        {
+                           "name":"TE_70_20_80_08: Bar shearing machines"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_20_90: Ancillary equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_20_90_10: Buckets"
+                        },
+                        {
+                           "name":"TE_70_20_90_22: Dehumidifiers"
+                        },
+                        {
+                           "name":"TE_70_20_90_48: Loading rails"
+                        },
+                        {
+                           "name":"TE_70_20_90_87: Tarpaulins"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_70_40: Surveying and measuring equipment",
+               "children":[
+                  {
+                     "name":"TE_70_40_10: Levels",
+                     "children":[
+                        {
+                           "name":"TE_70_40_10_05: Auto levels"
+                        },
+                        {
+                           "name":"TE_70_40_10_25: Dumpy levels"
+                        },
+                        {
+                           "name":"TE_70_40_10_27: Engineers' precise auto levels"
+                        },
+                        {
+                           "name":"TE_70_40_10_47: Levelling staffs"
+                        },
+                        {
+                           "name":"TE_70_40_10_80: Spirit levels"
+                        },
+                        {
+                           "name":"TE_70_40_10_88: Tilting levels"
+                        },
+                        {
+                           "name":"TE_70_40_10_89: Theodolites"
+                        },
+                        {
+                           "name":"TE_70_40_10_96: Water levels"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_40_50: Measuring equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_40_50_08: Boning rods"
+                        },
+                        {
+                           "name":"TE_70_40_50_15: Clinometer"
+                        },
+                        {
+                           "name":"TE_70_40_50_31: Folding rules"
+                        },
+                        {
+                           "name":"TE_70_40_50_51: Measuring rod"
+                        },
+                        {
+                           "name":"TE_70_40_50_52: Measuring tape"
+                        },
+                        {
+                           "name":"TE_70_40_50_64: Plumb line"
+                        },
+                        {
+                           "name":"TE_70_40_50_66: Profile boards"
+                        },
+                        {
+                           "name":"TE_70_40_50_79: Sight rails"
+                        },
+                        {
+                           "name":"TE_70_40_50_87: Tachometer"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_40_70: Surveying equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_40_70_13: Centring rods"
+                        },
+                        {
+                           "name":"TE_70_40_70_22: Direction indicating devices"
+                        },
+                        {
+                           "name":"TE_70_40_70_27: Electro-magnetic distance measuring instruments (EDM instruments)"
+                        },
+                        {
+                           "name":"TE_70_40_70_51: Measuring telescopes"
+                        },
+                        {
+                           "name":"TE_70_40_70_58: Optical plummets"
+                        },
+                        {
+                           "name":"TE_70_40_70_70: Ranging rods, poles"
+                        },
+                        {
+                           "name":"TE_70_40_70_83: Staffs"
+                        },
+                        {
+                           "name":"TE_70_40_70_85: Surface indicating devices"
+                        },
+                        {
+                           "name":"TE_70_40_70_90: Tripods"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_70_50: Hand tools",
+               "children":[
+                  {
+                     "name":"TE_70_50_10: Hand saws",
+                     "children":[
+                        {
+                           "name":"TE_70_50_10_06: Back saws"
+                        },
+                        {
+                           "name":"TE_70_50_10_08: Bow saws"
+                        },
+                        {
+                           "name":"TE_70_50_10_14: Compass saws"
+                        },
+                        {
+                           "name":"TE_70_50_10_16: Coping saws"
+                        },
+                        {
+                           "name":"TE_70_50_10_24: Drywall saws"
+                        },
+                        {
+                           "name":"TE_70_50_10_29: Flooring saws"
+                        },
+                        {
+                           "name":"TE_70_50_10_31: Fretsaws"
+                        },
+                        {
+                           "name":"TE_70_50_10_36: Hacksaws"
+                        },
+                        {
+                           "name":"TE_70_50_10_60: Panel saws"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_50_15: Power saws",
+                     "children":[
+                        {
+                           "name":"TE_70_50_15_06: Band saws"
+                        },
+                        {
+                           "name":"TE_70_50_15_09: Brick saws"
+                        },
+                        {
+                           "name":"TE_70_50_15_12: Chain saws"
+                        },
+                        {
+                           "name":"TE_70_50_15_13: Circular saws"
+                        },
+                        {
+                           "name":"TE_70_50_15_44: Jig saws"
+                        },
+                        {
+                           "name":"TE_70_50_15_52: Mitre saws"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_50_20: Pipe work equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_50_20_31: Flaring tools"
+                        },
+                        {
+                           "name":"TE_70_50_20_60: Pairs of footprints"
+                        },
+                        {
+                           "name":"TE_70_50_20_62: Pipe benders"
+                        },
+                        {
+                           "name":"TE_70_50_20_63: Pipe cutters"
+                        },
+                        {
+                           "name":"TE_70_50_20_64: Pipe defrosting equipment"
+                        },
+                        {
+                           "name":"TE_70_50_20_66: Pipe threading equipment"
+                        },
+                        {
+                           "name":"TE_70_50_20_67: Pipe wrenches"
+                        },
+                        {
+                           "name":"TE_70_50_20_70: Plumber's furnace"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_50_30: Hammers",
+                     "children":[
+                        {
+                           "name":"TE_70_50_30_07: Bricklayer's hammers"
+                        },
+                        {
+                           "name":"TE_70_50_30_09: Bush hammers"
+                        },
+                        {
+                           "name":"TE_70_50_30_11: Carpenter's hammers"
+                        },
+                        {
+                           "name":"TE_70_50_30_13: Chipping hammers"
+                        },
+                        {
+                           "name":"TE_70_50_30_15: Club hammers"
+                        },
+                        {
+                           "name":"TE_70_50_30_22: Demolition hammers"
+                        },
+                        {
+                           "name":"TE_70_50_30_71: Riveting hammers"
+                        },
+                        {
+                           "name":"TE_70_50_30_73: Rotary hammers"
+                        },
+                        {
+                           "name":"TE_70_50_30_80: Sledge hammers"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_50_40: Hand-held drills and equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_50_40_06: Diamond drilling and chasing equipment"
+                        },
+                        {
+                           "name":"TE_70_50_40_07: Drill bits"
+                        },
+                        {
+                           "name":"TE_70_50_40_09: Drill rods"
+                        },
+                        {
+                           "name":"TE_70_50_40_10: Drill stands"
+                        },
+                        {
+                           "name":"TE_70_50_40_64: Pipe drilling tackle"
+                        },
+                        {
+                           "name":"TE_70_50_40_70: Reversible drills"
+                        },
+                        {
+                           "name":"TE_70_50_40_72: Rock drills"
+                        },
+                        {
+                           "name":"TE_70_50_40_73: Rotary drills"
+                        },
+                        {
+                           "name":"TE_70_50_40_96: Wheelbraces"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_50_50: Painting and insulation application equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_50_50_41: Insulation injection equipment"
+                        },
+                        {
+                           "name":"TE_70_50_50_60: Paint brushes"
+                        },
+                        {
+                           "name":"TE_70_50_50_62: Paint kettles"
+                        },
+                        {
+                           "name":"TE_70_50_50_64: Paint metering systems"
+                        },
+                        {
+                           "name":"TE_70_50_50_66: Paint rollers"
+                        },
+                        {
+                           "name":"TE_70_50_50_80: Spraying equipment for paints and insulation"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_50_60: Barrows",
+                     "children":[
+                        {
+                           "name":"TE_70_50_60_36: Hand barrows"
+                        },
+                        {
+                           "name":"TE_70_50_60_65: Powered barrows"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_50_65: Excavation tools",
+                     "children":[
+                        {
+                           "name":"TE_70_50_65_15: Clay spits"
+                        },
+                        {
+                           "name":"TE_70_50_65_60: Picks"
+                        },
+                        {
+                           "name":"TE_70_50_65_80: Spades"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_50_70: Levering bars",
+                     "children":[
+                        {
+                           "name":"TE_70_50_70_20: Crowbars"
+                        },
+                        {
+                           "name":"TE_70_50_70_60: Pinch bars"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_50_80: Screwdrivers, spanners and bolt cutters",
+                     "children":[
+                        {
+                           "name":"TE_70_50_80_03: Allen keys"
+                        },
+                        {
+                           "name":"TE_70_50_80_08: Bolt cutters"
+                        },
+                        {
+                           "name":"TE_70_50_80_70: Ratchet screwdrivers"
+                        },
+                        {
+                           "name":"TE_70_50_80_80: Spanners"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_50_85: Trowels",
+                     "children":[
+                        {
+                           "name":"TE_70_50_85_03: Angle trowels"
+                        },
+                        {
+                           "name":"TE_70_50_85_33: Gauging trowels"
+                        },
+                        {
+                           "name":"TE_70_50_85_46: Laying-on trowels"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_50_90: Floats",
+                     "children":[
+                        {
+                           "name":"TE_70_50_90_18: Cross-grained floats"
+                        },
+                        {
+                           "name":"TE_70_50_90_22: Devil floats"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"TE_70_60: Electrical tools",
+               "children":[
+                  {
+                     "name":"TE_70_60_10: Sanders",
+                     "children":[
+                        {
+                           "name":"TE_70_60_10_07: Belt sanders"
+                        },
+                        {
+                           "name":"TE_70_60_10_58: Orbital sanders"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_60_20: Grinders",
+                     "children":[
+                        {
+                           "name":"TE_70_60_20_03: Angle grinders"
+                        },
+                        {
+                           "name":"TE_70_60_20_07: Bench grinders"
+                        },
+                        {
+                           "name":"TE_70_60_20_84: Straight grinders"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_60_30: Polishers"
+                  },
+                  {
+                     "name":"TE_70_60_40: Planers"
+                  },
+                  {
+                     "name":"TE_70_60_50: Routers"
+                  },
+                  {
+                     "name":"TE_70_60_60: Scabblers"
+                  },
+                  {
+                     "name":"TE_70_60_70: Breakers"
+                  },
+                  {
+                     "name":"TE_70_60_80: Strimmers"
+                  }
+               ]
+            },
+            {
+               "name":"TE_70_80: Testing equipment",
+               "children":[
+                  {
+                     "name":"TE_70_80_10: Concrete testing equipment"
+                  },
+                  {
+                     "name":"TE_70_80_20: Drain testing equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_80_20_80: Sewer test and inspection equipment"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_80_40: Pipe testing equipment"
+                  },
+                  {
+                     "name":"TE_70_80_60: Sampling equipment"
+                  },
+                  {
+                     "name":"TE_70_80_80: Weighing machines for construction materials"
+                  },
+                  {
+                     "name":"TE_70_80_90: Weighing machines for vehicles"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
