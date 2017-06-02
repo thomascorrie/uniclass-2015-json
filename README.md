@@ -16,3 +16,5 @@ The tables are published by the [NBS](https://toolkit.thenbs.com/articles/classi
 | Zz- CAD | 	v1.0, Published July 2015
 | FI - Form of information |	Beta status – consultation ongoing	
 | PM - Project management |	Beta status – consultation ongoing
+
+One use is to visualize the tables in a collapsible tree structure to assist in understanding the classification hierarchy. Table Ss Systems can be seen on [gist](https://gist.github.com/thomascorrie/8c30bd33d34eed13bf36440306656d2e) and [bl.ocks](https://bl.ocks.org/thomascorrie/8c30bd33d34eed13bf36440306656d2e)
