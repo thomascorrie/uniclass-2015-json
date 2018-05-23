@@ -1,5 +1,5 @@
 # uniclass-2015-json
-Uniclass 2015 classification tables reformatted in [JSON](http://www.json.org/). Similar to the [csv version by buildig](https://github.com/buildig/uniclass-2015) I have converted the tables and packaged as a [versioned snapshot](https://github.com/thomascorrie/uniclass-2015-json/releases)
+Uniclass 2015 classification tables reformatted in [JSON](http://www.json.org/). Similar to the [csv version by buildig](https://github.com/buildig/uniclass-2015) I have converted the tables and packaged as a [versioned snapshot](https://github.com/thomascorrie/uniclass-2015-json/releases).
 
 The tables are published by the [NBS](https://toolkit.thenbs.com/articles/classification#classificationtables)
 
