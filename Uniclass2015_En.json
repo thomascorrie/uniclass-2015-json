@@ -197,7 +197,7 @@
                      "name":"En_25_10_40: Secondary educational buildings"
                   },
                   {
-                     "name":"En_25_10_50: Pre_tertiary educational buildings"
+                     "name":"En_25_10_50: Pre-tertiary educational buildings"
                   },
                   {
                      "name":"En_25_10_60: Tertiary educational buildings"
@@ -240,7 +240,7 @@
                      "name":"En_25_50_02: Art exhibition buildings"
                   },
                   {
-                     "name":"En_25_50_04: Artworks"
+                     "name":"En_25_50_04: Art installations"
                   },
                   {
                      "name":"En_25_50_15: Collection exhibition buildings"
@@ -413,7 +413,7 @@
                      "name":"En_30_70_17: Cooling towers"
                   },
                   {
-                     "name":"En_30_70_33: Gantries"
+                     "name":"En_30_70_28: Equipment gantries"
                   }
                ]
             },
@@ -638,6 +638,9 @@
                   },
                   {
                      "name":"En_32_95_80: Simple culverts"
+                  },
+                  {
+                     "name":"En_32_95_85: Surface water channels"
                   },
                   {
                      "name":"En_32_95_86: Swales"
@@ -893,10 +896,15 @@
          "name":"En_50: Waste disposal entities",
          "children":[
             {
-               "name":"En_50_10: Gas waste collection"
+               "name":"En_50_10: Gas waste collection entities"
             },
             {
-               "name":"En_50_20: Wet waste collection"
+               "name":"En_50_20: Wet waste collection entities",
+               "children":[
+                  {
+                     "name":"En_50_20_10: Wet waste collection tanks"
+                  }
+               ]
             },
             {
                "name":"En_50_30: Drainage and wastewater collection",
@@ -930,7 +938,7 @@
                "name":"En_50_50: Gas waste storage, treatment and disposal"
             },
             {
-               "name":"En_50_60: Wet waste storage, storage, treatment and disposal"
+               "name":"En_50_60: Wet waste storage, treatment and disposal"
             },
             {
                "name":"En_50_70: Drainage storage, treatment and disposal"
@@ -992,7 +1000,7 @@
                ]
             },
             {
-               "name":"En_55_10: Liquid fuel extraction and treatment",
+               "name":"En_55_10: Liquid fuel extraction and treatment entities",
                "children":[
                   {
                      "name":"En_55_10_10: Oil extraction structures"
@@ -1009,7 +1017,7 @@
                ]
             },
             {
-               "name":"En_55_15: Water extraction and treatment",
+               "name":"En_55_15: Water extraction and treatment entities",
                "children":[
                   {
                      "name":"En_55_15_10: Water extraction buildings"
@@ -1184,7 +1192,7 @@
                ]
             },
             {
-               "name":"En_75_40: Security entities"
+               "name":"En_75_40: Security systems entities"
             },
             {
                "name":"En_75_50: Safety and protection entities"
@@ -1242,9 +1250,6 @@
                   },
                   {
                      "name":"En_80_35_34: Guided bus lanes"
-                  },
-                  {
-                     "name":"En_80_35_44: Junctions"
                   },
                   {
                      "name":"En_80_35_56: Motorways"
@@ -1393,9 +1398,6 @@
                      "name":"En_80_96_20: Drift tunnels"
                   },
                   {
-                     "name":"En_80_96_21: Drift tunnel portals"
-                  },
-                  {
                      "name":"En_80_96_46: Lined drift tunnels"
                   },
                   {
@@ -1423,6 +1425,9 @@
             {
                "name":"En_90_10:  Circulation entities",
                "children":[
+                  {
+                     "name":"En_90_10_02: Access stairways and walkways"
+                  },
                   {
                      "name":"En_90_10_62: Pedestrianized areas"
                   },
@@ -1465,9 +1470,6 @@
                      "name":"En_90_50_70: Storage buildings"
                   },
                   {
-                     "name":"En_90_50_71: Storage yards"
-                  },
-                  {
                      "name":"En_90_50_96: Wastewater storage structures"
                   }
                ]
@@ -1477,6 +1479,12 @@
                "children":[
                   {
                      "name":"En_90_90_33: Gauge houses"
+                  },
+                  {
+                     "name":"En_90_90_35: Gauging station buildings"
+                  },
+                  {
+                     "name":"En_90_90_50: Mechanical services buildings"
                   },
                   {
                      "name":"En_90_90_68: Pump houses"

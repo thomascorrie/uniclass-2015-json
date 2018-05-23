@@ -19,7 +19,7 @@
                      "name":"Co_20_15_08: Business parks"
                   },
                   {
-                     "name":"Co_20_15_58: Offices"
+                     "name":"Co_20_15_58: Office complexes"
                   }
                ]
             },
@@ -59,6 +59,9 @@
                   },
                   {
                      "name":"Co_20_50_50: Market complexes"
+                  },
+                  {
+                     "name":"Co_20_50_53: Mixed use complexes"
                   },
                   {
                      "name":"Co_20_50_60: Parade of shops"
@@ -224,10 +227,10 @@
                      "name":"Co_25_50_34: Gardens and arboretums"
                   },
                   {
-                     "name":"Co_25_50_50: Memorials"
+                     "name":"Co_25_50_50: Memorial complexes"
                   },
                   {
-                     "name":"Co_25_50_52: Monuments"
+                     "name":"Co_25_50_52: Monument complexes"
                   },
                   {
                      "name":"Co_25_50_54: Multi-purpose exhibition complexes"
@@ -570,7 +573,7 @@
                      "name":"Co_32_85_96: Water control complexes"
                   },
                   {
-                     "name":"Co_32_85_97: Water level monitoring complexes"
+                     "name":"Co_32_85_97: Water level and flow monitoring complexes"
                   },
                   {
                      "name":"Co_32_85_98: Water pumping complexes"
@@ -649,7 +652,7 @@
                      "name":"Co_35_85_04: Aquariums"
                   },
                   {
-                     "name":"Co_35_85_05: Aviaries"
+                     "name":"Co_35_85_05: Aviary complexes"
                   },
                   {
                      "name":"Co_35_85_45: Kennel complexes"
@@ -1063,16 +1066,16 @@
                "name":"Co_70_30: Electricity distribution complexes",
                "children":[
                   {
-                     "name":"Co_70_30_35: High-voltage electricity substations"
+                     "name":"Co_70_30_35: High voltage electricity substation complexes"
                   },
                   {
-                     "name":"Co_70_30_40: High-voltage electricity networks"
+                     "name":"Co_70_30_40: High voltage electricity networks"
                   },
                   {
-                     "name":"Co_70_30_45: Low-voltage electricity substations"
+                     "name":"Co_70_30_45: Low voltage electricity substation complexes"
                   },
                   {
-                     "name":"Co_70_30_50: Low -voltage electricity networks"
+                     "name":"Co_70_30_50: Low  voltage electricity networks"
                   }
                ]
             }
@@ -1097,9 +1100,6 @@
                      "name":"Co_75_10_90: Telecommunications networks"
                   }
                ]
-            },
-            {
-               "name":"Co_75_30: Telecommunications complexes"
             }
          ]
       },

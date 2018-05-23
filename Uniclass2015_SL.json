@@ -19,10 +19,16 @@
                "name":"SL_20_15: Administrative spaces",
                "children":[
                   {
+                     "name":"SL_20_15_27: Enclosed offices"
+                  },
+                  {
                      "name":"SL_20_15_50: Meeting rooms"
                   },
                   {
                      "name":"SL_20_15_59: Offices"
+                  },
+                  {
+                     "name":"SL_20_15_61: Open-plan offices"
                   },
                   {
                      "name":"SL_20_15_71: Reception areas"
@@ -65,6 +71,9 @@
                      "name":"SL_20_50_05: Auction rooms"
                   },
                   {
+                     "name":"SL_20_50_10: Beauty salons"
+                  },
+                  {
                      "name":"SL_20_50_12: Checkout points"
                   },
                   {
@@ -83,6 +92,9 @@
                      "name":"SL_20_50_36: Hair and beauty salons"
                   },
                   {
+                     "name":"SL_20_50_37: Hair salons"
+                  },
+                  {
                      "name":"SL_20_50_47: Livestock auction rooms"
                   },
                   {
@@ -99,6 +111,9 @@
                   },
                   {
                      "name":"SL_20_50_85: Supermarket shop floors"
+                  },
+                  {
+                     "name":"SL_20_50_86: Tan spray booths"
                   },
                   {
                      "name":"SL_20_50_87: Tattoo and piercing parlours"
@@ -235,7 +250,7 @@
                ]
             },
             {
-               "name":"SL_20_80: Weapons training ranges",
+               "name":"SL_20_80: Weapons training spaces",
                "children":[
                   {
                      "name":"SL_20_80_03: Artillery firing ranges"
@@ -543,6 +558,9 @@
                      "name":"SL_25_90_30: Faith spaces"
                   },
                   {
+                     "name":"SL_25_90_65: Prayer rooms"
+                  },
+                  {
                      "name":"SL_25_90_78: Shrines"
                   }
                ]
@@ -672,6 +690,9 @@
                      "name":"SL_30_50_30: Heavy industrial spaces"
                   },
                   {
+                     "name":"SL_30_50_40: Kiln rooms"
+                  },
+                  {
                      "name":"SL_30_50_43: Light industrial spaces"
                   },
                   {
@@ -730,7 +751,7 @@
                ]
             },
             {
-               "name":"SL_30_80: Kinetic power generation",
+               "name":"SL_30_80: Kinetic power generation spaces",
                "children":[
                   {
                      "name":"SL_30_80_96: Water mill houses"
@@ -747,7 +768,7 @@
                      "name":"SL_30_85_08: Boat repair spaces"
                   },
                   {
-                     "name":"SL_30_85_24: Dry docks"
+                     "name":"SL_30_85_24: Dry dock chambers"
                   },
                   {
                      "name":"SL_30_85_30: Floating docks"
@@ -839,9 +860,6 @@
                      "name":"SL_32_50_06: Beach ramps"
                   },
                   {
-                     "name":"SL_32_50_46: Landing stages"
-                  },
-                  {
                      "name":"SL_32_50_79: Slipways"
                   }
                ]
@@ -886,9 +904,6 @@
                   },
                   {
                      "name":"SL_32_65_76: Scrub"
-                  },
-                  {
-                     "name":"SL_32_65_78: Seasonal wetlands"
                   },
                   {
                      "name":"SL_32_65_82: Species rich grassland"
@@ -979,6 +994,9 @@
                   },
                   {
                      "name":"SL_35_10_71: Radiotherapy rooms"
+                  },
+                  {
+                     "name":"SL_35_10_73: Recovery rooms"
                   },
                   {
                      "name":"SL_35_10_74: Rehabilitation rooms"
@@ -1585,21 +1603,30 @@
          ]
       },
       {
-         "name":"SL_50: Waste disposal spaces",
+         "name":"SL_50: Waste disposal spaces and locations",
          "children":[
             {
                "name":"SL_50_10: Gas waste collection spaces"
             },
             {
-               "name":"SL_50_20: Wet waste collection spaces",
-               "children":[
-                  {
-                     "name":"SL_50_20_10: Wet waste collection spaces"
-                  }
-               ]
+               "name":"SL_50_20: Wet waste collection spaces"
             },
             {
                "name":"SL_50_30: Drainage collection spaces"
+            },
+            {
+               "name":"SL_50_35: Drainage collection locations",
+               "children":[
+                  {
+                     "name":"SL_50_35_36: Grip inlets"
+                  },
+                  {
+                     "name":"SL_50_35_41: Inlet discharge"
+                  },
+                  {
+                     "name":"SL_50_35_59: Outlet discharge"
+                  }
+               ]
             },
             {
                "name":"SL_50_40: Dry waste collection spaces",
@@ -1971,7 +1998,7 @@
                      "name":"SL_80_35_16: Central reservations"
                   },
                   {
-                     "name":"SL_80_35_18: Crossovers"
+                     "name":"SL_80_35_18: Crossover spaces"
                   },
                   {
                      "name":"SL_80_35_19: Cycle crossings"
@@ -2080,6 +2107,9 @@
                      "name":"SL_80_50_58: Railway overpasses"
                   },
                   {
+                     "name":"SL_80_50_64: Platforms"
+                  },
+                  {
                      "name":"SL_80_50_71: Railway side reservations"
                   },
                   {
@@ -2126,7 +2156,7 @@
                "name":"SL_80_70: Marine transport spaces",
                "children":[
                   {
-                     "name":"SL_80_70_11: Canal locks"
+                     "name":"SL_80_70_11: Canal lock chambers"
                   },
                   {
                      "name":"SL_80_70_37: Harbour locks"
@@ -2176,9 +2206,6 @@
                "name":"SL_80_98: Transport kinematic envelopes",
                "children":[
                   {
-                     "name":"SL_80_98_01: Access spaces"
-                  },
-                  {
                      "name":"SL_80_98_09: Bridge headrooms"
                   },
                   {
@@ -2201,13 +2228,16 @@
          ]
       },
       {
-         "name":"SL_90: Circulation and storage spaces",
+         "name":"SL_90: General spaces",
          "children":[
             {
                "name":"SL_90_10: Circulation spaces",
                "children":[
                   {
                      "name":"SL_90_10_02: Air locks"
+                  },
+                  {
+                     "name":"SL_90_10_04: Atriums"
                   },
                   {
                      "name":"SL_90_10_08: Breezeways"
@@ -2240,7 +2270,7 @@
                      "name":"SL_90_10_46: Landings"
                   },
                   {
-                     "name":"SL_90_10_47: Lift cars"
+                     "name":"SL_90_10_47: Lifts"
                   },
                   {
                      "name":"SL_90_10_51: Lobbies"
@@ -2319,6 +2349,23 @@
                ]
             },
             {
+               "name":"SL_90_30: Construction voids",
+               "children":[
+                  {
+                     "name":"SL_90_30_25: Excavation volumes"
+                  },
+                  {
+                     "name":"SL_90_30_30: Finishes allowances"
+                  },
+                  {
+                     "name":"SL_90_30_80: Space proofing envelopes"
+                  },
+                  {
+                     "name":"SL_90_30_90: Tolerance zones"
+                  }
+               ]
+            },
+            {
                "name":"SL_90_50: Storage spaces",
                "children":[
                   {
@@ -2350,6 +2397,9 @@
                   },
                   {
                      "name":"SL_90_50_15: Cold stores"
+                  },
+                  {
+                     "name":"SL_90_50_17: Cycle storage spaces"
                   },
                   {
                      "name":"SL_90_50_24: Dry waste storage spaces"
