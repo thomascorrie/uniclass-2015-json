@@ -1,4 +1,4 @@
-﻿{
+{
    "name":"Uniclass2015_TE",
    "children":[
       {
@@ -501,53 +501,95 @@
                ]
             },
             {
-               "name":"TE_30_20: Construction lifts",
+               "name":"TE_30_30: Lifts, hoists and winches",
                "children":[
                   {
-                     "name":"TE_30_20_10: Lift bottom and landing gates"
+                     "name":"TE_30_30_10: Construction lifts",
+                     "children":[
+                        {
+                           "name":"TE_30_30_10_10: Lift bottom and landing gates"
+                        },
+                        {
+                           "name":"TE_30_30_10_40: Lift cages"
+                        },
+                        {
+                           "name":"TE_30_30_10_50: Lifting mechanisms"
+                        },
+                        {
+                           "name":"TE_30_30_10_60: Lift platforms"
+                        },
+                        {
+                           "name":"TE_30_30_10_80: Lift safety limiters"
+                        }
+                     ]
                   },
                   {
-                     "name":"TE_30_20_40: Lift cages"
+                     "name":"TE_30_30_40: Hoists",
+                     "children":[
+                        {
+                           "name":"TE_30_30_40_10: Lorry loaders"
+                        },
+                        {
+                           "name":"TE_30_30_40_40: Mobile hoists"
+                        },
+                        {
+                           "name":"TE_30_30_40_60: Rack and pinion dual use hoists"
+                        },
+                        {
+                           "name":"TE_30_30_40_70: Rack and pinion single use hoists"
+                        },
+                        {
+                           "name":"TE_30_30_40_80: Scaffold hoists"
+                        }
+                     ]
                   },
                   {
-                     "name":"TE_30_20_50: Lifting mechanisms"
+                     "name":"TE_30_30_60: Lifting platforms",
+                     "children":[
+                        {
+                           "name":"TE_30_30_60_40: Portable platforms"
+                        },
+                        {
+                           "name":"TE_30_30_60_50: Self propelled platforms"
+                        },
+                        {
+                           "name":"TE_30_30_60_60: Scissor lifts"
+                        },
+                        {
+                           "name":"TE_30_30_60_70: Telescopic platforms"
+                        },
+                        {
+                           "name":"TE_30_30_60_80: Trailer mounted platforms"
+                        },
+                        {
+                           "name":"TE_30_30_60_90: Vehicle mounted platforms"
+                        }
+                     ]
                   },
                   {
-                     "name":"TE_30_20_60: Lift platforms"
+                     "name":"TE_30_30_80: Lifting trucks",
+                     "children":[
+                        {
+                           "name":"TE_30_30_80_30: Lift trucks"
+                        },
+                        {
+                           "name":"TE_30_30_80_50: Manual lift trucks"
+                        },
+                        {
+                           "name":"TE_30_30_80_70: Portal lift trucks"
+                        }
+                     ]
                   },
                   {
-                     "name":"TE_30_20_80: Lift safety limiters"
-                  }
-               ]
-            },
-            {
-               "name":"TE_30_30: Winches",
-               "children":[
-                  {
-                     "name":"TE_30_30_10: Double drum friction winches"
-                  },
-                  {
-                     "name":"TE_30_30_70: Single drum winches"
-                  }
-               ]
-            },
-            {
-               "name":"TE_30_40: Hoists",
-               "children":[
-                  {
-                     "name":"TE_30_40_10: Lorry loaders"
-                  },
-                  {
-                     "name":"TE_30_40_40: Mobile hoists"
-                  },
-                  {
-                     "name":"TE_30_40_60: Rack and pinion dual use hoists"
-                  },
-                  {
-                     "name":"TE_30_40_70: Rack and pinion single use hoists"
-                  },
-                  {
-                     "name":"TE_30_40_80: Scaffold hoists"
+                     "name":"TE_30_30_90: Winches",
+                     "children":[
+                        {
+                           "name":"TE_30_30_90_10: Double drum friction winches"
+                        },
+                        {
+                           "name":"TE_30_30_90_70: Single drum winches"
+                        }
+                     ]
                   }
                ]
             },
@@ -592,26 +634,6 @@
                ]
             },
             {
-               "name":"TE_30_60: Lifting platforms",
-               "children":[
-                  {
-                     "name":"TE_30_60_50: Self propelled platforms"
-                  },
-                  {
-                     "name":"TE_30_60_60: Scissor lifts"
-                  },
-                  {
-                     "name":"TE_30_60_70: Telescopic platforms"
-                  },
-                  {
-                     "name":"TE_30_60_80: Trailer mounted / portable platforms"
-                  },
-                  {
-                     "name":"TE_30_60_90: Vehicle mounted platforms"
-                  }
-               ]
-            },
-            {
                "name":"TE_30_70: Lifting and jacking gear",
                "children":[
                   {
@@ -626,16 +648,16 @@
                      ]
                   },
                   {
-                     "name":"TE_30_70_20: Chain blocks"
-                  },
-                  {
-                     "name":"TE_30_70_30: Chains"
-                  },
-                  {
                      "name":"TE_30_70_40: Jacks",
                      "children":[
                         {
+                           "name":"TE_30_70_40_11: Cable drum jacks"
+                        },
+                        {
                            "name":"TE_30_70_40_39: Hydraulic jacks"
+                        },
+                        {
+                           "name":"TE_30_70_40_60: Pallet jacks"
                         },
                         {
                            "name":"TE_30_70_40_70: Ratchet jacks"
@@ -643,30 +665,30 @@
                      ]
                   },
                   {
-                     "name":"TE_30_70_50: Pull lift"
-                  },
-                  {
-                     "name":"TE_30_70_60: Ropes"
-                  },
-                  {
-                     "name":"TE_30_70_70: Slings/ brothers"
-                  },
-                  {
-                     "name":"TE_30_70_80: Wires"
-                  }
-               ]
-            },
-            {
-               "name":"TE_30_80: Lifting trucks",
-               "children":[
-                  {
-                     "name":"TE_30_80_30: Lift trucks"
-                  },
-                  {
-                     "name":"TE_30_80_50: Manual lift trucks"
-                  },
-                  {
-                     "name":"TE_30_80_70: Portal lift trucks"
+                     "name":"TE_30_70_50: Lifting mechanisms",
+                     "children":[
+                        {
+                           "name":"TE_30_70_50_12: Chain blocks"
+                        },
+                        {
+                           "name":"TE_30_70_50_14: Chains"
+                        },
+                        {
+                           "name":"TE_30_70_50_45: Lifting levers"
+                        },
+                        {
+                           "name":"TE_30_70_50_60: Pull lifts"
+                        },
+                        {
+                           "name":"TE_30_70_50_70: Ropes"
+                        },
+                        {
+                           "name":"TE_30_70_50_80: Slings and brothers"
+                        },
+                        {
+                           "name":"TE_30_70_50_95: Wires"
+                        }
+                     ]
                   }
                ]
             }
@@ -1817,10 +1839,10 @@
                      "name":"TE_70_10_40: Site electrical equipment",
                      "children":[
                         {
-                           "name":"TE_70_10_40_11: Cable and pipeline detectors"
+                           "name":"TE_70_10_40_12: Cable laying machines and equipment"
                         },
                         {
-                           "name":"TE_70_10_40_12: Cable laying machines and equipment"
+                           "name":"TE_70_10_40_14: Cable stringing rollers"
                         },
                         {
                            "name":"TE_70_10_40_79: Site electrical distributors"
@@ -1862,6 +1884,17 @@
                            "name":"TE_70_10_80_79: Skips"
                         }
                      ]
+                  },
+                  {
+                     "name":"TE_70_10_90: Site ventilation and air conditioning equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_10_90_22: Portable dehumidifiers"
+                        },
+                        {
+                           "name":"TE_70_10_90_32: Portable fans"
+                        }
+                     ]
                   }
                ]
             },
@@ -1894,6 +1927,9 @@
                         },
                         {
                            "name":"TE_70_20_10_96: Welding electrodes"
+                        },
+                        {
+                           "name":"TE_70_20_10_97: Weld shears"
                         }
                      ]
                   },
@@ -1901,10 +1937,63 @@
                      "name":"TE_70_20_20: Protective equipment",
                      "children":[
                         {
+                           "name":"TE_70_20_20_01: Acoustic attenuators"
+                        },
+                        {
+                           "name":"TE_70_20_20_03: Acoustic enclosures"
+                        },
+                        {
+                           "name":"TE_70_20_20_05: Acoustic quilts"
+                        },
+                        {
+                           "name":"TE_70_20_20_07: Acoustic shrouds"
+                        },
+                        {
+                           "name":"TE_70_20_20_10: Breathing apparatus"
+                        },
+                        {
                            "name":"TE_70_20_20_34: Goggles"
                         },
                         {
+                           "name":"TE_70_20_20_37: Hotsticks"
+                        },
+                        {
+                           "name":"TE_70_20_20_62: Portable safety barriers"
+                        },
+                        {
                            "name":"TE_70_20_20_65: Protective nets"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_20_25: Maintenance equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_20_25_34: Grease guns"
+                        },
+                        {
+                           "name":"TE_70_20_25_37: Hedge trimmers"
+                        },
+                        {
+                           "name":"TE_70_20_25_46: Lawn-mowers"
+                        },
+                        {
+                           "name":"TE_70_20_25_55: Mulching machines"
+                        },
+                        {
+                           "name":"TE_70_20_25_65: Pruning shears"
+                        },
+                        {
+                           "name":"TE_70_20_25_85: Strimmers"
+                        },
+                        {
+                           "name":"TE_70_20_25_90: Tool sharpeners"
+                        },
+                        {
+                           "name":"TE_70_20_25_94: Vacuum cleaners"
+                        },
+                        {
+                           "name":"TE_70_20_25_96: Wood chippers"
                         }
                      ]
                   },
@@ -1956,6 +2045,15 @@
                      "name":"TE_70_20_35: Rail track equipment",
                      "children":[
                         {
+                           "name":"TE_70_20_35_70: Rail tensor kits"
+                        },
+                        {
+                           "name":"TE_70_20_35_79: Spike drivers"
+                        },
+                        {
+                           "name":"TE_70_20_35_80: Spike pullers"
+                        },
+                        {
                            "name":"TE_70_20_35_90: Temporary track support"
                         }
                      ]
@@ -1991,6 +2089,9 @@
                         },
                         {
                            "name":"TE_70_20_50_48: Low pressure cleaning machines"
+                        },
+                        {
+                           "name":"TE_70_20_50_56: Needle scalers"
                         },
                         {
                            "name":"TE_70_20_50_92: Underwater cleaning equipment"
@@ -2077,6 +2178,9 @@
                            "name":"TE_70_40_10_47: Levelling staffs"
                         },
                         {
+                           "name":"TE_70_40_10_65: Prism sets"
+                        },
+                        {
                            "name":"TE_70_40_10_80: Spirit levels"
                         },
                         {
@@ -2094,19 +2198,37 @@
                      "name":"TE_70_40_50: Measuring equipment",
                      "children":[
                         {
+                           "name":"TE_70_40_50_06: Binoculars"
+                        },
+                        {
                            "name":"TE_70_40_50_08: Boning rods"
                         },
                         {
                            "name":"TE_70_40_50_15: Clinometer"
                         },
                         {
+                           "name":"TE_70_40_50_22: Distance meters"
+                        },
+                        {
                            "name":"TE_70_40_50_31: Folding rules"
+                        },
+                        {
+                           "name":"TE_70_40_50_37: Height sticks"
+                        },
+                        {
+                           "name":"TE_70_40_50_46: Laser aligners"
                         },
                         {
                            "name":"TE_70_40_50_51: Measuring rod"
                         },
                         {
                            "name":"TE_70_40_50_52: Measuring tape"
+                        },
+                        {
+                           "name":"TE_70_40_50_53: Measuring wheels"
+                        },
+                        {
+                           "name":"TE_70_40_50_54: Micrometers"
                         },
                         {
                            "name":"TE_70_40_50_64: Plumb line"
@@ -2118,7 +2240,13 @@
                            "name":"TE_70_40_50_79: Sight rails"
                         },
                         {
+                           "name":"TE_70_40_50_82: Sound level meters"
+                        },
+                        {
                            "name":"TE_70_40_50_87: Tachometer"
+                        },
+                        {
+                           "name":"TE_70_40_50_94: Verniers"
                         }
                      ]
                   },
@@ -2148,6 +2276,9 @@
                         },
                         {
                            "name":"TE_70_40_70_85: Surface indicating devices"
+                        },
+                        {
+                           "name":"TE_70_40_70_89: Tribrachs"
                         },
                         {
                            "name":"TE_70_40_70_90: Tripods"
@@ -2194,6 +2325,9 @@
                   {
                      "name":"TE_70_50_15: Power saws",
                      "children":[
+                        {
+                           "name":"TE_70_50_15_03: Alligator saws"
+                        },
                         {
                            "name":"TE_70_50_15_06: Band saws"
                         },
@@ -2282,16 +2416,19 @@
                      "name":"TE_70_50_40: Hand-held drills and equipment",
                      "children":[
                         {
-                           "name":"TE_70_50_40_06: Diamond drilling and chasing equipment"
+                           "name":"TE_70_50_40_05: Augers"
                         },
                         {
-                           "name":"TE_70_50_40_07: Drill bits"
+                           "name":"TE_70_50_40_21: Diamond drilling and chasing equipment"
                         },
                         {
-                           "name":"TE_70_50_40_09: Drill rods"
+                           "name":"TE_70_50_40_22: Drill bits"
                         },
                         {
-                           "name":"TE_70_50_40_10: Drill stands"
+                           "name":"TE_70_50_40_23: Drill rods"
+                        },
+                        {
+                           "name":"TE_70_50_40_24: Drill stands"
                         },
                         {
                            "name":"TE_70_50_40_64: Pipe drilling tackle"
@@ -2307,6 +2444,65 @@
                         },
                         {
                            "name":"TE_70_50_40_96: Wheelbraces"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_50_45: Hand-held equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_50_45_02: Adhesive guns"
+                        },
+                        {
+                           "name":"TE_70_50_45_08: Bolt tensioning tools"
+                        },
+                        {
+                           "name":"TE_70_50_45_11: Cable cutters"
+                        },
+                        {
+                           "name":"TE_70_50_45_12: Cable locators"
+                        },
+                        {
+                           "name":"TE_70_50_45_17: Crimping tools"
+                        },
+                        {
+                           "name":"TE_70_50_45_25: Dynamometers"
+                        },
+                        {
+                           "name":"TE_70_50_45_27: Engraver"
+                        },
+                        {
+                           "name":"TE_70_50_45_37: Heat guns"
+                        },
+                        {
+                           "name":"TE_70_50_45_39: Hydraulic wrenches"
+                        },
+                        {
+                           "name":"TE_70_50_45_42: Impact wrenches"
+                        },
+                        {
+                           "name":"TE_70_50_45_50: Metal detectors"
+                        },
+                        {
+                           "name":"TE_70_50_45_56: Nail guns"
+                        },
+                        {
+                           "name":"TE_70_50_45_57: Nibblers"
+                        },
+                        {
+                           "name":"TE_70_50_45_63: Pipeline locators"
+                        },
+                        {
+                           "name":"TE_70_50_45_72: Rivet guns"
+                        },
+                        {
+                           "name":"TE_70_50_45_88: Torque wrenches"
+                        },
+                        {
+                           "name":"TE_70_50_45_96: Wire pullers"
+                        },
+                        {
+                           "name":"TE_70_50_45_97: Wire tensioners"
                         }
                      ]
                   },
@@ -2442,7 +2638,12 @@
                      ]
                   },
                   {
-                     "name":"TE_70_60_30: Polishers"
+                     "name":"TE_70_60_30: Polishers",
+                     "children":[
+                        {
+                           "name":"TE_70_60_30_30: Floor polishers"
+                        }
+                     ]
                   },
                   {
                      "name":"TE_70_60_40: Planers"
@@ -2455,9 +2656,6 @@
                   },
                   {
                      "name":"TE_70_60_70: Breakers"
-                  },
-                  {
-                     "name":"TE_70_60_80: Strimmers"
                   }
                ]
             },
@@ -2472,6 +2670,38 @@
                      "children":[
                         {
                            "name":"TE_70_80_20_80: Sewer test and inspection equipment"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"TE_70_80_25: Electrical testing equipment",
+                     "children":[
+                        {
+                           "name":"TE_70_80_25_11: Cable fault reflectometers"
+                        },
+                        {
+                           "name":"TE_70_80_25_12: Cable fault locators"
+                        },
+                        {
+                           "name":"TE_70_80_25_15: Clamp meters"
+                        },
+                        {
+                           "name":"TE_70_80_25_30: Frequency selective meters"
+                        },
+                        {
+                           "name":"TE_70_80_25_32: Fuse finder kits"
+                        },
+                        {
+                           "name":"TE_70_80_25_42: Illuminance meters"
+                        },
+                        {
+                           "name":"TE_70_80_25_44: Impedance meters"
+                        },
+                        {
+                           "name":"TE_70_80_25_76: Scopemeters"
+                        },
+                        {
+                           "name":"TE_70_80_25_92: Ultrasonic flaw detectors"
                         }
                      ]
                   },

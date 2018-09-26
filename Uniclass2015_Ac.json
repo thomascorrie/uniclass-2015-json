@@ -1,4 +1,4 @@
-﻿{
+{
    "name":"Uniclass2015_Ac",
    "children":[
       {
@@ -593,6 +593,9 @@
                "children":[
                   {
                      "name":"Ac_15_80_65: Preliminary site surveying"
+                  },
+                  {
+                     "name":"Ac_15_80_92: Utilities surveying"
                   }
                ]
             },
@@ -1415,6 +1418,9 @@
                   },
                   {
                      "name":"Ac_32_10_34: Glasshouse growing"
+                  },
+                  {
+                     "name":"Ac_32_10_35: Harvesting"
                   },
                   {
                      "name":"Ac_32_10_36: Hedge laying"

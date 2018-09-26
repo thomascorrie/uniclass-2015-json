@@ -1,4 +1,4 @@
-﻿{
+{
    "name":"Uniclass2015_En",
    "children":[
       {
@@ -65,6 +65,9 @@
                   },
                   {
                      "name":"En_20_50_50: Markets"
+                  },
+                  {
+                     "name":"En_20_50_53: Mixed use buildings"
                   },
                   {
                      "name":"En_20_50_55: Motor vehicle sales entities"
@@ -508,6 +511,15 @@
             {
                "name":"En_32_35: Grounds",
                "children":[
+                  {
+                     "name":"En_32_35_05: Arboretums"
+                  },
+                  {
+                     "name":"En_32_35_12: Botanical gardens"
+                  },
+                  {
+                     "name":"En_32_35_15: Community gardens"
+                  },
                   {
                      "name":"En_32_35_33: Gardens"
                   },
@@ -1240,22 +1252,34 @@
                ]
             },
             {
-               "name":"En_80_35: Highways entities",
+               "name":"En_80_35: Road entities",
                "children":[
                   {
                      "name":"En_80_35_01: Access roads"
                   },
                   {
-                     "name":"En_80_35_10: Bus station buildings"
+                     "name":"En_80_35_07: Bus maintenance depots"
+                  },
+                  {
+                     "name":"En_80_35_09: Bus and coach stations"
                   },
                   {
                      "name":"En_80_35_34: Guided bus lanes"
+                  },
+                  {
+                     "name":"En_80_35_35: Highway maintenance depots"
+                  },
+                  {
+                     "name":"En_80_35_38: Highway service stations"
                   },
                   {
                      "name":"En_80_35_56: Motorways"
                   },
                   {
                      "name":"En_80_35_67: Private roads"
+                  },
+                  {
+                     "name":"En_80_35_73: Road freight depots"
                   },
                   {
                      "name":"En_80_35_74: Roads"
@@ -1268,6 +1292,9 @@
                   },
                   {
                      "name":"En_80_35_89: Tracks"
+                  },
+                  {
+                     "name":"En_80_35_90: Truck maintenance depots"
                   }
                ]
             },
@@ -1301,10 +1328,13 @@
                ]
             },
             {
-               "name":"En_80_45: Highway storage and maintenance entities",
+               "name":"En_80_45: Vehicle storage entities",
                "children":[
                   {
                      "name":"En_80_45_08: Bus parks"
+                  },
+                  {
+                     "name":"En_80_45_11: Car garaging entities"
                   },
                   {
                      "name":"En_80_45_17: Coach parks"
@@ -1327,53 +1357,78 @@
                "name":"En_80_50: Railway entities",
                "children":[
                   {
-                     "name":"En_80_50_24: Double sided platforms"
-                  },
-                  {
                      "name":"En_80_50_53: Monorail entities"
                   },
                   {
-                     "name":"En_80_50_70: Rack railways track entities"
+                     "name":"En_80_50_58: Platforms"
                   },
                   {
-                     "name":"En_80_50_71: Railway corridors and sidings"
+                     "name":"En_80_50_60: Rack rail maintenance buildings"
                   },
                   {
-                     "name":"En_80_50_74: Railway station buildings"
+                     "name":"En_80_50_62: Rack railways track entities"
                   },
                   {
-                     "name":"En_80_50_77: Railway track entities"
+                     "name":"En_80_50_64: Rail distribution depots"
                   },
                   {
-                     "name":"En_80_50_80: Single sided platforms"
+                     "name":"En_80_50_66: Rail freight entities"
+                  },
+                  {
+                     "name":"En_80_50_68: Rail marshalling entities"
+                  },
+                  {
+                     "name":"En_80_50_71: Railway corridors"
+                  },
+                  {
+                     "name":"En_80_50_74: Railway stations"
+                  },
+                  {
+                     "name":"En_80_50_76: Railway sidings"
+                  },
+                  {
+                     "name":"En_80_50_78: Rolling stock depots"
+                  },
+                  {
+                     "name":"En_80_50_86: Track maintenance depots"
+                  },
+                  {
+                     "name":"En_80_50_88: Train maintenance buildings"
                   },
                   {
                      "name":"En_80_50_90: Tramways"
+                  },
+                  {
+                     "name":"En_80_50_94: Underground railway stations"
+                  },
+                  {
+                     "name":"En_80_50_95: Wagon decontamination buildings"
+                  },
+                  {
+                     "name":"En_80_50_97: Wagon maintenance buildings"
                   }
                ]
             },
             {
-               "name":"En_80_60: Rail maintenance entities",
+               "name":"En_80_70: Marine and waterways transport entities",
                "children":[
                   {
-                     "name":"En_80_60_70: Rack rail maintenance buildings"
+                     "name":"En_80_70_06: Barge loading terminals"
                   },
-                  {
-                     "name":"En_80_60_95: Wagon decontamination buildings"
-                  },
-                  {
-                     "name":"En_80_60_97: Wagon maintenance buildings"
-                  }
-               ]
-            },
-            {
-               "name":"En_80_70: Marine transport entities",
-               "children":[
                   {
                      "name":"En_80_70_11: Canal channels"
                   },
                   {
                      "name":"En_80_70_15: Canal locks"
+                  },
+                  {
+                     "name":"En_80_70_46: Lake passenger terminals"
+                  },
+                  {
+                     "name":"En_80_70_50: Marinas"
+                  },
+                  {
+                     "name":"En_80_70_71: River passenger terminals"
                   }
                ]
             },
@@ -1423,7 +1478,7 @@
          "name":"En_90: Circulation and storage entities",
          "children":[
             {
-               "name":"En_90_10:  Circulation entities",
+               "name":"En_90_10: Circulation entities",
                "children":[
                   {
                      "name":"En_90_10_02: Access stairways and walkways"

@@ -1,4 +1,4 @@
-﻿{
+{
    "name":"Uniclass2015_SL",
    "children":[
       {
@@ -854,6 +854,29 @@
                ]
             },
             {
+               "name":"SL_32_35: Ground spaces",
+               "children":[
+                  {
+                     "name":"SL_32_35_22: Decking areas"
+                  },
+                  {
+                     "name":"SL_32_35_24: Driveways"
+                  },
+                  {
+                     "name":"SL_32_35_30: Flower beds"
+                  },
+                  {
+                     "name":"SL_32_35_46: Lawns"
+                  },
+                  {
+                     "name":"SL_32_35_60: Patios"
+                  },
+                  {
+                     "name":"SL_32_35_94: Vegetable gardens"
+                  }
+               ]
+            },
+            {
                "name":"SL_32_50: Marine ways and waterway spaces",
                "children":[
                   {
@@ -898,6 +921,9 @@
                   },
                   {
                      "name":"SL_32_65_71: River beds"
+                  },
+                  {
+                     "name":"SL_32_65_72: River reaches"
                   },
                   {
                      "name":"SL_32_65_73: Rocks and screes"
@@ -1734,7 +1760,12 @@
                "name":"SL_55_65: Ventilation and air conditioning spaces"
             },
             {
-               "name":"SL_55_70: Water supply spaces"
+               "name":"SL_55_70: Water supply spaces",
+               "children":[
+                  {
+                     "name":"SL_55_70_65: Private supply pipes"
+                  }
+               ]
             },
             {
                "name":"SL_55_90: Piped solids supply spaces"
@@ -1980,7 +2011,7 @@
                ]
             },
             {
-               "name":"SL_80_35: Highways",
+               "name":"SL_80_35: Road spaces",
                "children":[
                   {
                      "name":"SL_80_35_04: Arrestor beds"
@@ -2025,6 +2056,9 @@
                      "name":"SL_80_35_44: Junctions"
                   },
                   {
+                     "name":"SL_80_35_45: Lanes"
+                  },
+                  {
                      "name":"SL_80_35_46: Lay-bys and passing places"
                   },
                   {
@@ -2052,6 +2086,9 @@
                      "name":"SL_80_35_72: Roadside rest areas"
                   },
                   {
+                     "name":"SL_80_35_74: Road sections"
+                  },
+                  {
                      "name":"SL_80_35_77: Side reservations"
                   },
                   {
@@ -2075,7 +2112,7 @@
                ]
             },
             {
-               "name":"SL_80_45: Highway storage and maintenance spaces",
+               "name":"SL_80_45: Vehicle storage spaces",
                "children":[
                   {
                      "name":"SL_80_45_09: Bus standing spaces"
@@ -2085,6 +2122,9 @@
                   },
                   {
                      "name":"SL_80_45_13: Car park ramps"
+                  },
+                  {
+                     "name":"SL_80_45_15: Cycle parking spaces"
                   },
                   {
                      "name":"SL_80_45_40: Indoor vehicle parking spaces"
@@ -2098,8 +2138,26 @@
                ]
             },
             {
-               "name":"SL_80_50: Railways",
+               "name":"SL_80_50: Railway spaces",
                "children":[
+                  {
+                     "name":"SL_80_50_11: Carriage cleaning spaces"
+                  },
+                  {
+                     "name":"SL_80_50_24: Double sided platforms"
+                  },
+                  {
+                     "name":"SL_80_50_26: Engine fuelling areas"
+                  },
+                  {
+                     "name":"SL_80_50_27: Engine inspection pits"
+                  },
+                  {
+                     "name":"SL_80_50_28: Engine servicing areas"
+                  },
+                  {
+                     "name":"SL_80_50_29: Engine wash areas"
+                  },
                   {
                      "name":"SL_80_50_50: Marshalling yards"
                   },
@@ -2107,48 +2165,40 @@
                      "name":"SL_80_50_58: Railway overpasses"
                   },
                   {
-                     "name":"SL_80_50_64: Platforms"
+                     "name":"SL_80_50_70: Rail repair spaces"
                   },
                   {
                      "name":"SL_80_50_71: Railway side reservations"
                   },
                   {
+                     "name":"SL_80_50_72: Railway lines"
+                  },
+                  {
+                     "name":"SL_80_50_74: Railway sections"
+                  },
+                  {
                      "name":"SL_80_50_77: Railway signal control spaces"
+                  },
+                  {
+                     "name":"SL_80_50_79: Signalling equipment room"
+                  },
+                  {
+                     "name":"SL_80_50_80: Single sided platforms"
+                  },
+                  {
+                     "name":"SL_80_50_88: Track paralleling huts"
                   },
                   {
                      "name":"SL_80_50_90: Train stops"
                   },
                   {
                      "name":"SL_80_50_92: Railway underpasses"
-                  }
-               ]
-            },
-            {
-               "name":"SL_80_60: Rail maintenance spaces",
-               "children":[
-                  {
-                     "name":"SL_80_60_11: Carriage cleaning spaces"
                   },
                   {
-                     "name":"SL_80_60_26: Engine fuelling areas"
+                     "name":"SL_80_50_95: Wagon decontamination spaces"
                   },
                   {
-                     "name":"SL_80_60_27: Engine inspection pits"
-                  },
-                  {
-                     "name":"SL_80_60_28: Engine servicing areas"
-                  },
-                  {
-                     "name":"SL_80_60_29: Engine wash areas"
-                  },
-                  {
-                     "name":"SL_80_60_70: Rail repair spaces"
-                  },
-                  {
-                     "name":"SL_80_60_95: Wagon decontamination spaces"
-                  },
-                  {
-                     "name":"SL_80_60_97: Wagon maintenance spaces"
+                     "name":"SL_80_50_97: Wagon maintenance spaces"
                   }
                ]
             },
@@ -2366,6 +2416,14 @@
                ]
             },
             {
+               "name":"SL_90_40: General levels",
+               "children":[
+                  {
+                     "name":"SL_90_40_46: Levels"
+                  }
+               ]
+            },
+            {
                "name":"SL_90_50: Storage spaces",
                "children":[
                   {
@@ -2546,6 +2604,9 @@
                   },
                   {
                      "name":"SL_90_60_51: Light wells"
+                  },
+                  {
+                     "name":"SL_90_60_64: Platform voids"
                   },
                   {
                      "name":"SL_90_60_72: Roof surface spaces"

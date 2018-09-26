@@ -1,4 +1,4 @@
-﻿{
+{
    "name":"Uniclass2015_Co",
    "children":[
       {
@@ -1147,39 +1147,10 @@
                ]
             },
             {
-               "name":"Co_80_35: Highway complexes",
+               "name":"Co_80_35: Road complexes",
                "children":[
-                  {
-                     "name":"Co_80_35_07: Bus maintenance depots"
-                  },
-                  {
-                     "name":"Co_80_35_09: Bus/ coach stations"
-                  },
-                  {
-                     "name":"Co_80_35_11: Car garaging complexes"
-                  },
-                  {
-                     "name":"Co_80_35_35: Highway maintenance depots"
-                  },
-                  {
-                     "name":"Co_80_35_73: Road freight depots"
-                  },
                   {
                      "name":"Co_80_35_75: Road networks"
-                  },
-                  {
-                     "name":"Co_80_35_88: Truck maintenance depots"
-                  }
-               ]
-            },
-            {
-               "name":"Co_80_40: Highway service and toll complexes",
-               "children":[
-                  {
-                     "name":"Co_80_40_35: Highway service stations"
-                  },
-                  {
-                     "name":"Co_80_40_40: Highway toll stations"
                   }
                ]
             },
@@ -1187,13 +1158,16 @@
                "name":"Co_80_50: Railway complexes",
                "children":[
                   {
+                     "name":"Co_80_50_35: Heavy rail complexes"
+                  },
+                  {
                      "name":"Co_80_50_37: High-speed rail complexes"
                   },
                   {
-                     "name":"Co_80_50_50: Magnetic levitation ways"
+                     "name":"Co_80_50_45: Light rail complexes"
                   },
                   {
-                     "name":"Co_80_50_51: Main line rail complexes"
+                     "name":"Co_80_50_50: Magnetic levitation ways"
                   },
                   {
                      "name":"Co_80_50_53: Monorail complexes"
@@ -1202,52 +1176,16 @@
                      "name":"Co_80_50_56: Narrow-gauge rail complexes"
                   },
                   {
-                     "name":"Co_80_50_59: Overhead power light rail complexes"
-                  },
-                  {
                      "name":"Co_80_50_69: Rack rail complexes"
                   },
                   {
-                     "name":"Co_80_50_70: Rail distribution depots"
-                  },
-                  {
-                     "name":"Co_80_50_71: Rail freight complexes"
-                  },
-                  {
-                     "name":"Co_80_50_72: Rail marshalling complexes"
-                  },
-                  {
-                     "name":"Co_80_50_73: Rail networks"
-                  },
-                  {
-                     "name":"Co_80_50_74: Railway stations"
-                  },
-                  {
-                     "name":"Co_80_50_75: Rail track maintenance depots"
-                  },
-                  {
                      "name":"Co_80_50_76: Road-based light rail complexes"
-                  },
-                  {
-                     "name":"Co_80_50_77: Rolling stock depots"
-                  },
-                  {
-                     "name":"Co_80_50_88: Third-rail light rail complexes"
-                  },
-                  {
-                     "name":"Co_80_50_93: Underground rail complexes"
-                  },
-                  {
-                     "name":"Co_80_50_94: Underground railway stations"
                   }
                ]
             },
             {
-               "name":"Co_80_70: Marine transport complexes",
+               "name":"Co_80_70: Marine and waterways transport complexes",
                "children":[
-                  {
-                     "name":"Co_80_70_06: Barge loading terminals"
-                  },
                   {
                      "name":"Co_80_70_11: Cable ferry complexes"
                   },
@@ -1267,19 +1205,10 @@
                      "name":"Co_80_70_36: Harbours"
                   },
                   {
-                     "name":"Co_80_70_46: Lake passenger terminals"
-                  },
-                  {
                      "name":"Co_80_70_47: Liquid bulk ports"
                   },
                   {
-                     "name":"Co_80_70_50: Marinas"
-                  },
-                  {
                      "name":"Co_80_70_70: River ferry complexes"
-                  },
-                  {
-                     "name":"Co_80_70_71: River passenger terminals"
                   },
                   {
                      "name":"Co_80_70_72: Roll-on roll-off ports"

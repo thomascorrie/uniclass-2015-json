@@ -1,4 +1,4 @@
-﻿{
+{
    "name":"Uniclass2015_EF",
    "children":[
       {
@@ -64,10 +64,16 @@
          ]
       },
       {
-         "name":"EF_37: Vessel and tower elements",
+         "name":"EF_37: Tunnel, vessel and tower elements",
          "children":[
             {
-               "name":"EF_37_50: Vessels"
+               "name":"EF_37_16: Vessels and trenches"
+            },
+            {
+               "name":"EF_37_17: Towers, chimneys and masts"
+            },
+            {
+               "name":"EF_37_50: Tunnels and shafts"
             }
          ]
       },
@@ -234,6 +240,26 @@
             },
             {
                "name":"EF_75_80: Protection"
+            }
+         ]
+      },
+      {
+         "name":"EF_80: Transport functions",
+         "children":[
+            {
+               "name":"EF_80_10: Cable transport"
+            },
+            {
+               "name":"EF_80_20: Conveyors"
+            },
+            {
+               "name":"EF_80_30: Cranes and hoists"
+            },
+            {
+               "name":"EF_80_50: Lifts"
+            },
+            {
+               "name":"EF_80_70: Rail tracks"
             }
          ]
       }
