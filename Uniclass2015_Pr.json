@@ -1352,7 +1352,10 @@
                   "name": "Pr_20_31_01_86: Synthetic fibres"
                 },
                 {
-                  "name": "Pr_20_31_01_99: Zinc powder"
+                  "name": "Pr_20_31_01_96: Waterborne absorption fluids"
+                },
+                {
+                  "name": "Pr_20_31_01_99: Zinc powders"
                 }
               ]
             },
@@ -1459,7 +1462,7 @@
                   "name": "Pr_20_31_02_71: Resin binders"
                 },
                 {
-                  "name": "Pr_20_31_02_76: Sodium silicate binder"
+                  "name": "Pr_20_31_02_76: Sodium silicate binders"
                 },
                 {
                   "name": "Pr_20_31_02_80: Solvent-based synthetic rubber resin adhesives"
@@ -4573,6 +4576,9 @@
                   "name": "Pr_25_30_36_11: Carbon steel handrails"
                 },
                 {
+                  "name": "Pr_25_30_36_30: Fibre-reinforced polymer handrails"
+                },
+                {
                   "name": "Pr_25_30_36_50: Manufactured stone handrails"
                 },
                 {
@@ -4868,6 +4874,9 @@
                 },
                 {
                   "name": "Pr_25_57_06_57: Multifoil blanket insulation"
+                },
+                {
+                  "name": "Pr_25_57_06_70: Reflective foil insulation"
                 },
                 {
                   "name": "Pr_25_57_06_71: Resilient layer insulation"
@@ -5523,6 +5532,9 @@
               "children": [
                 {
                   "name": "Pr_25_71_33_02: Annealed glass sheets"
+                },
+                {
+                  "name": "Pr_25_71_33_14: Composite glass sheets"
                 },
                 {
                   "name": "Pr_25_71_33_16: Corrugated wired glass sheets"
@@ -6698,7 +6710,7 @@
                   "name": "Pr_25_93_60_23: Concrete tactile flags"
                 },
                 {
-                  "name": "Pr_25_93_60_26: Cordoroy tactile pavers"
+                  "name": "Pr_25_93_60_26: Corduroy tactile pavers"
                 },
                 {
                   "name": "Pr_25_93_60_33: Glass-reinforced concrete (GRC) paving tiles"
@@ -6988,6 +7000,9 @@
                   "name": "Pr_30_36_08_12: Cam locks"
                 },
                 {
+                  "name": "Pr_30_36_08_13: Cavity sliding door locks"
+                },
+                {
                   "name": "Pr_30_36_08_15: Coin-operated locks"
                 },
                 {
@@ -7013,6 +7028,9 @@
                 },
                 {
                   "name": "Pr_30_36_08_24: Door latches"
+                },
+                {
+                  "name": "Pr_30_36_08_25: Door chains and locks"
                 },
                 {
                   "name": "Pr_30_36_08_26: Door privacy indicator bolts"
@@ -7106,6 +7124,9 @@
                 },
                 {
                   "name": "Pr_30_36_08_77: Single point bolts"
+                },
+                {
+                  "name": "Pr_30_36_08_80: Sliding security screen door locks"
                 },
                 {
                   "name": "Pr_30_36_08_84: Special function door locks"
@@ -7276,6 +7297,9 @@
                   "name": "Pr_30_36_59_25: Door lever handle sets"
                 },
                 {
+                  "name": "Pr_30_36_59_29: Flush pull handles"
+                },
+                {
                   "name": "Pr_30_36_59_31: Furniture stays"
                 },
                 {
@@ -7310,6 +7334,9 @@
                 },
                 {
                   "name": "Pr_30_36_59_76: Sash window pulls"
+                },
+                {
+                  "name": "Pr_30_36_59_78: Screen door closers"
                 },
                 {
                   "name": "Pr_30_36_59_92: Uncontrolled door closers"
@@ -7638,6 +7665,9 @@
                 },
                 {
                   "name": "Pr_30_59_29_75: Roof ventilator unit"
+                },
+                {
+                  "name": "Pr_30_59_29_77: Rotary roof ventilators"
                 },
                 {
                   "name": "Pr_30_59_29_82: Strip ventilators"
@@ -9213,6 +9243,12 @@
                   "name": "Pr_35_57_11_05: Axminster carpets"
                 },
                 {
+                  "name": "Pr_35_57_11_07: Bonded carpets"
+                },
+                {
+                  "name": "Pr_35_57_11_08: Bonded carpet tiles"
+                },
+                {
                   "name": "Pr_35_57_11_11: Cellular plastics underlays"
                 },
                 {
@@ -9378,7 +9414,13 @@
                   "name": "Pr_35_57_71_04: Agglomerated composition cork tiles with polyvinyl chloride (PVC) wearing layer"
                 },
                 {
+                  "name": "Pr_35_57_71_12: Composite sheets"
+                },
+                {
                   "name": "Pr_35_57_71_13: Composite rubber tiles"
+                },
+                {
+                  "name": "Pr_35_57_71_14: Composite tiles"
                 },
                 {
                   "name": "Pr_35_57_71_15: Cork linoleum (cork carpet) sheets"
@@ -9391,6 +9433,12 @@
                 },
                 {
                   "name": "Pr_35_57_71_20: Cork-backed polyvinyl chloride (PVC) tiles"
+                },
+                {
+                  "name": "Pr_35_57_71_22: Cork sheets"
+                },
+                {
+                  "name": "Pr_35_57_71_23: Cork tiles"
                 },
                 {
                   "name": "Pr_35_57_71_25: Ethylene propylene diene monomer (EPDM) rubber tiles"
@@ -9688,7 +9736,13 @@
               "name": "Pr_35_90_28: External trims and sills",
               "children": [
                 {
+                  "name": "Pr_35_90_28_02: Aluminium fascias"
+                },
+                {
                   "name": "Pr_35_90_28_04: Anti-climb security devices"
+                },
+                {
+                  "name": "Pr_35_90_28_11: Carbon steel fascias"
                 },
                 {
                   "name": "Pr_35_90_28_15: Cover caps"
@@ -9731,6 +9785,9 @@
                 },
                 {
                   "name": "Pr_35_90_28_82: Stainless steel cappings and copings"
+                },
+                {
+                  "name": "Pr_35_90_28_83: Stainless steel fascias"
                 },
                 {
                   "name": "Pr_35_90_28_84: Stainless steel undersills"
@@ -10586,6 +10643,9 @@
                   "name": "Pr_40_10_57_15: Concrete warning marker tiles"
                 },
                 {
+                  "name": "Pr_40_10_57_21: Door number labels"
+                },
+                {
                   "name": "Pr_40_10_57_24: Electrical identification labels"
                 },
                 {
@@ -10640,6 +10700,12 @@
                   "name": "Pr_40_10_57_67: Platform lift notices"
                 },
                 {
+                  "name": "Pr_40_10_57_71: Room name labels"
+                },
+                {
+                  "name": "Pr_40_10_57_72: Room number labels"
+                },
+                {
                   "name": "Pr_40_10_57_76: Screen-printed mechanical plant and equipment identification labels"
                 },
                 {
@@ -10659,6 +10725,9 @@
                 },
                 {
                   "name": "Pr_40_10_57_98: Water firefighting system identification and labels"
+                },
+                {
+                  "name": "Pr_40_10_57_99: Window number labels"
                 }
               ]
             },
@@ -10678,6 +10747,9 @@
                   "name": "Pr_40_10_77_06: Banner signs"
                 },
                 {
+                  "name": "Pr_40_10_77_07: Beach safety flags"
+                },
+                {
                   "name": "Pr_40_10_77_08: Braille signs"
                 },
                 {
@@ -10691,6 +10763,9 @@
                 },
                 {
                   "name": "Pr_40_10_77_24: Directory signs"
+                },
+                {
+                  "name": "Pr_40_10_77_27: Evacuation signs"
                 },
                 {
                   "name": "Pr_40_10_77_29: Fencing safety reflectors"
@@ -10750,6 +10825,9 @@
                   "name": "Pr_40_10_77_72: Road traffic signs"
                 },
                 {
+                  "name": "Pr_40_10_77_74: Safety equipment signs"
+                },
+                {
                   "name": "Pr_40_10_77_75: Safe condition signs"
                 },
                 {
@@ -10781,6 +10859,9 @@
                 },
                 {
                   "name": "Pr_40_10_77_90: Traffic cylinders"
+                },
+                {
+                  "name": "Pr_40_10_77_92: Variable message signs"
                 },
                 {
                   "name": "Pr_40_10_77_94: Verge markers"
@@ -10818,7 +10899,7 @@
                   "name": "Pr_40_10_90_50: Marine traffic signals"
                 },
                 {
-                  "name": "Pr_40_10_90_80: Signage"
+                  "name": "Pr_40_10_90_56: Navigation signs"
                 }
               ]
             },
@@ -10887,6 +10968,9 @@
                 },
                 {
                   "name": "Pr_40_20_60_86: Steam room packages"
+                },
+                {
+                  "name": "Pr_40_20_60_96: Wet room floor formers"
                 }
               ]
             },
@@ -13662,6 +13746,14 @@
               ]
             },
             {
+              "name": "Pr_40_70_55: Mooring and docking equipment",
+              "children": [
+                {
+                  "name": "Pr_40_70_55_50: Magnetic mooring devices"
+                }
+              ]
+            },
+            {
               "name": "Pr_40_70_58: Office equipment",
               "children": [
                 {
@@ -14368,6 +14460,9 @@
                 },
                 {
                   "name": "Pr_45_31_03_88: Termite-resistant granules"
+                },
+                {
+                  "name": "Pr_45_31_03_90: Termiticides"
                 },
                 {
                   "name": "Pr_45_31_03_96: Worm controls"
@@ -17003,12 +17098,6 @@
                   "name": "Pr_65_52_61_23: Discharge and ventilating stack terminations"
                 },
                 {
-                  "name": "Pr_65_52_61_28: Electrical resistance surface trace heating"
-                },
-                {
-                  "name": "Pr_65_52_61_29: Electrical resistance surface trace heating for hazardous environments"
-                },
-                {
                   "name": "Pr_65_52_61_42: Insulated wrap pipe collars"
                 },
                 {
@@ -17060,6 +17149,9 @@
                 },
                 {
                   "name": "Pr_65_52_62_27: Elastomeric ring seals"
+                },
+                {
+                  "name": "Pr_65_52_62_28: Flange adaptors"
                 },
                 {
                   "name": "Pr_65_52_62_29: Flange jointing rings for copper flanges"
@@ -18473,6 +18565,9 @@
                   "name": "Pr_65_67_29_52: Mixed flow fans"
                 },
                 {
+                  "name": "Pr_65_67_29_62: Plug fans"
+                },
+                {
                   "name": "Pr_65_67_29_64: Powered smoke and heat exhaust ventilators"
                 },
                 {
@@ -18624,6 +18719,9 @@
                 },
                 {
                   "name": "Pr_65_70_11_63: Pliable conduit"
+                },
+                {
+                  "name": "Pr_65_70_11_64: Points heating harnesses"
                 },
                 {
                   "name": "Pr_65_70_11_65: Polyvinyl chloride (PVC) trunking"
@@ -19353,6 +19451,9 @@
                   "name": "Pr_65_72_97_28: End brackets"
                 },
                 {
+                  "name": "Pr_65_72_97_29: Electric vehicle charging points"
+                },
+                {
                   "name": "Pr_65_72_97_30: Fan isolators"
                 },
                 {
@@ -19393,6 +19494,9 @@
                 },
                 {
                   "name": "Pr_65_72_97_79: Single voltage shaver outlets"
+                },
+                {
+                  "name": "Pr_65_72_97_81: Socket outlet residual current devices (SRCD)"
                 },
                 {
                   "name": "Pr_65_72_97_82: Specialist socket outlets"
@@ -19877,6 +19981,9 @@
                   "name": "Pr_70_55_98_35: Green roof drainage outlets"
                 },
                 {
+                  "name": "Pr_70_55_98_37: High-pressure water hose connectors"
+                },
+                {
                   "name": "Pr_70_55_98_46: Laminar jets"
                 },
                 {
@@ -19896,6 +20003,9 @@
                 },
                 {
                   "name": "Pr_70_55_98_92: Ultrasonic mist makers"
+                },
+                {
+                  "name": "Pr_70_55_98_94: Washout hydrants"
                 },
                 {
                   "name": "Pr_70_55_98_95: Waterfalls and cascades"
@@ -19940,6 +20050,9 @@
                   "name": "Pr_70_60_36_08: Cabinet indirect heaters"
                 },
                 {
+                  "name": "Pr_70_60_36_15: Constant wattage trace heating cables"
+                },
+                {
                   "name": "Pr_70_60_36_22: Decorative fuel effect gas fires"
                 },
                 {
@@ -19979,6 +20092,12 @@
                   "name": "Pr_70_60_36_56: Natural convectors"
                 },
                 {
+                  "name": "Pr_70_60_36_60: Points heater cables"
+                },
+                {
+                  "name": "Pr_70_60_36_62: Points heating kits"
+                },
+                {
                   "name": "Pr_70_60_36_70: Radiant luminous heaters"
                 },
                 {
@@ -19992,6 +20111,9 @@
                 },
                 {
                   "name": "Pr_70_60_36_74: Room heaters"
+                },
+                {
+                  "name": "Pr_70_60_36_77: Series resistance trace heating cables and tapes"
                 },
                 {
                   "name": "Pr_70_60_36_80: Solid fuel room heaters"
@@ -21005,6 +21127,9 @@
                   "name": "Pr_75_50_18_33: Gas detection control panels"
                 },
                 {
+                  "name": "Pr_75_50_18_37: Help point control panels"
+                },
+                {
                   "name": "Pr_75_50_18_40: Incoming supply control panels"
                 },
                 {
@@ -21030,6 +21155,9 @@
                 },
                 {
                   "name": "Pr_75_50_18_65: Pneumatic  document conveyor control panels"
+                },
+                {
+                  "name": "Pr_75_50_18_66: Points heating control panels"
                 },
                 {
                   "name": "Pr_75_50_18_67: Power factor correction control panels"
@@ -21291,6 +21419,9 @@
                   "name": "Pr_75_50_76_25: Dry rot sensor sticks"
                 },
                 {
+                  "name": "Pr_75_50_76_27: Electronic trace heating thermostats"
+                },
+                {
                   "name": "Pr_75_50_76_30: Flow in duct sensors"
                 },
                 {
@@ -21301,6 +21432,9 @@
                 },
                 {
                   "name": "Pr_75_50_76_47: Liquid temperature sensors"
+                },
+                {
+                  "name": "Pr_75_50_76_51: Mechanical trace heating thermostats"
                 },
                 {
                   "name": "Pr_75_50_76_58: Occupancy sensors"
@@ -21511,6 +21645,9 @@
                 },
                 {
                   "name": "Pr_75_75_04_70: Passenger assistance help points"
+                },
+                {
+                  "name": "Pr_75_75_04_71: Passenger assistance intercom handsets"
                 }
               ]
             },
@@ -22583,6 +22720,9 @@
                 },
                 {
                   "name": "Pr_80_77_76_64: Polyisobutylene insulation protection"
+                },
+                {
+                  "name": "Pr_80_77_76_65: Polyisocyanurate (PIR) insulation"
                 },
                 {
                   "name": "Pr_80_77_76_76: Self-adhesive insulation casing"
