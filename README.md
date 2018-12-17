@@ -18,6 +18,5 @@ The tables are published by the [NBS](https://toolkit.thenbs.com/articles/classi
 | FI - Form of information |	Beta status – consultation ongoing | [Uniclass2015_FI.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_FI.json)	
 
 One use is to visualize the tables in a collapsible tree structure to assist in understanding the classification hierarchy:
-* Table Ss Systems can be seen on [gist](https://gist.github.com/thomascorrie/8c30bd33d34eed13bf36440306656d2e) and [bl.ocks](https://bl.ocks.org/thomascorrie/8c30bd33d34eed13bf36440306656d2e)
-* Table Pr Products can be seen on [gist](https://gist.github.com/thomascorrie/5a5e2f7c270bbba0abc084f72f3e3d70) and [bl.ocks](https://bl.ocks.org/thomascorrie/5a5e2f7c270bbba0abc084f72f3e3d70)
-* A more experimental version of the Table Ss Systems collapsible tree can be seen on [gist](https://gist.github.com/thomascorrie/799044318893cbdcfe04b73b9cb8fa49) and [bl.ocks](https://bl.ocks.org/thomascorrie/799044318893cbdcfe04b73b9cb8fa49)
+* All tables can be seen on [gist](https://gist.github.com/thomascorrie/4d688cd9b6bb73d50fcc019f6680d6e6) and [bl.ocks](https://bl.ocks.org/thomascorrie/4d688cd9b6bb73d50fcc019f6680d6e6)
+* A more experimental draggable version of just the Ss Systems table can be seen on [gist](https://gist.github.com/thomascorrie/799044318893cbdcfe04b73b9cb8fa49) and [bl.ocks](https://bl.ocks.org/thomascorrie/799044318893cbdcfe04b73b9cb8fa49)
