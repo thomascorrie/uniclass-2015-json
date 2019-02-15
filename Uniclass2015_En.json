@@ -1,1555 +1,1564 @@
 ﻿{
-  "name": "Uniclass2015_En",
-  "children": [
-    {
-      "name": "En_20: Administrative, commercial and protective service entities",
-      "children": [
-        {
-          "name": "En_20_10: Legislative entities",
-          "children": [
-            {
-              "name": "En_20_10_45: Governmental buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_20_15: Administrative office entities",
-          "children": [
-            {
-              "name": "En_20_15_10: Multiple occupation office buildings"
-            },
-            {
-              "name": "En_20_15_70: Single occupation office buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_20_20: Secular representative entities",
-          "children": [
-            {
-              "name": "En_20_20_10: Buildings for representatives of nation states abroad"
-            },
-            {
-              "name": "En_20_20_40: Local government buildings"
-            },
-            {
-              "name": "En_20_20_50: National government buildings"
-            },
-            {
-              "name": "En_20_20_70: Regional government buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_20_45: Motor vehicle maintenance and fuelling entities",
-          "children": [
-            {
-              "name": "En_20_45_50: Motor vehicle fuelling and charging entities"
-            },
-            {
-              "name": "En_20_45_54: Motor vehicle servicing and repair entities"
-            }
-          ]
-        },
-        {
-          "name": "En_20_50: Commercial entities",
-          "children": [
-            {
-              "name": "En_20_50_05: Auction buildings"
-            },
-            {
-              "name": "En_20_50_22: Department stores"
-            },
-            {
-              "name": "En_20_50_29: Financial and professional services buildings"
-            },
-            {
-              "name": "En_20_50_50: Markets"
-            },
-            {
-              "name": "En_20_50_53: Mixed use buildings"
-            },
-            {
-              "name": "En_20_50_55: Motor vehicle sales entities"
-            },
-            {
-              "name": "En_20_50_80: Shop units"
-            },
-            {
-              "name": "En_20_50_85: Supermarkets"
-            },
-            {
-              "name": "En_20_50_97: Wholesale buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_20_55: Postal communications entities",
-          "children": [
-            {
-              "name": "En_20_55_65: Post office buildings"
-            },
-            {
-              "name": "En_20_55_80: Sorting office buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_20_60: Military entities",
-          "children": [
-            {
-              "name": "En_20_60_02: Air force buildings"
-            },
-            {
-              "name": "En_20_60_10: Army buildings"
-            },
-            {
-              "name": "En_20_60_56: Navy buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_20_65: Law enforcement operational entities",
-          "children": [
-            {
-              "name": "En_20_65_09: Police buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_20_70: Judicial entities",
-          "children": [
-            {
-              "name": "En_20_70_40: Law court buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_20_75: Detention entities",
-          "children": [
-            {
-              "name": "En_20_75_10: Detention buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_20_80: Weapons training ranges",
-          "children": [
-            {
-              "name": "En_20_80_29: Firing range buildings"
-            },
-            {
-              "name": "En_20_80_30: Exterior firing ranges"
-            }
-          ]
-        },
-        {
-          "name": "En_20_85: Security entities",
-          "children": [
-            {
-              "name": "En_20_85_15: Security control buildings"
-            },
-            {
-              "name": "En_20_85_30: Security fences"
-            }
-          ]
-        },
-        {
-          "name": "En_20_90: Incident support entities",
-          "children": [
-            {
-              "name": "En_20_90_10: Fire and rescue training buildings"
-            },
-            {
-              "name": "En_20_90_15: Fire station buildings"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "En_25: Cultural, educational, scientific and information entities",
-      "children": [
-        {
-          "name": "En_25_05: Commemoration entities",
-          "children": [
-            {
-              "name": "En_25_05_35: Gardens of remembrance"
-            },
-            {
-              "name": "En_25_05_50: Memorials"
-            },
-            {
-              "name": "En_25_05_55: Monuments"
-            }
-          ]
-        },
-        {
-          "name": "En_25_10: Educational entities",
-          "children": [
-            {
-              "name": "En_25_10_10: Pre-school educational buildings"
-            },
-            {
-              "name": "En_25_10_20: Infant educational buildings"
-            },
-            {
-              "name": "En_25_10_30: Primary educational buildings"
-            },
-            {
-              "name": "En_25_10_40: Secondary educational buildings"
-            },
-            {
-              "name": "En_25_10_50: Pre-tertiary educational buildings"
-            },
-            {
-              "name": "En_25_10_60: Tertiary educational buildings"
-            },
-            {
-              "name": "En_25_10_70: Adult educational buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_25_30: Scientific and laboratory entities",
-          "children": [
-            {
-              "name": "En_25_30_40: Laboratory buildings"
-            },
-            {
-              "name": "En_25_30_50: Meteorological stations"
-            },
-            {
-              "name": "En_25_30_60: Observatory buildings"
-            },
-            {
-              "name": "En_25_30_66: Observatory antennas"
-            },
-            {
-              "name": "En_25_30_70: Research buildings"
-            },
-            {
-              "name": "En_25_30_77: Seed banks"
-            },
-            {
-              "name": "En_25_30_90: Triangulation pillars"
-            }
-          ]
-        },
-        {
-          "name": "En_25_50: Exhibition entities",
-          "children": [
-            {
-              "name": "En_25_50_02: Art exhibition buildings"
-            },
-            {
-              "name": "En_25_50_04: Art installations"
-            },
-            {
-              "name": "En_25_50_15: Collection exhibition buildings"
-            },
-            {
-              "name": "En_25_50_29: Fauna exhibition buildings"
-            },
-            {
-              "name": "En_25_50_30: Fauna exhibition grounds"
-            },
-            {
-              "name": "En_25_50_31: Flora exhibition buildings"
-            },
-            {
-              "name": "En_25_50_32: Flora exhibition grounds"
-            },
-            {
-              "name": "En_25_50_54: Multipurpose exhibition buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_25_70: Information entities",
-          "children": [
-            {
-              "name": "En_25_70_02: Archive buildings"
-            },
-            {
-              "name": "En_25_70_13: Conference buildings"
-            },
-            {
-              "name": "En_25_70_42: Information kiosks"
-            },
-            {
-              "name": "En_25_70_47: Library buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_25_90: Worship entities",
-          "children": [
-            {
-              "name": "En_25_90_30: Faith worship buildings"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "En_30: Industrial entities",
-      "children": [
-        {
-          "name": "En_30_10: Mineral extraction entities",
-          "children": [
-            {
-              "name": "En_30_10_57: Offshore oil and gas extraction platforms"
-            },
-            {
-              "name": "En_30_10_80: Spoil heaps"
-            },
-            {
-              "name": "En_30_10_85: Surface mining structures"
-            },
-            {
-              "name": "En_30_10_86: Surface mining cuttings"
-            },
-            {
-              "name": "En_30_10_90: Underground mining structures"
-            }
-          ]
-        },
-        {
-          "name": "En_30_20: Nuclear and chemical management entities",
-          "children": [
-            {
-              "name": "En_30_20_15: Radioactivity waste management control buildings"
-            },
-            {
-              "name": "En_30_20_30: High heat generating radioactive waste management tunnel"
-            },
-            {
-              "name": "En_30_20_35: High heat radioactive waste package transfer buildings"
-            },
-            {
-              "name": "En_30_20_45: Low heat radioactive waste package transfer buildings"
-            },
-            {
-              "name": "En_30_20_60: Low heat generating radioactive waste management vault"
-            },
-            {
-              "name": "En_30_20_70: Radioactivity decontamination buildings"
-            },
-            {
-              "name": "En_30_20_75: Radioactivity effluent management buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_30_30: Mineral processing entities",
-          "children": [
-            {
-              "name": "En_30_30_33: Gas processing structures"
-            },
-            {
-              "name": "En_30_30_58: Oil processing structures"
-            },
-            {
-              "name": "En_30_30_59: Ore processing structures"
-            }
-          ]
-        },
-        {
-          "name": "En_30_40: Animal and plant products processing entities",
-          "children": [
-            {
-              "name": "En_30_40_01: Animal processing buildings"
-            },
-            {
-              "name": "En_30_40_20: Crop processing buildings"
-            },
-            {
-              "name": "En_30_40_30: Fish processing buildings"
-            },
-            {
-              "name": "En_30_40_40: Horticultural processing buildings"
-            },
-            {
-              "name": "En_30_40_90: Timber processing buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_30_50: Manufacturing entities",
-          "children": [
-            {
-              "name": "En_30_50_15: Cranes"
-            },
-            {
-              "name": "En_30_50_50: Manufacturing buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_30_60: Cleaning and maintenance entities",
-          "children": [
-            {
-              "name": "En_30_60_20: Decontamination laundry buildings"
-            },
-            {
-              "name": "En_30_60_40: Laundry buildings"
-            },
-            {
-              "name": "En_30_60_50: Maintenance buildings"
-            },
-            {
-              "name": "En_30_60_94: Vehicle cleaning buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_30_70: Process entities",
-          "children": [
-            {
-              "name": "En_30_70_13: Chimney stacks"
-            },
-            {
-              "name": "En_30_70_15: Conveyors"
-            },
-            {
-              "name": "En_30_70_17: Cooling towers"
-            },
-            {
-              "name": "En_30_70_28: Equipment gantries"
-            }
-          ]
-        },
-        {
-          "name": "En_30_80: Mechanical power generation",
-          "children": [
-            {
-              "name": "En_30_80_96: Watermills"
-            },
-            {
-              "name": "En_30_80_97: Windmills"
-            }
-          ]
-        },
-        {
-          "name": "En_30_85: Marine and water entities",
-          "children": [
-            {
-              "name": "En_30_85_07: Boathouse buildings"
-            },
-            {
-              "name": "En_30_85_08: Boatyard buildings"
-            },
-            {
-              "name": "En_30_85_24: Dry docks"
-            },
-            {
-              "name": "En_30_85_80: Shipyard buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_30_90: Warehousing and distribution entities",
-          "children": [
-            {
-              "name": "En_30_90_33: Goods warehousing buildings"
-            },
-            {
-              "name": "En_30_90_35: Goods distribution buildings"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "En_32: Water and land management entities",
-      "children": [
-        {
-          "name": "En_32_10: Agricultural and horticultural entities",
-          "children": [
-            {
-              "name": "En_32_10_02: Arable buildings"
-            },
-            {
-              "name": "En_32_10_04: Arable land"
-            },
-            {
-              "name": "En_32_10_20: Coppices"
-            },
-            {
-              "name": "En_32_10_28: Fishing buildings"
-            },
-            {
-              "name": "En_32_10_29: Fishing cages"
-            },
-            {
-              "name": "En_32_10_30: Forestry buildings"
-            },
-            {
-              "name": "En_32_10_31: Forestry plantations"
-            },
-            {
-              "name": "En_32_10_39: Horticultural buildings"
-            },
-            {
-              "name": "En_32_10_40: Horticultural land"
-            },
-            {
-              "name": "En_32_10_46: Livestock buildings"
-            },
-            {
-              "name": "En_32_10_47: Livestock paddocks and fields"
-            },
-            {
-              "name": "En_32_10_93: Vineyard and winery buildings"
-            },
-            {
-              "name": "En_32_10_94: Vineyard plantations"
-            }
-          ]
-        },
-        {
-          "name": "En_32_35: Grounds",
-          "children": [
-            {
-              "name": "En_32_35_05: Arboretums"
-            },
-            {
-              "name": "En_32_35_12: Botanical gardens"
-            },
-            {
-              "name": "En_32_35_15: Community gardens"
-            },
-            {
-              "name": "En_32_35_33: Gardens"
-            },
-            {
-              "name": "En_32_35_36: Hard landscapes"
-            },
-            {
-              "name": "En_32_35_80: Soft landscapes"
-            }
-          ]
-        },
-        {
-          "name": "En_32_40: Land managed entities",
-          "children": [
-            {
-              "name": "En_32_40_20: Cuttings"
-            },
-            {
-              "name": "En_32_40_26: Embankments"
-            },
-            {
-              "name": "En_32_40_30: False cuttings"
-            },
-            {
-              "name": "En_32_40_90: Trenches"
-            }
-          ]
-        },
-        {
-          "name": "En_32_50: Marine and water side entities",
-          "children": [
-            {
-              "name": "En_32_50_22: Dock buildings"
-            },
-            {
-              "name": "En_32_50_44: Jetties"
-            },
-            {
-              "name": "En_32_50_46: Landing stages"
-            },
-            {
-              "name": "En_32_50_63: Piers"
-            },
-            {
-              "name": "En_32_50_69: Quays"
-            },
-            {
-              "name": "En_32_50_98: Wharfs"
-            }
-          ]
-        },
-        {
-          "name": "En_32_85: Water control and retaining entities",
-          "children": [
-            {
-              "name": "En_32_85_06: Barrier beaches"
-            },
-            {
-              "name": "En_32_85_10: Breakwaters"
-            },
-            {
-              "name": "En_32_85_15: Control gates"
-            },
-            {
-              "name": "En_32_85_21: Dams"
-            },
-            {
-              "name": "En_32_85_23: Debris screens"
-            },
-            {
-              "name": "En_32_85_25: Draw-off towers"
-            },
-            {
-              "name": "En_32_85_30: Flood prevention structures"
-            },
-            {
-              "name": "En_32_85_31: Flumes"
-            },
-            {
-              "name": "En_32_85_35: Groynes"
-            },
-            {
-              "name": "En_32_85_37: High ground"
-            },
-            {
-              "name": "En_32_85_45: Levees"
-            },
-            {
-              "name": "En_32_85_59: Outfalls"
-            },
-            {
-              "name": "En_32_85_77: Sea dikes"
-            },
-            {
-              "name": "En_32_85_80: Sluices"
-            },
-            {
-              "name": "En_32_85_82: Spillways"
-            },
-            {
-              "name": "En_32_85_84: Stilling basins"
-            },
-            {
-              "name": "En_32_85_96: Water retaining structures"
-            },
-            {
-              "name": "En_32_85_97: Weirs"
-            },
-            {
-              "name": "En_32_85_98: Wells"
-            }
-          ]
-        },
-        {
-          "name": "En_32_95: Waterways",
-          "children": [
-            {
-              "name": "En_32_95_14: Channels"
-            },
-            {
-              "name": "En_32_95_16: Complex culverts"
-            },
-            {
-              "name": "En_32_95_23: Ditches"
-            },
-            {
-              "name": "En_32_95_59: Open channels"
-            },
-            {
-              "name": "En_32_95_80: Simple culverts"
-            },
-            {
-              "name": "En_32_95_85: Surface water channels"
-            },
-            {
-              "name": "En_32_95_86: Swales"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "En_35: Medical, health, welfare and sanitary entities",
-      "children": [
-        {
-          "name": "En_35_10: Medical entities",
-          "children": [
-            {
-              "name": "En_35_10_10: Medical buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_35_50: Welfare entities",
-          "children": [
-            {
-              "name": "En_35_50_21: Day welfare buildings"
-            },
-            {
-              "name": "En_35_50_70: Residential welfare buildings"
-            },
-            {
-              "name": "En_35_50_94: Visitor welfare buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_35_70: Funerary entities",
-          "children": [
-            {
-              "name": "En_35_70_06: Body storage buildings"
-            },
-            {
-              "name": "En_35_70_10: Burial buildings"
-            },
-            {
-              "name": "En_35_70_11: Burial grounds"
-            },
-            {
-              "name": "En_35_70_30: Funeral buildings"
-            },
-            {
-              "name": "En_35_70_60: Medical chimney stacks"
-            }
-          ]
-        },
-        {
-          "name": "En_35_80: Sanitary entities",
-          "children": [
-            {
-              "name": "En_35_80_10: Bathing buildings"
-            },
-            {
-              "name": "En_35_80_90: Toilet buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_35_85: Animal entities",
-          "children": [
-            {
-              "name": "En_35_85_02: Animal cage buildings"
-            },
-            {
-              "name": "En_35_85_03: Animal pen buildings"
-            },
-            {
-              "name": "En_35_85_84: Stable buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_35_90: Animal medical, health, welfare and funerary entities",
-          "children": [
-            {
-              "name": "En_35_90_10: Animal cemeteries"
-            },
-            {
-              "name": "En_35_90_30: Animal funerary buildings"
-            },
-            {
-              "name": "En_35_90_50: Animal medical buildings"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "En_40: Recreational entities",
-      "children": [
-        {
-          "name": "En_40_05: Amusement entities",
-          "children": [
-            {
-              "name": "En_40_05_03: Amusement buildings"
-            },
-            {
-              "name": "En_40_05_13: Casinos"
-            },
-            {
-              "name": "En_40_05_42: Indoor fairgrounds"
-            },
-            {
-              "name": "En_40_05_60: Outdoor fairgrounds"
-            },
-            {
-              "name": "En_40_05_68: Public amenities"
-            }
-          ]
-        },
-        {
-          "name": "En_40_20: Dining entities",
-          "children": [
-            {
-              "name": "En_40_20_23: Dining buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_40_35: Historic entities",
-          "children": [
-            {
-              "name": "En_40_35_10: Buildings of historic interest"
-            },
-            {
-              "name": "En_40_35_36: Historic buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_40_60: Performing arts entities",
-          "children": [
-            {
-              "name": "En_40_60_10: Multiple performing arts buildings"
-            },
-            {
-              "name": "En_40_60_70: Single performing arts buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_40_75: Social recreation entities",
-          "children": [
-            {
-              "name": "En_40_75_10: Multiple social recreation buildings"
-            },
-            {
-              "name": "En_40_75_15: Club houses"
-            },
-            {
-              "name": "En_40_75_70: Single social recreation buildings"
-            },
-            {
-              "name": "En_40_75_94: Visitor centres"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "En_42: Sport and activity entities",
-      "children": [
-        {
-          "name": "En_42_15: Courts, pitches and field sports entities",
-          "children": [
-            {
-              "name": "En_42_15_06: Ball courts"
-            },
-            {
-              "name": "En_42_15_81: Sports grounds"
-            },
-            {
-              "name": "En_42_15_82: Sports pitches"
-            }
-          ]
-        },
-        {
-          "name": "En_42_40: Indoor activity entities",
-          "children": [
-            {
-              "name": "En_42_40_80: Sports buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_42_55: Outdoor activity entities",
-          "children": [
-            {
-              "name": "En_42_55_01: Activity grounds"
-            },
-            {
-              "name": "En_42_55_34: Golf driving ranges"
-            }
-          ]
-        },
-        {
-          "name": "En_42_85: Swimming entities",
-          "children": [
-            {
-              "name": "En_42_85_60: Outdoor swimming pools"
-            },
-            {
-              "name": "En_42_85_83: Swimming pool buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_42_90: Water activity entities"
-        },
-        {
-          "name": "En_42_95: Winter sports entities",
-          "children": [
-            {
-              "name": "En_42_95_40: Ice rink buildings"
-            },
-            {
-              "name": "En_42_95_80: Ski resort buildings"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "En_45: Residential entities",
-      "children": [
-        {
-          "name": "En_45_10: Residential buildings",
-          "children": [
-            {
-              "name": "En_45_10_39: Houses"
-            },
-            {
-              "name": "En_45_10_47: Long-term residential buildings"
-            },
-            {
-              "name": "En_45_10_70: Short term residential buildings"
-            },
-            {
-              "name": "En_45_10_90: Temporary residential buildings"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "En_50: Waste disposal entities",
-      "children": [
-        {
-          "name": "En_50_10: Gas waste collection entities"
-        },
-        {
-          "name": "En_50_20: Wet waste collection entities",
-          "children": [
-            {
-              "name": "En_50_20_10: Wet waste collection tanks"
-            }
-          ]
-        },
-        {
-          "name": "En_50_30: Drainage and wastewater collection",
-          "children": [
-            {
-              "name": "En_50_30_25: Drainage collection pipelines"
-            },
-            {
-              "name": "En_50_30_85: Surface water collection pipelines"
-            },
-            {
-              "name": "En_50_30_98: Wastewater collection pipelines"
-            },
-            {
-              "name": "En_50_30_99: Wastewater collection structures"
-            }
-          ]
-        },
-        {
-          "name": "En_50_40: Dry waste collection and distribution",
-          "children": [
-            {
-              "name": "En_50_40_10: Dry waste collection structures"
-            },
-            {
-              "name": "En_50_40_50: Dry waste distribution structures"
-            }
-          ]
-        },
-        {
-          "name": "En_50_50: Gas waste storage, treatment and disposal"
-        },
-        {
-          "name": "En_50_60: Wet waste storage, treatment and disposal"
-        },
-        {
-          "name": "En_50_70: Drainage storage, treatment and disposal"
-        },
-        {
-          "name": "En_50_75: Wastewater storage, treatment and disposal",
-          "children": [
-            {
-              "name": "En_50_75_15: Wastewater entities"
-            },
-            {
-              "name": "En_50_75_40: Wastewater treatment buildings"
-            },
-            {
-              "name": "En_50_75_45: Wastewater treatment entities"
-            },
-            {
-              "name": "En_50_75_70: Wastewater disposal buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_50_80: Dry waste treatment and disposal",
-          "children": [
-            {
-              "name": "En_50_80_40: Dry waste treatment structures"
-            },
-            {
-              "name": "En_50_80_70: Dry waste disposal structures"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "En_55: Piped supply entities",
-      "children": [
-        {
-          "name": "En_55_05: Gas extraction, treatment and storage",
-          "children": [
-            {
-              "name": "En_55_05_30: Gas extraction structures"
-            },
-            {
-              "name": "En_55_05_35: Gas extraction vessels"
-            },
-            {
-              "name": "En_55_05_38: Gas extraction pipelines"
-            },
-            {
-              "name": "En_55_05_70: Gas treatment buildings"
-            },
-            {
-              "name": "En_55_05_75: Gas treatment plant"
-            },
-            {
-              "name": "En_55_05_78: Gas treatment pipelines"
-            }
-          ]
-        },
-        {
-          "name": "En_55_10: Liquid fuel extraction and treatment entities",
-          "children": [
-            {
-              "name": "En_55_10_10: Oil extraction structures"
-            },
-            {
-              "name": "En_55_10_50: Fuel treatment buildings"
-            },
-            {
-              "name": "En_55_10_55: Fuel treatment tanks"
-            },
-            {
-              "name": "En_55_10_58: Fuel treatment pipelines"
-            }
-          ]
-        },
-        {
-          "name": "En_55_15: Water extraction and treatment entities",
-          "children": [
-            {
-              "name": "En_55_15_10: Water extraction buildings"
-            },
-            {
-              "name": "En_55_15_15: Water extraction tanks"
-            },
-            {
-              "name": "En_55_15_20: Water extraction pipelines"
-            },
-            {
-              "name": "En_55_15_50: Water treatment buildings"
-            },
-            {
-              "name": "En_55_15_55: Water treatment tanks"
-            }
-          ]
-        },
-        {
-          "name": "En_55_20: Gas supply entities",
-          "children": [
-            {
-              "name": "En_55_20_50: Gas distribution structures"
-            },
-            {
-              "name": "En_55_20_60: Gas distribution pipelines"
-            }
-          ]
-        },
-        {
-          "name": "En_55_30: Fire extinguishing supply entities"
-        },
-        {
-          "name": "En_55_40: Steam supply entities"
-        },
-        {
-          "name": "En_55_50: Liquid fuel supply entities",
-          "children": [
-            {
-              "name": "En_55_50_20: Fuel distribution pipelines"
-            },
-            {
-              "name": "En_55_50_45: Liquid fuel distribution buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_55_60: Process liquid supply entities"
-        },
-        {
-          "name": "En_55_70: Water supply entities",
-          "children": [
-            {
-              "name": "En_55_70_10: Water distribution buildings"
-            },
-            {
-              "name": "En_55_70_18: Water distribution pipelines"
-            }
-          ]
-        },
-        {
-          "name": "En_55_90: Piped solids supply entities"
-        }
-      ]
-    },
-    {
-      "name": "En_60: Heating, cooling and refrigeration entities",
-      "children": [
-        {
-          "name": "En_60_30: Rail and paving heating entities"
-        },
-        {
-          "name": "En_60_40: Space heating and cooling entities",
-          "children": [
-            {
-              "name": "En_60_40_10: District heating buildings"
-            },
-            {
-              "name": "En_60_40_20: District heating pipelines"
-            },
-            {
-              "name": "En_60_40_50: District cooling buildings"
-            },
-            {
-              "name": "En_60_40_60: District cooling pipelines"
-            }
-          ]
-        },
-        {
-          "name": "En_60_60: Refrigeration entities"
-        },
-        {
-          "name": "En_60_80: Drying entities"
-        }
-      ]
-    },
-    {
-      "name": "En_65: Ventilation and air conditioning entities",
-      "children": [
-        {
-          "name": "En_65_40: Ventilation entities",
-          "children": [
-            {
-              "name": "En_65_40_80: Shaft and tunnel ventilation plant building"
-            }
-          ]
-        },
-        {
-          "name": "En_65_80: Air conditioning entities"
-        }
-      ]
-    },
-    {
-      "name": "En_70: Electrical power generation and distribution entities",
-      "children": [
-        {
-          "name": "En_70_10: Electrical power generation entities",
-          "children": [
-            {
-              "name": "En_70_10_10: Electrical power generation buildings"
-            },
-            {
-              "name": "En_70_10_80: Solar panel fields"
-            },
-            {
-              "name": "En_70_10_90: Wind turbines"
-            }
-          ]
-        },
-        {
-          "name": "En_70_30: Electricity distribution and transmission entities",
-          "children": [
-            {
-              "name": "En_70_30_18: Electricity transmission pylons and lines"
-            },
-            {
-              "name": "En_70_30_35: High-voltage electricity substations"
-            },
-            {
-              "name": "En_70_30_45: Low-voltage electricity substations"
-            },
-            {
-              "name": "En_70_30_90: Underground electricity transmission lines"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "En_75: Communications, security, safety and protection entities",
-      "children": [
-        {
-          "name": "En_75_10: Communication entities",
-          "children": [
-            {
-              "name": "En_75_10_10: Broadcast communications buildings"
-            },
-            {
-              "name": "En_75_10_16: Broadcast communications masts and towers"
-            }
-          ]
-        },
-        {
-          "name": "En_75_30: Signalling entities",
-          "children": [
-            {
-              "name": "En_75_30_10: Peer-to-peer communications buildings"
-            },
-            {
-              "name": "En_75_30_18: Peer-to-peer communications networks"
-            }
-          ]
-        },
-        {
-          "name": "En_75_40: Security systems entities"
-        },
-        {
-          "name": "En_75_50: Safety and protection entities"
-        },
-        {
-          "name": "En_75_60: Environmental safety entities"
-        },
-        {
-          "name": "En_75_70: Control and management entities"
-        },
-        {
-          "name": "En_75_80: Protection entities"
-        }
-      ]
-    },
-    {
-      "name": "En_80: Transport entities",
-      "children": [
-        {
-          "name": "En_80_05: Aerospace entities",
-          "children": [
-            {
-              "name": "En_80_05_01: Air traffic control towers"
-            },
-            {
-              "name": "En_80_05_02: Aircraft hangars"
-            },
-            {
-              "name": "En_80_05_60: Passenger terminal buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_80_20: Cable transport entities",
-          "children": [
-            {
-              "name": "En_80_20_11: Cable car entities"
-            },
-            {
-              "name": "En_80_20_12: Cable car stations"
-            },
-            {
-              "name": "En_80_20_86: Suspended cableways"
-            }
-          ]
-        },
-        {
-          "name": "En_80_35: Road entities",
-          "children": [
-            {
-              "name": "En_80_35_01: Access roads"
-            },
-            {
-              "name": "En_80_35_07: Bus maintenance depots"
-            },
-            {
-              "name": "En_80_35_09: Bus and coach stations"
-            },
-            {
-              "name": "En_80_35_34: Guided bus lanes"
-            },
-            {
-              "name": "En_80_35_35: Highway maintenance depots"
-            },
-            {
-              "name": "En_80_35_38: Highway service stations"
-            },
-            {
-              "name": "En_80_35_56: Motorways"
-            },
-            {
-              "name": "En_80_35_67: Private roads"
-            },
-            {
-              "name": "En_80_35_73: Road freight depots"
-            },
-            {
-              "name": "En_80_35_74: Roads"
-            },
-            {
-              "name": "En_80_35_77: Service area buildings"
-            },
-            {
-              "name": "En_80_35_88: Tollgates"
-            },
-            {
-              "name": "En_80_35_89: Tracks"
-            },
-            {
-              "name": "En_80_35_90: Truck maintenance depots"
-            }
-          ]
-        },
-        {
-          "name": "En_80_40: Pathways",
-          "children": [
-            {
-              "name": "En_80_40_08: Bridleways"
-            },
-            {
-              "name": "En_80_40_10: Byways"
-            },
-            {
-              "name": "En_80_40_20: Cycle pathways"
-            },
-            {
-              "name": "En_80_40_30: Footpaths"
-            },
-            {
-              "name": "En_80_40_37: Hiking paths"
-            },
-            {
-              "name": "En_80_40_66: Promenades"
-            },
-            {
-              "name": "En_80_40_70: Rambler ways"
-            },
-            {
-              "name": "En_80_40_90: Trails"
-            }
-          ]
-        },
-        {
-          "name": "En_80_45: Vehicle storage entities",
-          "children": [
-            {
-              "name": "En_80_45_08: Bus parks"
-            },
-            {
-              "name": "En_80_45_11: Car garaging entities"
-            },
-            {
-              "name": "En_80_45_17: Coach parks"
-            },
-            {
-              "name": "En_80_45_55: Multi-storey vehicle parks"
-            },
-            {
-              "name": "En_80_45_85: Surface vehicle parks"
-            },
-            {
-              "name": "En_80_45_89: Truck parks"
-            },
-            {
-              "name": "En_80_45_92: Underground vehicle parks"
-            }
-          ]
-        },
-        {
-          "name": "En_80_50: Railway entities",
-          "children": [
-            {
-              "name": "En_80_50_53: Monorail entities"
-            },
-            {
-              "name": "En_80_50_58: Platforms"
-            },
-            {
-              "name": "En_80_50_60: Rack rail maintenance buildings"
-            },
-            {
-              "name": "En_80_50_62: Rack railways track entities"
-            },
-            {
-              "name": "En_80_50_64: Rail distribution depots"
-            },
-            {
-              "name": "En_80_50_66: Rail freight entities"
-            },
-            {
-              "name": "En_80_50_68: Rail marshalling entities"
-            },
-            {
-              "name": "En_80_50_71: Railway corridors"
-            },
-            {
-              "name": "En_80_50_74: Railway stations"
-            },
-            {
-              "name": "En_80_50_76: Railway sidings"
-            },
-            {
-              "name": "En_80_50_78: Rolling stock depots"
-            },
-            {
-              "name": "En_80_50_83: Station buildings"
-            },
-            {
-              "name": "En_80_50_86: Track maintenance depots"
-            },
-            {
-              "name": "En_80_50_88: Train maintenance buildings"
-            },
-            {
-              "name": "En_80_50_90: Tramways"
-            },
-            {
-              "name": "En_80_50_94: Underground railway stations"
-            },
-            {
-              "name": "En_80_50_95: Wagon decontamination buildings"
-            },
-            {
-              "name": "En_80_50_97: Wagon maintenance buildings"
-            }
-          ]
-        },
-        {
-          "name": "En_80_70: Marine and waterways transport entities",
-          "children": [
-            {
-              "name": "En_80_70_06: Barge loading terminals"
-            },
-            {
-              "name": "En_80_70_11: Canal channels"
-            },
-            {
-              "name": "En_80_70_15: Canal locks"
-            },
-            {
-              "name": "En_80_70_46: Lake passenger terminals"
-            },
-            {
-              "name": "En_80_70_50: Marinas"
-            },
-            {
-              "name": "En_80_70_71: River passenger terminals"
-            }
-          ]
-        },
-        {
-          "name": "En_80_90: Transport hub entities"
-        },
-        {
-          "name": "En_80_94: Bridges",
-          "children": [
-            {
-              "name": "En_80_94_30: Fixed bridges"
-            },
-            {
-              "name": "En_80_94_50: Moveable bridges"
-            }
-          ]
-        },
-        {
-          "name": "En_80_96: Tunnels and shafts",
-          "children": [
-            {
-              "name": "En_80_96_20: Drift tunnels"
-            },
-            {
-              "name": "En_80_96_46: Lined drift tunnels"
-            },
-            {
-              "name": "En_80_96_49: Lined tunnels"
-            },
-            {
-              "name": "En_80_96_80: Shafts"
-            },
-            {
-              "name": "En_80_96_90: Tunnels"
-            },
-            {
-              "name": "En_80_96_91: Tunnel portals"
-            },
-            {
-              "name": "En_80_96_92: Underpasses"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "En_90: Circulation and storage entities",
-      "children": [
-        {
-          "name": "En_90_10: Circulation entities",
-          "children": [
-            {
-              "name": "En_90_10_02: Access stairways and walkways"
-            },
-            {
-              "name": "En_90_10_62: Pedestrianized areas"
-            },
-            {
-              "name": "En_90_10_77: External service areas"
-            }
-          ]
-        },
-        {
-          "name": "En_90_50: Storage entities",
-          "children": [
-            {
-              "name": "En_90_50_02: Agricultural storage buildings"
-            },
-            {
-              "name": "En_90_50_03: Agricultural storage silos"
-            },
-            {
-              "name": "En_90_50_10: Dry waste storage structures"
-            },
-            {
-              "name": "En_90_50_11: Dry waste storage yards"
-            },
-            {
-              "name": "En_90_50_28: Explosives stores"
-            },
-            {
-              "name": "En_90_50_50: Manufacturing tanks and silos"
-            },
-            {
-              "name": "En_90_50_53: Mineral storage silos"
-            },
-            {
-              "name": "En_90_50_55: Motor vehicle storage entities"
-            },
-            {
-              "name": "En_90_50_58: Oil and gas storage tanks"
-            },
-            {
-              "name": "En_90_50_70: Storage buildings"
-            },
-            {
-              "name": "En_90_50_96: Wastewater storage structures"
-            }
-          ]
-        },
-        {
-          "name": "En_90_90: Plant and control entities",
-          "children": [
-            {
-              "name": "En_90_90_33: Gauge houses"
-            },
-            {
-              "name": "En_90_90_35: Gauging station buildings"
-            },
-            {
-              "name": "En_90_90_50: Mechanical services buildings"
-            },
-            {
-              "name": "En_90_90_68: Pump houses"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+   "name": "Uniclass2015_En",
+   "children": [
+      {
+         "name": "En_20: Administrative, commercial and protective service entities",
+         "children": [
+            {
+               "name": "En_20_10: Legislative entities",
+               "children": [
+                  {
+                     "name": "En_20_10_45: Governmental buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_20_15: Administrative office entities",
+               "children": [
+                  {
+                     "name": "En_20_15_10: Multiple occupation office buildings"
+                  },
+                  {
+                     "name": "En_20_15_70: Single occupation office buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_20_20: Secular representative entities",
+               "children": [
+                  {
+                     "name": "En_20_20_10: Buildings for representatives of nation states abroad"
+                  },
+                  {
+                     "name": "En_20_20_40: Local government buildings"
+                  },
+                  {
+                     "name": "En_20_20_50: National government buildings"
+                  },
+                  {
+                     "name": "En_20_20_70: Regional government buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_20_45: Motor vehicle maintenance and fuelling entities",
+               "children": [
+                  {
+                     "name": "En_20_45_50: Motor vehicle fuelling and charging entities"
+                  },
+                  {
+                     "name": "En_20_45_54: Motor vehicle servicing and repair entities"
+                  }
+               ]
+            },
+            {
+               "name": "En_20_50: Commercial entities",
+               "children": [
+                  {
+                     "name": "En_20_50_05: Auction buildings"
+                  },
+                  {
+                     "name": "En_20_50_22: Department stores"
+                  },
+                  {
+                     "name": "En_20_50_29: Financial and professional services buildings"
+                  },
+                  {
+                     "name": "En_20_50_50: Markets"
+                  },
+                  {
+                     "name": "En_20_50_53: Mixed use buildings"
+                  },
+                  {
+                     "name": "En_20_50_55: Motor vehicle sales entities"
+                  },
+                  {
+                     "name": "En_20_50_80: Shop units"
+                  },
+                  {
+                     "name": "En_20_50_85: Supermarkets"
+                  },
+                  {
+                     "name": "En_20_50_97: Wholesale buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_20_55: Postal communications entities",
+               "children": [
+                  {
+                     "name": "En_20_55_65: Post office buildings"
+                  },
+                  {
+                     "name": "En_20_55_80: Sorting office buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_20_60: Military entities",
+               "children": [
+                  {
+                     "name": "En_20_60_02: Air force buildings"
+                  },
+                  {
+                     "name": "En_20_60_10: Army buildings"
+                  },
+                  {
+                     "name": "En_20_60_56: Navy buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_20_65: Law enforcement operational entities",
+               "children": [
+                  {
+                     "name": "En_20_65_09: Police buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_20_70: Judicial entities",
+               "children": [
+                  {
+                     "name": "En_20_70_40: Law court buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_20_75: Detention entities",
+               "children": [
+                  {
+                     "name": "En_20_75_10: Detention buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_20_80: Weapons training ranges",
+               "children": [
+                  {
+                     "name": "En_20_80_29: Firing range buildings"
+                  },
+                  {
+                     "name": "En_20_80_30: Exterior firing ranges"
+                  }
+               ]
+            },
+            {
+               "name": "En_20_85: Security entities",
+               "children": [
+                  {
+                     "name": "En_20_85_15: Security control buildings"
+                  },
+                  {
+                     "name": "En_20_85_30: Security fences"
+                  }
+               ]
+            },
+            {
+               "name": "En_20_90: Incident support entities",
+               "children": [
+                  {
+                     "name": "En_20_90_10: Fire and rescue training buildings"
+                  },
+                  {
+                     "name": "En_20_90_15: Fire station buildings"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "En_25: Cultural, educational, scientific and information entities",
+         "children": [
+            {
+               "name": "En_25_05: Commemoration entities",
+               "children": [
+                  {
+                     "name": "En_25_05_35: Gardens of remembrance"
+                  },
+                  {
+                     "name": "En_25_05_50: Memorials"
+                  },
+                  {
+                     "name": "En_25_05_55: Monuments"
+                  }
+               ]
+            },
+            {
+               "name": "En_25_10: Educational entities",
+               "children": [
+                  {
+                     "name": "En_25_10_10: Pre-school educational buildings"
+                  },
+                  {
+                     "name": "En_25_10_20: Infant educational buildings"
+                  },
+                  {
+                     "name": "En_25_10_30: Primary educational buildings"
+                  },
+                  {
+                     "name": "En_25_10_40: Secondary educational buildings"
+                  },
+                  {
+                     "name": "En_25_10_50: Pre-tertiary educational buildings"
+                  },
+                  {
+                     "name": "En_25_10_60: Tertiary educational buildings"
+                  },
+                  {
+                     "name": "En_25_10_70: Adult educational buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_25_30: Scientific and laboratory entities",
+               "children": [
+                  {
+                     "name": "En_25_30_40: Laboratory buildings"
+                  },
+                  {
+                     "name": "En_25_30_50: Meteorological stations"
+                  },
+                  {
+                     "name": "En_25_30_60: Observatory buildings"
+                  },
+                  {
+                     "name": "En_25_30_66: Observatory antennas"
+                  },
+                  {
+                     "name": "En_25_30_70: Research buildings"
+                  },
+                  {
+                     "name": "En_25_30_77: Seed banks"
+                  },
+                  {
+                     "name": "En_25_30_90: Triangulation pillars"
+                  }
+               ]
+            },
+            {
+               "name": "En_25_50: Exhibition entities",
+               "children": [
+                  {
+                     "name": "En_25_50_02: Art exhibition buildings"
+                  },
+                  {
+                     "name": "En_25_50_04: Art installations"
+                  },
+                  {
+                     "name": "En_25_50_15: Collection exhibition buildings"
+                  },
+                  {
+                     "name": "En_25_50_29: Fauna exhibition buildings"
+                  },
+                  {
+                     "name": "En_25_50_30: Fauna exhibition grounds"
+                  },
+                  {
+                     "name": "En_25_50_31: Flora exhibition buildings"
+                  },
+                  {
+                     "name": "En_25_50_32: Flora exhibition grounds"
+                  },
+                  {
+                     "name": "En_25_50_54: Multipurpose exhibition buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_25_70: Information entities",
+               "children": [
+                  {
+                     "name": "En_25_70_02: Archive buildings"
+                  },
+                  {
+                     "name": "En_25_70_13: Conference buildings"
+                  },
+                  {
+                     "name": "En_25_70_42: Information kiosks"
+                  },
+                  {
+                     "name": "En_25_70_47: Library buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_25_90: Worship entities",
+               "children": [
+                  {
+                     "name": "En_25_90_30: Faith worship buildings"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "En_30: Industrial entities",
+         "children": [
+            {
+               "name": "En_30_10: Mineral extraction entities",
+               "children": [
+                  {
+                     "name": "En_30_10_57: Offshore oil and gas extraction platforms"
+                  },
+                  {
+                     "name": "En_30_10_80: Spoil heaps"
+                  },
+                  {
+                     "name": "En_30_10_85: Surface mining structures"
+                  },
+                  {
+                     "name": "En_30_10_86: Surface mining cuttings"
+                  },
+                  {
+                     "name": "En_30_10_90: Underground mining structures"
+                  }
+               ]
+            },
+            {
+               "name": "En_30_20: Nuclear and chemical management entities",
+               "children": [
+                  {
+                     "name": "En_30_20_15: Radioactivity waste management control buildings"
+                  },
+                  {
+                     "name": "En_30_20_30: High heat generating radioactive waste management tunnel"
+                  },
+                  {
+                     "name": "En_30_20_35: High heat radioactive waste package transfer buildings"
+                  },
+                  {
+                     "name": "En_30_20_45: Low heat radioactive waste package transfer buildings"
+                  },
+                  {
+                     "name": "En_30_20_60: Low heat generating radioactive waste management vault"
+                  },
+                  {
+                     "name": "En_30_20_70: Radioactivity decontamination buildings"
+                  },
+                  {
+                     "name": "En_30_20_75: Radioactivity effluent management buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_30_30: Mineral processing entities",
+               "children": [
+                  {
+                     "name": "En_30_30_33: Gas processing structures"
+                  },
+                  {
+                     "name": "En_30_30_58: Oil processing structures"
+                  },
+                  {
+                     "name": "En_30_30_59: Ore processing structures"
+                  }
+               ]
+            },
+            {
+               "name": "En_30_40: Animal and plant products processing entities",
+               "children": [
+                  {
+                     "name": "En_30_40_01: Animal processing buildings"
+                  },
+                  {
+                     "name": "En_30_40_20: Crop processing buildings"
+                  },
+                  {
+                     "name": "En_30_40_30: Fish processing buildings"
+                  },
+                  {
+                     "name": "En_30_40_40: Horticultural processing buildings"
+                  },
+                  {
+                     "name": "En_30_40_90: Timber processing buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_30_50: Manufacturing entities",
+               "children": [
+                  {
+                     "name": "En_30_50_15: Cranes"
+                  },
+                  {
+                     "name": "En_30_50_50: Manufacturing buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_30_60: Cleaning and maintenance entities",
+               "children": [
+                  {
+                     "name": "En_30_60_20: Decontamination laundry buildings"
+                  },
+                  {
+                     "name": "En_30_60_40: Laundry buildings"
+                  },
+                  {
+                     "name": "En_30_60_50: Maintenance buildings"
+                  },
+                  {
+                     "name": "En_30_60_94: Vehicle cleaning buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_30_70: Process entities",
+               "children": [
+                  {
+                     "name": "En_30_70_13: Chimney stacks"
+                  },
+                  {
+                     "name": "En_30_70_15: Conveyors"
+                  },
+                  {
+                     "name": "En_30_70_17: Cooling towers"
+                  },
+                  {
+                     "name": "En_30_70_28: Equipment gantries"
+                  }
+               ]
+            },
+            {
+               "name": "En_30_80: Mechanical power generation",
+               "children": [
+                  {
+                     "name": "En_30_80_96: Watermills"
+                  },
+                  {
+                     "name": "En_30_80_97: Windmills"
+                  }
+               ]
+            },
+            {
+               "name": "En_30_85: Marine and water entities",
+               "children": [
+                  {
+                     "name": "En_30_85_07: Boathouse buildings"
+                  },
+                  {
+                     "name": "En_30_85_08: Boatyard buildings"
+                  },
+                  {
+                     "name": "En_30_85_24: Dry docks"
+                  },
+                  {
+                     "name": "En_30_85_80: Shipyard buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_30_90: Warehousing and distribution entities",
+               "children": [
+                  {
+                     "name": "En_30_90_33: Goods warehousing buildings"
+                  },
+                  {
+                     "name": "En_30_90_35: Goods distribution buildings"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "En_32: Water and land management entities",
+         "children": [
+            {
+               "name": "En_32_10: Agricultural and horticultural entities",
+               "children": [
+                  {
+                     "name": "En_32_10_02: Arable buildings"
+                  },
+                  {
+                     "name": "En_32_10_04: Arable land"
+                  },
+                  {
+                     "name": "En_32_10_20: Coppices"
+                  },
+                  {
+                     "name": "En_32_10_28: Fishing buildings"
+                  },
+                  {
+                     "name": "En_32_10_29: Fishing cages"
+                  },
+                  {
+                     "name": "En_32_10_30: Forestry buildings"
+                  },
+                  {
+                     "name": "En_32_10_31: Forestry plantations"
+                  },
+                  {
+                     "name": "En_32_10_39: Horticultural buildings"
+                  },
+                  {
+                     "name": "En_32_10_40: Horticultural land"
+                  },
+                  {
+                     "name": "En_32_10_46: Livestock buildings"
+                  },
+                  {
+                     "name": "En_32_10_47: Livestock paddocks and fields"
+                  },
+                  {
+                     "name": "En_32_10_93: Vineyard and winery buildings"
+                  },
+                  {
+                     "name": "En_32_10_94: Vineyard plantations"
+                  }
+               ]
+            },
+            {
+               "name": "En_32_35: Grounds",
+               "children": [
+                  {
+                     "name": "En_32_35_05: Arboretums"
+                  },
+                  {
+                     "name": "En_32_35_12: Botanical gardens"
+                  },
+                  {
+                     "name": "En_32_35_15: Community gardens"
+                  },
+                  {
+                     "name": "En_32_35_33: Gardens"
+                  },
+                  {
+                     "name": "En_32_35_36: Hard landscapes"
+                  },
+                  {
+                     "name": "En_32_35_80: Soft landscapes"
+                  }
+               ]
+            },
+            {
+               "name": "En_32_40: Land managed entities",
+               "children": [
+                  {
+                     "name": "En_32_40_20: Cuttings"
+                  },
+                  {
+                     "name": "En_32_40_26: Embankments"
+                  },
+                  {
+                     "name": "En_32_40_30: False cuttings"
+                  },
+                  {
+                     "name": "En_32_40_90: Trenches"
+                  }
+               ]
+            },
+            {
+               "name": "En_32_50: Marine and water side entities",
+               "children": [
+                  {
+                     "name": "En_32_50_22: Dock buildings"
+                  },
+                  {
+                     "name": "En_32_50_44: Jetties"
+                  },
+                  {
+                     "name": "En_32_50_46: Landing stages"
+                  },
+                  {
+                     "name": "En_32_50_63: Piers"
+                  },
+                  {
+                     "name": "En_32_50_69: Quays"
+                  },
+                  {
+                     "name": "En_32_50_98: Wharfs"
+                  }
+               ]
+            },
+            {
+               "name": "En_32_85: Water control and retaining entities",
+               "children": [
+                  {
+                     "name": "En_32_85_06: Barrier beaches"
+                  },
+                  {
+                     "name": "En_32_85_10: Breakwaters"
+                  },
+                  {
+                     "name": "En_32_85_15: Control gates"
+                  },
+                  {
+                     "name": "En_32_85_21: Dams"
+                  },
+                  {
+                     "name": "En_32_85_23: Debris screens"
+                  },
+                  {
+                     "name": "En_32_85_24: Dolphins"
+                  },
+                  {
+                     "name": "En_32_85_25: Draw-off towers"
+                  },
+                  {
+                     "name": "En_32_85_30: Flood prevention structures"
+                  },
+                  {
+                     "name": "En_32_85_31: Flumes"
+                  },
+                  {
+                     "name": "En_32_85_35: Groynes"
+                  },
+                  {
+                     "name": "En_32_85_37: High ground"
+                  },
+                  {
+                     "name": "En_32_85_45: Levees"
+                  },
+                  {
+                     "name": "En_32_85_59: Outfalls"
+                  },
+                  {
+                     "name": "En_32_85_72: Revetments"
+                  },
+                  {
+                     "name": "En_32_85_77: Sea dikes"
+                  },
+                  {
+                     "name": "En_32_85_80: Sluices"
+                  },
+                  {
+                     "name": "En_32_85_82: Spillways"
+                  },
+                  {
+                     "name": "En_32_85_84: Stilling basins"
+                  },
+                  {
+                     "name": "En_32_85_96: Water retaining structures"
+                  },
+                  {
+                     "name": "En_32_85_97: Weirs"
+                  },
+                  {
+                     "name": "En_32_85_98: Wells"
+                  }
+               ]
+            },
+            {
+               "name": "En_32_95: Waterways",
+               "children": [
+                  {
+                     "name": "En_32_95_14: Channels"
+                  },
+                  {
+                     "name": "En_32_95_16: Complex culverts"
+                  },
+                  {
+                     "name": "En_32_95_23: Ditches"
+                  },
+                  {
+                     "name": "En_32_95_59: Open channels"
+                  },
+                  {
+                     "name": "En_32_95_80: Simple culverts"
+                  },
+                  {
+                     "name": "En_32_95_85: Surface water channels"
+                  },
+                  {
+                     "name": "En_32_95_86: Swales"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "En_35: Medical, health, welfare and sanitary entities",
+         "children": [
+            {
+               "name": "En_35_10: Medical entities",
+               "children": [
+                  {
+                     "name": "En_35_10_10: Medical buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_35_50: Welfare entities",
+               "children": [
+                  {
+                     "name": "En_35_50_21: Day welfare buildings"
+                  },
+                  {
+                     "name": "En_35_50_70: Residential welfare buildings"
+                  },
+                  {
+                     "name": "En_35_50_94: Visitor welfare buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_35_70: Funerary entities",
+               "children": [
+                  {
+                     "name": "En_35_70_06: Body storage buildings"
+                  },
+                  {
+                     "name": "En_35_70_10: Burial buildings"
+                  },
+                  {
+                     "name": "En_35_70_11: Burial grounds"
+                  },
+                  {
+                     "name": "En_35_70_30: Funeral buildings"
+                  },
+                  {
+                     "name": "En_35_70_60: Medical chimney stacks"
+                  }
+               ]
+            },
+            {
+               "name": "En_35_80: Sanitary entities",
+               "children": [
+                  {
+                     "name": "En_35_80_10: Bathing buildings"
+                  },
+                  {
+                     "name": "En_35_80_90: Toilet buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_35_85: Animal entities",
+               "children": [
+                  {
+                     "name": "En_35_85_02: Animal cage buildings"
+                  },
+                  {
+                     "name": "En_35_85_03: Animal pen buildings"
+                  },
+                  {
+                     "name": "En_35_85_84: Stable buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_35_90: Animal medical, health, welfare and funerary entities",
+               "children": [
+                  {
+                     "name": "En_35_90_10: Animal cemeteries"
+                  },
+                  {
+                     "name": "En_35_90_30: Animal funerary buildings"
+                  },
+                  {
+                     "name": "En_35_90_50: Animal medical buildings"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "En_40: Recreational entities",
+         "children": [
+            {
+               "name": "En_40_05: Amusement entities",
+               "children": [
+                  {
+                     "name": "En_40_05_03: Amusement buildings"
+                  },
+                  {
+                     "name": "En_40_05_13: Casinos"
+                  },
+                  {
+                     "name": "En_40_05_42: Indoor fairgrounds"
+                  },
+                  {
+                     "name": "En_40_05_60: Outdoor fairgrounds"
+                  },
+                  {
+                     "name": "En_40_05_68: Public amenities"
+                  }
+               ]
+            },
+            {
+               "name": "En_40_20: Dining entities",
+               "children": [
+                  {
+                     "name": "En_40_20_23: Dining buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_40_35: Historic entities",
+               "children": [
+                  {
+                     "name": "En_40_35_10: Buildings of historic interest"
+                  },
+                  {
+                     "name": "En_40_35_36: Historic buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_40_60: Performing arts entities",
+               "children": [
+                  {
+                     "name": "En_40_60_10: Multiple performing arts buildings"
+                  },
+                  {
+                     "name": "En_40_60_70: Single performing arts buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_40_75: Social recreation entities",
+               "children": [
+                  {
+                     "name": "En_40_75_10: Multiple social recreation buildings"
+                  },
+                  {
+                     "name": "En_40_75_15: Club houses"
+                  },
+                  {
+                     "name": "En_40_75_70: Single social recreation buildings"
+                  },
+                  {
+                     "name": "En_40_75_94: Visitor centres"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "En_42: Sport and activity entities",
+         "children": [
+            {
+               "name": "En_42_15: Courts, pitches and field sports entities",
+               "children": [
+                  {
+                     "name": "En_42_15_06: Ball courts"
+                  },
+                  {
+                     "name": "En_42_15_81: Sports grounds"
+                  },
+                  {
+                     "name": "En_42_15_82: Sports pitches"
+                  }
+               ]
+            },
+            {
+               "name": "En_42_40: Indoor activity entities",
+               "children": [
+                  {
+                     "name": "En_42_40_80: Sports buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_42_55: Outdoor activity entities",
+               "children": [
+                  {
+                     "name": "En_42_55_01: Activity grounds"
+                  },
+                  {
+                     "name": "En_42_55_34: Golf driving ranges"
+                  }
+               ]
+            },
+            {
+               "name": "En_42_85: Swimming entities",
+               "children": [
+                  {
+                     "name": "En_42_85_60: Outdoor swimming pools"
+                  },
+                  {
+                     "name": "En_42_85_83: Swimming pool buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_42_90: Water activity entities"
+            },
+            {
+               "name": "En_42_95: Winter sports entities",
+               "children": [
+                  {
+                     "name": "En_42_95_40: Ice rink buildings"
+                  },
+                  {
+                     "name": "En_42_95_80: Ski resort buildings"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "En_45: Residential entities",
+         "children": [
+            {
+               "name": "En_45_10: Residential buildings",
+               "children": [
+                  {
+                     "name": "En_45_10_39: Houses"
+                  },
+                  {
+                     "name": "En_45_10_47: Long-term residential buildings"
+                  },
+                  {
+                     "name": "En_45_10_70: Short term residential buildings"
+                  },
+                  {
+                     "name": "En_45_10_90: Temporary residential buildings"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "En_50: Waste disposal entities",
+         "children": [
+            {
+               "name": "En_50_10: Gas waste collection entities"
+            },
+            {
+               "name": "En_50_20: Wet waste collection entities",
+               "children": [
+                  {
+                     "name": "En_50_20_10: Wet waste collection tanks"
+                  }
+               ]
+            },
+            {
+               "name": "En_50_30: Drainage and wastewater collection",
+               "children": [
+                  {
+                     "name": "En_50_30_25: Drainage collection pipelines"
+                  },
+                  {
+                     "name": "En_50_30_85: Surface water collection pipelines"
+                  },
+                  {
+                     "name": "En_50_30_98: Wastewater collection pipelines"
+                  },
+                  {
+                     "name": "En_50_30_99: Wastewater collection structures"
+                  }
+               ]
+            },
+            {
+               "name": "En_50_40: Dry waste collection and distribution",
+               "children": [
+                  {
+                     "name": "En_50_40_10: Dry waste collection structures"
+                  },
+                  {
+                     "name": "En_50_40_50: Dry waste distribution structures"
+                  }
+               ]
+            },
+            {
+               "name": "En_50_50: Gas waste storage, treatment and disposal"
+            },
+            {
+               "name": "En_50_60: Wet waste storage, treatment and disposal"
+            },
+            {
+               "name": "En_50_70: Drainage storage, treatment and disposal"
+            },
+            {
+               "name": "En_50_75: Wastewater storage, treatment and disposal",
+               "children": [
+                  {
+                     "name": "En_50_75_15: Wastewater entities"
+                  },
+                  {
+                     "name": "En_50_75_40: Wastewater treatment buildings"
+                  },
+                  {
+                     "name": "En_50_75_45: Wastewater treatment entities"
+                  },
+                  {
+                     "name": "En_50_75_70: Wastewater disposal buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_50_80: Dry waste treatment and disposal",
+               "children": [
+                  {
+                     "name": "En_50_80_40: Dry waste treatment structures"
+                  },
+                  {
+                     "name": "En_50_80_70: Dry waste disposal structures"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "En_55: Piped supply entities",
+         "children": [
+            {
+               "name": "En_55_05: Gas extraction, treatment and storage",
+               "children": [
+                  {
+                     "name": "En_55_05_30: Gas extraction structures"
+                  },
+                  {
+                     "name": "En_55_05_35: Gas extraction vessels"
+                  },
+                  {
+                     "name": "En_55_05_38: Gas extraction pipelines"
+                  },
+                  {
+                     "name": "En_55_05_70: Gas treatment buildings"
+                  },
+                  {
+                     "name": "En_55_05_75: Gas treatment plant"
+                  },
+                  {
+                     "name": "En_55_05_78: Gas treatment pipelines"
+                  }
+               ]
+            },
+            {
+               "name": "En_55_10: Liquid fuel extraction and treatment entities",
+               "children": [
+                  {
+                     "name": "En_55_10_10: Oil extraction structures"
+                  },
+                  {
+                     "name": "En_55_10_50: Fuel treatment buildings"
+                  },
+                  {
+                     "name": "En_55_10_55: Fuel treatment tanks"
+                  },
+                  {
+                     "name": "En_55_10_58: Fuel treatment pipelines"
+                  }
+               ]
+            },
+            {
+               "name": "En_55_15: Water extraction and treatment entities",
+               "children": [
+                  {
+                     "name": "En_55_15_10: Water extraction buildings"
+                  },
+                  {
+                     "name": "En_55_15_15: Water extraction tanks"
+                  },
+                  {
+                     "name": "En_55_15_20: Water extraction pipelines"
+                  },
+                  {
+                     "name": "En_55_15_50: Water treatment buildings"
+                  },
+                  {
+                     "name": "En_55_15_55: Water treatment tanks"
+                  }
+               ]
+            },
+            {
+               "name": "En_55_20: Gas supply entities",
+               "children": [
+                  {
+                     "name": "En_55_20_50: Gas distribution structures"
+                  },
+                  {
+                     "name": "En_55_20_60: Gas distribution pipelines"
+                  }
+               ]
+            },
+            {
+               "name": "En_55_30: Fire extinguishing supply entities"
+            },
+            {
+               "name": "En_55_40: Steam supply entities"
+            },
+            {
+               "name": "En_55_50: Liquid fuel supply entities",
+               "children": [
+                  {
+                     "name": "En_55_50_20: Fuel distribution pipelines"
+                  },
+                  {
+                     "name": "En_55_50_45: Liquid fuel distribution buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_55_60: Process liquid supply entities"
+            },
+            {
+               "name": "En_55_70: Water supply entities",
+               "children": [
+                  {
+                     "name": "En_55_70_10: Water distribution buildings"
+                  },
+                  {
+                     "name": "En_55_70_18: Water distribution pipelines"
+                  }
+               ]
+            },
+            {
+               "name": "En_55_90: Piped solids supply entities"
+            }
+         ]
+      },
+      {
+         "name": "En_60: Heating, cooling and refrigeration entities",
+         "children": [
+            {
+               "name": "En_60_30: Rail and paving heating entities"
+            },
+            {
+               "name": "En_60_40: Space heating and cooling entities",
+               "children": [
+                  {
+                     "name": "En_60_40_10: District heating buildings"
+                  },
+                  {
+                     "name": "En_60_40_20: District heating pipelines"
+                  },
+                  {
+                     "name": "En_60_40_50: District cooling buildings"
+                  },
+                  {
+                     "name": "En_60_40_60: District cooling pipelines"
+                  }
+               ]
+            },
+            {
+               "name": "En_60_60: Refrigeration entities"
+            },
+            {
+               "name": "En_60_80: Drying entities"
+            }
+         ]
+      },
+      {
+         "name": "En_65: Ventilation and air conditioning entities",
+         "children": [
+            {
+               "name": "En_65_40: Ventilation entities",
+               "children": [
+                  {
+                     "name": "En_65_40_80: Shaft and tunnel ventilation plant building"
+                  }
+               ]
+            },
+            {
+               "name": "En_65_80: Air conditioning entities"
+            }
+         ]
+      },
+      {
+         "name": "En_70: Electrical power generation and distribution entities",
+         "children": [
+            {
+               "name": "En_70_10: Electrical power generation entities",
+               "children": [
+                  {
+                     "name": "En_70_10_10: Electrical power generation buildings"
+                  },
+                  {
+                     "name": "En_70_10_80: Solar panel fields"
+                  },
+                  {
+                     "name": "En_70_10_90: Wind turbines"
+                  }
+               ]
+            },
+            {
+               "name": "En_70_30: Electricity distribution and transmission entities",
+               "children": [
+                  {
+                     "name": "En_70_30_18: Electricity transmission pylons and lines"
+                  },
+                  {
+                     "name": "En_70_30_35: High-voltage electricity substations"
+                  },
+                  {
+                     "name": "En_70_30_45: Low-voltage electricity substations"
+                  },
+                  {
+                     "name": "En_70_30_90: Underground electricity transmission lines"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "En_75: Communications, security, safety and protection entities",
+         "children": [
+            {
+               "name": "En_75_10: Communication entities",
+               "children": [
+                  {
+                     "name": "En_75_10_10: Broadcast communications buildings"
+                  },
+                  {
+                     "name": "En_75_10_16: Broadcast communications masts and towers"
+                  },
+                  {
+                     "name": "En_75_10_20: Data centres"
+                  }
+               ]
+            },
+            {
+               "name": "En_75_30: Signalling entities",
+               "children": [
+                  {
+                     "name": "En_75_30_10: Peer-to-peer communications buildings"
+                  },
+                  {
+                     "name": "En_75_30_18: Peer-to-peer communications networks"
+                  }
+               ]
+            },
+            {
+               "name": "En_75_40: Security systems entities"
+            },
+            {
+               "name": "En_75_50: Safety and protection entities"
+            },
+            {
+               "name": "En_75_60: Environmental safety entities"
+            },
+            {
+               "name": "En_75_70: Control and management entities"
+            },
+            {
+               "name": "En_75_80: Protection entities"
+            }
+         ]
+      },
+      {
+         "name": "En_80: Transport entities",
+         "children": [
+            {
+               "name": "En_80_05: Aerospace entities",
+               "children": [
+                  {
+                     "name": "En_80_05_01: Air traffic control towers"
+                  },
+                  {
+                     "name": "En_80_05_02: Aircraft hangars"
+                  },
+                  {
+                     "name": "En_80_05_60: Passenger terminal buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_80_20: Cable transport entities",
+               "children": [
+                  {
+                     "name": "En_80_20_11: Cable car entities"
+                  },
+                  {
+                     "name": "En_80_20_12: Cable car stations"
+                  },
+                  {
+                     "name": "En_80_20_86: Suspended cableways"
+                  }
+               ]
+            },
+            {
+               "name": "En_80_35: Road entities",
+               "children": [
+                  {
+                     "name": "En_80_35_01: Access roads"
+                  },
+                  {
+                     "name": "En_80_35_07: Bus maintenance depots"
+                  },
+                  {
+                     "name": "En_80_35_09: Bus and coach stations"
+                  },
+                  {
+                     "name": "En_80_35_34: Guided bus lanes"
+                  },
+                  {
+                     "name": "En_80_35_35: Highway maintenance depots"
+                  },
+                  {
+                     "name": "En_80_35_38: Highway service stations"
+                  },
+                  {
+                     "name": "En_80_35_56: Motorways"
+                  },
+                  {
+                     "name": "En_80_35_67: Private roads"
+                  },
+                  {
+                     "name": "En_80_35_73: Road freight depots"
+                  },
+                  {
+                     "name": "En_80_35_74: Roads"
+                  },
+                  {
+                     "name": "En_80_35_77: Service area buildings"
+                  },
+                  {
+                     "name": "En_80_35_88: Tollgates"
+                  },
+                  {
+                     "name": "En_80_35_89: Tracks"
+                  },
+                  {
+                     "name": "En_80_35_90: Truck maintenance depots"
+                  }
+               ]
+            },
+            {
+               "name": "En_80_40: Pathways",
+               "children": [
+                  {
+                     "name": "En_80_40_08: Bridleways"
+                  },
+                  {
+                     "name": "En_80_40_10: Byways"
+                  },
+                  {
+                     "name": "En_80_40_20: Cycle pathways"
+                  },
+                  {
+                     "name": "En_80_40_30: Footpaths"
+                  },
+                  {
+                     "name": "En_80_40_37: Hiking paths"
+                  },
+                  {
+                     "name": "En_80_40_66: Promenades"
+                  },
+                  {
+                     "name": "En_80_40_70: Rambler ways"
+                  },
+                  {
+                     "name": "En_80_40_90: Trails"
+                  }
+               ]
+            },
+            {
+               "name": "En_80_45: Vehicle storage entities",
+               "children": [
+                  {
+                     "name": "En_80_45_08: Bus parks"
+                  },
+                  {
+                     "name": "En_80_45_11: Car garaging entities"
+                  },
+                  {
+                     "name": "En_80_45_17: Coach parks"
+                  },
+                  {
+                     "name": "En_80_45_55: Multi-storey vehicle parks"
+                  },
+                  {
+                     "name": "En_80_45_85: Surface vehicle parks"
+                  },
+                  {
+                     "name": "En_80_45_89: Truck parks"
+                  },
+                  {
+                     "name": "En_80_45_92: Underground vehicle parks"
+                  }
+               ]
+            },
+            {
+               "name": "En_80_50: Railway entities",
+               "children": [
+                  {
+                     "name": "En_80_50_53: Monorail entities"
+                  },
+                  {
+                     "name": "En_80_50_58: Platforms"
+                  },
+                  {
+                     "name": "En_80_50_60: Rack rail maintenance buildings"
+                  },
+                  {
+                     "name": "En_80_50_62: Rack railways track entities"
+                  },
+                  {
+                     "name": "En_80_50_64: Rail distribution depots"
+                  },
+                  {
+                     "name": "En_80_50_66: Rail freight entities"
+                  },
+                  {
+                     "name": "En_80_50_68: Rail marshalling entities"
+                  },
+                  {
+                     "name": "En_80_50_71: Railway corridors"
+                  },
+                  {
+                     "name": "En_80_50_74: Railway stations"
+                  },
+                  {
+                     "name": "En_80_50_76: Railway sidings"
+                  },
+                  {
+                     "name": "En_80_50_78: Rolling stock depots"
+                  },
+                  {
+                     "name": "En_80_50_83: Station buildings"
+                  },
+                  {
+                     "name": "En_80_50_86: Track maintenance depots"
+                  },
+                  {
+                     "name": "En_80_50_88: Train maintenance buildings"
+                  },
+                  {
+                     "name": "En_80_50_90: Tramways"
+                  },
+                  {
+                     "name": "En_80_50_94: Underground railway stations"
+                  },
+                  {
+                     "name": "En_80_50_95: Wagon decontamination buildings"
+                  },
+                  {
+                     "name": "En_80_50_97: Wagon maintenance buildings"
+                  }
+               ]
+            },
+            {
+               "name": "En_80_70: Marine and waterways transport entities",
+               "children": [
+                  {
+                     "name": "En_80_70_06: Barge loading terminals"
+                  },
+                  {
+                     "name": "En_80_70_11: Canal channels"
+                  },
+                  {
+                     "name": "En_80_70_15: Canal locks"
+                  },
+                  {
+                     "name": "En_80_70_46: Lake passenger terminals"
+                  },
+                  {
+                     "name": "En_80_70_50: Marinas"
+                  },
+                  {
+                     "name": "En_80_70_71: River passenger terminals"
+                  }
+               ]
+            },
+            {
+               "name": "En_80_90: Transport hub entities"
+            },
+            {
+               "name": "En_80_94: Bridges",
+               "children": [
+                  {
+                     "name": "En_80_94_30: Fixed bridges"
+                  },
+                  {
+                     "name": "En_80_94_50: Moveable bridges"
+                  }
+               ]
+            },
+            {
+               "name": "En_80_96: Tunnels and shafts",
+               "children": [
+                  {
+                     "name": "En_80_96_20: Drift tunnels"
+                  },
+                  {
+                     "name": "En_80_96_46: Lined drift tunnels"
+                  },
+                  {
+                     "name": "En_80_96_49: Lined tunnels"
+                  },
+                  {
+                     "name": "En_80_96_80: Shafts"
+                  },
+                  {
+                     "name": "En_80_96_90: Tunnels"
+                  },
+                  {
+                     "name": "En_80_96_91: Tunnel portals"
+                  },
+                  {
+                     "name": "En_80_96_92: Underpasses"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "En_90: Circulation and storage entities",
+         "children": [
+            {
+               "name": "En_90_10: Circulation entities",
+               "children": [
+                  {
+                     "name": "En_90_10_02: Access stairways and walkways"
+                  },
+                  {
+                     "name": "En_90_10_62: Pedestrianized areas"
+                  },
+                  {
+                     "name": "En_90_10_77: External service areas"
+                  }
+               ]
+            },
+            {
+               "name": "En_90_50: Storage entities",
+               "children": [
+                  {
+                     "name": "En_90_50_02: Agricultural storage buildings"
+                  },
+                  {
+                     "name": "En_90_50_03: Agricultural storage silos"
+                  },
+                  {
+                     "name": "En_90_50_10: Dry waste storage structures"
+                  },
+                  {
+                     "name": "En_90_50_11: Dry waste storage yards"
+                  },
+                  {
+                     "name": "En_90_50_28: Explosives stores"
+                  },
+                  {
+                     "name": "En_90_50_50: Manufacturing tanks and silos"
+                  },
+                  {
+                     "name": "En_90_50_53: Mineral storage silos"
+                  },
+                  {
+                     "name": "En_90_50_55: Motor vehicle storage entities"
+                  },
+                  {
+                     "name": "En_90_50_58: Oil and gas storage tanks"
+                  },
+                  {
+                     "name": "En_90_50_70: Storage buildings"
+                  },
+                  {
+                     "name": "En_90_50_96: Wastewater storage structures"
+                  }
+               ]
+            },
+            {
+               "name": "En_90_90: Plant and control entities",
+               "children": [
+                  {
+                     "name": "En_90_90_33: Gauge houses"
+                  },
+                  {
+                     "name": "En_90_90_35: Gauging station buildings"
+                  },
+                  {
+                     "name": "En_90_90_50: Mechanical services buildings"
+                  },
+                  {
+                     "name": "En_90_90_68: Pump houses"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
 }

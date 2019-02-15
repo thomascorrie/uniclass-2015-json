@@ -1,265 +1,273 @@
-{
-   "name":"Uniclass2015_EF",
-   "children":[
+﻿{
+   "name": "Uniclass2015_EF",
+   "children": [
       {
-         "name":"EF_20: Structural elements",
-         "children":[
+         "name": "EF_15: Site elements",
+         "children": [
             {
-               "name":"EF_20_05: Substructure"
-            },
-            {
-               "name":"EF_20_10: Frames"
-            },
-            {
-               "name":"EF_20_20: Beams"
-            },
-            {
-               "name":"EF_20_30: Columns"
-            },
-            {
-               "name":"EF_20_50: Bridge abutments and piers"
+               "name": "EF_15_15: Construction sites"
             }
          ]
       },
       {
-         "name":"EF_25: Wall and barrier elements",
-         "children":[
+         "name": "EF_20: Structural elements",
+         "children": [
             {
-               "name":"EF_25_10: Walls"
+               "name": "EF_20_05: Substructure"
             },
             {
-               "name":"EF_25_30: Doors and windows"
+               "name": "EF_20_10: Frames"
             },
             {
-               "name":"EF_25_55: Barriers"
+               "name": "EF_20_20: Beams"
+            },
+            {
+               "name": "EF_20_30: Columns"
+            },
+            {
+               "name": "EF_20_50: Bridge abutments and piers"
             }
          ]
       },
       {
-         "name":"EF_30: Roofs, floor and paving elements",
-         "children":[
+         "name": "EF_25: Wall and barrier elements",
+         "children": [
             {
-               "name":"EF_30_10: Roofs"
+               "name": "EF_25_10: Walls"
             },
             {
-               "name":"EF_30_20: Floors"
+               "name": "EF_25_30: Doors and windows"
             },
             {
-               "name":"EF_30_60: Pavements"
-            },
-            {
-               "name":"EF_30_70: Bridge decks"
+               "name": "EF_25_55: Barriers"
             }
          ]
       },
       {
-         "name":"EF_35: Stairs and ramps",
-         "children":[
+         "name": "EF_30: Roofs, floor and paving elements",
+         "children": [
             {
-               "name":"EF_35_10: Stairs"
+               "name": "EF_30_10: Roofs"
             },
             {
-               "name":"EF_35_20: Ramps"
+               "name": "EF_30_20: Floors"
+            },
+            {
+               "name": "EF_30_60: Pavements"
+            },
+            {
+               "name": "EF_30_70: Bridge decks"
             }
          ]
       },
       {
-         "name":"EF_37: Tunnel, vessel and tower elements",
-         "children":[
+         "name": "EF_35: Stairs and ramps",
+         "children": [
             {
-               "name":"EF_37_16: Vessels and trenches"
+               "name": "EF_35_10: Stairs"
             },
             {
-               "name":"EF_37_17: Towers, chimneys and masts"
-            },
-            {
-               "name":"EF_37_50: Tunnels and shafts"
+               "name": "EF_35_20: Ramps"
             }
          ]
       },
       {
-         "name":"EF_40: Signage, fittings, furnishings and equipment",
-         "children":[
+         "name": "EF_37: Tunnel, vessel and tower elements",
+         "children": [
             {
-               "name":"EF_40_10: Signage"
+               "name": "EF_37_16: Vessels and trenches"
             },
             {
-               "name":"EF_40_20: Fittings"
+               "name": "EF_37_17: Towers, chimneys and masts"
             },
             {
-               "name":"EF_40_30: Furnishings"
-            },
-            {
-               "name":"EF_40_40: Equipment"
+               "name": "EF_37_50: Tunnels and shafts"
             }
          ]
       },
       {
-         "name":"EF_45: Flora and fauna elements",
-         "children":[
+         "name": "EF_40: Signage, fittings, furnishings and equipment",
+         "children": [
             {
-               "name":"EF_45_10: Planted elements"
+               "name": "EF_40_10: Signage"
             },
             {
-               "name":"EF_45_20: Grassed elements"
+               "name": "EF_40_20: Fittings"
             },
             {
-               "name":"EF_45_30: Fauna elements"
+               "name": "EF_40_30: Furnishings"
+            },
+            {
+               "name": "EF_40_40: Equipment"
             }
          ]
       },
       {
-         "name":"EF_50: Waste disposal functions",
-         "children":[
+         "name": "EF_45: Flora and fauna elements",
+         "children": [
             {
-               "name":"EF_50_10: Gas waste collection"
+               "name": "EF_45_10: Planted elements"
             },
             {
-               "name":"EF_50_20: Wet waste collection"
+               "name": "EF_45_20: Grassed elements"
             },
             {
-               "name":"EF_50_30: Drainage collection"
-            },
-            {
-               "name":"EF_50_40: Dry waste collection"
-            },
-            {
-               "name":"EF_50_50: Gas waste treatment and disposal"
-            },
-            {
-               "name":"EF_50_60: Wet waste treatment and disposal"
-            },
-            {
-               "name":"EF_50_70: Drainage treatment and disposal"
-            },
-            {
-               "name":"EF_50_75: Wastewater treatment and disposal"
-            },
-            {
-               "name":"EF_50_80: Dry waste treatment and disposal"
+               "name": "EF_45_30: Fauna elements"
             }
          ]
       },
       {
-         "name":"EF_55: Piped supply functions",
-         "children":[
+         "name": "EF_50: Waste disposal functions",
+         "children": [
             {
-               "name":"EF_55_05: Gas extraction and treatment"
+               "name": "EF_50_10: Gas waste collection"
             },
             {
-               "name":"EF_55_10: Liquid fuel extraction and treatment"
+               "name": "EF_50_20: Wet waste collection"
             },
             {
-               "name":"EF_55_15: Water extraction and treatment"
+               "name": "EF_50_30: Drainage collection"
             },
             {
-               "name":"EF_55_20: Gas supply"
+               "name": "EF_50_40: Dry waste collection"
             },
             {
-               "name":"EF_55_30: Fire extinguishing supply"
+               "name": "EF_50_50: Gas waste treatment and disposal"
             },
             {
-               "name":"EF_55_40: Steam supply"
+               "name": "EF_50_60: Wet waste treatment and disposal"
             },
             {
-               "name":"EF_55_50: Liquid fuel supply"
+               "name": "EF_50_70: Drainage treatment and disposal"
             },
             {
-               "name":"EF_55_60: Process liquid supply"
+               "name": "EF_50_75: Wastewater treatment and disposal"
             },
             {
-               "name":"EF_55_70: Water supply"
-            },
-            {
-               "name":"EF_55_90: Piped solids supply"
+               "name": "EF_50_80: Dry waste treatment and disposal"
             }
          ]
       },
       {
-         "name":"EF_60: Heating, cooling and refrigeration functions",
-         "children":[
+         "name": "EF_55: Piped supply functions",
+         "children": [
             {
-               "name":"EF_60_30: Rail and paving heating"
+               "name": "EF_55_05: Gas extraction and treatment"
             },
             {
-               "name":"EF_60_40: Space heating and cooling"
+               "name": "EF_55_10: Liquid fuel extraction and treatment"
             },
             {
-               "name":"EF_60_60: Refrigeration"
+               "name": "EF_55_15: Water extraction and treatment"
             },
             {
-               "name":"EF_60_80: Drying"
+               "name": "EF_55_20: Gas supply"
+            },
+            {
+               "name": "EF_55_30: Fire extinguishing supply"
+            },
+            {
+               "name": "EF_55_40: Steam supply"
+            },
+            {
+               "name": "EF_55_50: Liquid fuel supply"
+            },
+            {
+               "name": "EF_55_60: Process liquid supply"
+            },
+            {
+               "name": "EF_55_70: Water supply"
+            },
+            {
+               "name": "EF_55_90: Piped solids supply"
             }
          ]
       },
       {
-         "name":"EF_65: Ventilation and air conditioning functions",
-         "children":[
+         "name": "EF_60: Heating, cooling and refrigeration functions",
+         "children": [
             {
-               "name":"EF_65_40: Ventilation"
+               "name": "EF_60_30: Rail and paving heating"
             },
             {
-               "name":"EF_65_80: Air conditioning"
+               "name": "EF_60_40: Space heating and cooling"
+            },
+            {
+               "name": "EF_60_60: Refrigeration"
+            },
+            {
+               "name": "EF_60_80: Drying"
             }
          ]
       },
       {
-         "name":"EF_70: Electrical power and lighting functions",
-         "children":[
+         "name": "EF_65: Ventilation and air conditioning functions",
+         "children": [
             {
-               "name":"EF_70_10: Electrical power generation"
+               "name": "EF_65_40: Ventilation"
             },
             {
-               "name":"EF_70_30: Electricity distribution and transmission"
-            },
-            {
-               "name":"EF_70_80: Lighting"
+               "name": "EF_65_80: Air conditioning"
             }
          ]
       },
       {
-         "name":"EF_75: Communications, security, safety and protection functions",
-         "children":[
+         "name": "EF_70: Electrical power and lighting functions",
+         "children": [
             {
-               "name":"EF_75_10: Communication"
+               "name": "EF_70_10: Electrical power generation"
             },
             {
-               "name":"EF_75_30: Signalling"
+               "name": "EF_70_30: Electricity distribution and transmission"
             },
             {
-               "name":"EF_75_40: Security"
-            },
-            {
-               "name":"EF_75_50: Safety and protection"
-            },
-            {
-               "name":"EF_75_60: Environmental safety"
-            },
-            {
-               "name":"EF_75_70: Control and management"
-            },
-            {
-               "name":"EF_75_80: Protection"
+               "name": "EF_70_80: Lighting"
             }
          ]
       },
       {
-         "name":"EF_80: Transport functions",
-         "children":[
+         "name": "EF_75: Communications, security, safety and protection functions",
+         "children": [
             {
-               "name":"EF_80_10: Cable transport"
+               "name": "EF_75_10: Communication"
             },
             {
-               "name":"EF_80_20: Conveyors"
+               "name": "EF_75_30: Signalling"
             },
             {
-               "name":"EF_80_30: Cranes and hoists"
+               "name": "EF_75_40: Security"
             },
             {
-               "name":"EF_80_50: Lifts"
+               "name": "EF_75_50: Safety and protection"
             },
             {
-               "name":"EF_80_70: Rail tracks"
+               "name": "EF_75_60: Environmental safety"
+            },
+            {
+               "name": "EF_75_70: Control and management"
+            },
+            {
+               "name": "EF_75_80: Protection"
+            }
+         ]
+      },
+      {
+         "name": "EF_80: Transport functions",
+         "children": [
+            {
+               "name": "EF_80_10: Cable transport"
+            },
+            {
+               "name": "EF_80_20: Conveyors"
+            },
+            {
+               "name": "EF_80_30: Cranes and hoists"
+            },
+            {
+               "name": "EF_80_50: Lifts"
+            },
+            {
+               "name": "EF_80_70: Rail tracks"
             }
          ]
       }
