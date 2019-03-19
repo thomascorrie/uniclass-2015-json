@@ -15,7 +15,8 @@ The tables are published by the [NBS](https://toolkit.thenbs.com/articles/classi
 | TE - Tools and Equipment | 	v1.5 | Published August 2018	 | [Uniclass2015_TE.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_TE.json)
 | PM - Project management |	v1.3 | Published January 2019 | [Uniclass2015_PM.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_PM.json)
 | Zz - CAD | 	v1.0 | Published July 2015 | [Uniclass2015_Zz.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_Zz.json)
-| FI - Form of information |	Beta status | Consultation ongoing | [Uniclass2015_FI.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_FI.json)	
+| FI - Form of information |	v0.1 Beta status | Consultation ongoing | [Uniclass2015_FI.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_FI.json)	
+| Ro - Roles |	v0.1 Beta status | Consultation ongoing | [Uniclass2015_Ro.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_Ro.json)	
 
 One use is to visualize the tables in a collapsible tree structure to assist in understanding the classification hierarchy:
 * All tables can be seen on [gist](https://gist.github.com/thomascorrie/4d688cd9b6bb73d50fcc019f6680d6e6) and [bl.ocks](https://bl.ocks.org/thomascorrie/4d688cd9b6bb73d50fcc019f6680d6e6)
