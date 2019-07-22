@@ -552,6 +552,9 @@
                "name": "En_32_50: Marine and water side entities",
                "children": [
                   {
+                     "name": "En_32_50_20: Degaussing and acoustic ranges"
+                  },
+                  {
                      "name": "En_32_50_22: Dock buildings"
                   },
                   {
@@ -559,6 +562,9 @@
                   },
                   {
                      "name": "En_32_50_46: Landing stages"
+                  },
+                  {
+                     "name": "En_32_50_58: Offshore anchorages"
                   },
                   {
                      "name": "En_32_50_63: Piers"
@@ -1532,6 +1538,9 @@
                   },
                   {
                      "name": "En_90_50_58: Oil and gas storage tanks"
+                  },
+                  {
+                     "name": "En_90_50_68: Refrigerated container storage entities"
                   },
                   {
                      "name": "En_90_50_70: Storage buildings"

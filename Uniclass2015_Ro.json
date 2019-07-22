@@ -64,10 +64,7 @@
                "name": "Ro_10_20: Client roles",
                "children": [
                   {
-                     "name": "Ro_10_20_04: Appointing party"
-                  },
-                  {
-                     "name": "Ro_10_20_14: Client"
+                     "name": "Ro_10_20_14: Client (K)"
                   },
                   {
                      "name": "Ro_10_20_15: Client advisor"
@@ -122,7 +119,7 @@
                      "name": "Ro_10_40_28: Energy manager"
                   },
                   {
-                     "name": "Ro_10_40_30: Facilities manager"
+                     "name": "Ro_10_40_30: Facilities manager (F)"
                   },
                   {
                      "name": "Ro_10_40_32: Fleet manager"
@@ -171,14 +168,11 @@
          ]
       },
       {
-         "name": "Ro_30: Project roles",
+         "name": "Ro_30: Delivery roles",
          "children": [
             {
                "name": "Ro_30_10: Delivery team roles",
                "children": [
-                  {
-                     "name": "Ro_30_10_03: Appointed party"
-                  },
                   {
                      "name": "Ro_30_10_13: Clerk of works"
                   },
@@ -189,7 +183,7 @@
                      "name": "Ro_30_10_19: Contract administrator"
                   },
                   {
-                     "name": "Ro_30_10_20: Contractor"
+                     "name": "Ro_30_10_20: Contractor (W)"
                   },
                   {
                      "name": "Ro_30_10_22: Cost consultant"
@@ -201,9 +195,6 @@
                      "name": "Ro_30_10_36: Health and safety consultant"
                   },
                   {
-                     "name": "Ro_30_10_40: Importer"
-                  },
-                  {
                      "name": "Ro_30_10_42: Information manager"
                   },
                   {
@@ -213,22 +204,10 @@
                      "name": "Ro_30_10_47: Legal consultant"
                   },
                   {
-                     "name": "Ro_30_10_54: Manufacturer"
-                  },
-                  {
-                     "name": "Ro_30_10_56: Nominated supplier"
-                  },
-                  {
-                     "name": "Ro_30_10_65: Procurement consultant"
-                  },
-                  {
                      "name": "Ro_30_10_67: Project manager"
                   },
                   {
-                     "name": "Ro_30_10_85: Sub-contractor"
-                  },
-                  {
-                     "name": "Ro_30_10_86: Supplier"
+                     "name": "Ro_30_10_85: Sub-contractor (X)"
                   }
                ]
             },
@@ -271,6 +250,23 @@
                ]
             },
             {
+               "name": "Ro_30_40: Supplier roles",
+               "children": [
+                  {
+                     "name": "Ro_30_40_40: Importer"
+                  },
+                  {
+                     "name": "Ro_30_40_54: Manufacturer"
+                  },
+                  {
+                     "name": "Ro_30_40_56: Nominated supplier"
+                  },
+                  {
+                     "name": "Ro_30_40_86: Supplier"
+                  }
+               ]
+            },
+            {
                "name": "Ro_30_50: Team lead roles",
                "children": [
                   {
@@ -308,7 +304,7 @@
                      "name": "Ro_50_10_01: Access consultant"
                   },
                   {
-                     "name": "Ro_50_10_03: Architect"
+                     "name": "Ro_50_10_03: Architect (A)"
                   },
                   {
                      "name": "Ro_50_10_04: Architectural designer"
@@ -320,7 +316,10 @@
                      "name": "Ro_50_10_14: Cladding designer"
                   },
                   {
-                     "name": "Ro_50_10_43: Interior designer"
+                     "name": "Ro_50_10_43: Interior designer (I)"
+                  },
+                  {
+                     "name": "Ro_50_10_50: Lighting designer"
                   },
                   {
                      "name": "Ro_50_10_80: Signage designer"
@@ -337,16 +336,16 @@
                      "name": "Ro_50_20_08: Building services engineer"
                   },
                   {
-                     "name": "Ro_50_20_11: Civil engineer"
+                     "name": "Ro_50_20_11: Civil engineer (C)"
                   },
                   {
                      "name": "Ro_50_20_24: Demolition engineer"
                   },
                   {
-                     "name": "Ro_50_20_28: Drainage engineer"
+                     "name": "Ro_50_20_28: Drainage engineer (D)"
                   },
                   {
-                     "name": "Ro_50_20_30: Electrical services engineer"
+                     "name": "Ro_50_20_30: Electrical services engineer (E)"
                   },
                   {
                      "name": "Ro_50_20_31: Electronics engineer"
@@ -358,22 +357,19 @@
                      "name": "Ro_50_20_37: Geotechnical engineer"
                   },
                   {
-                     "name": "Ro_50_20_40: Heating, venilation and air conditioning engineer"
+                     "name": "Ro_50_20_40: Heating, ventilation and air conditioning engineer (H)"
                   },
                   {
-                     "name": "Ro_50_20_41: Highways engineer"
+                     "name": "Ro_50_20_41: Highways engineer (D)"
                   },
                   {
                      "name": "Ro_50_20_42: Hydraulic engineer"
                   },
                   {
-                     "name": "Ro_50_20_50: Lighting designer"
+                     "name": "Ro_50_20_53: Mechanical, electrical, instrumentation, control and automation (MEICA) engineer"
                   },
                   {
-                     "name": "Ro_50_20_53: Mechanical, electrical, instrumentation, control and automation (MEICA) consultant"
-                  },
-                  {
-                     "name": "Ro_50_20_54: Mechanical services engineer"
+                     "name": "Ro_50_20_54: Mechanical services engineer (M)"
                   },
                   {
                      "name": "Ro_50_20_59: Overhead wires engineer"
@@ -382,7 +378,7 @@
                      "name": "Ro_50_20_65: Process engineer"
                   },
                   {
-                     "name": "Ro_50_20_68: Public health engineer"
+                     "name": "Ro_50_20_68: Public health engineer (P)"
                   },
                   {
                      "name": "Ro_50_20_70: Rail engineer"
@@ -397,7 +393,7 @@
                      "name": "Ro_50_20_79: Signalling engineer"
                   },
                   {
-                     "name": "Ro_50_20_83: Structural engineer"
+                     "name": "Ro_50_20_83: Structural engineer (S)"
                   },
                   {
                      "name": "Ro_50_20_86: Systems engineer"
@@ -417,16 +413,19 @@
                "name": "Ro_50_30: Environmental design roles",
                "children": [
                   {
+                     "name": "Ro_50_30_04: Arboriculturalist"
+                  },
+                  {
                      "name": "Ro_50_30_25: Ecologist"
                   },
                   {
-                     "name": "Ro_50_30_47: Landscape architect"
+                     "name": "Ro_50_30_47: Landscape architect (L)"
                   },
                   {
                      "name": "Ro_50_30_48: Landscape designer"
                   },
                   {
-                     "name": "Ro_50_30_94: Urban designer"
+                     "name": "Ro_50_30_94: Urban designer (T)"
                   }
                ]
             }
@@ -439,31 +438,28 @@
                "name": "Ro_70_10: Surveyor and planner roles",
                "children": [
                   {
-                     "name": "Ro_70_10_04: Arboriculturalist"
-                  },
-                  {
                      "name": "Ro_70_10_10: Building inspector"
                   },
                   {
-                     "name": "Ro_70_10_11: Building surveyor"
+                     "name": "Ro_70_10_11: Building surveyor (B)"
                   },
                   {
                      "name": "Ro_70_10_16: Conservation surveyor"
                   },
                   {
-                     "name": "Ro_70_10_33: Geotechnical surveyor"
+                     "name": "Ro_70_10_33: Geotechnical surveyor (G)"
                   },
                   {
                      "name": "Ro_70_10_36: Heritage surveyor"
                   },
                   {
-                     "name": "Ro_70_10_46: Land surveyor"
+                     "name": "Ro_70_10_46: Land surveyor (G)"
                   },
                   {
                      "name": "Ro_70_10_64: Planning consultant"
                   },
                   {
-                     "name": "Ro_70_10_75: Quantity surveyor"
+                     "name": "Ro_70_10_75: Quantity surveyor (Q)"
                   },
                   {
                      "name": "Ro_70_10_80: Site investigation consultant"
@@ -512,7 +508,7 @@
                      "name": "Ro_70_50_12: Carpenter"
                   },
                   {
-                     "name": "Ro_70_50_14: Carpet layer"
+                     "name": "Ro_70_50_14: Carpet fitter"
                   },
                   {
                      "name": "Ro_70_50_16: Ceiling installer"
@@ -534,6 +530,9 @@
                   },
                   {
                      "name": "Ro_70_50_30: Fencing installer"
+                  },
+                  {
+                     "name": "Ro_70_50_32: Flooring installer"
                   },
                   {
                      "name": "Ro_70_50_34: Glazier"
@@ -647,16 +646,19 @@
                "name": "Ro_70_70: Rail and road roles",
                "children": [
                   {
+                     "name": "Ro_70_70_37: Highways operative"
+                  },
+                  {
                      "name": "Ro_70_70_68: Rail labourer"
                   },
                   {
-                     "name": "Ro_70_70_70: Rail track installer"
+                     "name": "Ro_70_70_70: Rail track layer"
                   },
                   {
                      "name": "Ro_70_70_72: Rail traction technician"
                   },
                   {
-                     "name": "Ro_70_70_74: Road builder"
+                     "name": "Ro_70_70_85: Street works operative"
                   }
                ]
             }

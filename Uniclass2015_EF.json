@@ -6,6 +6,9 @@
          "children": [
             {
                "name": "EF_15_15: Construction sites"
+            },
+            {
+               "name": "EF_15_95: Work areas"
             }
          ]
       },

@@ -284,8 +284,14 @@
                ]
             },
             {
-               "name": "SL_20_90: Incident support spaces",
+               "name": "SL_20_90: Fire and incident support spaces",
                "children": [
+                  {
+                     "name": "SL_20_90_25: Escape stairs"
+                  },
+                  {
+                     "name": "SL_20_90_28: Firefighting stairs"
+                  },
                   {
                      "name": "SL_20_90_30: Fire refuge spaces"
                   },
@@ -293,7 +299,27 @@
                      "name": "SL_20_90_31: Fire training spaces"
                   },
                   {
-                     "name": "SL_20_90_47: Lifeboat vessel launch spaces"
+                     "name": "SL_20_90_60: Protected escape corridors"
+                  }
+               ]
+            },
+            {
+               "name": "SL_20_95: Protected zones",
+               "children": [
+                  {
+                     "name": "SL_20_95_20: Detection zones"
+                  },
+                  {
+                     "name": "SL_20_95_28: Evacuation zones"
+                  },
+                  {
+                     "name": "SL_20_95_30: Fire compartments"
+                  },
+                  {
+                     "name": "SL_20_95_32: Fire suppression zones"
+                  },
+                  {
+                     "name": "SL_20_95_80: Smoke control zones"
                   }
                ]
             }
@@ -891,6 +917,12 @@
                      "name": "SL_32_50_06: Beach ramps"
                   },
                   {
+                     "name": "SL_32_50_18: Deep berths"
+                  },
+                  {
+                     "name": "SL_32_50_47: Lifeboat vessel launch spaces"
+                  },
+                  {
                      "name": "SL_32_50_79: Slipways"
                   }
                ]
@@ -903,6 +935,9 @@
                   },
                   {
                      "name": "SL_32_60_55: Mudflats"
+                  },
+                  {
+                     "name": "SL_32_60_65: Pontoons"
                   },
                   {
                      "name": "SL_32_60_76: Sand dunes"
@@ -1054,6 +1089,9 @@
                   },
                   {
                      "name": "SL_35_50_75: Sauna rooms"
+                  },
+                  {
+                     "name": "SL_35_50_90: Treatment rooms"
                   }
                ]
             },
@@ -1685,6 +1723,9 @@
                "name": "SL_50_60: Wet waste treatment and disposal spaces",
                "children": [
                   {
+                     "name": "SL_50_60_28: Evaporation ponds"
+                  },
+                  {
                      "name": "SL_50_60_94: Waste liquids treatment spaces"
                   }
                ]
@@ -2049,6 +2090,9 @@
                      "name": "SL_80_35_20: Cycle lanes"
                   },
                   {
+                     "name": "SL_80_35_22: Diversion routes"
+                  },
+                  {
                      "name": "SL_80_35_36: Hard shoulders"
                   },
                   {
@@ -2080,6 +2124,9 @@
                   },
                   {
                      "name": "SL_80_35_62: Pedestrian crossings"
+                  },
+                  {
+                     "name": "SL_80_35_63: Pedestrian routes"
                   },
                   {
                      "name": "SL_80_35_64: Pedestrian refuges and islands"
@@ -2217,7 +2264,7 @@
                ]
             },
             {
-               "name": "SL_80_70: Marine transport spaces",
+               "name": "SL_80_70: Marine and waterways transport spaces",
                "children": [
                   {
                      "name": "SL_80_70_11: Canal lock chambers"
@@ -2262,7 +2309,25 @@
                "name": "SL_80_96: Tunnel and shaft spaces",
                "children": [
                   {
+                     "name": "SL_80_96_15: Concourse tunnels"
+                  },
+                  {
+                     "name": "SL_80_96_18: Crossover tunnels"
+                  },
+                  {
                      "name": "SL_80_96_20: Drift tunnel portals"
+                  },
+                  {
+                     "name": "SL_80_96_58: Overrun tunnels"
+                  },
+                  {
+                     "name": "SL_80_96_60: Passageway tunnels"
+                  },
+                  {
+                     "name": "SL_80_96_64: Platform tunnels"
+                  },
+                  {
+                     "name": "SL_80_96_78: Sidings tunnels"
                   }
                ]
             },
@@ -2274,6 +2339,12 @@
                   },
                   {
                      "name": "SL_80_98_15: Collapse radius"
+                  },
+                  {
+                     "name": "SL_80_98_46: Lateral safety zones"
+                  },
+                  {
+                     "name": "SL_80_98_48: Longitudinal safety zones"
                   },
                   {
                      "name": "SL_80_98_75: Safety clearance zones"
@@ -2320,9 +2391,6 @@
                   },
                   {
                      "name": "SL_90_10_28: Escalators and travellators"
-                  },
-                  {
-                     "name": "SL_90_10_30: Fire stairways"
                   },
                   {
                      "name": "SL_90_10_34: Goods conveyors"
