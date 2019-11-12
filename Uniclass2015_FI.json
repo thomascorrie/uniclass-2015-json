@@ -8,7 +8,7 @@
                "name": "FI_10_03: Agenda (AG)"
             },
             {
-               "name": "FI_10_10: Brochure/ leaflet (BL)"
+               "name": "FI_10_10: Brochure (BL)"
             },
             {
                "name": "FI_10_15: Comment (CT)"
@@ -26,6 +26,9 @@
                "name": "FI_10_30: File note (FN)"
             },
             {
+               "name": "FI_10_45: Leaflet (LF)"
+            },
+            {
                "name": "FI_10_46: Letter (LT)"
             },
             {
@@ -35,13 +38,16 @@
                "name": "FI_10_55: Minutes (MI)"
             },
             {
+               "name": "FI_10_59: Poster (PO)"
+            },
+            {
                "name": "FI_10_60: Presentation (PP)"
             },
             {
                "name": "FI_10_65: Press release (PE)"
             },
             {
-               "name": "FI_10_70: Request for information (RI)"
+               "name": "FI_10_70: Request (RI)"
             },
             {
                "name": "FI_10_86: Technical query (TQ)"
@@ -70,10 +76,10 @@
                "name": "FI_20_40: Instruction (IN)"
             },
             {
-               "name": "FI_20_70: Requisition (RQ)"
+               "name": "FI_20_65: Proposal (PS)"
             },
             {
-               "name": "FI_20_80: Site instruction (SI)"
+               "name": "FI_20_70: Requisition (RQ)"
             },
             {
                "name": "FI_20_85: Subcontract order (SO)"
@@ -93,9 +99,6 @@
                "name": "FI_30_22: Data set (DS)"
             },
             {
-               "name": "FI_30_35: GIS dataset (GD)"
-            },
-            {
                "name": "FI_30_40: Information exchange file (IE)"
             },
             {
@@ -111,9 +114,6 @@
          "children": [
             {
                "name": "FI_40_10: Calculations (CA)"
-            },
-            {
-               "name": "FI_40_75: Schedule or table (SH)"
             },
             {
                "name": "FI_40_78: Scope of works (SW)"
@@ -174,10 +174,27 @@
                "name": "FI_60_60: Photograph (PH)"
             },
             {
+               "name": "FI_60_76: Schematic (SC)"
+            },
+            {
                "name": "FI_60_80: Sketch (SK)"
             },
             {
                "name": "FI_60_95: Visualization (VS)"
+            }
+         ]
+      },
+      {
+         "name": "FI_70: Official guidance",
+         "children": [
+            {
+               "name": "FI_70_65: Protocol (PZ)"
+            },
+            {
+               "name": "FI_70_72: Regulation (RN)"
+            },
+            {
+               "name": "FI_70_85: Standard (SD)"
             }
          ]
       },
@@ -205,9 +222,6 @@
          "name": "FI_90: Record information",
          "children": [
             {
-               "name": "FI_90_05: Assessment report (AR)"
-            },
-            {
                "name": "FI_90_13: Certificate (CE)"
             },
             {
@@ -223,7 +237,7 @@
                "name": "FI_90_24: Directory (DY)"
             },
             {
-               "name": "FI_90_30: Forms (FM)"
+               "name": "FI_90_30: Form (FM)"
             },
             {
                "name": "FI_90_35: Guide (GU)"
@@ -232,7 +246,16 @@
                "name": "FI_90_37: Health and safety (HS)"
             },
             {
+               "name": "FI_90_45: List (LI)"
+            },
+            {
+               "name": "FI_90_47: Log (LG)"
+            },
+            {
                "name": "FI_90_50: Manual (MA)"
+            },
+            {
+               "name": "FI_90_52: Matrix (MX)"
             },
             {
                "name": "FI_90_60: Permit (PT)"
@@ -250,22 +273,31 @@
                "name": "FI_90_72: Report (RP)"
             },
             {
-               "name": "FI_90_75: Risk register (RR)"
+               "name": "FI_90_75: Schedule or table (SH)"
             },
             {
                "name": "FI_90_80: Snagging list (SN)"
             },
             {
+               "name": "FI_90_83: Study (ST)"
+            },
+            {
                "name": "FI_90_85: Survey (SU)"
             },
             {
-               "name": "FI_90_87: Test results (TR)"
+               "name": "FI_90_86: Technology file (TF)"
+            },
+            {
+               "name": "FI_90_87: Test result (TR)"
             },
             {
                "name": "FI_90_88: Template (TE)"
             },
             {
                "name": "FI_90_90: Training record (TG)"
+            },
+            {
+               "name": "FI_90_94: Valuation (VL)"
             }
          ]
       }

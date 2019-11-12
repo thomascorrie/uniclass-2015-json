@@ -906,6 +906,9 @@
                "name": "SL_32_40: Land managed spaces",
                "children": [
                   {
+                     "name": "SL_32_40_26: Easement access areas"
+                  },
+                  {
                      "name": "SL_32_40_90: Tree protection zones"
                   }
                ]
@@ -2007,9 +2010,6 @@
                      "name": "SL_80_10_22: Departure lounges"
                   },
                   {
-                     "name": "SL_80_10_33: Gangways"
-                  },
-                  {
                      "name": "SL_80_10_55: Passenger gates"
                   },
                   {
@@ -2017,6 +2017,9 @@
                   },
                   {
                      "name": "SL_80_10_77: Security screening areas"
+                  },
+                  {
+                     "name": "SL_80_10_80: Ship gangways"
                   }
                ]
             },
@@ -2247,6 +2250,9 @@
                      "name": "SL_80_50_80: Single sided platforms"
                   },
                   {
+                     "name": "SL_80_50_85: Stabling yards"
+                  },
+                  {
                      "name": "SL_80_50_88: Track paralleling huts"
                   },
                   {
@@ -2438,6 +2444,9 @@
                "children": [
                   {
                      "name": "SL_90_20_01: Accident and emergency waiting rooms"
+                  },
+                  {
+                     "name": "SL_90_20_02: Air spaces"
                   },
                   {
                      "name": "SL_90_20_04: Audience seating areas"

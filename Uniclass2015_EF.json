@@ -19,13 +19,7 @@
                "name": "EF_20_05: Substructure"
             },
             {
-               "name": "EF_20_10: Frames"
-            },
-            {
-               "name": "EF_20_20: Beams"
-            },
-            {
-               "name": "EF_20_30: Columns"
+               "name": "EF_20_10: Superstructure"
             },
             {
                "name": "EF_20_50: Bridge abutments and piers"
@@ -116,6 +110,9 @@
             },
             {
                "name": "EF_45_30: Fauna elements"
+            },
+            {
+               "name": "EF_45_75: Fish and eel pass elements"
             }
          ]
       },

@@ -188,6 +188,9 @@
                      "name": "Ac_05_60_15: Completing"
                   },
                   {
+                     "name": "Ac_05_60_30: Final clean"
+                  },
+                  {
                      "name": "Ac_05_60_35: Handing over"
                   },
                   {
@@ -206,6 +209,9 @@
                "children": [
                   {
                      "name": "Ac_05_70_10: Building user assisting"
+                  },
+                  {
+                     "name": "Ac_05_70_48: Logistics"
                   }
                ]
             }
@@ -256,6 +262,9 @@
                   },
                   {
                      "name": "Ac_10_40_13: Carpet laying"
+                  },
+                  {
+                     "name": "Ac_10_40_22: Diamond drilling"
                   },
                   {
                      "name": "Ac_10_40_25: Ductwork installing"

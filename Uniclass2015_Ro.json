@@ -84,7 +84,16 @@
                      "name": "Ro_10_30_02: Asset assurance manager"
                   },
                   {
+                     "name": "Ro_10_30_10: Built asset security manager"
+                  },
+                  {
+                     "name": "Ro_10_30_14: Chief information officer"
+                  },
+                  {
                      "name": "Ro_10_30_21: Asset data governance manager"
+                  },
+                  {
+                     "name": "Ro_10_30_27: Education consultant"
                   },
                   {
                      "name": "Ro_10_30_42: Investment consultant"
@@ -94,6 +103,9 @@
                   },
                   {
                      "name": "Ro_10_30_80: Asset standards manager"
+                  },
+                  {
+                     "name": "Ro_10_30_88: Technology consultant"
                   }
                ]
             },
@@ -132,6 +144,9 @@
                   },
                   {
                      "name": "Ro_10_40_47: Legal representative"
+                  },
+                  {
+                     "name": "Ro_10_40_48: Logistics manager"
                   },
                   {
                      "name": "Ro_10_40_49: Maintenance planner"
@@ -253,6 +268,9 @@
                "name": "Ro_30_40: Supplier roles",
                "children": [
                   {
+                     "name": "Ro_30_40_36: Hardware vendor"
+                  },
+                  {
                      "name": "Ro_30_40_40: Importer"
                   },
                   {
@@ -260,6 +278,9 @@
                   },
                   {
                      "name": "Ro_30_40_56: Nominated supplier"
+                  },
+                  {
+                     "name": "Ro_30_40_79: Software vendor"
                   },
                   {
                      "name": "Ro_30_40_86: Supplier"

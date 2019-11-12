@@ -582,6 +582,9 @@
                      "name": "PM_40_60_07: Benefits realization plan"
                   },
                   {
+                     "name": "PM_40_60_08: BIM execution plan"
+                  },
+                  {
                      "name": "PM_40_60_09: BIM maturity assessment report"
                   },
                   {
@@ -609,6 +612,9 @@
                      "name": "PM_40_60_23: Description terminology"
                   },
                   {
+                     "name": "PM_40_60_25: Design process management plan"
+                  },
+                  {
                      "name": "PM_40_60_27: Electronic data interchange (EDI)"
                   },
                   {
@@ -618,19 +624,16 @@
                      "name": "PM_40_60_41: Information delivery plan"
                   },
                   {
-                     "name": "PM_40_60_50: Master information delivery plan"
+                     "name": "PM_40_60_43: Installation process management plan"
                   },
                   {
-                     "name": "PM_40_60_53: Model production and delivery table"
+                     "name": "PM_40_60_50: Master information delivery plan"
                   },
                   {
                      "name": "PM_40_60_62: Post occupancy evaluation"
                   },
                   {
-                     "name": "PM_40_60_64: Pre-contract BIM execution plan"
-                  },
-                  {
-                     "name": "PM_40_60_65: Post-contract BIM execution plan"
+                     "name": "PM_40_60_64: Pre-appointment BIM execution plan"
                   },
                   {
                      "name": "PM_40_60_70: Risk schedule"
@@ -1009,6 +1012,9 @@
                      "name": "PM_60_50_50: Milestone payment schedule"
                   },
                   {
+                     "name": "PM_60_50_58: Order"
+                  },
+                  {
                      "name": "PM_60_50_60: Payment application"
                   },
                   {
@@ -1332,6 +1338,9 @@
                   },
                   {
                      "name": "PM_80_10_10: Asset register"
+                  },
+                  {
+                     "name": "PM_80_10_22: Display energy certificate"
                   },
                   {
                      "name": "PM_80_10_25: Energy performance certificate"

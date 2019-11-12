@@ -1215,6 +1215,9 @@
                   },
                   {
                      "name": "En_75_30_18: Peer-to-peer communications networks"
+                  },
+                  {
+                     "name": "En_75_30_78: Signalling control centres"
                   }
                ]
             },
@@ -1228,7 +1231,12 @@
                "name": "En_75_60: Environmental safety entities"
             },
             {
-               "name": "En_75_70: Control and management entities"
+               "name": "En_75_70: Control and management entities",
+               "children": [
+                  {
+                     "name": "En_75_70_60: Operational control centres"
+                  }
+               ]
             },
             {
                "name": "En_75_80: Protection entities"
@@ -1273,6 +1281,9 @@
                      "name": "En_80_35_01: Access roads"
                   },
                   {
+                     "name": "En_80_35_05: Bus lanes"
+                  },
+                  {
                      "name": "En_80_35_07: Bus maintenance depots"
                   },
                   {
@@ -1292,9 +1303,6 @@
                   },
                   {
                      "name": "En_80_35_67: Private roads"
-                  },
-                  {
-                     "name": "En_80_35_73: Road freight depots"
                   },
                   {
                      "name": "En_80_35_74: Roads"
@@ -1387,9 +1395,6 @@
                      "name": "En_80_50_64: Rail distribution depots"
                   },
                   {
-                     "name": "En_80_50_66: Rail freight entities"
-                  },
-                  {
                      "name": "En_80_50_68: Rail marshalling entities"
                   },
                   {
@@ -1411,7 +1416,10 @@
                      "name": "En_80_50_86: Track maintenance depots"
                   },
                   {
-                     "name": "En_80_50_88: Train maintenance buildings"
+                     "name": "En_80_50_87: Trackside circuit breaker equipment buildings"
+                  },
+                  {
+                     "name": "En_80_50_88: Train maintenance depots"
                   },
                   {
                      "name": "En_80_50_90: Tramways"
@@ -1451,7 +1459,21 @@
                ]
             },
             {
-               "name": "En_80_90: Transport hub entities"
+               "name": "En_80_90: Transport hub entities",
+               "children": [
+                  {
+                     "name": "En_80_90_30: Freight depots"
+                  },
+                  {
+                     "name": "En_80_90_66: Rail freight entities"
+                  },
+                  {
+                     "name": "En_80_90_73: Road freight depots"
+                  },
+                  {
+                     "name": "En_80_90_90: Transport interchanges"
+                  }
+               ]
             },
             {
                "name": "En_80_94: Bridges",
@@ -1554,6 +1576,12 @@
                "name": "En_90_90: Plant and control entities",
                "children": [
                   {
+                     "name": "En_90_90_09: Buried services routes"
+                  },
+                  {
+                     "name": "En_90_90_11: Cable routes"
+                  },
+                  {
                      "name": "En_90_90_33: Gauge houses"
                   },
                   {
@@ -1561,6 +1589,9 @@
                   },
                   {
                      "name": "En_90_90_50: Mechanical services buildings"
+                  },
+                  {
+                     "name": "En_90_90_64: Plant and equipment buildings"
                   },
                   {
                      "name": "En_90_90_68: Pump houses"
