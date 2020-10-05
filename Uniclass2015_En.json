@@ -188,7 +188,7 @@
                "name": "En_25_10: Educational entities",
                "children": [
                   {
-                     "name": "En_25_10_10: Pre-school educational buildings"
+                     "name": "En_25_10_10: Preschool educational buildings"
                   },
                   {
                      "name": "En_25_10_20: Infant educational buildings"
@@ -489,6 +489,9 @@
                      "name": "En_32_10_31: Forestry plantations"
                   },
                   {
+                     "name": "En_32_10_37: Hedges"
+                  },
+                  {
                      "name": "En_32_10_39: Horticultural buildings"
                   },
                   {
@@ -513,9 +516,6 @@
                "children": [
                   {
                      "name": "En_32_35_05: Arboretums"
-                  },
-                  {
-                     "name": "En_32_35_12: Botanical gardens"
                   },
                   {
                      "name": "En_32_35_15: Community gardens"
@@ -574,6 +574,14 @@
                   },
                   {
                      "name": "En_32_50_98: Wharfs"
+                  }
+               ]
+            },
+            {
+               "name": "En_32_60: Pollution control entities",
+               "children": [
+                  {
+                     "name": "En_32_60_60: Permeable reactive barriers"
                   }
                ]
             },
@@ -772,6 +780,9 @@
                      "name": "En_40_05_13: Casinos"
                   },
                   {
+                     "name": "En_40_05_27: E-sport buildings"
+                  },
+                  {
                      "name": "En_40_05_42: Indoor fairgrounds"
                   },
                   {
@@ -907,7 +918,7 @@
                      "name": "En_45_10_47: Long-term residential buildings"
                   },
                   {
-                     "name": "En_45_10_70: Short term residential buildings"
+                     "name": "En_45_10_70: Short-term residential buildings"
                   },
                   {
                      "name": "En_45_10_90: Temporary residential buildings"
@@ -954,6 +965,12 @@
                      "name": "En_50_40_10: Dry waste collection structures"
                   },
                   {
+                     "name": "En_50_40_11: Dry waste storage structures"
+                  },
+                  {
+                     "name": "En_50_40_12: Dry waste storage yards"
+                  },
+                  {
                      "name": "En_50_40_50: Dry waste distribution structures"
                   }
                ]
@@ -981,6 +998,9 @@
                   },
                   {
                      "name": "En_50_75_70: Wastewater disposal buildings"
+                  },
+                  {
+                     "name": "En_50_75_96: Wastewater storage structures"
                   }
                ]
             },
@@ -1013,6 +1033,9 @@
                      "name": "En_55_05_38: Gas extraction pipelines"
                   },
                   {
+                     "name": "En_55_05_40: Gas storage tanks"
+                  },
+                  {
                      "name": "En_55_05_70: Gas treatment buildings"
                   },
                   {
@@ -1028,6 +1051,9 @@
                "children": [
                   {
                      "name": "En_55_10_10: Oil extraction structures"
+                  },
+                  {
+                     "name": "En_55_10_45: Oil storage tanks"
                   },
                   {
                      "name": "En_55_10_50: Fuel treatment buildings"
@@ -1363,7 +1389,7 @@
                      "name": "En_80_45_17: Coach parks"
                   },
                   {
-                     "name": "En_80_45_55: Multi-storey vehicle parks"
+                     "name": "En_80_45_55: Multistorey vehicle parks"
                   },
                   {
                      "name": "En_80_45_85: Surface vehicle parks"
@@ -1541,12 +1567,6 @@
                      "name": "En_90_50_03: Agricultural storage silos"
                   },
                   {
-                     "name": "En_90_50_10: Dry waste storage structures"
-                  },
-                  {
-                     "name": "En_90_50_11: Dry waste storage yards"
-                  },
-                  {
                      "name": "En_90_50_28: Explosives stores"
                   },
                   {
@@ -1559,16 +1579,10 @@
                      "name": "En_90_50_55: Motor vehicle storage entities"
                   },
                   {
-                     "name": "En_90_50_58: Oil and gas storage tanks"
-                  },
-                  {
                      "name": "En_90_50_68: Refrigerated container storage entities"
                   },
                   {
                      "name": "En_90_50_70: Storage buildings"
-                  },
-                  {
-                     "name": "En_90_50_96: Wastewater storage structures"
                   }
                ]
             },
@@ -1595,6 +1609,9 @@
                   },
                   {
                      "name": "En_90_90_68: Pump houses"
+                  },
+                  {
+                     "name": "En_90_90_80: Services routes"
                   }
                ]
             }

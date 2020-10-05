@@ -179,6 +179,17 @@
                      "name": "Ro_10_40_90: Transportation manager"
                   }
                ]
+            },
+            {
+               "name": "Ro_10_80: Support roles",
+               "children": [
+                  {
+                     "name": "Ro_10_80_25: Editor"
+                  },
+                  {
+                     "name": "Ro_10_80_90: Technical author"
+                  }
+               ]
             }
          ]
       },
@@ -334,6 +345,12 @@
                      "name": "Ro_50_10_05: Architectural technologist"
                   },
                   {
+                     "name": "Ro_50_10_10: Building designer"
+                  },
+                  {
+                     "name": "Ro_50_10_11: Catering consultant"
+                  },
+                  {
                      "name": "Ro_50_10_14: Cladding designer"
                   },
                   {
@@ -352,6 +369,9 @@
                "children": [
                   {
                      "name": "Ro_50_20_02: Acoustic engineer"
+                  },
+                  {
+                     "name": "Ro_50_20_06: Bridge engineer"
                   },
                   {
                      "name": "Ro_50_20_08: Building services engineer"
@@ -426,6 +446,9 @@
                      "name": "Ro_50_20_90: Traffic engineer"
                   },
                   {
+                     "name": "Ro_50_20_91: Tunnel engineer"
+                  },
+                  {
                      "name": "Ro_50_20_96: Water services engineer"
                   }
                ]
@@ -438,6 +461,9 @@
                   },
                   {
                      "name": "Ro_50_30_25: Ecologist"
+                  },
+                  {
+                     "name": "Ro_50_30_33: Garden designer"
                   },
                   {
                      "name": "Ro_50_30_47: Landscape architect (L)"
@@ -506,7 +532,13 @@
                      "name": "Ro_70_30_35: Geographic information system consultant"
                   },
                   {
+                     "name": "Ro_70_30_39: Hydrologist"
+                  },
+                  {
                      "name": "Ro_70_30_85: Sustainability consultant"
+                  },
+                  {
+                     "name": "Ro_70_30_94: Visual impact assessor"
                   }
                ]
             },

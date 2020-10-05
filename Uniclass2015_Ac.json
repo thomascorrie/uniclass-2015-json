@@ -179,7 +179,7 @@
                ]
             },
             {
-               "name": "Ac_05_60: Handover and close-out stage activities",
+               "name": "Ac_05_60: Handover and closeout stage activities",
                "children": [
                   {
                      "name": "Ac_05_60_10: Building contract administrating"
@@ -373,7 +373,7 @@
                      "name": "Ac_15_10_32: Geophysical surveying"
                   },
                   {
-                     "name": "Ac_15_10_34: Ground penetrating radar surveying"
+                     "name": "Ac_15_10_34: Ground-penetrating radar surveying"
                   },
                   {
                      "name": "Ac_15_10_70: Radio frequency location surveying"
@@ -390,7 +390,7 @@
                "name": "Ac_15_15: Building services condition surveying",
                "children": [
                   {
-                     "name": "Ac_15_15_06: Below ground services surveying"
+                     "name": "Ac_15_15_06: Below-ground services surveying"
                   },
                   {
                      "name": "Ac_15_15_08: Boilers, heating and hot water systems surveying"
@@ -670,6 +670,9 @@
                   },
                   {
                      "name": "Ac_20_15_71: Reception tasks"
+                  },
+                  {
+                     "name": "Ac_20_15_73: Recruitment"
                   }
                ]
             },
@@ -977,6 +980,9 @@
                   },
                   {
                      "name": "Ac_25_10_88: Teaching"
+                  },
+                  {
+                     "name": "Ac_25_10_90: Training"
                   }
                ]
             },
@@ -1143,7 +1149,7 @@
                      "name": "Ac_25_70_04: Archiving"
                   },
                   {
-                     "name": "Ac_25_70_05: Audio-visual studying"
+                     "name": "Ac_25_70_05: Audiovisual studying"
                   },
                   {
                      "name": "Ac_25_70_11: Cataloguing"
@@ -1275,7 +1281,7 @@
                      "name": "Ac_30_40_09: Brewing"
                   },
                   {
-                     "name": "Ac_30_40_10: Butter-making"
+                     "name": "Ac_30_40_10: Butter making"
                   },
                   {
                      "name": "Ac_30_40_11: Canning"
@@ -1443,7 +1449,7 @@
                      "name": "Ac_32_10_02: Agricultural maintenance"
                   },
                   {
-                     "name": "Ac_32_10_26: Farm yard activities"
+                     "name": "Ac_32_10_26: Farmyard activities"
                   },
                   {
                      "name": "Ac_32_10_27: Fertilizing"
@@ -1714,6 +1720,9 @@
                   },
                   {
                      "name": "Ac_40_05_33: Gambling"
+                  },
+                  {
+                     "name": "Ac_40_05_35: Gaming"
                   },
                   {
                      "name": "Ac_40_05_42: Indoor fairground riding"
@@ -2026,7 +2035,7 @@
                      "name": "Ac_42_90_12: Canoe sprint"
                   },
                   {
-                     "name": "Ac_42_90_50: Motor boating"
+                     "name": "Ac_42_90_50: Motor-boating"
                   },
                   {
                      "name": "Ac_42_90_73: Rowing"
@@ -2035,10 +2044,13 @@
                      "name": "Ac_42_90_75: Sailing"
                   },
                   {
-                     "name": "Ac_42_90_97: Water skiing"
+                     "name": "Ac_42_90_97: Waterskiing"
                   },
                   {
-                     "name": "Ac_42_90_98: White water canoeing"
+                     "name": "Ac_42_90_98: White-water canoeing"
+                  },
+                  {
+                     "name": "Ac_42_90_99: White-water rafting"
                   }
                ]
             },
@@ -2290,7 +2302,7 @@
                      "name": "Ac_75_60_01: Access control systems testing"
                   },
                   {
-                     "name": "Ac_75_60_04: Audio visual systems testing"
+                     "name": "Ac_75_60_04: Audiovisual systems testing"
                   },
                   {
                      "name": "Ac_75_60_15: Control systems testing"
@@ -2322,7 +2334,7 @@
                      "name": "Ac_75_65_01: Access control systems commissioning"
                   },
                   {
-                     "name": "Ac_75_65_04: Audio visual systems commissioning"
+                     "name": "Ac_75_65_04: Audiovisual systems commissioning"
                   },
                   {
                      "name": "Ac_75_65_15: Control systems commissioning"
@@ -2476,7 +2488,7 @@
                ]
             },
             {
-               "name": "Ac_80_20: Cable way activities",
+               "name": "Ac_80_20: Cableway activities",
                "children": [
                   {
                      "name": "Ac_80_20_13: Cableway travelling"

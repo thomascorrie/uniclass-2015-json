@@ -16,6 +16,9 @@
                "name": "PM_10_20: Client requirements",
                "children": [
                   {
+                     "name": "PM_10_20_03: Appointment document"
+                  },
+                  {
                      "name": "PM_10_20_07: Brief"
                   },
                   {
@@ -25,7 +28,7 @@
                      "name": "PM_10_20_14: Community and tenant liaison plan"
                   },
                   {
-                     "name": "PM_10_20_16: Construction industry registration scheme requirement"
+                     "name": "PM_10_20_16: Construction industry registration scheme requirements"
                   },
                   {
                      "name": "PM_10_20_17: Core requirements statement"
@@ -34,28 +37,31 @@
                      "name": "PM_10_20_18: Cost benefit analysis"
                   },
                   {
-                     "name": "PM_10_20_24: Employer's information requirement"
+                     "name": "PM_10_20_26: Environmental policy"
                   },
                   {
-                     "name": "PM_10_20_26: Environmental policy"
+                     "name": "PM_10_20_28: Exchange information requirements"
                   },
                   {
                      "name": "PM_10_20_30: Feasibility study"
                   },
                   {
+                     "name": "PM_10_20_69: Quality plan"
+                  },
+                  {
                      "name": "PM_10_20_75: Stakeholder engagement plan"
                   },
                   {
-                     "name": "PM_10_20_82: Statement of requirement"
+                     "name": "PM_10_20_82: Statement of requirements"
                   },
                   {
-                     "name": "PM_10_20_84: Statement of security requirement"
+                     "name": "PM_10_20_84: Statement of security requirements"
                   },
                   {
                      "name": "PM_10_20_86: Sustainable development engagement plan"
                   },
                   {
-                     "name": "PM_10_20_90: Technical statement of requirement (TSOR)"
+                     "name": "PM_10_20_90: Technical statement of requirements (TSOR)"
                   },
                   {
                      "name": "PM_10_20_92: User requirement document"
@@ -188,7 +194,7 @@
                      "name": "PM_30_30_41: Integrated catchment model"
                   },
                   {
-                     "name": "PM_30_30_45: Landscape model"
+                     "name": "PM_30_30_58: Operational waste management plan"
                   },
                   {
                      "name": "PM_30_30_65: Pluvial flow model"
@@ -198,9 +204,6 @@
                   },
                   {
                      "name": "PM_30_30_75: Seismic survey report"
-                  },
-                  {
-                     "name": "PM_30_30_78: Site waste management plan"
                   },
                   {
                      "name": "PM_30_30_85: Sustainability information"
@@ -257,7 +260,7 @@
          "name": "PM_35: Project performance requirements",
          "children": [
             {
-               "name": "PM_35_10: Quality and operational properties performance requirement",
+               "name": "PM_35_10: Quality and operational properties performance requirements",
                "children": [
                   {
                      "name": "PM_35_10_13: Comfort performance requirements"
@@ -289,6 +292,12 @@
                      "name": "PM_35_20_03: Accidental loading performance requirements"
                   },
                   {
+                     "name": "PM_35_20_26: Earthquake loading performance requirements"
+                  },
+                  {
+                     "name": "PM_35_20_33: Geotechnical performance requirements"
+                  },
+                  {
                      "name": "PM_35_20_42: Imposed loads performance requirements"
                   },
                   {
@@ -299,6 +308,9 @@
                   },
                   {
                      "name": "PM_35_20_80: Structural design performance requirements"
+                  },
+                  {
+                     "name": "PM_35_20_82: Subsidence mitigation performance requirements"
                   },
                   {
                      "name": "PM_35_20_90: Thermal actions performance requirements"
@@ -337,6 +349,9 @@
                   },
                   {
                      "name": "PM_35_30_85: Structural fire performance requirements"
+                  },
+                  {
+                     "name": "PM_35_30_96: Wildfire protection performance requirements"
                   }
                ]
             },
@@ -347,13 +362,37 @@
                      "name": "PM_35_40_03: Airtightness performance requirements"
                   },
                   {
+                     "name": "PM_35_40_08: Biodiversity performance requirements"
+                  },
+                  {
                      "name": "PM_35_40_15: Condensation control performance requirements"
                   },
                   {
                      "name": "PM_35_40_30: Environmental scheme performance requirements"
                   },
                   {
+                     "name": "PM_35_40_31: Fauna biosecurity performance requirements"
+                  },
+                  {
+                     "name": "PM_35_40_32: Flood defence performance requirements"
+                  },
+                  {
+                     "name": "PM_35_40_33: Flora biosecurity performance requirements"
+                  },
+                  {
                      "name": "PM_35_40_34: Habitat creation and protection requirements"
+                  },
+                  {
+                     "name": "PM_35_40_35: Hazardous materials performance requirements"
+                  },
+                  {
+                     "name": "PM_35_40_37: Human biosecurity performance requirements"
+                  },
+                  {
+                     "name": "PM_35_40_38: Hydrological performance requirements"
+                  },
+                  {
+                     "name": "PM_35_40_47: Lightning protection performance requirements"
                   },
                   {
                      "name": "PM_35_40_72: Resistance to ground contaminants performance requirements"
@@ -432,10 +471,69 @@
          "name": "PM_40: Design and approvals information",
          "children": [
             {
+               "name": "PM_40_20: Design strategies",
+               "children": [
+                  {
+                     "name": "PM_40_20_05: Air conditioning design strategy"
+                  },
+                  {
+                     "name": "PM_40_20_13: Civil engineering design strategy"
+                  },
+                  {
+                     "name": "PM_40_20_15: Commissioning strategy"
+                  },
+                  {
+                     "name": "PM_40_20_17: Conservation strategy"
+                  },
+                  {
+                     "name": "PM_40_20_19: Cost plan strategy"
+                  },
+                  {
+                     "name": "PM_40_20_21: Daylight design strategy"
+                  },
+                  {
+                     "name": "PM_40_20_26: Energy strategy"
+                  },
+                  {
+                     "name": "PM_40_20_30: Fire safety strategy"
+                  },
+                  {
+                     "name": "PM_40_20_36: Health and safety strategy"
+                  },
+                  {
+                     "name": "PM_40_20_38: Heating and cooling design strategy"
+                  },
+                  {
+                     "name": "PM_40_20_42: Inclusive design strategy"
+                  },
+                  {
+                     "name": "PM_40_20_47: Lighting strategy"
+                  },
+                  {
+                     "name": "PM_40_20_63: Planning strategy"
+                  },
+                  {
+                     "name": "PM_40_20_65: Plan for use strategy"
+                  },
+                  {
+                     "name": "PM_40_20_83: Structural engineering design strategy"
+                  },
+                  {
+                     "name": "PM_40_20_85: Sustainability strategy"
+                  },
+                  {
+                     "name": "PM_40_20_94: Ventilation design strategy"
+                  }
+               ]
+            },
+            {
                "name": "PM_40_30: Design information",
                "children": [
                   {
                      "name": "PM_40_30_17: Concept analysis"
+                  },
+                  {
+                     "name": "PM_40_30_18: Construction specification"
                   },
                   {
                      "name": "PM_40_30_20: Design calculations"
@@ -450,9 +548,6 @@
                      "name": "PM_40_30_25: Developmental control plan"
                   },
                   {
-                     "name": "PM_40_30_26: Energy strategy"
-                  },
-                  {
                      "name": "PM_40_30_27: Energy target"
                   },
                   {
@@ -465,13 +560,45 @@
                      "name": "PM_40_30_52: Mechanical, electrical, instrumentation, controls and automation (MEICA) design"
                   },
                   {
+                     "name": "PM_40_30_58: Outline specification"
+                  },
+                  {
                      "name": "PM_40_30_60: Parametric information"
+                  },
+                  {
+                     "name": "PM_40_30_61: Performance specification"
+                  },
+                  {
+                     "name": "PM_40_30_62: Photorealistic visualization images"
                   },
                   {
                      "name": "PM_40_30_63: Photorealistic visualization model"
                   },
                   {
+                     "name": "PM_40_30_70: Room data"
+                  },
+                  {
                      "name": "PM_40_30_89: Technical information"
+                  }
+               ]
+            },
+            {
+               "name": "PM_40_35: Design models",
+               "children": [
+                  {
+                     "name": "PM_40_35_04: Architects models"
+                  },
+                  {
+                     "name": "PM_40_35_10: Building services models"
+                  },
+                  {
+                     "name": "PM_40_35_15: Civil engineering models"
+                  },
+                  {
+                     "name": "PM_40_35_45: Landscape model"
+                  },
+                  {
+                     "name": "PM_40_35_83: Structural engineering models"
                   }
                ]
             },
@@ -488,10 +615,13 @@
                      "name": "PM_40_40_10: Builders' work drawings"
                   },
                   {
-                     "name": "PM_40_40_15: Co-ordination drawings"
+                     "name": "PM_40_40_15: Coordination drawings"
                   },
                   {
                      "name": "PM_40_40_18: Cross-section drawings"
+                  },
+                  {
+                     "name": "PM_40_40_20: Decant drawings"
                   },
                   {
                      "name": "PM_40_40_22: Diagrammatical drawings"
@@ -500,7 +630,7 @@
                      "name": "PM_40_40_27: Elevation drawings"
                   },
                   {
-                     "name": "PM_40_40_34: General Arrangement drawings"
+                     "name": "PM_40_40_34: General arrangement drawings"
                   },
                   {
                      "name": "PM_40_40_42: Isometric drawings"
@@ -510,6 +640,9 @@
                   },
                   {
                      "name": "PM_40_40_54: Multi-view drawings"
+                  },
+                  {
+                     "name": "PM_40_40_63: Phasing drawings"
                   },
                   {
                      "name": "PM_40_40_75: Schematic drawings"
@@ -529,6 +662,12 @@
                      "name": "PM_40_50_03: Approvals and assurance plan"
                   },
                   {
+                     "name": "PM_40_50_10: Building codes application"
+                  },
+                  {
+                     "name": "PM_40_50_12: Building codes approval"
+                  },
+                  {
                      "name": "PM_40_50_14: Consent"
                   },
                   {
@@ -544,13 +683,16 @@
                      "name": "PM_40_50_41: Internal approval"
                   },
                   {
-                     "name": "PM_40_50_47: Land owner agreement"
+                     "name": "PM_40_50_47: Landowner agreement"
                   },
                   {
                      "name": "PM_40_50_49: Letter of authority"
                   },
                   {
                      "name": "PM_40_50_60: Partnership agreement"
+                  },
+                  {
+                     "name": "PM_40_50_63: Planning application"
                   },
                   {
                      "name": "PM_40_50_65: Planning permission"
@@ -585,7 +727,7 @@
                      "name": "PM_40_60_08: BIM execution plan"
                   },
                   {
-                     "name": "PM_40_60_09: BIM maturity assessment report"
+                     "name": "PM_40_60_11: Capability and capacity assessment report"
                   },
                   {
                      "name": "PM_40_60_12: Clash detection resolution report"
@@ -615,13 +757,31 @@
                      "name": "PM_40_60_25: Design process management plan"
                   },
                   {
+                     "name": "PM_40_60_26: Design programme"
+                  },
+                  {
                      "name": "PM_40_60_27: Electronic data interchange (EDI)"
                   },
                   {
                      "name": "PM_40_60_31: Federated coordination models"
                   },
                   {
+                     "name": "PM_40_60_33: Federated information models"
+                  },
+                  {
+                     "name": "PM_40_60_38: Information assurance"
+                  },
+                  {
+                     "name": "PM_40_60_39: Information validation"
+                  },
+                  {
+                     "name": "PM_40_60_40: Information verification"
+                  },
+                  {
                      "name": "PM_40_60_41: Information delivery plan"
+                  },
+                  {
+                     "name": "PM_40_60_42: Information mobilization plan"
                   },
                   {
                      "name": "PM_40_60_43: Installation process management plan"
@@ -630,7 +790,7 @@
                      "name": "PM_40_60_50: Master information delivery plan"
                   },
                   {
-                     "name": "PM_40_60_62: Post occupancy evaluation"
+                     "name": "PM_40_60_62: Post-occupancy evaluation"
                   },
                   {
                      "name": "PM_40_60_64: Pre-appointment BIM execution plan"
@@ -712,7 +872,7 @@
                      "name": "PM_50_30_85: Supply chain agreement"
                   },
                   {
-                     "name": "PM_50_30_96: Whole life costing"
+                     "name": "PM_50_30_96: Whole-life costing"
                   }
                ]
             },
@@ -732,6 +892,9 @@
                      "name": "PM_50_50_10: Tender enquiry"
                   },
                   {
+                     "name": "PM_50_50_12: Tender programme"
+                  },
+                  {
                      "name": "PM_50_50_15: Tender invitation"
                   },
                   {
@@ -744,7 +907,7 @@
                      "name": "PM_50_50_30: Tender acceptance criteria"
                   },
                   {
-                     "name": "PM_50_50_35: Tender document"
+                     "name": "PM_50_50_35: Tender documents"
                   },
                   {
                      "name": "PM_50_50_40: Private-sector participation (PSP) tender"
@@ -862,6 +1025,12 @@
                      "name": "PM_60_20_20: Concurrent work information"
                   },
                   {
+                     "name": "PM_60_20_24: Decant programme"
+                  },
+                  {
+                     "name": "PM_60_20_26: Decant protocol"
+                  },
+                  {
                      "name": "PM_60_20_55: Nominated subcontractor or supplier work information"
                   },
                   {
@@ -887,6 +1056,14 @@
                   },
                   {
                      "name": "PM_60_20_95: Work by statutory undertakers information"
+                  }
+               ]
+            },
+            {
+               "name": "PM_60_25: Construction models",
+               "children": [
+                  {
+                     "name": "PM_60_25_83: Structural fabrication models"
                   }
                ]
             },
@@ -972,6 +1149,9 @@
                   },
                   {
                      "name": "PM_60_40_60: Progress record"
+                  },
+                  {
+                     "name": "PM_60_40_70: Record photographs"
                   }
                ]
             },
@@ -1050,6 +1230,9 @@
                      "name": "PM_60_60_60: Site control and protection information"
                   },
                   {
+                     "name": "PM_60_60_63: Site organization chart"
+                  },
+                  {
                      "name": "PM_60_60_65: Site personnel records"
                   },
                   {
@@ -1057,6 +1240,9 @@
                   },
                   {
                      "name": "PM_60_60_75: Site safety information"
+                  },
+                  {
+                     "name": "PM_60_60_78: Site waste management plan"
                   },
                   {
                      "name": "PM_60_60_88: Temporary services records"
@@ -1074,6 +1260,9 @@
                   },
                   {
                      "name": "PM_60_70_20: Demolition hazard report"
+                  },
+                  {
+                     "name": "PM_60_70_23: Environmental management plan"
                   },
                   {
                      "name": "PM_60_70_25: Execution hazard report"
@@ -1121,6 +1310,83 @@
          "name": "PM_70: Testing, commissioning and completion information",
          "children": [
             {
+               "name": "PM_70_15: Compliance and certification documents",
+               "children": [
+                  {
+                     "name": "PM_70_15_01: Access control commissioning certificate"
+                  },
+                  {
+                     "name": "PM_70_15_04: Audiovisual systems commissioning and acceptance certificate"
+                  },
+                  {
+                     "name": "PM_70_15_10: Building management systems (BMS) commissioning certificate"
+                  },
+                  {
+                     "name": "PM_70_15_13: Chlorination certificate"
+                  },
+                  {
+                     "name": "PM_70_15_15: Closed-circuit television (CCTV) commissioning certificate"
+                  },
+                  {
+                     "name": "PM_70_15_22: Disabled alarms and disabled refuge alarm testing certificate"
+                  },
+                  {
+                     "name": "PM_70_15_27: Electrical test certificate"
+                  },
+                  {
+                     "name": "PM_70_15_29: Fire safety acceptance certificate"
+                  },
+                  {
+                     "name": "PM_70_15_30: Fire-stopping protection certificate"
+                  },
+                  {
+                     "name": "PM_70_15_31: Fire-stopping protection register"
+                  },
+                  {
+                     "name": "PM_70_15_32: Flat roof electronic test results"
+                  },
+                  {
+                     "name": "PM_70_15_34: Gas installation safety certificate"
+                  },
+                  {
+                     "name": "PM_70_15_40: Incoming gas supply pressure test report"
+                  },
+                  {
+                     "name": "PM_70_15_42: Insurance certificate"
+                  },
+                  {
+                     "name": "PM_70_15_47: Lightning protection certificate"
+                  },
+                  {
+                     "name": "PM_70_15_63: Power metering commissioning certificate"
+                  },
+                  {
+                     "name": "PM_70_15_65: Primary fresh air supply test certificate"
+                  },
+                  {
+                     "name": "PM_70_15_76: Secondary and backup electricity supplies test certificate"
+                  },
+                  {
+                     "name": "PM_70_15_78: Security and intruder alarm commissioning certificate"
+                  },
+                  {
+                     "name": "PM_70_15_80: Smoke and fire alarm and fire suppression system telephone lines test results"
+                  },
+                  {
+                     "name": "PM_70_15_82: Soak test results"
+                  },
+                  {
+                     "name": "PM_70_15_83: Sprinkler installation test certificate"
+                  },
+                  {
+                     "name": "PM_70_15_92: Uninterruptible power supply (UPS) test certificate"
+                  },
+                  {
+                     "name": "PM_70_15_96: Water quality and flushing test certificate"
+                  }
+               ]
+            },
+            {
                "name": "PM_70_75: Testing information",
                "children": [
                   {
@@ -1137,9 +1403,6 @@
                   },
                   {
                      "name": "PM_70_75_30: Fire protection installation test report"
-                  },
-                  {
-                     "name": "PM_70_75_32: Gas installation certificate"
                   },
                   {
                      "name": "PM_70_75_36: Heating installation test report"
@@ -1206,6 +1469,12 @@
                      "name": "PM_70_85_13: Building manual"
                   },
                   {
+                     "name": "PM_70_85_14: Contractor sign-off report"
+                  },
+                  {
+                     "name": "PM_70_85_15: Construction to occupation transition strategy"
+                  },
+                  {
                      "name": "PM_70_85_20: Defects rectification report"
                   },
                   {
@@ -1236,7 +1505,7 @@
                      "name": "PM_70_85_55: Operating instruction"
                   },
                   {
-                     "name": "PM_70_85_60: Plant log book"
+                     "name": "PM_70_85_60: Plant logbook"
                   },
                   {
                      "name": "PM_70_85_62: Pre-handover plan"
@@ -1297,13 +1566,7 @@
                "name": "PM_70_95: Project assurance information",
                "children": [
                   {
-                     "name": "PM_70_95_12: Compliance and certification documents"
-                  },
-                  {
                      "name": "PM_70_95_20: Design compliance review report"
-                  },
-                  {
-                     "name": "PM_70_95_31: Fire safety acceptance certificate"
                   },
                   {
                      "name": "PM_70_95_33: Gateway review information"
@@ -1318,7 +1581,7 @@
                      "name": "PM_70_95_64: Post-project evaluation information"
                   },
                   {
-                     "name": "PM_70_95_66: Project Assurance Group (PAG) sign off"
+                     "name": "PM_70_95_66: Project Assurance Group (PAG) sign-off"
                   },
                   {
                      "name": "PM_70_95_70: Risk potential assessment"
@@ -1355,7 +1618,10 @@
                      "name": "PM_80_10_42: Insurer's requirements"
                   },
                   {
-                     "name": "PM_80_10_50: Maintenance requirement"
+                     "name": "PM_80_10_50: Maintenance requirements"
+                  },
+                  {
+                     "name": "PM_80_10_58: Organization chart"
                   },
                   {
                      "name": "PM_80_10_60: Performance analysis"

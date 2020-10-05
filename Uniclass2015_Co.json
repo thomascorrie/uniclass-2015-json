@@ -1,4 +1,4 @@
-{
+﻿{
    "name": "Uniclass2015_Co",
    "children": [
       {
@@ -150,13 +150,13 @@
                      "name": "Co_20_90_02: Air and sea rescue complexes"
                   },
                   {
-                     "name": "Co_20_90_16: Coast guard stations"
+                     "name": "Co_20_90_16: Coastguard stations"
                   },
                   {
                      "name": "Co_20_90_27: Fire brigade complexes"
                   },
                   {
-                     "name": "Co_20_90_47: Life boat stations"
+                     "name": "Co_20_90_47: Lifeboat stations"
                   },
                   {
                      "name": "Co_20_90_53: Mountain rescue complexes"
@@ -181,7 +181,7 @@
                      "name": "Co_25_10_41: Infant schools"
                   },
                   {
-                     "name": "Co_25_10_45: Kindergartens, nurseries and pre-schools"
+                     "name": "Co_25_10_45: Kindergartens, nurseries and preschools"
                   },
                   {
                      "name": "Co_25_10_66: Primary schools"
@@ -204,7 +204,7 @@
                      "name": "Co_25_30_04: Astronomical observatory complexes"
                   },
                   {
-                     "name": "Co_25_30_08: Botanic gardens"
+                     "name": "Co_25_30_08: Botanical gardens"
                   },
                   {
                      "name": "Co_25_30_45: Laboratory complexes"
@@ -239,10 +239,10 @@
                      "name": "Co_25_50_55: Museums"
                   },
                   {
-                     "name": "Co_25_50_58: Open air museums"
+                     "name": "Co_25_50_58: Open-air museums"
                   },
                   {
-                     "name": "Co_25_50_59: Open air sculpture parks"
+                     "name": "Co_25_50_59: Open-air sculpture parks"
                   },
                   {
                      "name": "Co_25_50_99: Zoos"
@@ -295,7 +295,7 @@
                      "name": "Co_30_10_51: Methane hydrates extraction complexes"
                   },
                   {
-                     "name": "Co_30_10_61: Open-cast mines"
+                     "name": "Co_30_10_61: Opencast mines"
                   },
                   {
                      "name": "Co_30_10_69: Quarries"
@@ -544,7 +544,7 @@
                      "name": "Co_32_65_72: Rivers"
                   },
                   {
-                     "name": "Co_32_65_75: Saltmarshes"
+                     "name": "Co_32_65_75: Salt marshes"
                   },
                   {
                      "name": "Co_32_65_79: Seasonal wetlands"
@@ -694,6 +694,9 @@
                      "name": "Co_40_05_03: Amusement parks"
                   },
                   {
+                     "name": "Co_40_05_27: E-sport complexes"
+                  },
+                  {
                      "name": "Co_40_05_30: Fairground complexes"
                   },
                   {
@@ -778,16 +781,22 @@
                "name": "Co_42_50: Outdoor activity complexes",
                "children": [
                   {
-                     "name": "Co_42_50_10: Outdoor athletics stadiums"
+                     "name": "Co_42_50_10: Outdoor stadiums"
+                  },
+                  {
+                     "name": "Co_42_50_25: Equine sports complexes"
                   },
                   {
                      "name": "Co_42_50_30: Golf courses"
                   },
                   {
+                     "name": "Co_42_50_50: Motor sports complexes"
+                  },
+                  {
                      "name": "Co_42_50_60: Outdoor sports complexes"
                   },
                   {
-                     "name": "Co_42_50_70: Race horse gallops"
+                     "name": "Co_42_50_70: Racehorse gallops"
                   },
                   {
                      "name": "Co_42_50_95: Winter sport complexes"
@@ -817,7 +826,7 @@
                "name": "Co_45_10: Living complexes",
                "children": [
                   {
-                     "name": "Co_45_10_11: Camp sites"
+                     "name": "Co_45_10_11: Campsites"
                   },
                   {
                      "name": "Co_45_10_12: Caravan parks"
@@ -1179,7 +1188,7 @@
                      "name": "Co_80_50_53: Monorail complexes"
                   },
                   {
-                     "name": "Co_80_50_56: Narrow-gauge rail complexes"
+                     "name": "Co_80_50_56: Narrow gauge rail complexes"
                   },
                   {
                      "name": "Co_80_50_69: Rack rail complexes"
@@ -1214,7 +1223,7 @@
                      "name": "Co_80_70_47: Liquid bulk ports"
                   },
                   {
-                     "name": "Co_80_70_72: Roll-on roll-off ports"
+                     "name": "Co_80_70_72: Roll-on/ roll-off ports"
                   },
                   {
                      "name": "Co_80_70_77: Sea cruise ports"
@@ -1272,7 +1281,7 @@
                      "name": "Co_90_50_77: Secure storage complexes"
                   },
                   {
-                     "name": "Co_90_50_78: Self storage complexes"
+                     "name": "Co_90_50_78: Self-storage complexes"
                   },
                   {
                      "name": "Co_90_50_80: Solid fuel storage complexes"
