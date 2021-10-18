@@ -74,6 +74,9 @@
                   },
                   {
                      "name": "Ro_10_20_26: Employer"
+                  },
+                  {
+                     "name": "Ro_10_20_88: Technical advisor"
                   }
                ]
             },
@@ -100,6 +103,9 @@
                   },
                   {
                      "name": "Ro_10_30_50: Asset manager"
+                  },
+                  {
+                     "name": "Ro_10_30_78: Soft landings champion"
                   },
                   {
                      "name": "Ro_10_30_80: Asset standards manager"
@@ -354,7 +360,13 @@
                      "name": "Ro_50_10_14: Cladding designer"
                   },
                   {
+                     "name": "Ro_50_10_30: Fittings, furniture and equipment (FF&E) consultant"
+                  },
+                  {
                      "name": "Ro_50_10_43: Interior designer (I)"
+                  },
+                  {
+                     "name": "Ro_50_10_45: Kitchen designer"
                   },
                   {
                      "name": "Ro_50_10_50: Lighting designer"
@@ -369,6 +381,9 @@
                "children": [
                   {
                      "name": "Ro_50_20_02: Acoustic engineer"
+                  },
+                  {
+                     "name": "Ro_50_20_04: Audiovisual consultant"
                   },
                   {
                      "name": "Ro_50_20_06: Bridge engineer"
@@ -539,6 +554,17 @@
                   },
                   {
                      "name": "Ro_70_30_94: Visual impact assessor"
+                  }
+               ]
+            },
+            {
+               "name": "Ro_70_40: Conservation and restoration roles",
+               "children": [
+                  {
+                     "name": "Ro_70_40_16: Conservator"
+                  },
+                  {
+                     "name": "Ro_70_40_71: Restorer"
                   }
                ]
             },

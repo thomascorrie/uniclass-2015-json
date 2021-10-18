@@ -401,7 +401,7 @@
                      "name": "Co_30_60_15: Commercial laundries"
                   },
                   {
-                     "name": "Co_30_60_94: Vehicle cleaning complexes"
+                     "name": "Co_30_60_94: Vehicle-cleaning complexes"
                   }
                ]
             },
@@ -881,16 +881,27 @@
          "name": "Co_50: Waste disposal complexes",
          "children": [
             {
-               "name": "Co_50_20: Wet waste collection and distribution complexes",
+               "name": "Co_50_20: Non-aqueous waste collection and distribution complexes"
+            },
+            {
+               "name": "Co_50_30: Drainage collection complexes",
                "children": [
                   {
-                     "name": "Co_50_20_10: Wastewater collection complexes"
+                     "name": "Co_50_30_25: Drainage collection networks"
+                  }
+               ]
+            },
+            {
+               "name": "Co_50_35: Wastewater collection complexes",
+               "children": [
+                  {
+                     "name": "Co_50_35_15: Combined wastewater collection networks"
                   },
                   {
-                     "name": "Co_50_20_20: Wastewater collection networks"
+                     "name": "Co_50_35_85: Surface water collection networks"
                   },
                   {
-                     "name": "Co_50_20_60: Drainage collection networks"
+                     "name": "Co_50_35_96: Wastewater collection networks"
                   }
                ]
             },
@@ -906,19 +917,36 @@
                ]
             },
             {
-               "name": "Co_50_60: Wet waste treatment and disposal complexes",
+               "name": "Co_50_60: Non-aqueous waste treatment and disposal complexes"
+            },
+            {
+               "name": "Co_50_70: Drainage storage, treatment and disposal complexes",
                "children": [
                   {
-                     "name": "Co_50_60_40: Wastewater treatment complexes"
-                  },
-                  {
-                     "name": "Co_50_60_80: Drainage disposal networks"
+                     "name": "Co_50_70_25: Drainage disposal networks"
                   }
                ]
             },
             {
-               "name": "Co_50_80: Dry waste treatment and disposal complexes",
+               "name": "Co_50_75: Wastewater storage, treatment and disposal complexes",
                "children": [
+                  {
+                     "name": "Co_50_75_25: Wastewater disposal complexes"
+                  },
+                  {
+                     "name": "Co_50_75_85: Wastewater storage complexes"
+                  },
+                  {
+                     "name": "Co_50_75_90: Wastewater treatment complexes"
+                  }
+               ]
+            },
+            {
+               "name": "Co_50_80: Dry waste storage, treatment and disposal complexes",
+               "children": [
+                  {
+                     "name": "Co_50_80_24: Dry waste storage complexes"
+                  },
                   {
                      "name": "Co_50_80_40: Dry waste treatment complexes"
                   },
@@ -933,10 +961,13 @@
          "name": "Co_55: Piped supply complexes",
          "children": [
             {
-               "name": "Co_55_05: Gas extraction and treatment complexes",
+               "name": "Co_55_05: Gas extraction, storage and treatment complexes",
                "children": [
                   {
                      "name": "Co_55_05_30: Gas extraction complexes"
+                  },
+                  {
+                     "name": "Co_55_05_34: Gas storage complexes"
                   },
                   {
                      "name": "Co_55_05_70: Gas treatment complexes"
@@ -944,10 +975,13 @@
                ]
             },
             {
-               "name": "Co_55_10: Liquid fuel extraction and treatment complexes",
+               "name": "Co_55_10: Liquid fuel extraction, storage and treatment complexes",
                "children": [
                   {
                      "name": "Co_55_10_40: Oil extraction complexes"
+                  },
+                  {
+                     "name": "Co_55_10_45: Liquid fuel storage complexes"
                   },
                   {
                      "name": "Co_55_10_80: Oil treatment complexes"
@@ -955,13 +989,19 @@
                ]
             },
             {
-               "name": "Co_55_15: Water extraction and treatment complexes",
+               "name": "Co_55_15: Water extraction, storage and treatment complexes",
                "children": [
                   {
                      "name": "Co_55_15_10: Water extraction complexes"
                   },
                   {
+                     "name": "Co_55_15_15: Water extraction networks"
+                  },
+                  {
                      "name": "Co_55_15_50: Water treatment complexes"
+                  },
+                  {
+                     "name": "Co_55_15_96: Water storage complexes"
                   }
                ]
             },
@@ -1260,15 +1300,6 @@
                      "name": "Co_90_50_16: Complexes for the storage of human remains"
                   },
                   {
-                     "name": "Co_90_50_24: Dry waste storage complexes"
-                  },
-                  {
-                     "name": "Co_90_50_34: Gas storage complexes"
-                  },
-                  {
-                     "name": "Co_90_50_45: Liquid fuel storage complexes"
-                  },
-                  {
                      "name": "Co_90_50_51: Military arsenals"
                   },
                   {
@@ -1288,12 +1319,6 @@
                   },
                   {
                      "name": "Co_90_50_94: Warehouses"
-                  },
-                  {
-                     "name": "Co_90_50_95: Wastewater storage complexes"
-                  },
-                  {
-                     "name": "Co_90_50_96: Water storage complexes"
                   }
                ]
             },

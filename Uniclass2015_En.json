@@ -399,7 +399,7 @@
                      "name": "En_30_60_50: Maintenance buildings"
                   },
                   {
-                     "name": "En_30_60_94: Vehicle cleaning buildings"
+                     "name": "En_30_60_94: Vehicle-cleaning buildings"
                   }
                ]
             },
@@ -445,6 +445,9 @@
                   },
                   {
                      "name": "En_30_85_80: Shipyard buildings"
+                  },
+                  {
+                     "name": "En_30_85_97: Wet docks"
                   }
                ]
             },
@@ -474,6 +477,9 @@
                      "name": "En_32_10_04: Arable land"
                   },
                   {
+                     "name": "En_32_10_06: Barns"
+                  },
+                  {
                      "name": "En_32_10_20: Coppices"
                   },
                   {
@@ -489,7 +495,7 @@
                      "name": "En_32_10_31: Forestry plantations"
                   },
                   {
-                     "name": "En_32_10_37: Hedges"
+                     "name": "En_32_10_37: Hedgerows"
                   },
                   {
                      "name": "En_32_10_39: Horticultural buildings"
@@ -544,12 +550,15 @@
                      "name": "En_32_40_30: False cuttings"
                   },
                   {
+                     "name": "En_32_40_37: High ground"
+                  },
+                  {
                      "name": "En_32_40_90: Trenches"
                   }
                ]
             },
             {
-               "name": "En_32_50: Marine and water side entities",
+               "name": "En_32_50: Marine and waterside entities",
                "children": [
                   {
                      "name": "En_32_50_20: Degaussing and acoustic ranges"
@@ -570,7 +579,13 @@
                      "name": "En_32_50_63: Piers"
                   },
                   {
+                     "name": "En_32_50_65: Pontoons"
+                  },
+                  {
                      "name": "En_32_50_69: Quays"
+                  },
+                  {
+                     "name": "En_32_50_96: Waterside platforms"
                   },
                   {
                      "name": "En_32_50_98: Wharfs"
@@ -582,6 +597,62 @@
                "children": [
                   {
                      "name": "En_32_60_60: Permeable reactive barriers"
+                  }
+               ]
+            },
+            {
+               "name": "En_32_65: Natural entities",
+               "children": [
+                  {
+                     "name": "En_32_65_06: Beaches"
+                  },
+                  {
+                     "name": "En_32_65_13: Cliff faces"
+                  },
+                  {
+                     "name": "En_32_65_14: Cliff toes"
+                  },
+                  {
+                     "name": "En_32_65_15: Clifftops"
+                  },
+                  {
+                     "name": "En_32_65_37: Heathlands"
+                  },
+                  {
+                     "name": "En_32_65_50: Marshes and wet grasslands"
+                  },
+                  {
+                     "name": "En_32_65_51: Meadows"
+                  },
+                  {
+                     "name": "En_32_65_53: Moorlands"
+                  },
+                  {
+                     "name": "En_32_65_55: Mudflats"
+                  },
+                  {
+                     "name": "En_32_65_59: Open grasslands"
+                  },
+                  {
+                     "name": "En_32_65_73: Rocks and screes"
+                  },
+                  {
+                     "name": "En_32_65_75: Sand dunes"
+                  },
+                  {
+                     "name": "En_32_65_76: Scrub"
+                  },
+                  {
+                     "name": "En_32_65_80: Shingle banks"
+                  },
+                  {
+                     "name": "En_32_65_81: Shores"
+                  },
+                  {
+                     "name": "En_32_65_82: Species-rich grassland"
+                  },
+                  {
+                     "name": "En_32_65_95: Washland"
                   }
                ]
             },
@@ -619,9 +690,6 @@
                      "name": "En_32_85_35: Groynes"
                   },
                   {
-                     "name": "En_32_85_37: High ground"
-                  },
-                  {
                      "name": "En_32_85_45: Levees"
                   },
                   {
@@ -629,6 +697,9 @@
                   },
                   {
                      "name": "En_32_85_72: Revetments"
+                  },
+                  {
+                     "name": "En_32_85_75: Sand traps"
                   },
                   {
                      "name": "En_32_85_77: Sea dikes"
@@ -643,7 +714,7 @@
                      "name": "En_32_85_84: Stilling basins"
                   },
                   {
-                     "name": "En_32_85_96: Water retaining structures"
+                     "name": "En_32_85_96: Water-retaining walls"
                   },
                   {
                      "name": "En_32_85_97: Weirs"
@@ -664,6 +735,9 @@
                   },
                   {
                      "name": "En_32_95_23: Ditches"
+                  },
+                  {
+                     "name": "En_32_95_30: Fish, eel and lamprey passes"
                   },
                   {
                      "name": "En_32_95_59: Open channels"
@@ -849,6 +923,9 @@
                "name": "En_42_15: Courts, pitches and field sports entities",
                "children": [
                   {
+                     "name": "En_42_15_04: Athletics facilities"
+                  },
+                  {
                      "name": "En_42_15_06: Ball courts"
                   },
                   {
@@ -872,6 +949,9 @@
                "children": [
                   {
                      "name": "En_42_55_01: Activity grounds"
+                  },
+                  {
+                     "name": "En_42_55_18: Cricket pavilions"
                   },
                   {
                      "name": "En_42_55_34: Golf driving ranges"
@@ -934,27 +1014,44 @@
                "name": "En_50_10: Gas waste collection entities"
             },
             {
-               "name": "En_50_20: Wet waste collection entities",
+               "name": "En_50_20: Non-aqueous waste collection entities",
                "children": [
                   {
-                     "name": "En_50_20_10: Wet waste collection tanks"
+                     "name": "En_50_20_10: Non-aqueous waste collection tanks"
                   }
                ]
             },
             {
-               "name": "En_50_30: Drainage and wastewater collection",
+               "name": "En_50_30: Drainage collection entities",
                "children": [
                   {
                      "name": "En_50_30_25: Drainage collection pipelines"
+                  }
+               ]
+            },
+            {
+               "name": "En_50_35: Wastewater and surface water collection entities",
+               "children": [
+                  {
+                     "name": "En_50_35_15: Combined wastewater collection pipelines"
                   },
                   {
-                     "name": "En_50_30_85: Surface water collection pipelines"
+                     "name": "En_50_35_83: Storm water pumping stations"
                   },
                   {
-                     "name": "En_50_30_98: Wastewater collection pipelines"
+                     "name": "En_50_35_85: Surface water collection pipelines"
                   },
                   {
-                     "name": "En_50_30_99: Wastewater collection structures"
+                     "name": "En_50_35_87: Surface water pumping stations"
+                  },
+                  {
+                     "name": "En_50_35_93: Wastewater pumping stations"
+                  },
+                  {
+                     "name": "En_50_35_98: Wastewater collection pipelines"
+                  },
+                  {
+                     "name": "En_50_35_99: Wastewater rising mains"
                   }
                ]
             },
@@ -979,7 +1076,7 @@
                "name": "En_50_50: Gas waste storage, treatment and disposal"
             },
             {
-               "name": "En_50_60: Wet waste storage, treatment and disposal"
+               "name": "En_50_60: Non-aqueous waste storage, treatment and disposal"
             },
             {
                "name": "En_50_70: Drainage storage, treatment and disposal"
@@ -988,19 +1085,31 @@
                "name": "En_50_75: Wastewater storage, treatment and disposal",
                "children": [
                   {
-                     "name": "En_50_75_15: Wastewater entities"
+                     "name": "En_50_75_20: Dewatering hubs"
                   },
                   {
-                     "name": "En_50_75_40: Wastewater treatment buildings"
+                     "name": "En_50_75_26: Effluent tanks"
                   },
                   {
-                     "name": "En_50_75_45: Wastewater treatment entities"
+                     "name": "En_50_75_30: Final effluent pumping stations"
                   },
                   {
-                     "name": "En_50_75_70: Wastewater disposal buildings"
+                     "name": "En_50_75_42: Inter-stage effluent pumping stations"
+                  },
+                  {
+                     "name": "En_50_75_68: Pumping stations"
+                  },
+                  {
+                     "name": "En_50_75_80: Sludge treatment entities"
+                  },
+                  {
+                     "name": "En_50_75_95: Wastewater treatment entities"
                   },
                   {
                      "name": "En_50_75_96: Wastewater storage structures"
+                  },
+                  {
+                     "name": "En_50_75_97: Wastewater treatment lagoons"
                   }
                ]
             },
@@ -1070,19 +1179,16 @@
                "name": "En_55_15: Water extraction and treatment entities",
                "children": [
                   {
-                     "name": "En_55_15_10: Water extraction buildings"
-                  },
-                  {
-                     "name": "En_55_15_15: Water extraction tanks"
-                  },
-                  {
-                     "name": "En_55_15_20: Water extraction pipelines"
-                  },
-                  {
                      "name": "En_55_15_50: Water treatment buildings"
                   },
                   {
                      "name": "En_55_15_55: Water treatment tanks"
+                  },
+                  {
+                     "name": "En_55_15_72: Raw water pipelines"
+                  },
+                  {
+                     "name": "En_55_15_75: Raw water pumping stations"
                   }
                ]
             },
@@ -1098,7 +1204,7 @@
                ]
             },
             {
-               "name": "En_55_30: Fire extinguishing supply entities"
+               "name": "En_55_30: Fire-extinguishing supply entities"
             },
             {
                "name": "En_55_40: Steam supply entities"
@@ -1121,10 +1227,16 @@
                "name": "En_55_70: Water supply entities",
                "children": [
                   {
-                     "name": "En_55_70_10: Water distribution buildings"
+                     "name": "En_55_70_85: Treated water distribution pipelines"
                   },
                   {
-                     "name": "En_55_70_18: Water distribution pipelines"
+                     "name": "En_55_70_87: Treated water pumping stations"
+                  },
+                  {
+                     "name": "En_55_70_89: Treated water reservoirs"
+                  },
+                  {
+                     "name": "En_55_70_91: Treated water towers"
                   }
                ]
             },
@@ -1190,6 +1302,9 @@
                      "name": "En_70_10_10: Electrical power generation buildings"
                   },
                   {
+                     "name": "En_70_10_35: Generator transformer substations"
+                  },
+                  {
                      "name": "En_70_10_80: Solar panel fields"
                   },
                   {
@@ -1204,10 +1319,19 @@
                      "name": "En_70_30_18: Electricity transmission pylons and lines"
                   },
                   {
-                     "name": "En_70_30_35: High-voltage electricity substations"
+                     "name": "En_70_30_26: Extra-high-voltage sub-transmission substations"
+                  },
+                  {
+                     "name": "En_70_30_28: Extra-high-voltage transmission substations"
+                  },
+                  {
+                     "name": "En_70_30_35: High-voltage distribution substations"
                   },
                   {
                      "name": "En_70_30_45: Low-voltage electricity substations"
+                  },
+                  {
+                     "name": "En_70_30_60: Overhead power distribution lines"
                   },
                   {
                      "name": "En_70_30_90: Underground electricity transmission lines"
@@ -1351,6 +1475,9 @@
                "name": "En_80_40: Pathways",
                "children": [
                   {
+                     "name": "En_80_40_02: Active travel networks"
+                  },
+                  {
                      "name": "En_80_40_08: Bridleways"
                   },
                   {
@@ -1387,6 +1514,9 @@
                   },
                   {
                      "name": "En_80_45_17: Coach parks"
+                  },
+                  {
+                     "name": "En_80_45_20: Cycle shelters"
                   },
                   {
                      "name": "En_80_45_55: Multistorey vehicle parks"
@@ -1428,9 +1558,6 @@
                   },
                   {
                      "name": "En_80_50_74: Railway stations"
-                  },
-                  {
-                     "name": "En_80_50_76: Railway sidings"
                   },
                   {
                      "name": "En_80_50_78: Rolling stock depots"
@@ -1541,7 +1668,7 @@
          ]
       },
       {
-         "name": "En_90: Circulation and storage entities",
+         "name": "En_90: Circulation, storage and general entities",
          "children": [
             {
                "name": "En_90_10: Circulation entities",
@@ -1554,6 +1681,17 @@
                   },
                   {
                      "name": "En_90_10_77: External service areas"
+                  }
+               ]
+            },
+            {
+               "name": "En_90_30: Construction entities",
+               "children": [
+                  {
+                     "name": "En_90_30_15: Construction sites"
+                  },
+                  {
+                     "name": "En_90_30_95: Work areas"
                   }
                ]
             },
@@ -1582,7 +1720,10 @@
                      "name": "En_90_50_68: Refrigerated container storage entities"
                   },
                   {
-                     "name": "En_90_50_70: Storage buildings"
+                     "name": "En_90_50_75: Salt storage barns"
+                  },
+                  {
+                     "name": "En_90_50_80: Storage buildings"
                   }
                ]
             },
@@ -1594,6 +1735,9 @@
                   },
                   {
                      "name": "En_90_90_11: Cable routes"
+                  },
+                  {
+                     "name": "En_90_90_27: Environment monitoring buildings"
                   },
                   {
                      "name": "En_90_90_33: Gauge houses"

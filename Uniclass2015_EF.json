@@ -2,13 +2,13 @@
    "name": "Uniclass2015_EF",
    "children": [
       {
-         "name": "EF_15: Site elements",
+         "name": "EF_15: Earthworks and remediation ",
          "children": [
             {
-               "name": "EF_15_15: Construction sites"
+               "name": "EF_15_10: Groundworks and earthworks"
             },
             {
-               "name": "EF_15_95: Work areas"
+               "name": "EF_15_30: Remediation, repair and renovation"
             }
          ]
       },
@@ -16,13 +16,52 @@
          "name": "EF_20: Structural elements",
          "children": [
             {
-               "name": "EF_20_05: Substructure"
+               "name": "EF_20_05: Substructure",
+               "children": [
+                  {
+                     "name": "EF_20_05_30: Foundations"
+                  }
+               ]
             },
             {
-               "name": "EF_20_10: Superstructure"
+               "name": "EF_20_10: Superstructure",
+               "children": [
+                  {
+                     "name": "EF_20_10_15: Composite structures"
+                  },
+                  {
+                     "name": "EF_20_10_30: Framed structures"
+                  },
+                  {
+                     "name": "EF_20_10_50: Membrane structures"
+                  },
+                  {
+                     "name": "EF_20_10_75: Shell structures"
+                  },
+                  {
+                     "name": "EF_20_10_80: Solid structures"
+                  }
+               ]
             },
             {
-               "name": "EF_20_50: Bridge abutments and piers"
+               "name": "EF_20_50: Bridge structures",
+               "children": [
+                  {
+                     "name": "EF_20_50_01: Abutments"
+                  },
+                  {
+                     "name": "EF_20_50_07: Bearings"
+                  },
+                  {
+                     "name": "EF_20_50_10: Bridge decks"
+                  },
+                  {
+                     "name": "EF_20_50_64: Piers"
+                  },
+                  {
+                     "name": "EF_20_50_82: Span"
+                  }
+               ]
             }
          ]
       },
@@ -50,10 +89,21 @@
                "name": "EF_30_20: Floors"
             },
             {
-               "name": "EF_30_60: Pavements"
+               "name": "EF_30_25: Ceilings and soffits"
             },
             {
-               "name": "EF_30_70: Bridge decks"
+               "name": "EF_30_30: Decks"
+            },
+            {
+               "name": "EF_30_60: Pavements",
+               "children": [
+                  {
+                     "name": "EF_30_60_60: Pedestrian paving"
+                  },
+                  {
+                     "name": "EF_30_60_95: Vehicular paving"
+                  }
+               ]
             }
          ]
       },
@@ -61,10 +111,26 @@
          "name": "EF_35: Stairs and ramps",
          "children": [
             {
-               "name": "EF_35_10: Stairs"
+               "name": "EF_35_10: Stairs",
+               "children": [
+                  {
+                     "name": "EF_35_10_30: External stairs"
+                  },
+                  {
+                     "name": "EF_35_10_40: Internal stairs"
+                  }
+               ]
             },
             {
-               "name": "EF_35_20: Ramps"
+               "name": "EF_35_20: Ramps",
+               "children": [
+                  {
+                     "name": "EF_35_20_30: External ramps"
+                  },
+                  {
+                     "name": "EF_35_20_40: Internal ramps"
+                  }
+               ]
             }
          ]
       },
@@ -72,10 +138,35 @@
          "name": "EF_37: Tunnel, vessel and tower elements",
          "children": [
             {
-               "name": "EF_37_16: Vessels and trenches"
+               "name": "EF_37_16: Vessels and trenches",
+               "children": [
+                  {
+                     "name": "EF_37_16_90: Trenches"
+                  },
+                  {
+                     "name": "EF_37_16_94: Vessels"
+                  }
+               ]
             },
             {
-               "name": "EF_37_17: Towers, chimneys and masts"
+               "name": "EF_37_17: Towers, chimneys and masts",
+               "children": [
+                  {
+                     "name": "EF_37_17_15: Chimneys"
+                  },
+                  {
+                     "name": "EF_37_17_35: Gantries"
+                  },
+                  {
+                     "name": "EF_37_17_50: Masts"
+                  },
+                  {
+                     "name": "EF_37_17_70: Pylons"
+                  },
+                  {
+                     "name": "EF_37_17_90: Towers"
+                  }
+               ]
             },
             {
                "name": "EF_37_50: Tunnels and shafts"
@@ -103,16 +194,19 @@
          "name": "EF_45: Flora and fauna elements",
          "children": [
             {
-               "name": "EF_45_10: Planted elements"
+               "name": "EF_45_03: Aquatic fauna elements"
             },
             {
-               "name": "EF_45_20: Grassed elements"
+               "name": "EF_45_05: Aquatic flora elements"
             },
             {
-               "name": "EF_45_30: Fauna elements"
+               "name": "EF_45_20: Grass and meadow elements"
             },
             {
-               "name": "EF_45_75: Fish and eel pass elements"
+               "name": "EF_45_45: Land fauna elements"
+            },
+            {
+               "name": "EF_45_90: Tree, shrub and herbaceous plant elements"
             }
          ]
       },
@@ -126,7 +220,10 @@
                "name": "EF_50_20: Wet waste collection"
             },
             {
-               "name": "EF_50_30: Drainage collection"
+               "name": "EF_50_30: Above-ground drainage collection"
+            },
+            {
+               "name": "EF_50_35: Below-ground drainage collection"
             },
             {
                "name": "EF_50_40: Dry waste collection"
@@ -164,7 +261,7 @@
                "name": "EF_55_20: Gas supply"
             },
             {
-               "name": "EF_55_30: Fire extinguishing supply"
+               "name": "EF_55_30: Fire-extinguishing supply"
             },
             {
                "name": "EF_55_40: Steam supply"

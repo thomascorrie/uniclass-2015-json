@@ -137,6 +137,9 @@
             },
             {
                "name": "FI_50_40: Invoice (IV)"
+            },
+            {
+               "name": "FI_50_69: Quotation (QN)"
             }
          ]
       },

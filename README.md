@@ -5,17 +5,17 @@ The tables are published by the [NBS](https://toolkit.thenbs.com/articles/classi
 
 | Table | Revision | Published Date | File |
 | -- | -- | -- | -- |
-| Co - Complexes |	v1.11 | Published July 2020 | [Uniclass2015_Co.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_Co.json)
-| En - Entities |	v1.17 | Published July 2020 | [Uniclass2015_En.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_En.json)	
-| Ac - Activities |	v1.12 | Published July 2020 | [Uniclass2015_Ac.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_Ac.json)	
-| SL - Spaces/locations |	v1.17 | Published July 2020 | [Uniclass2015_SL.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_SL.json)	
-| EF - Elements/functions |	v1.6 | Published July 2019	 | [Uniclass2015_EF.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_EF.json)
-| Ss - Systems |	v1.19 | Published July 2020 | [Uniclass2015_Ss.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_Ss.json)	
-| Pr - Products |	v1.19 | Published July 2020 | [Uniclass2015_Pr.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_Pr.json)	
-| TE - Tools and Equipment |	v1.7 | Published January 2019	 | [Uniclass2015_TE.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_TE.json)
-| PM - Project management |	v1.9 | Published July 2020 | [Uniclass2015_PM.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_PM.json)
-| FI - Form of information |	v1.3 | Published January 2020 | [Uniclass2015_FI.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_FI.json)	
-| Ro - Roles |	v1.3 | Published January 2020 | [Uniclass2015_Ro.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_Ro.json)	
+| Co - Complexes |	v1.13 | Published April 2021 | [Uniclass2015_Co.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_Co.json)
+| En - Entities |	v1.21 | Published July 2021 | [Uniclass2015_En.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_En.json)	
+| Ac - Activities |	v1.5 | Published July 2021 | [Uniclass2015_Ac.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_Ac.json)	
+| SL - Spaces/locations |	v1.21 | Published July 2021 | [Uniclass2015_SL.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_SL.json)	
+| EF - Elements/functions |	v1.10 | Published July 2021	 | [Uniclass2015_EF.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_EF.json)
+| Ss - Systems |	v1.23 | Published July 2021 | [Uniclass2015_Ss.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_Ss.json)	
+| Pr - Products |	v1.23 | Published July 2021 | [Uniclass2015_Pr.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_Pr.json)	
+| TE - Tools and Equipment |	v1.9 | Published July 2021	 | [Uniclass2015_TE.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_TE.json)
+| PM - Project management |	v1.13 | Published July 2021 | [Uniclass2015_PM.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_PM.json)
+| FI - Form of information |	v1.4 | Published January 2021 | [Uniclass2015_FI.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_FI.json)	
+| Ro - Roles |	v1.5 | Published April 2021 | [Uniclass2015_Ro.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_Ro.json)	
 | Zz - CAD |	v1.0 | Published July 2015 | [Uniclass2015_Zz.json](https://github.com/thomascorrie/uniclass-2015-json/blob/master/Uniclass2015_Zz.json)
 
 One use is to visualize the tables in a collapsible tree structure to assist in understanding the classification hierarchy:

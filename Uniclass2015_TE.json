@@ -1993,6 +1993,12 @@
                            "name": "TE_70_20_25_46: Lawnmowers"
                         },
                         {
+                           "name": "TE_70_20_25_52: Mobile cyclone separators"
+                        },
+                        {
+                           "name": "TE_70_20_25_53: Mobile dust extractors"
+                        },
+                        {
                            "name": "TE_70_20_25_55: Mulching machines"
                         },
                         {
@@ -2094,7 +2100,10 @@
                      "name": "TE_70_20_50: Cleaning and surface preparation equipment",
                      "children": [
                         {
-                           "name": "TE_70_20_50_08: Blasting machines and equipment"
+                           "name": "TE_70_20_50_08: Blasting cabinets"
+                        },
+                        {
+                           "name": "TE_70_20_50_15: Cleaning brushes"
                         },
                         {
                            "name": "TE_70_20_50_37: High-pressure and steam jet cleaners"
@@ -2106,7 +2115,22 @@
                            "name": "TE_70_20_50_56: Needle scalers"
                         },
                         {
+                           "name": "TE_70_20_50_63: Portable abrasive blasting equipment"
+                        },
+                        {
+                           "name": "TE_70_20_50_65: Pressure cleaner tanks"
+                        },
+                        {
+                           "name": "TE_70_20_50_81: Soda blasting equipment"
+                        },
+                        {
+                           "name": "TE_70_20_50_84: Steam cleaners"
+                        },
+                        {
                            "name": "TE_70_20_50_92: Underwater cleaning equipment"
+                        },
+                        {
+                           "name": "TE_70_20_50_96: Water-absorbent pads and cushions"
                         }
                      ]
                   },
@@ -2224,6 +2248,23 @@
                      ]
                   },
                   {
+                     "name": "TE_70_40_41: Inspection cameras",
+                     "children": [
+                        {
+                           "name": "TE_70_40_41_25: Drain inspection cameras"
+                        },
+                        {
+                           "name": "TE_70_40_41_30: Flexible borescopes"
+                        },
+                        {
+                           "name": "TE_70_40_41_72: Rigid borescopes"
+                        },
+                        {
+                           "name": "TE_70_40_41_89: Thermal imaging cameras"
+                        }
+                     ]
+                  },
+                  {
                      "name": "TE_70_40_50: Measuring equipment",
                      "children": [
                         {
@@ -2316,6 +2357,17 @@
             {
                "name": "TE_70_50: Hand tools",
                "children": [
+                  {
+                     "name": "TE_70_50_05: Hand tool batteries and chargers",
+                     "children": [
+                        {
+                           "name": "TE_70_50_05_15: Chargers"
+                        },
+                        {
+                           "name": "TE_70_50_05_70: Rechargeable batteries"
+                        }
+                     ]
+                  },
                   {
                      "name": "TE_70_50_10: Handsaws",
                      "children": [
@@ -2423,6 +2475,14 @@
                         },
                         {
                            "name": "TE_70_50_30_80: Sledgehammers"
+                        }
+                     ]
+                  },
+                  {
+                     "name": "TE_70_50_35: Manual pumps",
+                     "children": [
+                        {
+                           "name": "TE_70_50_35_70: Rotary hand pumps"
                         }
                      ]
                   },

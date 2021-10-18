@@ -382,6 +382,9 @@
                      "name": "Ac_15_10_80: Satellite surveying"
                   },
                   {
+                     "name": "Ac_15_10_88: Thermal imaging surveying"
+                  },
+                  {
                      "name": "Ac_15_10_90: Trial holes surveying"
                   }
                ]
@@ -656,6 +659,9 @@
             {
                "name": "Ac_20_15: Administrative office activities",
                "children": [
+                  {
+                     "name": "Ac_20_15_13: Confidential meetings"
+                  },
                   {
                      "name": "Ac_20_15_15: Counter service"
                   },
@@ -1375,6 +1381,12 @@
                      "name": "Ac_30_60_15: Commercial laundering"
                   },
                   {
+                     "name": "Ac_30_60_16: Conservation activities"
+                  },
+                  {
+                     "name": "Ac_30_60_17: Conservation cleaning"
+                  },
+                  {
                      "name": "Ac_30_60_22: Decontaminating"
                   },
                   {
@@ -1388,6 +1400,9 @@
                   },
                   {
                      "name": "Ac_30_60_47: Laundering"
+                  },
+                  {
+                     "name": "Ac_30_60_71: Restoration activities"
                   },
                   {
                      "name": "Ac_30_60_75: Service laundering"
@@ -2266,7 +2281,13 @@
                "name": "Ac_70_60: Electrical installations testing",
                "children": [
                   {
+                     "name": "Ac_70_60_26: Electrical equipment inspection and testing"
+                  },
+                  {
                      "name": "Ac_70_60_28: Emergency lighting installations testing"
+                  },
+                  {
+                     "name": "Ac_70_60_35: Hazardous areas electrical wiring inspection and testing"
                   },
                   {
                      "name": "Ac_70_60_37: High voltage electrical installations testing"
