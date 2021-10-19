@@ -1,448 +1,448 @@
 ﻿{
-   "name":"Uniclass2015_Zz",
-   "children":[
+   "name": "Uniclass2015_Zz (v1.0 - 25 January 2017)",
+   "children": [
       {
-         "name":"Zz_10: Title sheet",
-         "children":[
+         "name": "Zz_10: Title sheet",
+         "children": [
             {
-               "name":"Zz_10_20: Drawing frame",
-               "children":[
+               "name": "Zz_10_20: Drawing frame",
+               "children": [
                   {
-                     "name":"Zz_10_20_45: Logo"
+                     "name": "Zz_10_20_45: Logo"
                   },
                   {
-                     "name":"Zz_10_20_95: Viewports"
+                     "name": "Zz_10_20_95: Viewports"
                   }
                ]
             },
             {
-               "name":"Zz_10_40: Hold clouds and notation"
+               "name": "Zz_10_40: Hold clouds and notation"
             },
             {
-               "name":"Zz_10_70: Revisions",
-               "children":[
+               "name": "Zz_10_70: Revisions",
+               "children": [
                   {
-                     "name":"Zz_10_70_05: Annotation"
+                     "name": "Zz_10_70_05: Annotation"
                   },
                   {
-                     "name":"Zz_10_70_10: Blocks and cells"
+                     "name": "Zz_10_70_10: Blocks and cells"
                   },
                   {
-                     "name":"Zz_10_70_20: Clouds and notations"
+                     "name": "Zz_10_70_20: Clouds and notations"
                   }
                ]
             },
             {
-               "name":"Zz_10_80: Status stamps"
+               "name": "Zz_10_80: Status stamps"
             }
          ]
       },
       {
-         "name":"Zz_20: Textual content",
-         "children":[
+         "name": "Zz_20: Textual content",
+         "children": [
             {
-               "name":"Zz_20_10: Annotation",
-               "children":[
+               "name": "Zz_20_10: Annotation",
+               "children": [
                   {
-                     "name":"Zz_20_10_40: Keynotes"
+                     "name": "Zz_20_10_40: Keynotes"
                   },
                   {
-                     "name":"Zz_20_10_45: Labels"
+                     "name": "Zz_20_10_45: Labels"
                   },
                   {
-                     "name":"Zz_20_10_50: Leaders"
+                     "name": "Zz_20_10_50: Leaders"
                   },
                   {
-                     "name":"Zz_20_10_55: Notes"
+                     "name": "Zz_20_10_55: Notes"
                   },
                   {
-                     "name":"Zz_20_10_70: Reference"
+                     "name": "Zz_20_10_70: Reference"
                   },
                   {
-                     "name":"Zz_20_10_85: Tags"
+                     "name": "Zz_20_10_85: Tags"
                   },
                   {
-                     "name":"Zz_20_10_90: Text"
+                     "name": "Zz_20_10_90: Text"
                   }
                ]
             },
             {
-               "name":"Zz_20_20: Dimensions"
+               "name": "Zz_20_20: Dimensions"
             },
             {
-               "name":"Zz_20_30: General masking",
-               "children":[
+               "name": "Zz_20_30: General masking",
+               "children": [
                   {
-                     "name":"Zz_20_30_50: Masks"
+                     "name": "Zz_20_30_50: Masks"
                   },
                   {
-                     "name":"Zz_20_30_95: Wipeouts"
+                     "name": "Zz_20_30_95: Wipeouts"
                   }
                ]
             },
             {
-               "name":"Zz_20_40: Hatching",
-               "children":[
+               "name": "Zz_20_40: Hatching",
+               "children": [
                   {
-                     "name":"Zz_20_40_05: Area fill"
+                     "name": "Zz_20_40_05: Area fill"
                   },
                   {
-                     "name":"Zz_20_40_35: Hatch boundaries"
+                     "name": "Zz_20_40_35: Hatch boundaries"
                   },
                   {
-                     "name":"Zz_20_40_60: Pattern"
+                     "name": "Zz_20_40_60: Pattern"
                   },
                   {
-                     "name":"Zz_20_40_80: Solid fill"
+                     "name": "Zz_20_40_80: Solid fill"
                   }
                ]
             },
             {
-               "name":"Zz_20_70: Redlining",
-               "children":[
+               "name": "Zz_20_70: Redlining",
+               "children": [
                   {
-                     "name":"Zz_20_70_20: Comments"
+                     "name": "Zz_20_70_20: Comments"
                   }
                ]
             },
             {
-               "name":"Zz_20_80: Symbols",
-               "children":[
+               "name": "Zz_20_80: Symbols",
+               "children": [
                   {
-                     "name":"Zz_20_80_10: Barscales"
+                     "name": "Zz_20_80_10: Barscales"
                   },
                   {
-                     "name":"Zz_20_80_15: Cross references"
+                     "name": "Zz_20_80_15: Cross references"
                   },
                   {
-                     "name":"Zz_20_80_40: Key plan"
+                     "name": "Zz_20_80_40: Key plan"
                   },
                   {
-                     "name":"Zz_20_80_50: Legends"
+                     "name": "Zz_20_80_50: Legends"
                   },
                   {
-                     "name":"Zz_20_80_55: North point"
+                     "name": "Zz_20_80_55: North point"
                   }
                ]
             },
             {
-               "name":"Zz_20_90: Title annotation"
+               "name": "Zz_20_90: Title annotation"
             }
          ]
       },
       {
-         "name":"Zz_30: Insertions",
-         "children":[
+         "name": "Zz_30: Insertions",
+         "children": [
             {
-               "name":"Zz_30_20: Blocks and cells"
+               "name": "Zz_30_20: Blocks and cells"
             },
             {
-               "name":"Zz_30_30: External references"
+               "name": "Zz_30_30: External references"
             },
             {
-               "name":"Zz_30_40: Images"
+               "name": "Zz_30_40: Images"
             },
             {
-               "name":"Zz_30_60: Objects"
+               "name": "Zz_30_60: Objects"
             },
             {
-               "name":"Zz_30_90: Tables and schedules"
+               "name": "Zz_30_90: Tables and schedules"
             }
          ]
       },
       {
-         "name":"Zz_35: Setting out",
-         "children":[
+         "name": "Zz_35: Setting out",
+         "children": [
             {
-               "name":"Zz_35_10: Alignments and super elevations",
-               "children":[
+               "name": "Zz_35_10: Alignments and super elevations",
+               "children": [
                   {
-                     "name":"Zz_35_10_40: Horizontal alignment"
+                     "name": "Zz_35_10_40: Horizontal alignment"
                   },
                   {
-                     "name":"Zz_35_10_80: Super elevation"
+                     "name": "Zz_35_10_80: Super elevation"
                   },
                   {
-                     "name":"Zz_35_10_90: Vertical alignment"
+                     "name": "Zz_35_10_90: Vertical alignment"
                   }
                ]
             },
             {
-               "name":"Zz_35_20: Centrelines"
+               "name": "Zz_35_20: Centrelines"
             },
             {
-               "name":"Zz_35_30: Geospatial control points"
+               "name": "Zz_35_30: Geospatial control points"
             },
             {
-               "name":"Zz_35_40: Gridlines",
-               "children":[
+               "name": "Zz_35_40: Gridlines",
+               "children": [
                   {
-                     "name":"Zz_35_40_20: Ceiling grid"
+                     "name": "Zz_35_40_20: Ceiling grid"
                   },
                   {
-                     "name":"Zz_35_40_80: Structural grid"
+                     "name": "Zz_35_40_80: Structural grid"
                   }
                ]
             },
             {
-               "name":"Zz_35_60: Points"
+               "name": "Zz_35_60: Points"
             },
             {
-               "name":"Zz_35_80: Survey control points",
-               "children":[
+               "name": "Zz_35_80: Survey control points",
+               "children": [
                   {
-                     "name":"Zz_35_80_55: OS bench mark"
+                     "name": "Zz_35_80_55: OS bench mark"
                   },
                   {
-                     "name":"Zz_35_80_60: OS trigonometrical station"
+                     "name": "Zz_35_80_60: OS trigonometrical station"
                   },
                   {
-                     "name":"Zz_35_80_80: Site bench mark"
+                     "name": "Zz_35_80_80: Site bench mark"
                   },
                   {
-                     "name":"Zz_35_80_85: Site survey control station"
+                     "name": "Zz_35_80_85: Site survey control station"
                   },
                   {
-                     "name":"Zz_35_80_90: Temporary bench mark"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Zz_40: Topography",
-         "children":[
-            {
-               "name":"Zz_40_15: Contours",
-               "children":[
-                  {
-                     "name":"Zz_40_15_50: Major contours"
-                  },
-                  {
-                     "name":"Zz_40_15_55: Minor contours"
-                  }
-               ]
-            },
-            {
-               "name":"Zz_40_20: Cuttings and embankment indicators"
-            },
-            {
-               "name":"Zz_40_50: Level indicators"
-            }
-         ]
-      },
-      {
-         "name":"Zz_50: Zones and boundaries",
-         "children":[
-            {
-               "name":"Zz_50_10: Boundaries",
-               "children":[
-                  {
-                     "name":"Zz_50_10_10: Blue line boundary (BS 8541-2)"
-                  },
-                  {
-                     "name":"Zz_50_10_70: Red line boundary (BS 8541-2)"
-                  }
-               ]
-            },
-            {
-               "name":"Zz_50_50: Lots"
-            },
-            {
-               "name":"Zz_50_60: Parcels"
-            },
-            {
-               "name":"Zz_50_90: Volumes"
-            },
-            {
-               "name":"Zz_50_95: Zones"
-            }
-         ]
-      },
-      {
-         "name":"Zz_60: Drawing symbols",
-         "children":[
-            {
-               "name":"Zz_60_20: Detail call ups"
-            },
-            {
-               "name":"Zz_60_30: Fall indicators"
-            },
-            {
-               "name":"Zz_60_40: Joint lines",
-               "children":[
-                  {
-                     "name":"Zz_60_40_15: Construction joints"
-                  },
-                  {
-                     "name":"Zz_60_40_20: Contraction joints"
-                  },
-                  {
-                     "name":"Zz_60_40_30: Expansion joints"
-                  }
-               ]
-            },
-            {
-               "name":"Zz_60_45: Levels",
-               "children":[
-                  {
-                     "name":"Zz_60_45_20: Datum"
-                  },
-                  {
-                     "name":"Zz_60_45_60: Original ground level"
-                  },
-                  {
-                     "name":"Zz_60_45_70: Regrade ground level"
-                  }
-               ]
-            },
-            {
-               "name":"Zz_60_50: Markers",
-               "children":[
-                  {
-                     "name":"Zz_60_50_10: Break marks"
-                  },
-                  {
-                     "name":"Zz_60_50_20: Callout marks"
-                  },
-                  {
-                     "name":"Zz_60_50_30: Elevation marks"
-                  },
-                  {
-                     "name":"Zz_60_50_60: Plan"
-                  },
-                  {
-                     "name":"Zz_60_50_80: Section marks"
-                  },
-                  {
-                     "name":"Zz_60_50_85: Span direction markers"
-                  },
-                  {
-                     "name":"Zz_60_50_90: Void and opening markers"
-                  }
-               ]
-            },
-            {
-               "name":"Zz_60_55: Match lines"
-            }
-         ]
-      },
-      {
-         "name":"Zz_70: Views",
-         "children":[
-            {
-               "name":"Zz_70_05: 3D views"
-            },
-            {
-               "name":"Zz_70_20: Details"
-            },
-            {
-               "name":"Zz_70_30: Elevations"
-            },
-            {
-               "name":"Zz_70_60: Plans"
-            },
-            {
-               "name":"Zz_70_80: Sections"
-            },
-            {
-               "name":"Zz_70_90: Visualisations"
-            }
-         ]
-      },
-      {
-         "name":"Zz_80: Presentation",
-         "children":[
-            {
-               "name":"Zz_80_30: Entourage"
-            },
-            {
-               "name":"Zz_80_45: Lines",
-               "children":[
-                  {
-                     "name":"Zz_80_45_10: Fine"
-                  },
-                  {
-                     "name":"Zz_80_45_20: Thin"
-                  },
-                  {
-                     "name":"Zz_80_45_30: Light"
-                  },
-                  {
-                     "name":"Zz_80_45_40: Medium"
-                  },
-                  {
-                     "name":"Zz_80_45_50: Heavy"
-                  },
-                  {
-                     "name":"Zz_80_45_60: Wide"
-                  },
-                  {
-                     "name":"Zz_80_45_70: Extra-wide"
-                  },
-                  {
-                     "name":"Zz_80_45_80: XX wide"
-                  },
-                  {
-                     "name":"Zz_80_45_90: XXX wide"
-                  }
-               ]
-            },
-            {
-               "name":"Zz_80_60: People"
-            },
-            {
-               "name":"Zz_80_85: Trees and planting"
-            },
-            {
-               "name":"Zz_80_90: Vehicles"
-            }
-         ]
-      },
-      {
-         "name":"Zz_85: Generic 3D",
-         "children":[
-            {
-               "name":"Zz_85_05: 3D solids",
-               "children":[
-                  {
-                     "name":"Zz_85_05_60: Paths"
-                  },
-                  {
-                     "name":"Zz_85_05_80: Solids"
-                  },
-                  {
-                     "name":"Zz_85_05_85: Solid voids"
-                  }
-               ]
-            },
-            {
-               "name":"Zz_85_20: Concept",
-               "children":[
-                  {
-                     "name":"Zz_85_20_20: Concept massing"
-                  },
-                  {
-                     "name":"Zz_85_20_50: Mass group"
-                  },
-                  {
-                     "name":"Zz_85_20_55: Mass slice"
+                     "name": "Zz_35_80_90: Temporary bench mark"
                   }
                ]
             }
          ]
       },
       {
-         "name":"Zz_90: Readme and plotting lines",
-         "children":[
+         "name": "Zz_40: Topography",
+         "children": [
             {
-               "name":"Zz_90_20: Construction lines"
+               "name": "Zz_40_15: Contours",
+               "children": [
+                  {
+                     "name": "Zz_40_15_50: Major contours"
+                  },
+                  {
+                     "name": "Zz_40_15_55: Minor contours"
+                  }
+               ]
             },
             {
-               "name":"Zz_90_30: External reference information"
+               "name": "Zz_40_20: Cuttings and embankment indicators"
             },
             {
-               "name":"Zz_90_70: Readme"
+               "name": "Zz_40_50: Level indicators"
+            }
+         ]
+      },
+      {
+         "name": "Zz_50: Zones and boundaries",
+         "children": [
+            {
+               "name": "Zz_50_10: Boundaries",
+               "children": [
+                  {
+                     "name": "Zz_50_10_10: Blue line boundary (BS 8541-2)"
+                  },
+                  {
+                     "name": "Zz_50_10_70: Red line boundary (BS 8541-2)"
+                  }
+               ]
+            },
+            {
+               "name": "Zz_50_50: Lots"
+            },
+            {
+               "name": "Zz_50_60: Parcels"
+            },
+            {
+               "name": "Zz_50_90: Volumes"
+            },
+            {
+               "name": "Zz_50_95: Zones"
+            }
+         ]
+      },
+      {
+         "name": "Zz_60: Drawing symbols",
+         "children": [
+            {
+               "name": "Zz_60_20: Detail call ups"
+            },
+            {
+               "name": "Zz_60_30: Fall indicators"
+            },
+            {
+               "name": "Zz_60_40: Joint lines",
+               "children": [
+                  {
+                     "name": "Zz_60_40_15: Construction joints"
+                  },
+                  {
+                     "name": "Zz_60_40_20: Contraction joints"
+                  },
+                  {
+                     "name": "Zz_60_40_30: Expansion joints"
+                  }
+               ]
+            },
+            {
+               "name": "Zz_60_45: Levels",
+               "children": [
+                  {
+                     "name": "Zz_60_45_20: Datum"
+                  },
+                  {
+                     "name": "Zz_60_45_60: Original ground level"
+                  },
+                  {
+                     "name": "Zz_60_45_70: Regrade ground level"
+                  }
+               ]
+            },
+            {
+               "name": "Zz_60_50: Markers",
+               "children": [
+                  {
+                     "name": "Zz_60_50_10: Break marks"
+                  },
+                  {
+                     "name": "Zz_60_50_20: Callout marks"
+                  },
+                  {
+                     "name": "Zz_60_50_30: Elevation marks"
+                  },
+                  {
+                     "name": "Zz_60_50_60: Plan"
+                  },
+                  {
+                     "name": "Zz_60_50_80: Section marks"
+                  },
+                  {
+                     "name": "Zz_60_50_85: Span direction markers"
+                  },
+                  {
+                     "name": "Zz_60_50_90: Void and opening markers"
+                  }
+               ]
+            },
+            {
+               "name": "Zz_60_55: Match lines"
+            }
+         ]
+      },
+      {
+         "name": "Zz_70: Views",
+         "children": [
+            {
+               "name": "Zz_70_05: 3D views"
+            },
+            {
+               "name": "Zz_70_20: Details"
+            },
+            {
+               "name": "Zz_70_30: Elevations"
+            },
+            {
+               "name": "Zz_70_60: Plans"
+            },
+            {
+               "name": "Zz_70_80: Sections"
+            },
+            {
+               "name": "Zz_70_90: Visualisations"
+            }
+         ]
+      },
+      {
+         "name": "Zz_80: Presentation",
+         "children": [
+            {
+               "name": "Zz_80_30: Entourage"
+            },
+            {
+               "name": "Zz_80_45: Lines",
+               "children": [
+                  {
+                     "name": "Zz_80_45_10: Fine"
+                  },
+                  {
+                     "name": "Zz_80_45_20: Thin"
+                  },
+                  {
+                     "name": "Zz_80_45_30: Light"
+                  },
+                  {
+                     "name": "Zz_80_45_40: Medium"
+                  },
+                  {
+                     "name": "Zz_80_45_50: Heavy"
+                  },
+                  {
+                     "name": "Zz_80_45_60: Wide"
+                  },
+                  {
+                     "name": "Zz_80_45_70: Extra-wide"
+                  },
+                  {
+                     "name": "Zz_80_45_80: XX wide"
+                  },
+                  {
+                     "name": "Zz_80_45_90: XXX wide"
+                  }
+               ]
+            },
+            {
+               "name": "Zz_80_60: People"
+            },
+            {
+               "name": "Zz_80_85: Trees and planting"
+            },
+            {
+               "name": "Zz_80_90: Vehicles"
+            }
+         ]
+      },
+      {
+         "name": "Zz_85: Generic 3D",
+         "children": [
+            {
+               "name": "Zz_85_05: 3D solids",
+               "children": [
+                  {
+                     "name": "Zz_85_05_60: Paths"
+                  },
+                  {
+                     "name": "Zz_85_05_80: Solids"
+                  },
+                  {
+                     "name": "Zz_85_05_85: Solid voids"
+                  }
+               ]
+            },
+            {
+               "name": "Zz_85_20: Concept",
+               "children": [
+                  {
+                     "name": "Zz_85_20_20: Concept massing"
+                  },
+                  {
+                     "name": "Zz_85_20_50: Mass group"
+                  },
+                  {
+                     "name": "Zz_85_20_55: Mass slice"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "Zz_90: Readme and plotting lines",
+         "children": [
+            {
+               "name": "Zz_90_20: Construction lines"
+            },
+            {
+               "name": "Zz_90_30: External reference information"
+            },
+            {
+               "name": "Zz_90_70: Readme"
             }
          ]
       }
