@@ -1,5 +1,5 @@
 ﻿{
-   "name": "Uniclass2015_TE (v1.9 - 28 July 2021)",
+   "name": "Uniclass2015_TE Tools and Equipment - 25 April 2022 - v1.12",
    "children": [
       {
          "name": "TE_10: Formwork",
@@ -122,7 +122,7 @@
                            "name": "TE_10_40_55_77: Sheeting"
                         },
                         {
-                           "name": "TE_10_40_55_79: Shutters"
+                           "name": "TE_10_40_55_79: Shuttering"
                         },
                         {
                            "name": "TE_10_40_55_96: Wrot"
@@ -542,7 +542,7 @@
                            "name": "TE_30_30_10_40: Lift cages"
                         },
                         {
-                           "name": "TE_30_30_10_50: Lifting mechanisms"
+                           "name": "TE_30_30_10_50: Lifting machinery"
                         },
                         {
                            "name": "TE_30_30_10_60: Lift platforms"
@@ -576,7 +576,13 @@
                      "name": "TE_30_30_60: Lifting platforms",
                      "children": [
                         {
+                           "name": "TE_30_30_60_10: Boom lifts"
+                        },
+                        {
                            "name": "TE_30_30_60_40: Portable platforms"
+                        },
+                        {
+                           "name": "TE_30_30_60_45: Push-around vertical (PAV) platforms"
                         },
                         {
                            "name": "TE_30_30_60_50: Self-propelled platforms"
@@ -1280,6 +1286,9 @@
                      "name": "TE_50_30_60: Soil compactors",
                      "children": [
                         {
+                           "name": "TE_50_30_60_36: Hand tampers"
+                        },
+                        {
                            "name": "TE_50_30_60_77: Sheepsfoot compactors"
                         }
                      ]
@@ -1363,7 +1372,63 @@
                "name": "TE_50_50: Canal bank grading, compacting, concreting and asphalting machinery, canal bed cleaning machines"
             },
             {
-               "name": "TE_50_60: Track-laying machines"
+               "name": "TE_50_60: Rail track maintenance machines",
+               "children": [
+                  {
+                     "name": "TE_50_60_06: Ballast maintenance machines",
+                     "children": [
+                        {
+                           "name": "TE_50_60_06_13: Ballast cleaners"
+                        },
+                        {
+                           "name": "TE_50_60_06_71: Ballast regulators"
+                        },
+                        {
+                           "name": "TE_50_60_06_88: Ballast tampers"
+                        }
+                     ]
+                  },
+                  {
+                     "name": "TE_50_60_25: Dynamic track stabilizers"
+                  },
+                  {
+                     "name": "TE_50_60_59: Overhead wiring machines"
+                  },
+                  {
+                     "name": "TE_50_60_71: Rail maintenance machines",
+                     "children": [
+                        {
+                           "name": "TE_50_60_71_35: Rail grinders"
+                        },
+                        {
+                           "name": "TE_50_60_71_36: Rail handlers"
+                        },
+                        {
+                           "name": "TE_50_60_71_51: Rail manipulators"
+                        }
+                     ]
+                  },
+                  {
+                     "name": "TE_50_60_79: Shunting vehicles"
+                  },
+                  {
+                     "name": "TE_50_60_88: Tie bed scarifiers"
+                  },
+                  {
+                     "name": "TE_50_60_90: Track maintenance machines",
+                     "children": [
+                        {
+                           "name": "TE_50_60_90_44: Track jacks"
+                        },
+                        {
+                           "name": "TE_50_60_90_46: Track layers"
+                        },
+                        {
+                           "name": "TE_50_60_90_72: Track recording vehicles"
+                        }
+                     ]
+                  }
+               ]
             },
             {
                "name": "TE_50_70: Machines for road repair and maintenance",
@@ -1749,7 +1814,7 @@
                      "name": "TE_60_80_30: Stone sawing equipment",
                      "children": [
                         {
-                           "name": "TE_60_80_30_20: Cutting out saws"
+                           "name": "TE_60_80_30_20: Cutting-out saws"
                         },
                         {
                            "name": "TE_60_80_30_71: Reciprocating sawing machines"
@@ -1917,6 +1982,9 @@
                      "name": "TE_70_20_10: Welding equipment",
                      "children": [
                         {
+                           "name": "TE_70_20_10_03: Aluminothermic rail welding equipment"
+                        },
+                        {
                            "name": "TE_70_20_10_22: Diesel welding sets"
                         },
                         {
@@ -1984,6 +2052,9 @@
                      "name": "TE_70_20_25: Maintenance equipment",
                      "children": [
                         {
+                           "name": "TE_70_20_25_08: Brushcutters"
+                        },
+                        {
                            "name": "TE_70_20_25_34: Grease guns"
                         },
                         {
@@ -1991,6 +2062,9 @@
                         },
                         {
                            "name": "TE_70_20_25_46: Lawnmowers"
+                        },
+                        {
+                           "name": "TE_70_20_25_47: Leaf blowers"
                         },
                         {
                            "name": "TE_70_20_25_52: Mobile cyclone separators"
@@ -2248,6 +2322,14 @@
                      ]
                   },
                   {
+                     "name": "TE_70_40_27: Environmental measuring equipment",
+                     "children": [
+                        {
+                           "name": "TE_70_40_27_41: Infrared thermometers"
+                        }
+                     ]
+                  },
+                  {
                      "name": "TE_70_40_41: Inspection cameras",
                      "children": [
                         {
@@ -2325,6 +2407,9 @@
                         },
                         {
                            "name": "TE_70_40_70_22: Direction indicating devices"
+                        },
+                        {
+                           "name": "TE_70_40_70_25: Drones"
                         },
                         {
                            "name": "TE_70_40_70_27: Electromagnetic distance measuring (EDM) instruments"
@@ -2419,10 +2504,16 @@
                            "name": "TE_70_50_15_13: Circular saws"
                         },
                         {
+                           "name": "TE_70_50_15_16: Concrete saws"
+                        },
+                        {
                            "name": "TE_70_50_15_44: Jig saws"
                         },
                         {
                            "name": "TE_70_50_15_52: Mitre saws"
+                        },
+                        {
+                           "name": "TE_70_50_15_70: Rail saws"
                         }
                      ]
                   },
@@ -2604,13 +2695,22 @@
                      ]
                   },
                   {
-                     "name": "TE_70_50_60: Barrows",
+                     "name": "TE_70_50_60: Trucks, trolleys and barrows",
                      "children": [
                         {
                            "name": "TE_70_50_60_36: Hand barrows"
                         },
                         {
+                           "name": "TE_70_50_60_37: Hand trucks"
+                        },
+                        {
                            "name": "TE_70_50_60_65: Powered barrows"
+                        },
+                        {
+                           "name": "TE_70_50_60_66: Powered stairclimber trucks"
+                        },
+                        {
+                           "name": "TE_70_50_60_83: Stairclimber trucks"
                         }
                      ]
                   },

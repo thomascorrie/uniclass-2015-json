@@ -1,5 +1,5 @@
 ﻿{
-   "name": "Uniclass2015_Pr (v1.23 - 28 July 2021)",
+   "name": "Uniclass2015_Pr Products - 25 April 2022 - v1.26",
    "children": [
       {
          "name": "Pr_15: Preparatory products",
@@ -492,13 +492,13 @@
                            "name": "Pr_20_29_08_08: Bolt boxes"
                         },
                         {
-                           "name": "Pr_20_29_08_11: Carbon steel hexagon headed nuts and bolts"
+                           "name": "Pr_20_29_08_11: Carbon steel hexagon-headed nuts and bolts"
                         },
                         {
-                           "name": "Pr_20_29_08_12: Carbon steel hook bolts (J-bolts) "
+                           "name": "Pr_20_29_08_12: Carbon steel hook bolts"
                         },
                         {
-                           "name": "Pr_20_29_08_15: Coach (carriage) bolts and nuts"
+                           "name": "Pr_20_29_08_15: Coach bolts and nuts"
                         },
                         {
                            "name": "Pr_20_29_08_18: Crossing bolts"
@@ -549,10 +549,10 @@
                            "name": "Pr_20_29_08_83: Stainless steel gutter bolts"
                         },
                         {
-                           "name": "Pr_20_29_08_84: Stainless steel hexagon headed nuts and bolts"
+                           "name": "Pr_20_29_08_84: Stainless steel hexagon-headed nuts and bolts"
                         },
                         {
-                           "name": "Pr_20_29_08_85: Stainless steel hook bolts (J-bolts) "
+                           "name": "Pr_20_29_08_85: Stainless steel hook bolts"
                         },
                         {
                            "name": "Pr_20_29_08_86: Stud bolts"
@@ -622,7 +622,7 @@
                            "name": "Pr_20_29_14_28: Fence mesh clips"
                         },
                         {
-                           "name": "Pr_20_29_14_29: Fence mesh clips"
+                           "name": "Pr_20_29_14_29: Fence netting clips"
                         },
                         {
                            "name": "Pr_20_29_14_30: Fence panel clips"
@@ -909,9 +909,6 @@
                            "name": "Pr_20_29_57_01: Acorn nuts"
                         },
                         {
-                           "name": "Pr_20_29_57_02: Aerotite nuts"
-                        },
-                        {
                            "name": "Pr_20_29_57_11: Cage nuts"
                         },
                         {
@@ -921,7 +918,7 @@
                            "name": "Pr_20_29_57_13: Castle nuts"
                         },
                         {
-                           "name": "Pr_20_29_57_23: Dome (cap) nuts"
+                           "name": "Pr_20_29_57_23: Dome nuts"
                         },
                         {
                            "name": "Pr_20_29_57_30: Flange nuts"
@@ -969,10 +966,7 @@
                            "name": "Pr_20_29_57_83: Square nuts"
                         },
                         {
-                           "name": "Pr_20_29_57_84: Stover nuts"
-                        },
-                        {
-                           "name": "Pr_20_29_57_85: Stud connector (coupling) nuts"
+                           "name": "Pr_20_29_57_85: Stud connector nuts"
                         },
                         {
                            "name": "Pr_20_29_57_88: Tee nuts"
@@ -1346,14 +1340,6 @@
                      ]
                   },
                   {
-                     "name": "Pr_20_29_96: Welded joints",
-                     "children": [
-                        {
-                           "name": "Pr_20_29_96_03: Aluminothermic rail welds"
-                        }
-                     ]
-                  },
-                  {
                      "name": "Pr_20_29_97: Welding joint fillers",
                      "children": [
                         {
@@ -1697,10 +1683,13 @@
                            "name": "Pr_20_31_04_46: Laying course fine aggregates"
                         },
                         {
+                           "name": "Pr_20_31_04_47: Lightweight aggregates"
+                        },
+                        {
                            "name": "Pr_20_31_04_48: Loose surfacing decorative aggregates"
                         },
                         {
-                           "name": "Pr_20_31_04_51: Mortar aggregates"
+                           "name": "Pr_20_31_04_51: Mortar all-in aggregates"
                         },
                         {
                            "name": "Pr_20_31_04_52: Mortar coarse aggregates"
@@ -1865,9 +1854,6 @@
                      "name": "Pr_20_31_35: Granules and powders",
                      "children": [
                         {
-                           "name": "Pr_20_31_35_11: Carborundum"
-                        },
-                        {
                            "name": "Pr_20_31_35_22: Diatomaceous earth"
                         },
                         {
@@ -1908,6 +1894,9 @@
                         },
                         {
                            "name": "Pr_20_31_35_75: Sawdust"
+                        },
+                        {
+                           "name": "Pr_20_31_35_78: Silicon carbide powder"
                         },
                         {
                            "name": "Pr_20_31_35_81: Silica fume"
@@ -2180,6 +2169,9 @@
                            "name": "Pr_20_65_50_46: Kitchenette units"
                         },
                         {
+                           "name": "Pr_20_65_50_53: Modular mezzanines"
+                        },
+                        {
                            "name": "Pr_20_65_50_63: Plant room pods"
                         },
                         {
@@ -2212,10 +2204,10 @@
                            "name": "Pr_20_65_60_84: Structural insulated panel (SIP) modules"
                         },
                         {
-                           "name": "Pr_20_65_60_88: Timber frame floors and roofs"
+                           "name": "Pr_20_65_60_88: Timber-frame floors and roofs"
                         },
                         {
-                           "name": "Pr_20_65_60_89: Timber frame panels"
+                           "name": "Pr_20_65_60_89: Timber-frame panels"
                         }
                      ]
                   },
@@ -2235,7 +2227,7 @@
                            "name": "Pr_20_65_78_77: Semi-closed shelters"
                         },
                         {
-                           "name": "Pr_20_65_78_88: Timber framed and panelled shelters"
+                           "name": "Pr_20_65_78_88: Timber-framed and panelled shelters"
                         }
                      ]
                   },
@@ -2832,9 +2824,6 @@
                            "name": "Pr_20_76_88_34: Hardwood fencing rails"
                         },
                         {
-                           "name": "Pr_20_76_88_35: Hardwood floating floor battens"
-                        },
-                        {
                            "name": "Pr_20_76_88_36: Hardwood gravity battens"
                         },
                         {
@@ -2850,13 +2839,16 @@
                            "name": "Pr_20_76_88_42: Hardwood rafters"
                         },
                         {
-                           "name": "Pr_20_76_88_43: Hardwood roofing and cladding battens"
+                           "name": "Pr_20_76_88_43: Hardwood roofing battens"
                         },
                         {
                            "name": "Pr_20_76_88_44: Hardwood sections"
                         },
                         {
                            "name": "Pr_20_76_88_46: Hardwood weatherboarding battens"
+                        },
+                        {
+                           "name": "Pr_20_76_88_47: Insulating timber floor battens"
                         },
                         {
                            "name": "Pr_20_76_88_48: Laminated strand lumber (LSL) sections"
@@ -2877,9 +2869,6 @@
                            "name": "Pr_20_76_88_74: Softwood fencing rails"
                         },
                         {
-                           "name": "Pr_20_76_88_75: Softwood floating floor battens"
-                        },
-                        {
                            "name": "Pr_20_76_88_76: Softwood gravity battens"
                         },
                         {
@@ -2892,7 +2881,7 @@
                            "name": "Pr_20_76_88_81: Softwood rafters"
                         },
                         {
-                           "name": "Pr_20_76_88_82: Softwood roofing and cladding battens"
+                           "name": "Pr_20_76_88_82: Softwood roofing battens"
                         },
                         {
                            "name": "Pr_20_76_88_83: Softwood sections"
@@ -2901,7 +2890,7 @@
                            "name": "Pr_20_76_88_84: Softwood weatherboarding battens"
                         },
                         {
-                           "name": "Pr_20_76_88_85: Timber beams, bearers, noggings, walings, wedges and packs"
+                           "name": "Pr_20_76_88_85: Timber packing and spreading products"
                         },
                         {
                            "name": "Pr_20_76_88_86: Timber fencing battens"
@@ -2940,6 +2929,9 @@
                            "name": "Pr_20_85_03_11: Carbon steel angle sections"
                         },
                         {
+                           "name": "Pr_20_85_03_33: Galvanized steel angle sections"
+                        },
+                        {
                            "name": "Pr_20_85_03_50: Masonry angle supports"
                         },
                         {
@@ -2947,9 +2939,6 @@
                         },
                         {
                            "name": "Pr_20_85_03_84: Stainless steel angles"
-                        },
-                        {
-                           "name": "Pr_20_85_03_85: Stainless steel cladding angles"
                         }
                      ]
                   },
@@ -2975,12 +2964,6 @@
                         },
                         {
                            "name": "Pr_20_85_07_03: Aluminium support rails"
-                        },
-                        {
-                           "name": "Pr_20_85_07_04: Aluminium carrier rails"
-                        },
-                        {
-                           "name": "Pr_20_85_07_10: Carbon steel carrier rails"
                         },
                         {
                            "name": "Pr_20_85_07_11: Carbon steel fencing and barrier rails"
@@ -3020,9 +3003,6 @@
                         },
                         {
                            "name": "Pr_20_85_07_75: Safety barrier terminals"
-                        },
-                        {
-                           "name": "Pr_20_85_07_83: Stainless steel carrier rails"
                         },
                         {
                            "name": "Pr_20_85_07_84: Stainless steel rails"
@@ -3405,6 +3385,35 @@
                      ]
                   },
                   {
+                     "name": "Pr_20_85_20: Cladding support products",
+                     "children": [
+                        {
+                           "name": "Pr_20_85_20_04: Aluminium carrier rails"
+                        },
+                        {
+                           "name": "Pr_20_85_20_10: Carbon steel carrier rails"
+                        },
+                        {
+                           "name": "Pr_20_85_20_43: Hardwood cladding battens"
+                        },
+                        {
+                           "name": "Pr_20_85_20_82: Softwood cladding battens"
+                        },
+                        {
+                           "name": "Pr_20_85_20_83: Stainless steel carrier rails"
+                        },
+                        {
+                           "name": "Pr_20_85_20_84: Stainless steel cladding angles"
+                        },
+                        {
+                           "name": "Pr_20_85_20_85: Stainless steel cladding channels"
+                        },
+                        {
+                           "name": "Pr_20_85_20_86: Stainless steel cladding ties"
+                        }
+                     ]
+                  },
+                  {
                      "name": "Pr_20_85_28: Erosion control and breakwater products",
                      "children": [
                         {
@@ -3766,7 +3775,7 @@
                            "name": "Pr_20_85_65_17: Concrete platform units"
                         },
                         {
-                           "name": "Pr_20_85_65_34: Glass fibre-reinforced plastics (GRP) modular platform panel"
+                           "name": "Pr_20_85_65_34: Glass fibre-reinforced plastics (GRP) modular platform panels"
                         }
                      ]
                   },
@@ -4045,7 +4054,7 @@
                            "name": "Pr_20_85_84_73: Shear wall ties"
                         },
                         {
-                           "name": "Pr_20_85_84_74: Slotted wall channels and brackets"
+                           "name": "Pr_20_85_84_74: Slotted wall channels"
                         },
                         {
                            "name": "Pr_20_85_84_75: Stainless steel lateral restraint straps"
@@ -4076,12 +4085,6 @@
                         },
                         {
                            "name": "Pr_20_85_84_84: Stainless steel cast-in channels"
-                        },
-                        {
-                           "name": "Pr_20_85_84_85: Stainless steel cladding channels"
-                        },
-                        {
-                           "name": "Pr_20_85_84_86: Stainless steel cladding ties"
                         },
                         {
                            "name": "Pr_20_85_84_87: Surface-mounted channels"
@@ -4145,6 +4148,9 @@
                            "name": "Pr_20_85_86_31: Formwork shores"
                         },
                         {
+                           "name": "Pr_20_85_86_33: Galvanized steel struts"
+                        },
+                        {
                            "name": "Pr_20_85_86_76: Screw jacks"
                         },
                         {
@@ -4199,7 +4205,10 @@
                            "name": "Pr_20_85_90_03: Aluminium trusses"
                         },
                         {
-                           "name": "Pr_20_85_90_11: Carbon steel lattice floor joists and purlins"
+                           "name": "Pr_20_85_90_10: Carbon steel lattice joists"
+                        },
+                        {
+                           "name": "Pr_20_85_90_11: Carbon steel lattice purlins"
                         },
                         {
                            "name": "Pr_20_85_90_12: Carbon steel pitched roof trusses"
@@ -4245,7 +4254,7 @@
                            "name": "Pr_20_93_33_12: Cellular glass thermal blocks"
                         },
                         {
-                           "name": "Pr_20_93_33_30: Fire rated glass block wall panels"
+                           "name": "Pr_20_93_33_30: Fire-rated glass block wall panels"
                         },
                         {
                            "name": "Pr_20_93_33_31: Glass block dry joint spacers"
@@ -4372,9 +4381,6 @@
                         },
                         {
                            "name": "Pr_20_93_52_73: Refractory bricks"
-                        },
-                        {
-                           "name": "Pr_20_93_52_74: Replacement natural dimensioned stones"
                         },
                         {
                            "name": "Pr_20_93_52_75: Salvaged natural stones"
@@ -5068,6 +5074,9 @@
                         },
                         {
                            "name": "Pr_25_30_90_88: Timber risers"
+                        },
+                        {
+                           "name": "Pr_25_30_90_89: Timber stair treads"
                         }
                      ]
                   }
@@ -5222,7 +5231,7 @@
                      ]
                   },
                   {
-                     "name": "Pr_25_57_10: Building papers and vapour permeable sheets",
+                     "name": "Pr_25_57_10: Building papers and vapour-permeable sheets",
                      "children": [
                         {
                            "name": "Pr_25_57_10_04: Aluminium foil/ kraft paper laminates"
@@ -5249,16 +5258,16 @@
                            "name": "Pr_25_57_10_62: Polyethylene coated kraft papers"
                         },
                         {
-                           "name": "Pr_25_57_10_64: Polyolefin vapour permeable sheets"
+                           "name": "Pr_25_57_10_64: Polyolefin vapour-permeable sheets"
                         },
                         {
-                           "name": "Pr_25_57_10_66: Polypropylene vapour permeable sheets"
+                           "name": "Pr_25_57_10_66: Polypropylene vapour-permeable sheets"
                         },
                         {
-                           "name": "Pr_25_57_10_68: Polypropylene and polyethylene laminate vapour permeable sheets"
+                           "name": "Pr_25_57_10_68: Polypropylene and polyethylene laminate vapour-permeable sheets"
                         },
                         {
-                           "name": "Pr_25_57_10_94: Vapour permeable sheets"
+                           "name": "Pr_25_57_10_94: Vapour-permeable sheets"
                         }
                      ]
                   },
@@ -5364,9 +5373,6 @@
                            "name": "Pr_25_57_51_10: Butyl rubber (polyisobutylene isoprene (IIR)) geomembranes"
                         },
                         {
-                           "name": "Pr_25_57_51_11: Carborundum slip-resistant paper"
-                        },
-                        {
                            "name": "Pr_25_57_51_13: Chlorinated polyethylene (PE-C) geomembranes"
                         },
                         {
@@ -5433,6 +5439,9 @@
                            "name": "Pr_25_57_51_74: Rubber studded sheets"
                         },
                         {
+                           "name": "Pr_25_57_51_77: Silicon carbide slip-resistant paper"
+                        },
+                        {
                            "name": "Pr_25_57_51_79: Slip-resistant sheets and strips"
                         },
                         {
@@ -5489,6 +5498,9 @@
                         },
                         {
                            "name": "Pr_25_57_56_34: Glass fibre mesh"
+                        },
+                        {
+                           "name": "Pr_25_57_56_37: Hexagon mesh"
                         },
                         {
                            "name": "Pr_25_57_56_52: Metallic nets"
@@ -5736,6 +5748,9 @@
                            "name": "Pr_25_71_14_17: Ceramic-faced aluminium core panels"
                         },
                         {
+                           "name": "Pr_25_71_14_18: Composite precast concrete cladding panels"
+                        },
+                        {
                            "name": "Pr_25_71_14_19: Composite stone panels"
                         },
                         {
@@ -5754,7 +5769,10 @@
                            "name": "Pr_25_71_14_33: Glass-faced aluminium core panels"
                         },
                         {
-                           "name": "Pr_25_71_14_35: Glass fibre-reinforced concrete (GRC) cladding units"
+                           "name": "Pr_25_71_14_35: Glass fibre-reinforced concrete (GRC) cladding panels"
+                        },
+                        {
+                           "name": "Pr_25_71_14_36: Glass fibre-reinforced plastics (GRP) cladding panels"
                         },
                         {
                            "name": "Pr_25_71_14_52: Monolithic precast concrete cladding panels"
@@ -5776,6 +5794,9 @@
                         },
                         {
                            "name": "Pr_25_71_14_71: Reconstituted stone panels"
+                        },
+                        {
+                           "name": "Pr_25_71_14_74: Sandwich autoclaved aerated concrete (AAC) panels"
                         },
                         {
                            "name": "Pr_25_71_14_75: Sandwich precast concrete cladding panels"
@@ -5816,6 +5837,23 @@
                      ]
                   },
                   {
+                     "name": "Pr_25_71_18: Composite sound insulating panels",
+                     "children": [
+                        {
+                           "name": "Pr_25_71_18_29: Fabric-covered sound insulating mineral wool panels"
+                        },
+                        {
+                           "name": "Pr_25_71_18_45: Impact-resistant sound insulating panels"
+                        },
+                        {
+                           "name": "Pr_25_71_18_52: Mineral board-lined composite sound insulating boards"
+                        },
+                        {
+                           "name": "Pr_25_71_18_90: Timber-lined composite sound insulating boards"
+                        }
+                     ]
+                  },
+                  {
                      "name": "Pr_25_71_22: Decorative sectional finishing products",
                      "children": [
                         {
@@ -5826,6 +5864,9 @@
                         },
                         {
                            "name": "Pr_25_71_22_64: Plastics finishing battens"
+                        },
+                        {
+                           "name": "Pr_25_71_22_84: Stone finishing battens"
                         },
                         {
                            "name": "Pr_25_71_22_90: Timber finishing battens"
@@ -5869,7 +5910,7 @@
                            "name": "Pr_25_71_29_34: Glass fibre-reinforced concrete permanent formwork panels"
                         },
                         {
-                           "name": "Pr_25_71_29_37: High-density expanded polystyrene (HDPS) ventilated substructure formwork"
+                           "name": "Pr_25_71_29_37: High-density expanded polystyrene (HDPS) substructure formwork"
                         },
                         {
                            "name": "Pr_25_71_29_52: Modular riser flooring units"
@@ -5891,6 +5932,9 @@
                         },
                         {
                            "name": "Pr_25_71_29_76: Scaffolding and accessories"
+                        },
+                        {
+                           "name": "Pr_25_71_29_84: Stone finishing battens"
                         },
                         {
                            "name": "Pr_25_71_29_86: Suspended in situ concrete construction permanent insulation formwork (PIF)"
@@ -5981,6 +6025,9 @@
                            "name": "Pr_25_71_35_12: Carbon steel-faced plasterboard panels"
                         },
                         {
+                           "name": "Pr_25_71_35_13: Controlled density gypsum plasterboards"
+                        },
+                        {
                            "name": "Pr_25_71_35_15: Gypsum core boards"
                         },
                         {
@@ -6024,6 +6071,9 @@
                         },
                         {
                            "name": "Pr_25_71_35_80: Sound insulation gypsum plasterboards"
+                        },
+                        {
+                           "name": "Pr_25_71_35_81: Sound-insulating laminate gypsum plasterboards"
                         },
                         {
                            "name": "Pr_25_71_35_84: Standard gypsum plasterboards"
@@ -6279,6 +6329,9 @@
                            "name": "Pr_25_71_51_33: Galvanized carbon steel profiled sheets"
                         },
                         {
+                           "name": "Pr_25_71_51_34: Galvanized carbon steel sheets"
+                        },
+                        {
                            "name": "Pr_25_71_51_38: Hollow-core metal sheets"
                         },
                         {
@@ -6349,44 +6402,8 @@
                      ]
                   },
                   {
-                     "name": "Pr_25_71_53: Mirrors",
+                     "name": "Pr_25_71_53: Mirrored sheets",
                      "children": [
-                        {
-                           "name": "Pr_25_71_53_06: Bathroom mirrors"
-                        },
-                        {
-                           "name": "Pr_25_71_53_14: Cheval mirrors"
-                        },
-                        {
-                           "name": "Pr_25_71_53_23: Dressing glasses"
-                        },
-                        {
-                           "name": "Pr_25_71_53_30: Framed glass mirrors"
-                        },
-                        {
-                           "name": "Pr_25_71_53_31: Framed metal mirrors"
-                        },
-                        {
-                           "name": "Pr_25_71_53_32: Framed plastics mirrors"
-                        },
-                        {
-                           "name": "Pr_25_71_53_46: Large mirrors"
-                        },
-                        {
-                           "name": "Pr_25_71_53_59: Overmantel mirrors"
-                        },
-                        {
-                           "name": "Pr_25_71_53_65: Platform mirrors"
-                        },
-                        {
-                           "name": "Pr_25_71_53_70: Rail mirrors"
-                        },
-                        {
-                           "name": "Pr_25_71_53_73: Road mirrors"
-                        },
-                        {
-                           "name": "Pr_25_71_53_82: Small mirrors"
-                        },
                         {
                            "name": "Pr_25_71_53_91: Unframed glass mirrors"
                         },
@@ -6395,15 +6412,15 @@
                         },
                         {
                            "name": "Pr_25_71_53_93: Unframed plastics mirrors"
-                        },
-                        {
-                           "name": "Pr_25_71_53_96: Wall mirrors"
                         }
                      ]
                   },
                   {
                      "name": "Pr_25_71_57: Non-metal barrier panels",
                      "children": [
+                        {
+                           "name": "Pr_25_71_57_06: Ballistic protection panels"
+                        },
                         {
                            "name": "Pr_25_71_57_11: Cement-bonded particleboard framed panels"
                         },
@@ -6563,9 +6580,6 @@
                            "name": "Pr_25_71_63_61: Plastics baseboards"
                         },
                         {
-                           "name": "Pr_25_71_63_62: Plastics composite and recycled sheets"
-                        },
-                        {
                            "name": "Pr_25_71_63_63: Plastics composite laminate strips and boards"
                         },
                         {
@@ -6625,6 +6639,12 @@
                         },
                         {
                            "name": "Pr_25_71_94_22: Decorative continuous laminates (DCL or CPL)"
+                        },
+                        {
+                           "name": "Pr_25_71_94_23: Decorative facings"
+                        },
+                        {
+                           "name": "Pr_25_71_94_27: Edgings and lippings"
                         },
                         {
                            "name": "Pr_25_71_94_29: Fabric facings"
@@ -6722,7 +6742,7 @@
                            "name": "Pr_25_71_97_54: Modified wood boards"
                         },
                         {
-                           "name": "Pr_25_71_97_55: Modified wood weather boards"
+                           "name": "Pr_25_71_97_55: Modified wood weatherboards"
                         },
                         {
                            "name": "Pr_25_71_97_56: Modified wood deck boards"
@@ -6816,7 +6836,7 @@
                            "name": "Pr_25_80_79_15: Concertina smoke curtains"
                         },
                         {
-                           "name": "Pr_25_80_79_37: High temperature active smoke barriers"
+                           "name": "Pr_25_80_79_37: High-temperature active smoke barriers"
                         },
                         {
                            "name": "Pr_25_80_79_38: Horizontal active fire curtain barriers"
@@ -7124,6 +7144,9 @@
                      "name": "Pr_25_93_55: Metal sills",
                      "children": [
                         {
+                           "name": "Pr_25_93_55_03: Aluminium sills"
+                        },
+                        {
                            "name": "Pr_25_93_55_84: Steel sills"
                         }
                      ]
@@ -7426,6 +7449,9 @@
                            "name": "Pr_30_31_76_41: Intumescent foam fillers"
                         },
                         {
+                           "name": "Pr_30_31_76_52: Modified silane (MS) polymer sealants"
+                        },
+                        {
                            "name": "Pr_30_31_76_58: Oil-based mastic joint sealants"
                         },
                         {
@@ -7539,6 +7565,9 @@
                         },
                         {
                            "name": "Pr_30_36_08_35: Gate throw-over loops"
+                        },
+                        {
+                           "name": "Pr_30_36_08_36: Door locks"
                         },
                         {
                            "name": "Pr_30_36_08_42: Indicator locks"
@@ -7663,6 +7692,9 @@
                            "name": "Pr_30_36_33_45: Kick plates"
                         },
                         {
+                           "name": "Pr_30_36_33_52: Midrail protection plates"
+                        },
+                        {
                            "name": "Pr_30_36_33_68: Push plates"
                         },
                         {
@@ -7698,6 +7730,9 @@
                            "name": "Pr_30_36_36_11: Cabinet and countertop hinges"
                         },
                         {
+                           "name": "Pr_30_36_36_14: Conductor hinges"
+                        },
+                        {
                            "name": "Pr_30_36_36_15: Concealed hinges"
                         },
                         {
@@ -7705,6 +7740,9 @@
                         },
                         {
                            "name": "Pr_30_36_36_17: Cranked hinges"
+                        },
+                        {
+                           "name": "Pr_30_36_36_21: Door hinges"
                         },
                         {
                            "name": "Pr_30_36_36_22: Door pivots"
@@ -7734,7 +7772,16 @@
                            "name": "Pr_30_36_36_34: Gate hinges"
                         },
                         {
+                           "name": "Pr_30_36_36_37: Hook and band hinges"
+                        },
+                        {
                            "name": "Pr_30_36_36_46: Lift-off hinges"
+                        },
+                        {
+                           "name": "Pr_30_36_36_60: Parliament hinges"
+                        },
+                        {
+                           "name": "Pr_30_36_36_63: Pillar hinges"
                         },
                         {
                            "name": "Pr_30_36_36_66: Projection door hinges"
@@ -7756,6 +7803,9 @@
                         },
                         {
                            "name": "Pr_30_36_36_84: Spring hinges"
+                        },
+                        {
+                           "name": "Pr_30_36_36_86: Swing-clear hinges"
                         },
                         {
                            "name": "Pr_30_36_36_88: Tee hinges"
@@ -7812,9 +7862,6 @@
                         },
                         {
                            "name": "Pr_30_36_59_50: Magnetic hold"
-                        },
-                        {
-                           "name": "Pr_30_36_59_52: Midrail push plates"
                         },
                         {
                            "name": "Pr_30_36_59_53: Motorized curtain mechanisms"
@@ -8056,6 +8103,9 @@
                            "name": "Pr_30_59_23_02: Aluminium door frames"
                         },
                         {
+                           "name": "Pr_30_59_23_03: Aluminium door leaves"
+                        },
+                        {
                            "name": "Pr_30_59_23_11: Carbon steel door frames"
                         },
                         {
@@ -8077,10 +8127,13 @@
                            "name": "Pr_30_59_23_50: Matchboarded door leaves"
                         },
                         {
-                           "name": "Pr_30_59_23_53: Metal door leaves"
+                           "name": "Pr_30_59_23_53: Carbon steel door leaves"
                         },
                         {
                            "name": "Pr_30_59_23_84: Stainless steel door frames"
+                        },
+                        {
+                           "name": "Pr_30_59_23_85: Stainless steel door leaves"
                         },
                         {
                            "name": "Pr_30_59_23_91: Unplasticized polyvinyl chloride (PVC-U) door frames"
@@ -8103,7 +8156,13 @@
                      "name": "Pr_30_59_24: Doorsets",
                      "children": [
                         {
+                           "name": "Pr_30_59_24_02: Aluminium doorsets"
+                        },
+                        {
                            "name": "Pr_30_59_24_04: Automatic revolving doorsets"
+                        },
+                        {
+                           "name": "Pr_30_59_24_05: Automatic swing doorsets"
                         },
                         {
                            "name": "Pr_30_59_24_11: Cavity sliding doorsets"
@@ -8142,7 +8201,7 @@
                            "name": "Pr_30_59_24_50: Manual revolving doorsets"
                         },
                         {
-                           "name": "Pr_30_59_24_52: Metal doorsets"
+                           "name": "Pr_30_59_24_52: Carbon steel doorsets"
                         },
                         {
                            "name": "Pr_30_59_24_64: Polyvinyl chloride (PVC) strip curtain sets"
@@ -8164,6 +8223,12 @@
                         },
                         {
                            "name": "Pr_30_59_24_84: Sliding shutter doorsets"
+                        },
+                        {
+                           "name": "Pr_30_59_24_85: Stainless steel doorsets"
+                        },
+                        {
+                           "name": "Pr_30_59_24_86: Swing doorsets"
                         },
                         {
                            "name": "Pr_30_59_24_92: Unplasticized polyvinyl chloride (PVC-U) doorsets"
@@ -8824,7 +8889,7 @@
                            "name": "Pr_30_59_99_83: Steel window walls"
                         },
                         {
-                           "name": "Pr_30_59_99_92: Unplasticized polyvinylchloride (PVC-U) window walls"
+                           "name": "Pr_30_59_99_92: Unplasticized polyvinyl chloride (PVC-U) window walls"
                         },
                         {
                            "name": "Pr_30_59_99_96: Wood window walls"
@@ -9456,7 +9521,7 @@
                            "name": "Pr_35_31_68_02: Anionic bitumen emulsions"
                         },
                         {
-                           "name": "Pr_35_31_68_03: Anodizing"
+                           "name": "Pr_35_31_68_03: Anodized coatings"
                         },
                         {
                            "name": "Pr_35_31_68_04: Anti-carbonation coatings"
@@ -9859,10 +9924,10 @@
                            "name": "Pr_35_57_11_28: Exercise mats"
                         },
                         {
-                           "name": "Pr_35_57_11_29: Flat needled carpet tiles"
+                           "name": "Pr_35_57_11_29: Flat-needled carpet tiles"
                         },
                         {
-                           "name": "Pr_35_57_11_30: Flat needled carpets"
+                           "name": "Pr_35_57_11_30: Flat-needled carpets"
                         },
                         {
                            "name": "Pr_35_57_11_31: Flocked carpets"
@@ -10072,6 +10137,9 @@
                            "name": "Pr_35_57_71_37: Hammered rubber tiles"
                         },
                         {
+                           "name": "Pr_35_57_71_41: Interlocking laminate floor tiles"
+                        },
+                        {
                            "name": "Pr_35_57_71_43: Jute or polyester felt-backed polyvinyl chloride (PVC) sheets"
                         },
                         {
@@ -10085,6 +10153,9 @@
                         },
                         {
                            "name": "Pr_35_57_71_49: Linoleum tiles"
+                        },
+                        {
+                           "name": "Pr_35_57_71_53: Modular multilayer floor tiles"
                         },
                         {
                            "name": "Pr_35_57_71_60: Particle-based enhanced wet area polyvinyl chloride (PVC) sheets"
@@ -10321,7 +10392,7 @@
                            "name": "Pr_35_90_22_80: Softwood edgings"
                         },
                         {
-                           "name": "Pr_35_90_22_88: Timber grass edgings"
+                           "name": "Pr_35_90_22_88: Timber edgings"
                         }
                      ]
                   },
@@ -10439,6 +10510,9 @@
                         },
                         {
                            "name": "Pr_35_90_30_18: Copper slates"
+                        },
+                        {
+                           "name": "Pr_35_90_30_33: Galvanized steel flashings"
                         },
                         {
                            "name": "Pr_35_90_30_34: Glass fibre-reinforced plastics (GRP) flashings"
@@ -10645,6 +10719,9 @@
                            "name": "Pr_35_90_43_18: Composite protection rails"
                         },
                         {
+                           "name": "Pr_35_90_43_20: Door protection panels"
+                        },
+                        {
                            "name": "Pr_35_90_43_21: Edge battens"
                         },
                         {
@@ -10721,6 +10798,9 @@
                         },
                         {
                            "name": "Pr_35_90_43_66: Preformed casings"
+                        },
+                        {
+                           "name": "Pr_35_90_43_67: Preformed plasterboard cornices"
                         },
                         {
                            "name": "Pr_35_90_43_70: Radiator guards"
@@ -10938,6 +11018,9 @@
                            "name": "Pr_35_90_87_37: Heat-bonded carpet tapes"
                         },
                         {
+                           "name": "Pr_35_90_87_40: Insulating strips"
+                        },
+                        {
                            "name": "Pr_35_90_87_41: Intumescent tapes"
                         },
                         {
@@ -11092,6 +11175,9 @@
                      "children": [
                         {
                            "name": "Pr_35_93_13_13: Cement-bonded wood wool infill units"
+                        },
+                        {
+                           "name": "Pr_35_93_13_15: Coffered ceiling infill units"
                         },
                         {
                            "name": "Pr_35_93_13_30: Fibre-reinforced gypsum infill units"
@@ -11266,15 +11352,6 @@
                            "name": "Pr_40_10_57_25: Electrical shock treatment signs"
                         },
                         {
-                           "name": "Pr_40_10_57_26: Engraved mechanical plant and equipment identification labels"
-                        },
-                        {
-                           "name": "Pr_40_10_57_27: Engraved valve charts and schematics"
-                        },
-                        {
-                           "name": "Pr_40_10_57_28: Engraved valve identification labels"
-                        },
-                        {
                            "name": "Pr_40_10_57_29: Equipment labels and warning notices"
                         },
                         {
@@ -11299,7 +11376,13 @@
                            "name": "Pr_40_10_57_43: Induction loop system signs"
                         },
                         {
+                           "name": "Pr_40_10_57_45: Internally illuminated emergency exit signs"
+                        },
+                        {
                            "name": "Pr_40_10_57_50: Marker posts"
+                        },
+                        {
+                           "name": "Pr_40_10_57_51: Mechanical plant and equipment identification labels"
                         },
                         {
                            "name": "Pr_40_10_57_52: Metal ductwork labels"
@@ -11308,7 +11391,7 @@
                            "name": "Pr_40_10_57_56: Nail identification washers"
                         },
                         {
-                           "name": "Pr_40_10_57_60: Paper valve charts and schematics"
+                           "name": "Pr_40_10_57_59: Painted letter and figure stencils"
                         },
                         {
                            "name": "Pr_40_10_57_61: Photoluminescent emergency signs"
@@ -11338,12 +11421,6 @@
                            "name": "Pr_40_10_57_72: Room number labels"
                         },
                         {
-                           "name": "Pr_40_10_57_76: Screen-printed mechanical plant and equipment identification labels"
-                        },
-                        {
-                           "name": "Pr_40_10_57_77: Screen-printed valve identification labels"
-                        },
-                        {
                            "name": "Pr_40_10_57_78: Self-adhesive colour pipe bands"
                         },
                         {
@@ -11357,6 +11434,15 @@
                         },
                         {
                            "name": "Pr_40_10_57_91: Underground cable marker tapes"
+                        },
+                        {
+                           "name": "Pr_40_10_57_93: Valve charts and schematics"
+                        },
+                        {
+                           "name": "Pr_40_10_57_94: Valve identification labels"
+                        },
+                        {
+                           "name": "Pr_40_10_57_95: Warning marker boards"
                         },
                         {
                            "name": "Pr_40_10_57_96: Warning marker tapes"
@@ -11699,6 +11785,9 @@
                            "name": "Pr_40_20_76_92: Tumbler holders"
                         },
                         {
+                           "name": "Pr_40_20_76_93: Ultraviolet (UV) air-disinfection devices"
+                        },
+                        {
                            "name": "Pr_40_20_76_94: Vanity units"
                         },
                         {
@@ -11716,7 +11805,7 @@
                      "name": "Pr_40_20_87: Taps and water supply outlet fittings",
                      "children": [
                         {
-                           "name": "Pr_40_20_87_03: Automatic action thermostatic mixer taps"
+                           "name": "Pr_40_20_87_03: Automatic-action thermostatic mixer taps"
                         },
                         {
                            "name": "Pr_40_20_87_07: Bath mixer taps with shower hose and hand sprays"
@@ -11764,10 +11853,10 @@
                            "name": "Pr_40_20_87_49: Knee-operated valves"
                         },
                         {
-                           "name": "Pr_40_20_87_50: Lever action bib taps"
+                           "name": "Pr_40_20_87_50: Lever-action bib taps"
                         },
                         {
-                           "name": "Pr_40_20_87_51: Lever action high-neck pillar taps"
+                           "name": "Pr_40_20_87_51: Lever-action high-neck pillar taps"
                         },
                         {
                            "name": "Pr_40_20_87_55: Mixer taps"
@@ -11830,7 +11919,7 @@
                            "name": "Pr_40_20_87_93: Wall-mounted bib taps"
                         },
                         {
-                           "name": "Pr_40_20_87_94: Wall-mounted lever action bib taps"
+                           "name": "Pr_40_20_87_94: Wall-mounted lever-action bib taps"
                         },
                         {
                            "name": "Pr_40_20_87_95: Wall-mounted spray taps"
@@ -11937,6 +12026,9 @@
                         },
                         {
                            "name": "Pr_40_20_96_18: Countertop washbasins"
+                        },
+                        {
+                           "name": "Pr_40_20_96_19: Commercial stainless steel sinks"
                         },
                         {
                            "name": "Pr_40_20_96_34: Healthcare clinical sinks with drainers"
@@ -12128,6 +12220,9 @@
                         },
                         {
                            "name": "Pr_40_30_21_13: Ceiling-mounted cycle supports"
+                        },
+                        {
+                           "name": "Pr_40_30_21_20: Cycle repair stations"
                         },
                         {
                            "name": "Pr_40_30_21_35: Ground-mounted cycle stands"
@@ -12463,6 +12558,9 @@
                            "name": "Pr_40_30_30_80: Sink tables"
                         },
                         {
+                           "name": "Pr_40_30_30_84: Stainless steel bench units"
+                        },
+                        {
                            "name": "Pr_40_30_30_86: Street and site tables"
                         },
                         {
@@ -12523,6 +12621,47 @@
                      ]
                   },
                   {
+                     "name": "Pr_40_30_53: Mirrors",
+                     "children": [
+                        {
+                           "name": "Pr_40_30_53_06: Bathroom mirrors"
+                        },
+                        {
+                           "name": "Pr_40_30_53_14: Cheval mirrors"
+                        },
+                        {
+                           "name": "Pr_40_30_53_23: Dressing glasses"
+                        },
+                        {
+                           "name": "Pr_40_30_53_30: Framed glass mirrors"
+                        },
+                        {
+                           "name": "Pr_40_30_53_31: Framed metal mirrors"
+                        },
+                        {
+                           "name": "Pr_40_30_53_32: Framed plastics mirrors"
+                        },
+                        {
+                           "name": "Pr_40_30_53_46: Large mirrors"
+                        },
+                        {
+                           "name": "Pr_40_30_53_59: Overmantel mirrors"
+                        },
+                        {
+                           "name": "Pr_40_30_53_65: Platform mirrors"
+                        },
+                        {
+                           "name": "Pr_40_30_53_70: Rail mirrors"
+                        },
+                        {
+                           "name": "Pr_40_30_53_73: Road mirrors"
+                        },
+                        {
+                           "name": "Pr_40_30_53_96: Wall mirrors"
+                        }
+                     ]
+                  },
+                  {
                      "name": "Pr_40_30_55: Musical instruments",
                      "children": [
                         {
@@ -12570,6 +12709,12 @@
                            "name": "Pr_40_30_61_52: Modular play climbers"
                         },
                         {
+                           "name": "Pr_40_30_61_59: Play cableways"
+                        },
+                        {
+                           "name": "Pr_40_30_61_60: Play rockers"
+                        },
+                        {
                            "name": "Pr_40_30_61_61: Play panels"
                         },
                         {
@@ -12601,6 +12746,9 @@
                         },
                         {
                            "name": "Pr_40_30_61_82: Spinning poles"
+                        },
+                        {
+                           "name": "Pr_40_30_61_84: Spring rockers"
                         },
                         {
                            "name": "Pr_40_30_61_88: Traditional rockers"
@@ -12746,6 +12894,9 @@
                            "name": "Pr_40_30_75_63: Plate safes"
                         },
                         {
+                           "name": "Pr_40_30_75_65: Premises information boxes"
+                        },
+                        {
                            "name": "Pr_40_30_75_76: Secure rooms"
                         },
                         {
@@ -12787,9 +12938,6 @@
                            "name": "Pr_40_30_78_17: Coat racks"
                         },
                         {
-                           "name": "Pr_40_30_78_19: Commercial kitchen shelving and racking units"
-                        },
-                        {
                            "name": "Pr_40_30_78_27: Equipment storage racks"
                         },
                         {
@@ -12824,6 +12972,9 @@
                         },
                         {
                            "name": "Pr_40_30_78_80: Shoe trees"
+                        },
+                        {
+                           "name": "Pr_40_30_78_85: Stainless steel shelving and racking units"
                         },
                         {
                            "name": "Pr_40_30_78_95: Wardrobe rails"
@@ -12983,6 +13134,9 @@
                            "name": "Pr_40_30_86_59: Pool rails"
                         },
                         {
+                           "name": "Pr_40_30_86_61: Portable starting platforms"
+                        },
+                        {
                            "name": "Pr_40_30_86_78: Small water flumes"
                         },
                         {
@@ -13091,6 +13245,9 @@
                         },
                         {
                            "name": "Pr_40_30_87_81: Sideboards"
+                        },
+                        {
+                           "name": "Pr_40_30_87_83: Smart lockers"
                         },
                         {
                            "name": "Pr_40_30_87_85: Storage chests"
@@ -13296,10 +13453,10 @@
                            "name": "Pr_40_50_07_19: Compost bins"
                         },
                         {
-                           "name": "Pr_40_50_07_22: Disposal containers"
+                           "name": "Pr_40_50_07_25: Dustbins"
                         },
                         {
-                           "name": "Pr_40_50_07_25: Dustbins"
+                           "name": "Pr_40_50_07_30: Fire bucket floor stands"
                         },
                         {
                            "name": "Pr_40_50_07_33: Galvanized steel fire buckets"
@@ -13333,6 +13490,9 @@
                         },
                         {
                            "name": "Pr_40_50_07_72: Refuse bins"
+                        },
+                        {
+                           "name": "Pr_40_50_07_73: Refuse containers"
                         },
                         {
                            "name": "Pr_40_50_07_75: Salt bins"
@@ -13710,6 +13870,9 @@
                         },
                         {
                            "name": "Pr_40_50_28_64: Portable fire extinguishers"
+                        },
+                        {
+                           "name": "Pr_40_50_28_95: Water fire extinguisher leather straps"
                         },
                         {
                            "name": "Pr_40_50_28_96: Water fire extinguishers"
@@ -14129,85 +14292,85 @@
                      "name": "Pr_40_70_17: Commercial cooking equipment",
                      "children": [
                         {
-                           "name": "Pr_40_70_17_11: Catering microwave ovens"
+                           "name": "Pr_40_70_17_16: Commercial conveyor toasters"
                         },
                         {
-                           "name": "Pr_40_70_17_16: Conveyor toasters"
+                           "name": "Pr_40_70_17_18: Commercial electric boiling pans"
                         },
                         {
-                           "name": "Pr_40_70_17_18: Electric boiling pans"
+                           "name": "Pr_40_70_17_19: Commercial electric boiling tables"
                         },
                         {
-                           "name": "Pr_40_70_17_19: Electric boiling tables"
+                           "name": "Pr_40_70_17_20: Commercial electric bratt pans"
                         },
                         {
-                           "name": "Pr_40_70_17_20: Electric bratt pans"
+                           "name": "Pr_40_70_17_21: Commercial electric cooking ranges"
                         },
                         {
-                           "name": "Pr_40_70_17_21: Electric cooking ranges"
+                           "name": "Pr_40_70_17_22: Commercial electric deep fat fryers"
                         },
                         {
-                           "name": "Pr_40_70_17_22: Electric deep fat fryers"
+                           "name": "Pr_40_70_17_24: Commercial electric griddles"
                         },
                         {
-                           "name": "Pr_40_70_17_23: Electric fryers"
-                        },
-                        {
-                           "name": "Pr_40_70_17_24: Electric griddles"
-                        },
-                        {
-                           "name": "Pr_40_70_17_25: Electric grills"
+                           "name": "Pr_40_70_17_25: Commercial electric grills"
                         },
                         {
                            "name": "Pr_40_70_17_27: Electric ovens"
                         },
                         {
-                           "name": "Pr_40_70_17_28: Electric steaming ovens"
+                           "name": "Pr_40_70_17_28: Commercial electric steaming ovens"
                         },
                         {
-                           "name": "Pr_40_70_17_33: Gas boiling pans"
+                           "name": "Pr_40_70_17_33: Commercial gas boiling pans"
                         },
                         {
-                           "name": "Pr_40_70_17_34: Gas boiling tables"
+                           "name": "Pr_40_70_17_34: Commercial gas boiling tables"
                         },
                         {
-                           "name": "Pr_40_70_17_35: Gas bratt pans"
+                           "name": "Pr_40_70_17_35: Commercial gas bratt pans"
                         },
                         {
-                           "name": "Pr_40_70_17_36: Gas cooking ranges"
+                           "name": "Pr_40_70_17_36: Commercial gas cooking ranges"
                         },
                         {
-                           "name": "Pr_40_70_17_37: Gas deep fat fryers"
+                           "name": "Pr_40_70_17_37: Commercial gas deep fat fryers"
                         },
                         {
-                           "name": "Pr_40_70_17_38: Gas fryers"
+                           "name": "Pr_40_70_17_39: Commercial gas griddles"
                         },
                         {
-                           "name": "Pr_40_70_17_39: Gas griddles"
-                        },
-                        {
-                           "name": "Pr_40_70_17_40: Gas grills"
+                           "name": "Pr_40_70_17_40: Commercial gas grills"
                         },
                         {
                            "name": "Pr_40_70_17_41: Gas ovens"
                         },
                         {
-                           "name": "Pr_40_70_17_42: Gas steaming ovens"
+                           "name": "Pr_40_70_17_42: Commercial gas steaming ovens"
                         },
                         {
-                           "name": "Pr_40_70_17_43: General-purpose electric ovens"
+                           "name": "Pr_40_70_17_43: Commercial general-purpose electric ovens"
                         },
                         {
-                           "name": "Pr_40_70_17_44: General-purpose gas ovens"
+                           "name": "Pr_40_70_17_44: Commercial general-purpose gas ovens"
                         },
                         {
-                           "name": "Pr_40_70_17_79: Slot toasters"
+                           "name": "Pr_40_70_17_52: Commercial microwave ovens"
+                        },
+                        {
+                           "name": "Pr_40_70_17_79: Commercial slot toasters"
                         }
                      ]
                   },
                   {
                      "name": "Pr_40_70_21: Dishwashers",
                      "children": [
+                        {
+                           "name": "Pr_40_70_21_12: Commercial pass-through dishwashers"
+                        },
+                        {
+                           "name": "Pr_40_70_21_14: Commercial under-counter dishwashers"
+                        },
                         {
                            "name": "Pr_40_70_21_16: Conveyor dishwashers"
                         },
@@ -14219,12 +14382,6 @@
                         },
                         {
                            "name": "Pr_40_70_21_30: Flight dishwashers"
-                        },
-                        {
-                           "name": "Pr_40_70_21_60: Pass-through dishwashers"
-                        },
-                        {
-                           "name": "Pr_40_70_21_92: Under-counter dishwashers"
                         }
                      ]
                   },
@@ -14248,6 +14405,9 @@
                         },
                         {
                            "name": "Pr_40_70_22_17: Condom dispensers"
+                        },
+                        {
+                           "name": "Pr_40_70_22_18: Commercial plate dispensers"
                         },
                         {
                            "name": "Pr_40_70_22_21: Couch roll holders"
@@ -14310,9 +14470,6 @@
                            "name": "Pr_40_70_22_64: Pay and display units"
                         },
                         {
-                           "name": "Pr_40_70_22_66: Plate dispensers"
-                        },
-                        {
                            "name": "Pr_40_70_22_71: Refreshment dispensers"
                         },
                         {
@@ -14351,10 +14508,10 @@
                            "name": "Pr_40_70_23_10: Buffet counters"
                         },
                         {
-                           "name": "Pr_40_70_23_24: Drink chillers"
+                           "name": "Pr_40_70_23_15: Commercial electric bains-marie"
                         },
                         {
-                           "name": "Pr_40_70_23_26: Electric bains-marie"
+                           "name": "Pr_40_70_23_24: Drink chillers"
                         },
                         {
                            "name": "Pr_40_70_23_27: Espresso machines"
@@ -14422,13 +14579,13 @@
                            "name": "Pr_40_70_24_26: Electric barbecues"
                         },
                         {
-                           "name": "Pr_40_70_24_27: Electric range cookers"
+                           "name": "Pr_40_70_24_27: Electric cooking ranges"
                         },
                         {
                            "name": "Pr_40_70_24_33: Gas barbecues"
                         },
                         {
-                           "name": "Pr_40_70_24_34: Gas range cookers"
+                           "name": "Pr_40_70_24_34: Gas cooking ranges"
                         },
                         {
                            "name": "Pr_40_70_24_35: Gas free-standing cookers"
@@ -14495,10 +14652,10 @@
                      "name": "Pr_40_70_31: Commercial food refrigerators and freezers",
                      "children": [
                         {
-                           "name": "Pr_40_70_31_06: Blast chiller cabinets"
+                           "name": "Pr_40_70_31_06: Commercial blast chiller cabinets"
                         },
                         {
-                           "name": "Pr_40_70_31_08: Blast freezer cabinets"
+                           "name": "Pr_40_70_31_08: Commercial blast freezer cabinets"
                         },
                         {
                            "name": "Pr_40_70_31_11: Catering freezers"
@@ -14510,19 +14667,19 @@
                            "name": "Pr_40_70_31_13: Chest freezer covers"
                         },
                         {
-                           "name": "Pr_40_70_31_29: Freezer cabinets"
+                           "name": "Pr_40_70_31_29: Commercial freezer cabinets"
                         },
                         {
-                           "name": "Pr_40_70_31_30: Freezer counters"
+                           "name": "Pr_40_70_31_30: Commercial freezer counters"
                         },
                         {
                            "name": "Pr_40_70_31_69: Refrigerated display cabinet airflow equipment"
                         },
                         {
-                           "name": "Pr_40_70_31_70: Refrigerated cabinets"
+                           "name": "Pr_40_70_31_70: Commercial refrigerated cabinets"
                         },
                         {
-                           "name": "Pr_40_70_31_71: Refrigerated counters"
+                           "name": "Pr_40_70_31_71: Commercial refrigerated counters"
                         }
                      ]
                   },
@@ -14583,7 +14740,7 @@
                            "name": "Pr_40_70_46_42: Ironing tables"
                         },
                         {
-                           "name": "Pr_40_70_46_45: Laundry cabinets"
+                           "name": "Pr_40_70_46_45: Laundry finishing cabinets"
                         },
                         {
                            "name": "Pr_40_70_46_46: Laundry feeders"
@@ -14633,19 +14790,22 @@
                            "name": "Pr_40_70_47_08: Batch laundry washers"
                         },
                         {
+                           "name": "Pr_40_70_47_15: Commercial washers"
+                        },
+                        {
                            "name": "Pr_40_70_47_32: Front-loading washers"
                         },
                         {
-                           "name": "Pr_40_70_47_46: Laundry dryers"
+                           "name": "Pr_40_70_47_46: Laundry drying cabinets"
                         },
                         {
                            "name": "Pr_40_70_47_75: Sanitary barrier washers"
                         },
                         {
-                           "name": "Pr_40_70_47_91: Tumble dryers"
+                           "name": "Pr_40_70_47_91: Commercial tumble dryers"
                         },
                         {
-                           "name": "Pr_40_70_47_97: Washer dryers"
+                           "name": "Pr_40_70_47_97: Commercial washer-dryers"
                         }
                      ]
                   },
@@ -14847,7 +15007,7 @@
                            "name": "Pr_40_70_65_17: Drink making equipment"
                         },
                         {
-                           "name": "Pr_40_70_65_26: Electric hot water dispensers"
+                           "name": "Pr_40_70_65_26: Commercial electric hot water dispensers"
                         },
                         {
                            "name": "Pr_40_70_65_29: Food blenders"
@@ -14856,22 +15016,22 @@
                            "name": "Pr_40_70_65_30: Food mincers"
                         },
                         {
-                           "name": "Pr_40_70_65_31: Food mixers"
+                           "name": "Pr_40_70_65_31: Commercial food mixers"
                         },
                         {
                            "name": "Pr_40_70_65_32: Food smokers"
                         },
                         {
-                           "name": "Pr_40_70_65_45: Gravity feed slicers"
+                           "name": "Pr_40_70_65_45: Commercial gravity feed slicers"
                         },
                         {
                            "name": "Pr_40_70_65_46: Hot cupboards"
                         },
                         {
-                           "name": "Pr_40_70_65_65: Potato peelers"
+                           "name": "Pr_40_70_65_65: Commercial potato peelers"
                         },
                         {
-                           "name": "Pr_40_70_65_94: Vegetable preparation machines"
+                           "name": "Pr_40_70_65_94: Commercial vegetable preparation machines"
                         }
                      ]
                   },
@@ -14942,7 +15102,7 @@
                            "name": "Pr_40_70_73_24: Drophead buckeye drawgears"
                         },
                         {
-                           "name": "Pr_40_70_73_30: Fixed CETs"
+                           "name": "Pr_40_70_73_30: Fixed controlled emission toilets (CETs)"
                         },
                         {
                            "name": "Pr_40_70_73_47: Lifting tables"
@@ -15008,9 +15168,6 @@
                         },
                         {
                            "name": "Pr_40_70_75_47: Lifebuoys"
-                        },
-                        {
-                           "name": "Pr_40_70_75_50: Manual push"
                         },
                         {
                            "name": "Pr_40_70_75_51: Manual rescue winches"
@@ -15429,10 +15586,10 @@
                            "name": "Pr_45_30_80_20: Container-grown shrubs"
                         },
                         {
-                           "name": "Pr_45_30_80_71: Rootballed bamboos"
+                           "name": "Pr_45_30_80_71: Root-balled bamboos"
                         },
                         {
-                           "name": "Pr_45_30_80_73: Rootballed shrubs"
+                           "name": "Pr_45_30_80_73: Root-balled shrubs"
                         }
                      ]
                   },
@@ -15464,10 +15621,10 @@
                            "name": "Pr_45_30_90_21: Container-grown trees"
                         },
                         {
-                           "name": "Pr_45_30_90_72: Rootballed conifers"
+                           "name": "Pr_45_30_90_72: Root-balled conifers"
                         },
                         {
-                           "name": "Pr_45_30_90_74: Rootballed trees"
+                           "name": "Pr_45_30_90_74: Root-balled trees"
                         }
                      ]
                   }
@@ -15861,7 +16018,7 @@
                            "name": "Pr_45_63_64_67: Protective fencing"
                         },
                         {
-                           "name": "Pr_45_63_64_72: Rootball securing frames"
+                           "name": "Pr_45_63_64_72: Root ball securing frames"
                         },
                         {
                            "name": "Pr_45_63_64_78: Shrub protectors"
@@ -15958,6 +16115,14 @@
                      ]
                   },
                   {
+                     "name": "Pr_60_45_05: Aquaculture products",
+                     "children": [
+                        {
+                           "name": "Pr_60_45_05_65: Protein skimmers"
+                        }
+                     ]
+                  },
+                  {
                      "name": "Pr_60_45_07: Biological filtration wastewater treatment products",
                      "children": [
                         {
@@ -16010,7 +16175,7 @@
                            "name": "Pr_60_45_24_60: Paddlewheel trickling filter distributor arms"
                         },
                         {
-                           "name": "Pr_60_45_24_72: Rotary reaction trickling filter distributor arms and syphons"
+                           "name": "Pr_60_45_24_72: Rotary reaction trickling filter distributor arms and siphons"
                         },
                         {
                            "name": "Pr_60_45_24_90: Turbine trickling filter distributor arms"
@@ -16210,6 +16375,9 @@
                   {
                      "name": "Pr_60_45_90: Wastewater and water mixer products",
                      "children": [
+                        {
+                           "name": "Pr_60_45_90_04: Air-driven mixers"
+                        },
                         {
                            "name": "Pr_60_45_90_15: Channel mixers"
                         },
@@ -16707,6 +16875,9 @@
                            "name": "Pr_60_55_97_02: Alkalinity dosing units"
                         },
                         {
+                           "name": "Pr_60_55_97_04: Airlift injectors"
+                        },
+                        {
                            "name": "Pr_60_55_97_06: Bioaugmentation devices"
                         },
                         {
@@ -16922,10 +17093,10 @@
                            "name": "Pr_60_60_13_38: Hot water-fired absorption liquid chillers"
                         },
                         {
-                           "name": "Pr_60_60_13_48: Low temperature refrigeration compressors"
+                           "name": "Pr_60_60_13_48: Low-temperature refrigeration compressors"
                         },
                         {
-                           "name": "Pr_60_60_13_51: Medium temperature refrigeration compressors"
+                           "name": "Pr_60_60_13_51: Medium-temperature refrigeration compressors"
                         },
                         {
                            "name": "Pr_60_60_13_59: Open circuit cooling towers"
@@ -17082,16 +17253,16 @@
                "name": "Pr_60_65: Air and fume source products",
                "children": [
                   {
-                     "name": "Pr_60_65_03: Air handling units",
+                     "name": "Pr_60_65_03: Air-handling units",
                      "children": [
                         {
-                           "name": "Pr_60_65_03_28: Extract and return air handling units"
+                           "name": "Pr_60_65_03_28: Extract and return air-handling units"
                         },
                         {
-                           "name": "Pr_60_65_03_86: Supply air handling units"
+                           "name": "Pr_60_65_03_86: Supply air-handling units"
                         },
                         {
-                           "name": "Pr_60_65_03_87: Supply and return air handling units"
+                           "name": "Pr_60_65_03_87: Supply and return air-handling units"
                         }
                      ]
                   },
@@ -17134,7 +17305,7 @@
                            "name": "Pr_60_65_37_41: Intercoolers"
                         },
                         {
-                           "name": "Pr_60_65_37_47: Low temperature hot water heating coils"
+                           "name": "Pr_60_65_37_47: Low-temperature hot water heating coils"
                         },
                         {
                            "name": "Pr_60_65_37_72: Refrigerant cooling coils"
@@ -17179,34 +17350,40 @@
                            "name": "Pr_60_70_06_05: Automatic battery chargers"
                         },
                         {
+                           "name": "Pr_60_70_06_07: Batteries"
+                        },
+                        {
+                           "name": "Pr_60_70_06_08: Battery boosters"
+                        },
+                        {
                            "name": "Pr_60_70_06_12: Central battery supply units"
                         },
                         {
-                           "name": "Pr_60_70_06_23: Direct current battery charge controllers"
-                        },
-                        {
-                           "name": "Pr_60_70_06_27: Electric vehicle chargers"
+                           "name": "Pr_60_70_06_23: Battery charge controllers"
                         },
                         {
                            "name": "Pr_60_70_06_28: Emergency call  battery backup supply"
                         },
                         {
-                           "name": "Pr_60_70_06_67: PV generator junction boxes"
+                           "name": "Pr_60_70_06_46: Lead-acid starter batteries"
+                        },
+                        {
+                           "name": "Pr_60_70_06_67: Photovoltaic (PV) generator junction boxes"
                         },
                         {
                            "name": "Pr_60_70_06_71: Rechargeable dry cell battery chargers"
                         },
                         {
-                           "name": "Pr_60_70_06_76: Sealed lead acid batteries"
+                           "name": "Pr_60_70_06_76: Sealed lead-acid batteries"
                         },
                         {
-                           "name": "Pr_60_70_06_77: Sealed nickel cadmium batteries"
+                           "name": "Pr_60_70_06_77: Sealed nickel-cadmium batteries"
                         },
                         {
-                           "name": "Pr_60_70_06_94: Valve regulated (sealed) lead acid"
+                           "name": "Pr_60_70_06_94: Valve-regulated lead-acid cells"
                         },
                         {
-                           "name": "Pr_60_70_06_95: Vented lead acid batteries"
+                           "name": "Pr_60_70_06_95: Vented lead-acid batteries"
                         },
                         {
                            "name": "Pr_60_70_06_96: Vented nickel cadmium batteries"
@@ -17218,9 +17395,6 @@
                      "children": [
                         {
                            "name": "Pr_60_70_22_11: Cable distribution cabinets"
-                        },
-                        {
-                           "name": "Pr_60_70_22_15: Consumer units"
                         },
                         {
                            "name": "Pr_60_70_22_19: Cubicle switchboards"
@@ -17242,9 +17416,6 @@
                         },
                         {
                            "name": "Pr_60_70_22_80: Spreader boxes"
-                        },
-                        {
-                           "name": "Pr_60_70_22_85: Sub-main distribution boards"
                         }
                      ]
                   },
@@ -17297,9 +17468,6 @@
                            "name": "Pr_60_70_36_72: High-voltage ring main units"
                         },
                         {
-                           "name": "Pr_60_70_36_75: High-voltage safety matting"
-                        },
-                        {
                            "name": "Pr_60_70_36_80: High-voltage switch-disconnectors"
                         },
                         {
@@ -17347,9 +17515,6 @@
                            "name": "Pr_60_70_48_44: Low-voltage fuse-switch-disconnectors"
                         },
                         {
-                           "name": "Pr_60_70_48_45: Low-voltage safety matting"
-                        },
-                        {
                            "name": "Pr_60_70_48_46: Low-voltage switch-disconnector fuses"
                         },
                         {
@@ -17374,6 +17539,15 @@
                            "name": "Pr_60_70_48_66: Power busbar trunking"
                         },
                         {
+                           "name": "Pr_60_70_48_68: Powertrack"
+                        },
+                        {
+                           "name": "Pr_60_70_48_69: Powertrack feed units"
+                        },
+                        {
+                           "name": "Pr_60_70_48_70: Powertrack tap-off units"
+                        },
+                        {
                            "name": "Pr_60_70_48_88: Transfer switching equipment (TSE)"
                         },
                         {
@@ -17384,6 +17558,12 @@
                   {
                      "name": "Pr_60_70_64: Power conditioning supply equipment",
                      "children": [
+                        {
+                           "name": "Pr_60_70_64_22: Direct current (d.c.) switch mode power supply units"
+                        },
+                        {
+                           "name": "Pr_60_70_64_84: Static frequency converters"
+                        },
                         {
                            "name": "Pr_60_70_64_86: Static inverter power supply units"
                         },
@@ -17454,6 +17634,14 @@
                         },
                         {
                            "name": "Pr_60_70_65_97: Wind turbine controllers"
+                        }
+                     ]
+                  },
+                  {
+                     "name": "Pr_60_70_90: Unregulated power supply units",
+                     "children": [
+                        {
+                           "name": "Pr_60_70_90_22: Direct current (d.c.) power supply units"
                         }
                      ]
                   }
@@ -17611,19 +17799,19 @@
                            "name": "Pr_60_75_86_06: Analogue pan-tilt-zoom (PTZ) cameras"
                         },
                         {
-                           "name": "Pr_60_75_86_07: Box cameras"
+                           "name": "Pr_60_75_86_07: Internet protocol (IP) box cameras"
                         },
                         {
                            "name": "Pr_60_75_86_08: Box camera lenses"
                         },
                         {
-                           "name": "Pr_60_75_86_09: Bullet cameras"
+                           "name": "Pr_60_75_86_09: Internet protocol (IP) bullet cameras"
                         },
                         {
                            "name": "Pr_60_75_86_10: Camera junction boxes"
                         },
                         {
-                           "name": "Pr_60_75_86_11: Covert cameras"
+                           "name": "Pr_60_75_86_11: Internet protocol (IP) covert cameras"
                         },
                         {
                            "name": "Pr_60_75_86_21: Day and night cameras"
@@ -17635,13 +17823,13 @@
                            "name": "Pr_60_75_86_30: Fixed cameras"
                         },
                         {
-                           "name": "Pr_60_75_86_31: Fixed dome cameras"
+                           "name": "Pr_60_75_86_31: Internet protocol (IP) fixed dome cameras"
                         },
                         {
                            "name": "Pr_60_75_86_40: Image processing units"
                         },
                         {
-                           "name": "Pr_60_75_86_41: Infra-red cameras"
+                           "name": "Pr_60_75_86_41: Infrared cameras"
                         },
                         {
                            "name": "Pr_60_75_86_42: Infrared illuminators"
@@ -17656,7 +17844,7 @@
                            "name": "Pr_60_75_86_60: Pan-and-tilt units"
                         },
                         {
-                           "name": "Pr_60_75_86_65: Pan-tilt-zoom cameras"
+                           "name": "Pr_60_75_86_65: Internet protocol (IP) high-speed pan-tilt-zoom (PTZ) cameras"
                         },
                         {
                            "name": "Pr_60_75_86_79: Surveillance monitors"
@@ -17709,9 +17897,6 @@
                      "name": "Pr_65_12_70: Refuse chutes and openings",
                      "children": [
                         {
-                           "name": "Pr_65_12_70_22: Disposal chutes"
-                        },
-                        {
                            "name": "Pr_65_12_70_24: Refuse chute discharge outlets"
                         },
                         {
@@ -17725,6 +17910,9 @@
                         },
                         {
                            "name": "Pr_65_12_70_72: Refuse and recycling separators"
+                        },
+                        {
+                           "name": "Pr_65_12_70_74: Refuse chutes"
                         }
                      ]
                   },
@@ -17929,7 +18117,7 @@
                            "name": "Pr_65_52_01_61: Plastics below-ground access or equipment chambers"
                         },
                         {
-                           "name": "Pr_65_52_01_62: Plastics channels for access chambers"
+                           "name": "Pr_65_52_01_62: Plastics access chamber channels"
                         },
                         {
                            "name": "Pr_65_52_01_63: Plastics distribution and sampling chambers"
@@ -17970,31 +18158,31 @@
                      "name": "Pr_65_52_03: Above-ground drainage pipes and fittings",
                      "children": [
                         {
-                           "name": "Pr_65_52_03_02: Acrylonitrile butadiene styrene (ABS) wastewater pipes and fittings"
+                           "name": "Pr_65_52_03_02: Acrylonitrile butadiene styrene (ABS) above-ground wastewater pipes and fittings"
                         },
                         {
                            "name": "Pr_65_52_03_04: Aluminium rainwater pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_03_08: Borosilicate glass pipes and fittings"
+                           "name": "Pr_65_52_03_08: Borosilicate glass above-ground wastewater pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_03_10: Cast iron discharge and ventilation pipes"
+                           "name": "Pr_65_52_03_10: Cast iron above-ground discharge and ventilation pipes"
                         },
                         {
                            "name": "Pr_65_52_03_11: Cast iron rainwater pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_03_12: Cast iron drainage pipes and fittings"
+                           "name": "Pr_65_52_03_12: Cast iron above-ground drainage pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_03_13: Chlorinated polyvinyl chloride (PVC-C) wastewater pipes and fittings"
+                           "name": "Pr_65_52_03_13: Chlorinated polyvinyl chloride (PVC-C) above-ground wastewater pipes and fittings"
                         },
                         {
                            "name": "Pr_65_52_03_19: Copper rainwater pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_03_21: Copper wastewater pipes and fittings"
+                           "name": "Pr_65_52_03_21: Copper above-ground drainage pipes and fittings"
                         },
                         {
                            "name": "Pr_65_52_03_30: Hot-dip pre-coated carbon steel rainwater pipes and fittings"
@@ -18003,28 +18191,28 @@
                            "name": "Pr_65_52_03_31: Galvanized steel rainwater pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_03_32: Galvanized steel drainage pipes and fittings"
+                           "name": "Pr_65_52_03_32: Galvanized steel above-ground drainage pipes and fittings"
                         },
                         {
                            "name": "Pr_65_52_03_34: Glass fibre-reinforced plastics (GRP) rainwater pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_03_52: Modified unplasticized polyvinyl chloride (MUPVC) pipes and fittings"
+                           "name": "Pr_65_52_03_37: High-density polyethylene (HDPE) above-ground drainage pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_03_61: Polyethylene (PE) drainage pipes and fittings"
+                           "name": "Pr_65_52_03_52: Modified unplasticized polyvinyl chloride (MUPVC) above-ground wastewater pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_03_66: Polypropylene (PP) solid wall pipes and fittings"
+                           "name": "Pr_65_52_03_66: Polypropylene (PP) above-ground wastewater pipes and fittings"
                         },
                         {
                            "name": "Pr_65_52_03_80: Stainless steel rainwater pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_03_81: Stainless steel wastewater pipes and fittings"
+                           "name": "Pr_65_52_03_81: Stainless steel above-ground drainage pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_03_87: Unplasticized polyvinyl chloride (PVC-U) drainage pipes and fittings"
+                           "name": "Pr_65_52_03_87: Unplasticized polyvinyl chloride (PVC-U) above-ground drainage pipes and fittings"
                         },
                         {
                            "name": "Pr_65_52_03_88: Unplasticized polyvinyl chloride (PVC-U) rainwater pipes and fittings"
@@ -18065,7 +18253,7 @@
                            "name": "Pr_65_52_07_34: Grey cast iron below-ground drainage pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_07_36: High-density polyethylene (HDPE) pressure pipes and fittings"
+                           "name": "Pr_65_52_07_36: High-density polyethylene (HDPE) below-ground drainage pressure pipes and fittings"
                         },
                         {
                            "name": "Pr_65_52_07_38: High-density polyethylene (HDPE) structured wall below-ground drainage pipes and fittings"
@@ -18095,7 +18283,7 @@
                            "name": "Pr_65_52_07_84: Steel-reinforced polyethylene composite structured wall below-ground drainage pipelines"
                         },
                         {
-                           "name": "Pr_65_52_07_87: Unplasticized polyvinyl chloride (PVC-U) pressure pipes and fittings"
+                           "name": "Pr_65_52_07_87: Unplasticized polyvinyl chloride (PVC-U) below-ground drainage pressure pipes and fittings"
                         },
                         {
                            "name": "Pr_65_52_07_88: Unplasticized polyvinyl chloride (PVC-U) solid wall below-ground drainage pipes and fittings"
@@ -18550,13 +18738,13 @@
                            "name": "Pr_65_52_63_14: Chlorinated polyvinyl chloride (PVC-C) pipelines"
                         },
                         {
-                           "name": "Pr_65_52_63_17: Copper pipelines"
+                           "name": "Pr_65_52_63_17: Copper pipes"
                         },
                         {
-                           "name": "Pr_65_52_63_18: Copper pipeline fittings"
+                           "name": "Pr_65_52_63_18: Copper pipe fittings"
                         },
                         {
-                           "name": "Pr_65_52_63_20: Copper refrigerant pipelines"
+                           "name": "Pr_65_52_63_20: Copper refrigerant pipes"
                         },
                         {
                            "name": "Pr_65_52_63_22: Corrugated stainless steel pipes and fittings"
@@ -18568,16 +18756,16 @@
                            "name": "Pr_65_52_63_25: Ductile iron pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_63_29: Flexible composite pipelines for liquid fuels"
+                           "name": "Pr_65_52_63_29: Flexible composite pipes for liquid fuels"
                         },
                         {
-                           "name": "Pr_65_52_63_32: Glass pipelines"
+                           "name": "Pr_65_52_63_32: Glass pipes"
                         },
                         {
                            "name": "Pr_65_52_63_33: Glass fibre-reinforced plastics (GRP) pressure pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_63_35: Glass fibre-reinforced plastics (GRP) pipe and fittings for liquid fuels"
+                           "name": "Pr_65_52_63_35: Glass fibre-reinforced plastics (GRP) pipes and fittings for liquid fuels"
                         },
                         {
                            "name": "Pr_65_52_63_46: Lead pipes and fittings"
@@ -18586,10 +18774,10 @@
                            "name": "Pr_65_52_63_50: Medical gas copper tube"
                         },
                         {
-                           "name": "Pr_65_52_63_54: Multilayer pipelines for gaseous fuels"
+                           "name": "Pr_65_52_63_54: Multilayer pipes for gaseous fuels"
                         },
                         {
-                           "name": "Pr_65_52_63_55: Multilayer pipelines for water"
+                           "name": "Pr_65_52_63_55: Multilayer pipes for water"
                         },
                         {
                            "name": "Pr_65_52_63_60: Polybutylene (PB) pipes and fittings"
@@ -18604,31 +18792,31 @@
                            "name": "Pr_65_52_63_64: Polyethylene (PE) pipes for liquid fuels"
                         },
                         {
-                           "name": "Pr_65_52_63_65: Polypropylene (PP) pipelines"
+                           "name": "Pr_65_52_63_65: Polypropylene (PP) pipes"
                         },
                         {
-                           "name": "Pr_65_52_63_68: Pre-insulated pipelines"
+                           "name": "Pr_65_52_63_68: Pre-insulated pipes"
                         },
                         {
                            "name": "Pr_65_52_63_70: Propylene copolymer pressure pipes and fittings"
                         },
                         {
-                           "name": "Pr_65_52_63_78: Stainless steel pipelines"
+                           "name": "Pr_65_52_63_78: Stainless steel pipes"
                         },
                         {
-                           "name": "Pr_65_52_63_79: Stainless steel pipeline fittings"
+                           "name": "Pr_65_52_63_79: Stainless steel pipe fittings"
                         },
                         {
-                           "name": "Pr_65_52_63_82: Steel pipelines"
+                           "name": "Pr_65_52_63_82: Steel pipes"
                         },
                         {
-                           "name": "Pr_65_52_63_83: Steel pipeline fittings"
+                           "name": "Pr_65_52_63_83: Steel pipe fittings"
                         },
                         {
                            "name": "Pr_65_52_63_84: Steel pipes and fittings for liquid fuels"
                         },
                         {
-                           "name": "Pr_65_52_63_89: Unplasticized polyvinyl chloride (PVC-U) pipelines"
+                           "name": "Pr_65_52_63_89: Unplasticized polyvinyl chloride (PVC-U) pipes"
                         }
                      ]
                   }
@@ -18878,9 +19066,6 @@
                            "name": "Pr_65_54_30_25: Dry dropper outlet valves"
                         },
                         {
-                           "name": "Pr_65_54_30_30: Firefighting alarm devices"
-                        },
-                        {
                            "name": "Pr_65_54_30_32: Fusible links"
                         },
                         {
@@ -18912,9 +19097,6 @@
                         },
                         {
                            "name": "Pr_65_54_30_85: Sprinkler system alarm valves"
-                        },
-                        {
-                           "name": "Pr_65_54_30_95: Water fire extinguisher leather straps"
                         },
                         {
                            "name": "Pr_65_54_30_96: Water mist control valves"
@@ -19065,22 +19247,22 @@
                      "name": "Pr_65_54_40: Irrigation valves",
                      "children": [
                         {
-                           "name": "Pr_65_54_40_02: Air valves"
+                           "name": "Pr_65_54_40_02: Irrigation air valves"
                         },
                         {
-                           "name": "Pr_65_54_40_13: Check valves"
+                           "name": "Pr_65_54_40_13: Irrigation check valves"
                         },
                         {
-                           "name": "Pr_65_54_40_16: Control valves"
+                           "name": "Pr_65_54_40_16: Irrigation control valves"
                         },
                         {
-                           "name": "Pr_65_54_40_44: Isolating valves"
+                           "name": "Pr_65_54_40_44: Irrigation isolating valves"
                         },
                         {
-                           "name": "Pr_65_54_40_62: Plastics isolating valves"
+                           "name": "Pr_65_54_40_62: Irrigation plastics isolating valves"
                         },
                         {
-                           "name": "Pr_65_54_40_94: Volumetric control valves"
+                           "name": "Pr_65_54_40_94: Irrigation volumetric control valves"
                         }
                      ]
                   },
@@ -19336,6 +19518,9 @@
                            "name": "Pr_65_54_95_33: Foot valves"
                         },
                         {
+                           "name": "Pr_65_54_95_34: Four-port valves"
+                        },
+                        {
                            "name": "Pr_65_54_95_38: Hose union backflow prevention devices"
                         },
                         {
@@ -19409,6 +19594,9 @@
                         },
                         {
                            "name": "Pr_65_54_95_90: Three-way vent cocks"
+                        },
+                        {
+                           "name": "Pr_65_54_95_91: Three-way valves"
                         },
                         {
                            "name": "Pr_65_54_95_92: Underfloor heating and cooling manifolds"
@@ -19788,6 +19976,9 @@
                            "name": "Pr_65_65_23_25: Ductwork access doorsets"
                         },
                         {
+                           "name": "Pr_65_65_23_27: Ductwork security bars"
+                        },
+                        {
                            "name": "Pr_65_65_23_69: Quench pipe bellows"
                         }
                      ]
@@ -19971,9 +20162,6 @@
                      "name": "Pr_65_67_39: Humidifiers and dehumidifiers",
                      "children": [
                         {
-                           "name": "Pr_65_67_39_15: Compressed air and water humidifiers"
-                        },
-                        {
                            "name": "Pr_65_67_39_22: Desiccant dehumidifiers"
                         },
                         {
@@ -19983,13 +20171,7 @@
                            "name": "Pr_65_67_39_37: Heat pump dehumidifiers"
                         },
                         {
-                           "name": "Pr_65_67_39_72: Resistance heater humidifiers"
-                        },
-                        {
                            "name": "Pr_65_67_39_84: Steam humidifiers"
-                        },
-                        {
-                           "name": "Pr_65_67_39_92: Ultrasonic humidifiers"
                         },
                         {
                            "name": "Pr_65_67_39_96: Water atomizing humidifiers"
@@ -20047,6 +20229,9 @@
                            "name": "Pr_65_70_11_02: Cable assemblies"
                         },
                         {
+                           "name": "Pr_65_70_11_06: Bench trunking"
+                        },
+                        {
                            "name": "Pr_65_70_11_09: Buried conduit"
                         },
                         {
@@ -20083,6 +20268,9 @@
                            "name": "Pr_65_70_11_20: Conduit fittings"
                         },
                         {
+                           "name": "Pr_65_70_11_21: Cable jointing pits"
+                        },
+                        {
                            "name": "Pr_65_70_11_25: Duct banks"
                         },
                         {
@@ -20107,7 +20295,7 @@
                            "name": "Pr_65_70_11_61: Perimeter trunking"
                         },
                         {
-                           "name": "Pr_65_70_11_62: Plastic ducts for buried electric cables"
+                           "name": "Pr_65_70_11_62: Plastics ducts for buried electric cables"
                         },
                         {
                            "name": "Pr_65_70_11_63: Pliable conduit"
@@ -20129,6 +20317,9 @@
                         },
                         {
                            "name": "Pr_65_70_11_76: Service outlet poles"
+                        },
+                        {
+                           "name": "Pr_65_70_11_78: Skirting trunking"
                         },
                         {
                            "name": "Pr_65_70_11_79: Slotted cable trunking"
@@ -20188,7 +20379,7 @@
                            "name": "Pr_65_70_15_04: Armoured communications cables"
                         },
                         {
-                           "name": "Pr_65_70_15_06: Balanced twisted-pair cables"
+                           "name": "Pr_65_70_15_06: Balanced twisted pair cables"
                         },
                         {
                            "name": "Pr_65_70_15_13: Coaxial cables"
@@ -20203,7 +20394,7 @@
                            "name": "Pr_65_70_15_17: Copper voice cables"
                         },
                         {
-                           "name": "Pr_65_70_15_18: Copper voice (LSF) cables"
+                           "name": "Pr_65_70_15_18: Copper voice low-smoke halogen-free (LSHF) cables"
                         },
                         {
                            "name": "Pr_65_70_15_32: Functional earth cables"
@@ -20300,7 +20491,7 @@
                            "name": "Pr_65_70_36_37: High-voltage power cables with extruded insulation"
                         },
                         {
-                           "name": "Pr_65_70_36_38: High-voltage power cables with low smoke thermosetting insulation"
+                           "name": "Pr_65_70_36_38: High-voltage power cables with low-smoke thermosetting insulation"
                         },
                         {
                            "name": "Pr_65_70_36_39: High-voltage power cables with impregnated paper insulation lead alloy sheath"
@@ -20405,112 +20596,118 @@
                      "name": "Pr_65_70_48: Low-voltage cables",
                      "children": [
                         {
-                           "name": "Pr_65_70_48_13: Cross-linked EVA-insulated single-core non-sheathed cables"
+                           "name": "Pr_65_70_48_13: Cross-linked ethylene vinyl acetate (EVA)-insulated non-sheathed single-core cables"
                         },
                         {
                            "name": "Pr_65_70_48_14: Cross-linked silicone rubber-insulated single-core cables"
                         },
                         {
-                           "name": "Pr_65_70_48_29: Fire-resistant screened (LSHF) cables"
+                           "name": "Pr_65_70_48_15: Cross-linked polyolefin-insulated low-smoke halogen-free (LSHF) non-sheathed single-core cables"
                         },
                         {
-                           "name": "Pr_65_70_48_31: Flexible cables with cross-linked elastomeric insulation"
+                           "name": "Pr_65_70_48_29: Fire-resistant screened low-smoke halogen-free (LSHF) cables"
                         },
                         {
-                           "name": "Pr_65_70_48_32: Flexible cables with thermoplastic PVC insulation"
+                           "name": "Pr_65_70_48_31: Cross-linked elastomeric-insulated flexible cables"
                         },
                         {
-                           "name": "Pr_65_70_48_37: Heat-resistant single-core non-sheathed cross-linked elastomeric-insulated cables"
+                           "name": "Pr_65_70_48_32: Thermoplastic polyvinyl chloride (PVC)-insulated flexible cables"
+                        },
+                        {
+                           "name": "Pr_65_70_48_37: Cross-linked elastomeric-insulated heat-resistant single-core non-sheathed cables"
                         },
                         {
                            "name": "Pr_65_70_48_38: Heavy-duty cross-linked elastomeric-insulated and sheathed flexible cables"
                         },
                         {
-                           "name": "Pr_65_70_48_39: Heavy-duty heat-resistant cross-linked elastomeric-insulated and sheathed flexible cables"
+                           "name": "Pr_65_70_48_39: Heavy-duty cross-linked elastomeric-insulated and sheathed heat-resistant flexible single-core cables"
                         },
                         {
-                           "name": "Pr_65_70_48_40: Heavy-duty heat-resistant LSHF-insulated and sheathed flexible cables"
+                           "name": "Pr_65_70_48_40: Heavy-duty low-smoke halogen-free (LSHF) insulated and sheathed heat-resistant flexible cables"
                         },
                         {
                            "name": "Pr_65_70_48_41: Heavy-duty mineral-insulated cables"
                         },
                         {
-                           "name": "Pr_65_70_48_46: Light-duty heat-resistant PVC-insulated and sheathed flexible cables"
+                           "name": "Pr_65_70_48_46: Light-duty polyvinyl chloride (PVC)-insulated and sheathed heat-resistant flexible cables"
                         },
                         {
                            "name": "Pr_65_70_48_48: Light-duty mineral-insulated cables"
                         },
                         {
-                           "name": "Pr_65_70_48_49: Light-duty PVC-insulated and sheathed flexible cables"
+                           "name": "Pr_65_70_48_49: Light-duty polyvinyl chloride (PVC)-insulated and sheathed flexible cables"
                         },
                         {
                            "name": "Pr_65_70_48_50: Low-voltage cold shrink cable joints"
                         },
                         {
-                           "name": "Pr_65_70_48_55: Multicore screened thermosetting-insulated (LSHF) sheathed cables"
+                           "name": "Pr_65_70_48_54: Ordinary-duty cross-linked elastomeric-insulated thermoplastic polyurethane (TPU)-sheathed heat-resistant flexible cables"
+                        },
+                        {
+                           "name": "Pr_65_70_48_55: Cross-linked elastomeric-insulated and thermoplastic-sheathed low-smoke halogen-free (LSHF) screened multicore cables"
                         },
                         {
                            "name": "Pr_65_70_48_56: Ordinary-duty cross-linked elastomeric-insulated and sheathed flexible cables"
                         },
                         {
-                           "name": "Pr_65_70_48_57: Ordinary-duty heat-resistant cross-linked elastomeric-insulated and sheathed flexible cables"
+                           "name": "Pr_65_70_48_57: Ordinary-duty cross-linked elastomeric-insulated and sheathed heat-resistant flexible cables"
                         },
                         {
-                           "name": "Pr_65_70_48_58: Ordinary-duty heat-resistant PVC-insulated and sheathed flexible cables"
+                           "name": "Pr_65_70_48_58: Ordinary-duty polyvinyl chloride (PVC)-insulated and sheathed heat-resistant flexible cables"
                         },
                         {
-                           "name": "Pr_65_70_48_59: Ordinary-duty low-temperature PVC-insulated and sheathed flexible cables"
+                           "name": "Pr_65_70_48_59: Ordinary-duty polyvinyl chloride (PVC)-insulated and sheathed low-temperature flexible cables"
                         },
                         {
-                           "name": "Pr_65_70_48_60: Ordinary-duty PVC-insulated and sheathed flexible cables"
+                           "name": "Pr_65_70_48_60: Ordinary-duty polyvinyl chloride (PVC)-insulated and sheathed flexible cables"
                         },
                         {
-                           "name": "Pr_65_70_48_61: PVC-insulated and sheathed cables"
+                           "name": "Pr_65_70_48_61: Polyvinyl chloride (PVC)-insulated and sheathed cables"
                         },
                         {
-                           "name": "Pr_65_70_48_62: PVC-insulated flexible single core cables for switchgear and controlgear wiring"
+                           "name": "Pr_65_70_48_62: Polyvinyl chloride (PVC)-insulated flexible single-core cables for switchgear and controlgear wiring"
                         },
                         {
-                           "name": "Pr_65_70_48_63: PVC-insulated single core non-sheathed cables"
+                           "name": "Pr_65_70_48_63: Polyvinyl chloride (PVC)-insulated non-sheathed single-core cables"
                         },
                         {
-                           "name": "Pr_65_70_48_73: Single-core heavy-duty cross-linked insulated and sheathed flexible (LSHF) cables"
+                           "name": "Pr_65_70_48_73: Heavy-duty cross-linked elastomeric-insulated and sheathed low-smoke halogen-free (LSHF) heat-resistant flexible single-core cables"
                         },
                         {
-                           "name": "Pr_65_70_48_74: Single-core heat-resistant non-sheathed thermoplastic PVC-insulated cables"
+                           "name": "Pr_65_70_48_74: Polyvinyl chloride (PVC)-insulated non-sheathed heat-resistant single-core cables"
                         },
                         {
-                           "name": "Pr_65_70_48_75: Single-core non-sheathed (LHSF) insulated cables"
+                           "name": "Pr_65_70_48_75: Low-smoke halogen-free (LSHF) insulated single-core non-sheathed cables"
                         },
                         {
-                           "name": "Pr_65_70_48_77: Single-core PVC-insulated cables"
+                           "name": "Pr_65_70_48_77: Polyvinyl chloride (PVC)-insulated single-core cables"
                         },
                         {
-                           "name": "Pr_65_70_48_79: Split concentric PVC-insulated and sheathed cables"
+                           "name": "Pr_65_70_48_79: Split concentric cables"
                         },
                         {
-                           "name": "Pr_65_70_48_88: Thermosetting-insulated armoured fire-resistant (LSHF) cables"
+                           "name": "Pr_65_70_48_88: Thermosetting insulated armoured fire-resistant low-smoke halogen-free (LSHF) cables"
                         },
                         {
-                           "name": "Pr_65_70_48_89: Thermosetting-insulated and PVC-sheathed armoured cables"
+                           "name": "Pr_65_70_48_89: Thermosetting insulated polyvinyl chloride (PVC)-sheathed armoured cables"
                         },
                         {
-                           "name": "Pr_65_70_48_90: Thermosetting-insulated and thermoplastic-sheathed (LSHF) armoured cables"
+                           "name": "Pr_65_70_48_90: Thermosetting insulated thermoplastic-sheathed low-smoke halogen-free (LSHF) armoured cables"
                         },
                         {
-                           "name": "Pr_65_70_48_91: Thermosetting-insulated and thermoplastic-sheathed (LSHF) cables"
+                           "name": "Pr_65_70_48_91: Thermosetting insulated thermoplastic-sheathed low-smoke halogen-free (LSHF) cables"
                         },
                         {
-                           "name": "Pr_65_70_48_92: Thermosetting-insulated non-armoured PVC-sheathed cables"
+                           "name": "Pr_65_70_48_92: Thermosetting insulated polyvinyl chloride (PVC)-sheathed non-armoured cables"
                         },
                         {
-                           "name": "Pr_65_70_48_93: Thermosetting-insulated (XLPE), thermoplastic low smoke zero halogen (LSZH) sheathed cables"
+                           "name": "Pr_65_70_48_93: Thermosetting insulated cross-linked polyethylene (XLPE) thermoplastic low-smoke halogen-free (LSHF) sheathed cables"
                         },
                         {
-                           "name": "Pr_65_70_48_94: Thermosetting-insulated, non-armoured, fire-resistant, single-core non-sheathed cables"
+                           "name": "Pr_65_70_48_94: Thermosetting insulated non-sheathed non-armoured fire-resistant single-core cables"
                         },
                         {
-                           "name": "Pr_65_70_48_95: Thermosetting-insulated single-core fire-resistant non-armoured non-sheathed cables"
+                           "name": "Pr_65_70_48_95: Thermosetting insulated non-armoured fire-resistant single-core non-sheathed cables"
                         }
                      ]
                   },
@@ -20536,10 +20733,10 @@
                            "name": "Pr_65_70_50_49: Luminaire connection cables"
                         },
                         {
-                           "name": "Pr_65_70_50_64: Prefabricated low smoke zero halogen (LSZH) insulated and sheathed multicore cables"
+                           "name": "Pr_65_70_50_64: Prefabricated low-smoke zero-halogen (LSZH) insulated and sheathed multicore cables"
                         },
                         {
-                           "name": "Pr_65_70_50_66: Prefabricated low smoke zero halogen (LSZH) insulated single cables in flexible conduit"
+                           "name": "Pr_65_70_50_66: Prefabricated low-smoke zero-halogen (LSZH) insulated single cables in flexible conduit"
                         },
                         {
                            "name": "Pr_65_70_50_72: RJ45 cables"
@@ -20571,19 +20768,19 @@
                            "name": "Pr_65_70_70_83: Screened, multicore, cross-linked elastomeric-insulated, reduced dimensions, special fire performance cables"
                         },
                         {
-                           "name": "Pr_65_70_70_85: Single core, cross-linked elastomeric-insulated, reduced dimensions, special fire performance cables"
+                           "name": "Pr_65_70_70_85: Single-core, cross-linked elastomeric-insulated, reduced dimensions, special fire performance cables"
                         },
                         {
-                           "name": "Pr_65_70_70_87: Single core, cross-linked elastomeric-insulated, 600/1000 V, special fire performance cables"
+                           "name": "Pr_65_70_70_87: Single-core, cross-linked elastomeric-insulated, 600/ 1000 V, special fire performance cables"
                         },
                         {
-                           "name": "Pr_65_70_70_88: Single core, cross-linked elastomeric-insulated, 1.8/3 kV, special fire performance cables"
+                           "name": "Pr_65_70_70_88: Single-core, cross-linked elastomeric-insulated, 1.8/ 3 kV, special fire performance cables"
                         },
                         {
-                           "name": "Pr_65_70_70_89: Single core, silicone rubber-insulated, high-temperature, special fire performance cables"
+                           "name": "Pr_65_70_70_89: Single-core, silicone rubber-insulated, high-temperature, special fire performance cables"
                         },
                         {
-                           "name": "Pr_65_70_70_91: Single core, thin wall-insulated, special fire performance cables"
+                           "name": "Pr_65_70_70_91: Single-core, thin wall-insulated, special fire performance cables"
                         }
                      ]
                   },
@@ -20591,19 +20788,19 @@
                      "name": "Pr_65_70_80: Signalling cables",
                      "children": [
                         {
-                           "name": "Pr_65_70_80_01: 2 core unscreened 1000 V (LSF) cables"
+                           "name": "Pr_65_70_80_01: Two-core unscreened 1000 V low-smoke halogen-free (LSHF) cables"
                         },
                         {
-                           "name": "Pr_65_70_80_03: Abrasion-resistant single-core triple-insulated (LSF) signalling equipment room cables"
+                           "name": "Pr_65_70_80_03: Abrasion-resistant single-core triple-insulated low-smoke halogen-free (LSHF) signalling equipment room cables"
                         },
                         {
                            "name": "Pr_65_70_80_14: Concentric screened cables with screens separate"
                         },
                         {
-                           "name": "Pr_65_70_80_16: Concentric screened (LSF) cables with screens separate"
+                           "name": "Pr_65_70_80_16: Concentric screened low-smoke halogen-free (LSHF) cables with screens separate"
                         },
                         {
-                           "name": "Pr_65_70_80_46: Multicore concentric screened (LSF) track crossing cables with screens in contact"
+                           "name": "Pr_65_70_80_46: Multicore concentric screened low-smoke halogen-free (LSHF) track crossing cables with screens in contact"
                         },
                         {
                            "name": "Pr_65_70_80_47: Multicore concentric screened track crossing cables with screens in contact"
@@ -20612,37 +20809,37 @@
                            "name": "Pr_65_70_80_49: Multicore concentric screened track crossing cables with screens separate"
                         },
                         {
-                           "name": "Pr_65_70_80_51: Multicore screened (LSF) cable run cables"
+                           "name": "Pr_65_70_80_51: Multicore screened low-smoke halogen-free (LSHF) cable run cables"
                         },
                         {
-                           "name": "Pr_65_70_80_52: Multicore screened (LSF) track crossing cables"
+                           "name": "Pr_65_70_80_52: Multicore screened low-smoke halogen-free (LSHF) track crossing cables"
                         },
                         {
-                           "name": "Pr_65_70_80_53: Multicore screened pair (LSF) axle counter cables"
+                           "name": "Pr_65_70_80_53: Multicore screened pair low-smoke halogen-free (LSHF) axle counter cables"
                         },
                         {
-                           "name": "Pr_65_70_80_55: Multi-pair screened (LSF) cables with each pair screened"
+                           "name": "Pr_65_70_80_55: Multi-pair screened low-smoke halogen-free (LSHF) cables with each pair screened"
                         },
                         {
-                           "name": "Pr_65_70_80_74: Single core double insulated inductive loop track cables"
+                           "name": "Pr_65_70_80_74: Single-core double-insulated inductive loop track cables"
                         },
                         {
-                           "name": "Pr_65_70_80_75: Single core double insulated (LSF) 600 V cables"
+                           "name": "Pr_65_70_80_75: Single-core double-insulated (LSF) 600 V cables"
                         },
                         {
-                           "name": "Pr_65_70_80_76: Single core double insulated (LSF) 600 V track crossing cables"
+                           "name": "Pr_65_70_80_76: Single-core double-insulated (LSF) 600 V track crossing cables"
                         },
                         {
-                           "name": "Pr_65_70_80_78: Single core double insulated (LSF) signalling equipment room cables"
+                           "name": "Pr_65_70_80_78: Single-core double-insulated (LSF) signalling equipment room cables"
                         },
                         {
-                           "name": "Pr_65_70_80_79: Single core double insulated (LSF) track crossing cables"
+                           "name": "Pr_65_70_80_79: Single-core double-insulated (LSF) track crossing cables"
                         },
                         {
-                           "name": "Pr_65_70_80_81: Single core (LSF) cables"
+                           "name": "Pr_65_70_80_81: Single-core (LSF) cables"
                         },
                         {
-                           "name": "Pr_65_70_80_83: Single core screened pair axle counter cables"
+                           "name": "Pr_65_70_80_83: Single-core screened pair axle counter cables"
                         },
                         {
                            "name": "Pr_65_70_80_87: Triaxial concentric cables"
@@ -20744,6 +20941,9 @@
                            "name": "Pr_65_72_43_39: Hybrid electrical filters"
                         },
                         {
+                           "name": "Pr_65_72_43_41: Inductive voltage transformers"
+                        },
+                        {
                            "name": "Pr_65_72_43_42: Inverters"
                         },
                         {
@@ -20757,9 +20957,6 @@
                         },
                         {
                            "name": "Pr_65_72_43_95: Voltage optimizers"
-                        },
-                        {
-                           "name": "Pr_65_72_43_96: Voltage transformers"
                         }
                      ]
                   },
@@ -20825,7 +21022,7 @@
                            "name": "Pr_65_72_97_03: Architrave switches"
                         },
                         {
-                           "name": "Pr_65_72_97_06: Bayonet lamp holders"
+                           "name": "Pr_65_72_97_06: Bayonet batten lampholders"
                         },
                         {
                            "name": "Pr_65_72_97_11: Cable couplers"
@@ -20858,7 +21055,7 @@
                            "name": "Pr_65_72_97_23: Double-pole switches"
                         },
                         {
-                           "name": "Pr_65_72_97_26: Edison screw lamp holders"
+                           "name": "Pr_65_72_97_26: Edison screw batten lampholders"
                         },
                         {
                            "name": "Pr_65_72_97_27: Electrical connection boxes"
@@ -20883,6 +21080,12 @@
                         },
                         {
                            "name": "Pr_65_72_97_41: Industrial socket outlets"
+                        },
+                        {
+                           "name": "Pr_65_72_97_45: Key-operated switches"
+                        },
+                        {
+                           "name": "Pr_65_72_97_46: Light switches"
                         },
                         {
                            "name": "Pr_65_72_97_47: Luminaire supporting couplers"
@@ -20910,6 +21113,9 @@
                         },
                         {
                            "name": "Pr_65_72_97_79: Single voltage shaver outlets"
+                        },
+                        {
+                           "name": "Pr_65_72_97_80: Socket outlet fire-stopping inserts"
                         },
                         {
                            "name": "Pr_65_72_97_81: Socket outlet residual current devices (SRCD)"
@@ -21080,28 +21286,31 @@
                      ]
                   },
                   {
-                     "name": "Pr_65_80_42: Inclined transport cars, platforms and chairs",
+                     "name": "Pr_65_80_42: Transport cars, platforms and chairs",
                      "children": [
                         {
                            "name": "Pr_65_80_42_11: Cable cars"
                         },
                         {
+                           "name": "Pr_65_80_42_15: Chairlifts"
+                        },
+                        {
                            "name": "Pr_65_80_42_37: Homelifts"
                         },
                         {
-                           "name": "Pr_65_80_42_39: Inclined chairlifts"
-                        },
-                        {
-                           "name": "Pr_65_80_42_42: Inclined standing platforms"
-                        },
-                        {
-                           "name": "Pr_65_80_42_43: Inclined wheelchair platforms"
+                           "name": "Pr_65_80_42_64: Platform lifts"
                         },
                         {
                            "name": "Pr_65_80_42_77: Ski lift chairs"
                         },
                         {
-                           "name": "Pr_65_80_42_84: Stairlift trolleys"
+                           "name": "Pr_65_80_42_83: Step lifts"
+                        },
+                        {
+                           "name": "Pr_65_80_42_85: Standing platform stairlifts"
+                        },
+                        {
+                           "name": "Pr_65_80_42_97: Wheelchair platform stairlifts"
                         }
                      ]
                   },
@@ -21145,9 +21354,6 @@
                         },
                         {
                            "name": "Pr_65_80_47_76: Service hoists"
-                        },
-                        {
-                           "name": "Pr_65_80_47_84: Step lifts"
                         },
                         {
                            "name": "Pr_65_80_47_94: Vehicle hoists"
@@ -21454,7 +21660,7 @@
                      ]
                   },
                   {
-                     "name": "Pr_70_55_96: Waste water outlets and plugs",
+                     "name": "Pr_70_55_96: Wastewater outlets and plugs",
                      "children": [
                         {
                            "name": "Pr_70_55_96_06: Bath wastes"
@@ -21478,7 +21684,7 @@
                            "name": "Pr_70_55_96_97: Washbasin wastes"
                         },
                         {
-                           "name": "Pr_70_55_96_98: Waste water plugs and chains"
+                           "name": "Pr_70_55_96_98: Wastewater plugs and chains"
                         }
                      ]
                   },
@@ -21644,10 +21850,10 @@
                            "name": "Pr_70_60_36_42: Inset live fuel effect gas fires"
                         },
                         {
-                           "name": "Pr_70_60_36_48: Low temperature hot water (LTHW) heated towel rails"
+                           "name": "Pr_70_60_36_48: Low-temperature hot water heated towel rails"
                         },
                         {
-                           "name": "Pr_70_60_36_49: Low temperature hot water (LTHW) underfloor heating"
+                           "name": "Pr_70_60_36_49: Low-temperature hot water underfloor heating"
                         },
                         {
                            "name": "Pr_70_60_36_52: Mirror heaters"
@@ -21863,6 +22069,12 @@
                            "name": "Pr_70_65_04_04: Air plenum boxes"
                         },
                         {
+                           "name": "Pr_70_65_04_07: Bell mouth air terminals"
+                        },
+                        {
+                           "name": "Pr_70_65_04_20: Disc valve air terminals"
+                        },
+                        {
                            "name": "Pr_70_65_04_22: Displacement ventilation diffusers"
                         },
                         {
@@ -21872,6 +22084,9 @@
                            "name": "Pr_70_65_04_25: Dual duct variable air volume (VAV) terminal units"
                         },
                         {
+                           "name": "Pr_70_65_04_27: Eggcrate grilles"
+                        },
+                        {
                            "name": "Pr_70_65_04_28: External wall grilles"
                         },
                         {
@@ -21879,6 +22094,9 @@
                         },
                         {
                            "name": "Pr_70_65_04_32: Floor-mounted air plenum boxes"
+                        },
+                        {
+                           "name": "Pr_70_65_04_37: High-security air terminals"
                         },
                         {
                            "name": "Pr_70_65_04_44: Jet diffusers"
@@ -21894,6 +22112,9 @@
                         },
                         {
                            "name": "Pr_70_65_04_56: Natural smoke and heat exhaust ventilators"
+                        },
+                        {
+                           "name": "Pr_70_65_04_57: Non-vision grilles"
                         },
                         {
                            "name": "Pr_70_65_04_73: Roof ridge air terminals"
@@ -21971,10 +22192,10 @@
                            "name": "Pr_70_70_46_15: Compact fluorescent lamps"
                         },
                         {
-                           "name": "Pr_70_70_46_24: Double capped tubular LED lamps"
+                           "name": "Pr_70_70_46_24: Double-capped tubular LED lamps"
                         },
                         {
-                           "name": "Pr_70_70_46_30: Fluorescent lamps"
+                           "name": "Pr_70_70_46_30: Tubular fluorescent lamps"
                         },
                         {
                            "name": "Pr_70_70_46_36: High-pressure mercury vapour lamps"
@@ -22036,6 +22257,12 @@
                            "name": "Pr_70_70_47_28: Extra-low-voltage occupancy detectors"
                         },
                         {
+                           "name": "Pr_70_70_47_45: Lighting control modules"
+                        },
+                        {
+                           "name": "Pr_70_70_47_46: Lighting remote controllers"
+                        },
+                        {
                            "name": "Pr_70_70_47_47: Luminaire changeover relays"
                         },
                         {
@@ -22045,7 +22272,7 @@
                            "name": "Pr_70_70_47_49: Luminaire inverter modules"
                         },
                         {
-                           "name": "Pr_70_70_47_50: Luminaire sub-circuit relays"
+                           "name": "Pr_70_70_47_50: Luminaire subcircuit relays"
                         },
                         {
                            "name": "Pr_70_70_47_51: Mains voltage occupancy detectors"
@@ -22116,7 +22343,7 @@
                            "name": "Pr_70_70_48_34: Fibre-optic light sources"
                         },
                         {
-                           "name": "Pr_70_70_48_35: Ground recessed luminaires"
+                           "name": "Pr_70_70_48_35: Ground-recessed luminaires"
                         },
                         {
                            "name": "Pr_70_70_48_36: Hazardous area luminaires"
@@ -22197,7 +22424,31 @@
                            "name": "Pr_70_75_01_03: Azimuth guidance for nose-in stand (AGNIS) lights"
                         },
                         {
+                           "name": "Pr_70_75_01_04: Approach elevated lights"
+                        },
+                        {
+                           "name": "Pr_70_75_01_05: Approach inset lights"
+                        },
+                        {
+                           "name": "Pr_70_75_01_06: Apron elevated lights"
+                        },
+                        {
+                           "name": "Pr_70_75_01_07: Apron inset lights"
+                        },
+                        {
                            "name": "Pr_70_75_01_13: Constant current regulators"
+                        },
+                        {
+                           "name": "Pr_70_75_01_36: Heliport elevated lights"
+                        },
+                        {
+                           "name": "Pr_70_75_01_37: Heliport inset lights"
+                        },
+                        {
+                           "name": "Pr_70_75_01_38: Heliport lights"
+                        },
+                        {
+                           "name": "Pr_70_75_01_40: High-intensity rotating beacons"
                         },
                         {
                            "name": "Pr_70_75_01_47: Lighting beacons"
@@ -22206,10 +22457,16 @@
                            "name": "Pr_70_75_01_65: Precision approach path indicators (PAPI)"
                         },
                         {
-                           "name": "Pr_70_75_01_70: Runway and taxiway elevated lights"
+                           "name": "Pr_70_75_01_70: Runway elevated lights"
                         },
                         {
-                           "name": "Pr_70_75_01_71: Runway and taxiway inset lights"
+                           "name": "Pr_70_75_01_71: Runway inset lights"
+                        },
+                        {
+                           "name": "Pr_70_75_01_90: Taxiway elevated lights"
+                        },
+                        {
+                           "name": "Pr_70_75_01_91: Taxiway inset lights"
                         }
                      ]
                   },
@@ -22273,7 +22530,10 @@
                            "name": "Pr_70_75_06_50: Loudspeakers"
                         },
                         {
-                           "name": "Pr_70_75_06_51: Loudspeaker end of line units"
+                           "name": "Pr_70_75_06_51: Loudspeaker end-of-line units"
+                        },
+                        {
+                           "name": "Pr_70_75_06_80: Sound-masking devices"
                         }
                      ]
                   },
@@ -22318,6 +22578,9 @@
                         },
                         {
                            "name": "Pr_70_75_15_63: Photocopiers"
+                        },
+                        {
+                           "name": "Pr_70_75_15_65: Portable data storage devices"
                         },
                         {
                            "name": "Pr_70_75_15_66: Printers"
@@ -22367,10 +22630,13 @@
                            "name": "Pr_70_75_36_46: Induction loop reassurance indicators"
                         },
                         {
-                           "name": "Pr_70_75_36_47: Infrared hearing and assisted listening modulators"
+                           "name": "Pr_70_75_36_47: Infrared listening modulators"
                         },
                         {
-                           "name": "Pr_70_75_36_48: Infrared hearing and assisted listening radiators"
+                           "name": "Pr_70_75_36_48: Infrared listening radiators"
+                        },
+                        {
+                           "name": "Pr_70_75_36_49: Infrared listening portable receivers"
                         },
                         {
                            "name": "Pr_70_75_36_84: Stethosets"
@@ -22575,13 +22841,13 @@
                            "name": "Pr_70_75_80_50: Manual scoreboards"
                         },
                         {
-                           "name": "Pr_70_75_80_72: Relay race break sensors"
+                           "name": "Pr_70_75_80_72: Relay break detectors"
                         },
                         {
                            "name": "Pr_70_75_80_82: Swimmers' starting blocks"
                         },
                         {
-                           "name": "Pr_70_75_80_83: Swimmers' touch pads"
+                           "name": "Pr_70_75_80_83: Swimmers' touchpads"
                         },
                         {
                            "name": "Pr_70_75_80_84: Swimming race start sound generators"
@@ -22599,6 +22865,9 @@
                         },
                         {
                            "name": "Pr_70_75_88_03: Analogue telephone handsets"
+                        },
+                        {
+                           "name": "Pr_70_75_88_16: Conference phones"
                         },
                         {
                            "name": "Pr_70_75_88_21: Data and telecom transient overvoltage surge suppression devices"
@@ -22635,6 +22904,9 @@
                   {
                      "name": "Pr_70_75_94: Visual and audible indicators",
                      "children": [
+                        {
+                           "name": "Pr_70_75_94_07: Bell boxes"
+                        },
                         {
                            "name": "Pr_70_75_94_27: Electric doorbells"
                         },
@@ -22931,7 +23203,7 @@
                            "name": "Pr_75_50_18_31: Fire-suppression system indicator panels"
                         },
                         {
-                           "name": "Pr_75_50_18_32: FIre electric pump control panels"
+                           "name": "Pr_75_50_18_32: Fire electric pump control panels"
                         },
                         {
                            "name": "Pr_75_50_18_33: Gas detection control panels"
@@ -23014,6 +23286,9 @@
                            "name": "Pr_75_50_20_29: Field controllers"
                         },
                         {
+                           "name": "Pr_75_50_20_30: Firefighting alarm devices"
+                        },
+                        {
                            "name": "Pr_75_50_20_34: Gas dose regulators"
                         },
                         {
@@ -23072,6 +23347,9 @@
                   {
                      "name": "Pr_75_50_33: Gas fire-extinguishing controls",
                      "children": [
+                        {
+                           "name": "Pr_75_50_33_24: Electrical automatic control and delay devices"
+                        },
                         {
                            "name": "Pr_75_50_33_25: Electrical actuation devices"
                         },
@@ -23369,6 +23647,9 @@
                            "name": "Pr_75_50_76_73: Room temperature sensors"
                         },
                         {
+                           "name": "Pr_75_50_76_77: Salinity sensors"
+                        },
+                        {
                            "name": "Pr_75_50_76_80: Sludge density sensors"
                         },
                         {
@@ -23520,7 +23801,7 @@
                            "name": "Pr_75_51_52_58: Overload relays"
                         },
                         {
-                           "name": "Pr_75_51_52_82: Star delta starters"
+                           "name": "Pr_75_51_52_82: Star-delta starters"
                         },
                         {
                            "name": "Pr_75_51_52_94: Variable speed drives"
@@ -23761,7 +24042,7 @@
                "name": "Pr_75_80: Protection and security control products",
                "children": [
                   {
-                     "name": "Pr_75_80_30: Fire alarm detection devices and control equipment",
+                     "name": "Pr_75_80_30: Fire detection and alarm devices and control equipment",
                      "children": [
                         {
                            "name": "Pr_75_80_30_01: Aspirating sampling pipes"
@@ -23786,6 +24067,9 @@
                         },
                         {
                            "name": "Pr_75_80_30_22: Duct smoke detectors"
+                        },
+                        {
+                           "name": "Pr_75_80_30_27: Fire and smoke detector bases"
                         },
                         {
                            "name": "Pr_75_80_30_28: Fire alarm input and output modules"
@@ -23836,7 +24120,7 @@
                            "name": "Pr_75_80_30_71: Remote indicators"
                         },
                         {
-                           "name": "Pr_75_80_30_77: Short-circuit isolators"
+                           "name": "Pr_75_80_30_77: Short circuit isolators"
                         },
                         {
                            "name": "Pr_75_80_30_80: Smoke alarms"
@@ -23879,10 +24163,10 @@
                      ]
                   },
                   {
-                     "name": "Pr_75_80_42: Intruder detection and alarm devices and control equipment",
+                     "name": "Pr_75_80_42: Intrusion and hold-up alarm devices and control equipment",
                      "children": [
                         {
-                           "name": "Pr_75_80_42_02: Acoustic detectors"
+                           "name": "Pr_75_80_42_02: Glass break detectors"
                         },
                         {
                            "name": "Pr_75_80_42_08: Beam interruption detectors"
@@ -23891,34 +24175,34 @@
                            "name": "Pr_75_80_42_11: Capacitive proximity detectors"
                         },
                         {
-                           "name": "Pr_75_80_42_16: Combined passive infrared and microwave detectors"
+                           "name": "Pr_75_80_42_16: Combined passive infrared and microwave movement detectors"
                         },
                         {
-                           "name": "Pr_75_80_42_17: Combined passive infrared and ultrasonic detectors"
+                           "name": "Pr_75_80_42_17: Combined passive infrared and ultrasonic movement detectors"
                         },
                         {
-                           "name": "Pr_75_80_42_22: Deliberately operated intruder alarm devices"
+                           "name": "Pr_75_80_42_22: Deliberately operated intrusion and hold-up alarm devices"
                         },
                         {
                            "name": "Pr_75_80_42_24: Door beam intruder detectors"
                         },
                         {
-                           "name": "Pr_75_80_42_28: External intruder alarm sounders"
+                           "name": "Pr_75_80_42_28: Intrusion and hold-up alarm external warning devices"
                         },
                         {
-                           "name": "Pr_75_80_42_40: Internal electronic intruder alarm sounders"
+                           "name": "Pr_75_80_42_40: Intrusion and hold-up alarm internal warning devices"
                         },
                         {
-                           "name": "Pr_75_80_42_41: Intruder alarm panels"
+                           "name": "Pr_75_80_42_41: Intrusion and hold-up alarm panels"
                         },
                         {
-                           "name": "Pr_75_80_42_42: Intruder alarm remote keypads"
+                           "name": "Pr_75_80_42_42: Intrusion and hold-up alarm remote keypads"
                         },
                         {
-                           "name": "Pr_75_80_42_52: Microwave detectors"
+                           "name": "Pr_75_80_42_52: Microwave movement detectors"
                         },
                         {
-                           "name": "Pr_75_80_42_60: Passive infrared detectors"
+                           "name": "Pr_75_80_42_60: Passive infrared movement detectors"
                         },
                         {
                            "name": "Pr_75_80_42_67: Protective switches "
@@ -23939,7 +24223,7 @@
                            "name": "Pr_75_80_42_96: Volumetric capacitive detectors"
                         },
                         {
-                           "name": "Pr_75_80_42_98: Wireless intrusion and hold-up alarm system (I&HAS) pagers"
+                           "name": "Pr_75_80_42_98: Intrusion and hold-up alarm wireless pagers"
                         }
                      ]
                   },
@@ -24117,6 +24401,9 @@
                            "name": "Pr_80_51_51_11: Call information logging equipment"
                         },
                         {
+                           "name": "Pr_80_51_51_13: Circuit meters"
+                        },
+                        {
                            "name": "Pr_80_51_51_15: Corrosion monitors"
                         },
                         {
@@ -24144,7 +24431,7 @@
                            "name": "Pr_80_51_51_37: Heat meters"
                         },
                         {
-                           "name": "Pr_80_51_51_57: Ohm meters"
+                           "name": "Pr_80_51_51_57: Ohmmeters"
                         },
                         {
                            "name": "Pr_80_51_51_58: Oil meters"
@@ -24172,6 +24459,9 @@
                         },
                         {
                            "name": "Pr_80_51_51_80: Soil moisture monitors"
+                        },
+                        {
+                           "name": "Pr_80_51_51_85: Turbidity inspection pipes"
                         },
                         {
                            "name": "Pr_80_51_51_93: Vapour meters"
@@ -24227,6 +24517,9 @@
                      "children": [
                         {
                            "name": "Pr_80_51_85_01: Accelerometers"
+                        },
+                        {
+                           "name": "Pr_80_51_85_17: Crack detection sensors"
                         },
                         {
                            "name": "Pr_80_51_85_18: Crack gauges"
@@ -24339,6 +24632,9 @@
                            "name": "Pr_80_77_27_15: Channel supports"
                         },
                         {
+                           "name": "Pr_80_77_27_27: Fish egg hatchery trays"
+                        },
+                        {
                            "name": "Pr_80_77_27_31: Free-standing mounting frames for solar modules"
                         },
                         {
@@ -24413,6 +24709,9 @@
                            "name": "Pr_80_77_28_24: Dry riser landing boxes"
                         },
                         {
+                           "name": "Pr_80_77_28_25: Electrical safety matting"
+                        },
+                        {
                            "name": "Pr_80_77_28_26: Fibre joint enclosures"
                         },
                         {
@@ -24440,7 +24739,7 @@
                            "name": "Pr_80_77_28_48: Loudspeaker rear protective enclosures"
                         },
                         {
-                           "name": "Pr_80_77_28_49: Low-voltage switchgear enclosures"
+                           "name": "Pr_80_77_28_49: Low-voltage switchgear and controlgear assembly enclosures"
                         },
                         {
                            "name": "Pr_80_77_28_52: Meter cabinets"
@@ -24453,6 +24752,9 @@
                         },
                         {
                            "name": "Pr_80_77_28_70: Rack cabinets"
+                        },
+                        {
+                           "name": "Pr_80_77_28_74: Roof penetration boxes"
                         },
                         {
                            "name": "Pr_80_77_28_77: Switchgear enclosures"
@@ -24525,10 +24827,10 @@
                            "name": "Pr_80_77_48_16: Concrete lighting columns"
                         },
                         {
-                           "name": "Pr_80_77_48_23: Double lighting columns"
+                           "name": "Pr_80_77_48_23: Double luminaires lighting columns"
                         },
                         {
-                           "name": "Pr_80_77_48_55: Multiple light columns"
+                           "name": "Pr_80_77_48_55: Multiple luminaires lighting columns"
                         },
                         {
                            "name": "Pr_80_77_48_63: Plastics lighting bollards"
@@ -24611,7 +24913,7 @@
                            "name": "Pr_80_77_76_85: Stainless steel sheet insulation casing"
                         },
                         {
-                           "name": "Pr_80_77_76_92: Unplasticized polyvinylchloride (PVC-U) sheet insulation casing"
+                           "name": "Pr_80_77_76_92: Unplasticized polyvinyl chloride (PVC-U) sheet insulation casing"
                         },
                         {
                            "name": "Pr_80_77_76_94: Valve and flange insulation"

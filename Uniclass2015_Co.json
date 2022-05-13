@@ -1,5 +1,5 @@
 ﻿{
-   "name": "Uniclass2015_Co (v1.13 - 28 July 2021)",
+   "name": "Uniclass2015_Co Complexes - 25 April 2022 - v1.15",
    "children": [
       {
          "name": "Co_20: Administrative, commercial and protective service complexes",
@@ -64,7 +64,7 @@
                      "name": "Co_20_50_53: Mixed use complexes"
                   },
                   {
-                     "name": "Co_20_50_60: Parade of shops"
+                     "name": "Co_20_50_60: Parades of shops"
                   },
                   {
                      "name": "Co_20_50_71: Retail parks"
@@ -457,7 +457,7 @@
                ]
             },
             {
-               "name": "Co_32_20: Designated areas",
+               "name": "Co_32_20: Designated land areas",
                "children": [
                   {
                      "name": "Co_32_20_04: Areas of special architectural or historical interest"
@@ -473,6 +473,9 @@
                   },
                   {
                      "name": "Co_32_20_57: National parks"
+                  },
+                  {
+                     "name": "Co_32_20_65: Planning zones"
                   }
                ]
             },
@@ -1118,16 +1121,16 @@
                "name": "Co_70_30: Electricity distribution complexes",
                "children": [
                   {
-                     "name": "Co_70_30_35: High voltage electricity substation complexes"
+                     "name": "Co_70_30_35: High-voltage electricity substation complexes"
                   },
                   {
-                     "name": "Co_70_30_40: High voltage electricity networks"
+                     "name": "Co_70_30_40: High-voltage electricity networks"
                   },
                   {
-                     "name": "Co_70_30_45: Low voltage electricity substation complexes"
+                     "name": "Co_70_30_45: Low-voltage electricity substation complexes"
                   },
                   {
-                     "name": "Co_70_30_50: Low  voltage electricity networks"
+                     "name": "Co_70_30_50: Low-voltage electricity networks"
                   }
                ]
             }
@@ -1254,6 +1257,9 @@
                      "name": "Co_80_70_23: Dry bulk ports"
                   },
                   {
+                     "name": "Co_80_70_28: Ferry routes"
+                  },
+                  {
                      "name": "Co_80_70_30: Fishing ports"
                   },
                   {
@@ -1270,6 +1276,9 @@
                   },
                   {
                      "name": "Co_80_70_78: Sea ferry ports"
+                  },
+                  {
+                     "name": "Co_80_70_80: Shipping lanes"
                   },
                   {
                      "name": "Co_80_70_96: Waterway ferry complexes"

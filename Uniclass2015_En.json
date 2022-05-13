@@ -1,5 +1,5 @@
 ﻿{
-   "name": "Uniclass2015_En (v1.21 - 28 July 2021)",
+   "name": "Uniclass2015_En Entities - 25 April 2022 - v1.24",
    "children": [
       {
          "name": "En_20: Administrative, commercial and protective service entities",
@@ -322,16 +322,16 @@
                      "name": "En_30_20_15: Radioactivity waste management control buildings"
                   },
                   {
-                     "name": "En_30_20_30: High heat generating radioactive waste management tunnel"
+                     "name": "En_30_20_30: High-heat-generating radioactive waste management tunnels"
                   },
                   {
-                     "name": "En_30_20_35: High heat radioactive waste package transfer buildings"
+                     "name": "En_30_20_35: High-heat radioactive waste package transfer buildings"
                   },
                   {
-                     "name": "En_30_20_45: Low heat radioactive waste package transfer buildings"
+                     "name": "En_30_20_45: Low-heat radioactive waste package transfer buildings"
                   },
                   {
-                     "name": "En_30_20_60: Low heat generating radioactive waste management vault"
+                     "name": "En_30_20_60: Low-heat-generating radioactive waste management vault"
                   },
                   {
                      "name": "En_30_20_70: Radioactivity decontamination buildings"
@@ -514,6 +514,14 @@
                   },
                   {
                      "name": "En_32_10_94: Vineyard plantations"
+                  }
+               ]
+            },
+            {
+               "name": "En_32_20: Designated land entities",
+               "children": [
+                  {
+                     "name": "En_32_20_65: Plots of land"
                   }
                ]
             },
@@ -1407,6 +1415,12 @@
                   },
                   {
                      "name": "En_80_05_60: Passenger terminal buildings"
+                  },
+                  {
+                     "name": "En_80_05_70: Runways"
+                  },
+                  {
+                     "name": "En_80_05_90: Taxiways"
                   }
                ]
             },
@@ -1607,6 +1621,9 @@
                      "name": "En_80_70_50: Marinas"
                   },
                   {
+                     "name": "En_80_70_52: Marine and waterways passenger terminals"
+                  },
+                  {
                      "name": "En_80_70_71: River passenger terminals"
                   }
                ]
@@ -1632,10 +1649,31 @@
                "name": "En_80_94: Bridges",
                "children": [
                   {
+                     "name": "En_80_94_05: Arch bridges"
+                  },
+                  {
+                     "name": "En_80_94_08: Beam bridges"
+                  },
+                  {
+                     "name": "En_80_94_11: Cable-stayed bridges"
+                  },
+                  {
+                     "name": "En_80_94_13: Cantilever bridges"
+                  },
+                  {
                      "name": "En_80_94_30: Fixed bridges"
                   },
                   {
                      "name": "En_80_94_50: Moveable bridges"
+                  },
+                  {
+                     "name": "En_80_94_85: Suspension bridges"
+                  },
+                  {
+                     "name": "En_80_94_90: Transporter bridges"
+                  },
+                  {
+                     "name": "En_80_94_92: Truss bridges"
                   }
                ]
             },
@@ -1650,6 +1688,12 @@
                   },
                   {
                      "name": "En_80_96_49: Lined tunnels"
+                  },
+                  {
+                     "name": "En_80_96_58: Operational caverns"
+                  },
+                  {
+                     "name": "En_80_96_70: Running tunnels"
                   },
                   {
                      "name": "En_80_96_80: Shafts"

@@ -1,5 +1,5 @@
 ﻿{
-   "name": "Uniclass2015_EF (v1.10 - 28 July 2021)",
+   "name": "Uniclass2015_EF Elements/ functions - 25 April 2022 - v1.11",
    "children": [
       {
          "name": "EF_15: Earthworks and remediation ",
@@ -69,13 +69,55 @@
          "name": "EF_25: Wall and barrier elements",
          "children": [
             {
-               "name": "EF_25_10: Walls"
+               "name": "EF_25_10: Walls",
+               "children": [
+                  {
+                     "name": "EF_25_10_25: External walls"
+                  },
+                  {
+                     "name": "EF_25_10_30: Free-standing walls"
+                  },
+                  {
+                     "name": "EF_25_10_40: Internal walls"
+                  }
+               ]
             },
             {
-               "name": "EF_25_30: Doors and windows"
+               "name": "EF_25_30: Openings",
+               "children": [
+                  {
+                     "name": "EF_25_30_25: Doors"
+                  },
+                  {
+                     "name": "EF_25_30_33: Gates"
+                  },
+                  {
+                     "name": "EF_25_30_36: Hatches"
+                  },
+                  {
+                     "name": "EF_25_30_45: Louvres"
+                  },
+                  {
+                     "name": "EF_25_30_95: Vents"
+                  },
+                  {
+                     "name": "EF_25_30_97: Windows"
+                  }
+               ]
             },
             {
-               "name": "EF_25_55: Barriers"
+               "name": "EF_25_55: Barriers",
+               "children": [
+                  {
+                     "name": "EF_25_55_28: Fences"
+                  },
+                  {
+                     "name": "EF_25_55_30: Fixed barriers"
+                  },
+                  {
+                     "name": "EF_25_55_59: Opening barriers"
+                  }
+               ]
             }
          ]
       },
@@ -83,13 +125,52 @@
          "name": "EF_30: Roofs, floor and paving elements",
          "children": [
             {
-               "name": "EF_30_10: Roofs"
+               "name": "EF_30_05: Building levels",
+               "children": [
+                  {
+                     "name": "EF_30_05_06: Basement level"
+                  },
+                  {
+                     "name": "EF_30_05_34: Ground level"
+                  },
+                  {
+                     "name": "EF_30_05_51: Mezzanine level"
+                  },
+                  {
+                     "name": "EF_30_05_93: Upper level"
+                  }
+               ]
+            },
+            {
+               "name": "EF_30_10: Roofs",
+               "children": [
+                  {
+                     "name": "EF_30_10_04: Arched roofs"
+                  },
+                  {
+                     "name": "EF_30_10_23: Domed roofs"
+                  },
+                  {
+                     "name": "EF_30_10_30: Flat roofs"
+                  },
+                  {
+                     "name": "EF_30_10_64: Pitched roofs"
+                  }
+               ]
             },
             {
                "name": "EF_30_20: Floors"
             },
             {
-               "name": "EF_30_25: Ceilings and soffits"
+               "name": "EF_30_25: Ceilings and soffits",
+               "children": [
+                  {
+                     "name": "EF_30_25_12: Ceilings"
+                  },
+                  {
+                     "name": "EF_30_25_80: Soffits"
+                  }
+               ]
             },
             {
                "name": "EF_30_30: Decks"
@@ -98,10 +179,10 @@
                "name": "EF_30_60: Pavements",
                "children": [
                   {
-                     "name": "EF_30_60_60: Pedestrian paving"
+                     "name": "EF_30_60_60: Pedestrian pavements"
                   },
                   {
-                     "name": "EF_30_60_95: Vehicular paving"
+                     "name": "EF_30_60_95: Vehicular pavements"
                   }
                ]
             }
@@ -258,22 +339,58 @@
                "name": "EF_55_15: Water extraction and treatment"
             },
             {
-               "name": "EF_55_20: Gas supply"
+               "name": "EF_55_20: Gas supply",
+               "children": [
+                  {
+                     "name": "EF_55_20_34: Fuel gas supply"
+                  },
+                  {
+                     "name": "EF_55_20_45: Laboratory gas supply"
+                  },
+                  {
+                     "name": "EF_55_20_51: Medical gas and vacuum supply"
+                  },
+                  {
+                     "name": "EF_55_20_60: Process gas supply"
+                  }
+               ]
             },
             {
-               "name": "EF_55_30: Fire-extinguishing supply"
+               "name": "EF_55_30: Fire-extinguishing supply",
+               "children": [
+                  {
+                     "name": "EF_55_30_30: Foam fire-extinguishing supply"
+                  },
+                  {
+                     "name": "EF_55_30_35: Gaseous fire-extinguishing supply"
+                  },
+                  {
+                     "name": "EF_55_30_96: Water firefighting supply"
+                  },
+                  {
+                     "name": "EF_55_30_98: Water fire suppression supply"
+                  }
+               ]
             },
             {
                "name": "EF_55_40: Steam supply"
             },
             {
-               "name": "EF_55_50: Liquid fuel supply"
+               "name": "EF_55_50: Liquid fuel distribution supply"
             },
             {
                "name": "EF_55_60: Process liquid supply"
             },
             {
-               "name": "EF_55_70: Water supply"
+               "name": "EF_55_70: Water supply",
+               "children": [
+                  {
+                     "name": "EF_55_70_38: Hot and cold water supply"
+                  },
+                  {
+                     "name": "EF_55_70_42: Irrigation water supply"
+                  }
+               ]
             },
             {
                "name": "EF_55_90: Piped solids supply"
@@ -284,13 +401,43 @@
          "name": "EF_60: Heating, cooling and refrigeration functions",
          "children": [
             {
-               "name": "EF_60_30: Rail and paving heating"
+               "name": "EF_60_30: Rail and paving heating",
+               "children": [
+                  {
+                     "name": "EF_60_30_60: Pavement heating"
+                  },
+                  {
+                     "name": "EF_60_30_70: Railway heating"
+                  },
+                  {
+                     "name": "EF_60_30_75: Runway heating"
+                  },
+                  {
+                     "name": "EF_60_30_90: Tramway heating"
+                  }
+               ]
             },
             {
-               "name": "EF_60_40: Space heating and cooling"
+               "name": "EF_60_40: Space heating and cooling",
+               "children": [
+                  {
+                     "name": "EF_60_40_15: Combined heating, cooling and power"
+                  },
+                  {
+                     "name": "EF_60_40_17: Cooling"
+                  },
+                  {
+                     "name": "EF_60_40_37: Heating"
+                  }
+               ]
             },
             {
-               "name": "EF_60_60: Refrigeration"
+               "name": "EF_60_60: Refrigeration",
+               "children": [
+                  {
+                     "name": "EF_60_60_17: Cold storage"
+                  }
+               ]
             },
             {
                "name": "EF_60_80: Drying"
@@ -301,10 +448,38 @@
          "name": "EF_65: Ventilation and air conditioning functions",
          "children": [
             {
-               "name": "EF_65_40: Ventilation"
+               "name": "EF_65_40: Ventilation",
+               "children": [
+                  {
+                     "name": "EF_65_40_32: Fume extraction"
+                  },
+                  {
+                     "name": "EF_65_40_33: General space ventilation"
+                  },
+                  {
+                     "name": "EF_65_40_42: Industrial fume extraction"
+                  },
+                  {
+                     "name": "EF_65_40_80: Smoke extraction and control"
+                  },
+                  {
+                     "name": "EF_65_40_94: Vehicular space ventilation"
+                  }
+               ]
             },
             {
-               "name": "EF_65_80: Air conditioning"
+               "name": "EF_65_80: Air conditioning",
+               "children": [
+                  {
+                     "name": "EF_65_80_12: Central air conditioning"
+                  },
+                  {
+                     "name": "EF_65_80_15: Controlled environments"
+                  },
+                  {
+                     "name": "EF_65_80_45: Local air conditioning"
+                  }
+               ]
             }
          ]
       },
@@ -312,13 +487,52 @@
          "name": "EF_70: Electrical power and lighting functions",
          "children": [
             {
-               "name": "EF_70_10: Electrical power generation"
+               "name": "EF_70_10: Electrical power generation",
+               "children": [
+                  {
+                     "name": "EF_70_10_30: Fossil fuel power generation"
+                  },
+                  {
+                     "name": "EF_70_10_70: Renewable power generation"
+                  }
+               ]
             },
             {
-               "name": "EF_70_30: Electricity distribution and transmission"
+               "name": "EF_70_30: Electricity distribution and transmission",
+               "children": [
+                  {
+                     "name": "EF_70_30_10: Cable management"
+                  },
+                  {
+                     "name": "EF_70_30_35: High-voltage electricity distribution"
+                  },
+                  {
+                     "name": "EF_70_30_45: Low-voltage electricity distribution"
+                  },
+                  {
+                     "name": "EF_70_30_60: Overhead line traction power distribution"
+                  },
+                  {
+                     "name": "EF_70_30_80: Small power supply"
+                  },
+                  {
+                     "name": "EF_70_30_90: Conductor rail traction power distribution"
+                  }
+               ]
             },
             {
-               "name": "EF_70_80: Lighting"
+               "name": "EF_70_80: Lighting",
+               "children": [
+                  {
+                     "name": "EF_70_80_01: Aeronautical lighting"
+                  },
+                  {
+                     "name": "EF_70_80_25: External lighting"
+                  },
+                  {
+                     "name": "EF_70_80_33: General space lighting"
+                  }
+               ]
             }
          ]
       },
@@ -326,22 +540,98 @@
          "name": "EF_75: Communications, security, safety and protection functions",
          "children": [
             {
-               "name": "EF_75_10: Communication"
+               "name": "EF_75_10: Communication",
+               "children": [
+                  {
+                     "name": "EF_75_10_21: Data distribution and telecommunications"
+                  },
+                  {
+                     "name": "EF_75_10_68: Public communications"
+                  },
+                  {
+                     "name": "EF_75_10_70: Radio and television distribution"
+                  },
+                  {
+                     "name": "EF_75_10_72: Emergency communications"
+                  }
+               ]
             },
             {
-               "name": "EF_75_30: Signalling"
+               "name": "EF_75_30: Signalling",
+               "children": [
+                  {
+                     "name": "EF_75_30_35: Road signals and controls"
+                  },
+                  {
+                     "name": "EF_75_30_50: Marine signals"
+                  },
+                  {
+                     "name": "EF_75_30_70: Rail signals and controls"
+                  },
+                  {
+                     "name": "EF_75_30_90: Tramway signals"
+                  },
+                  {
+                     "name": "EF_75_30_97: Waterway signals"
+                  }
+               ]
             },
             {
-               "name": "EF_75_40: Security"
+               "name": "EF_75_40: Security",
+               "children": [
+                  {
+                     "name": "EF_75_40_02: Access control"
+                  },
+                  {
+                     "name": "EF_75_40_53: Monitoring"
+                  },
+                  {
+                     "name": "EF_75_40_73: Security screening"
+                  },
+                  {
+                     "name": "EF_75_40_75: Security detection and alarms"
+                  }
+               ]
             },
             {
-               "name": "EF_75_50: Safety and protection"
+               "name": "EF_75_50: Safety and protection",
+               "children": [
+                  {
+                     "name": "EF_75_50_28: Fire and smoke detection and alarms"
+                  },
+                  {
+                     "name": "EF_75_50_33: Gas detection and alarms"
+                  },
+                  {
+                     "name": "EF_75_50_50: Liquid detection and alarms"
+                  },
+                  {
+                     "name": "EF_75_50_60: Patient monitoring and telemetry"
+                  }
+               ]
             },
             {
                "name": "EF_75_60: Environmental safety"
             },
             {
-               "name": "EF_75_70: Control and management"
+               "name": "EF_75_70: Control and management",
+               "children": [
+                  {
+                     "name": "EF_75_70_52: Mechanical engineering services control and management"
+                  },
+                  {
+                     "name": "EF_75_70_54: Metering, monitoring and management"
+                  },
+                  {
+                     "name": "EF_75_70_85: Structural monitoring"
+                  },
+                  {
+                     "name": "EF_75_70_90: Transport management"
+                  },
+                  {
+                     "name": "EF_75_70_96: Water supply and wastewater control"
+                  }
+               ]
             },
             {
                "name": "EF_75_80: Protection"

@@ -1,5 +1,5 @@
 ﻿{
-   "name": "Uniclass2015_Ac (v1.15 - 28 July 2021)",
+   "name": "Uniclass2015_Ac Activities - 25 April 2022 - v1.17",
    "children": [
       {
          "name": "Ac_05: Project management activities",
@@ -420,7 +420,7 @@
                      "name": "Ac_15_15_47: Lift installation surveying"
                   },
                   {
-                     "name": "Ac_15_15_48: Low voltage general power electrical installations surveying"
+                     "name": "Ac_15_15_48: Low-voltage general power electrical installations surveying"
                   },
                   {
                      "name": "Ac_15_15_71: Refrigeration systems surveying"
@@ -502,6 +502,9 @@
             {
                "name": "Ac_15_45: Historic building and site surveying",
                "children": [
+                  {
+                     "name": "Ac_15_45_04: Archaeological surveying"
+                  },
                   {
                      "name": "Ac_15_45_35: Historic building surveying"
                   },
@@ -1232,31 +1235,31 @@
                "name": "Ac_30_20: Nuclear and chemical management activities",
                "children": [
                   {
-                     "name": "Ac_30_20_30: High heat highly enriched uranium radioactive waste managing"
+                     "name": "Ac_30_20_30: High-heat highly enriched uranium radioactive waste managing"
                   },
                   {
-                     "name": "Ac_30_20_35: High heat mixed oxide fuel radioactive waste managing"
+                     "name": "Ac_30_20_35: High-heat mixed oxide fuel radioactive waste managing"
                   },
                   {
-                     "name": "Ac_30_20_40: High heat plutonium radioactive waste managing"
+                     "name": "Ac_30_20_40: High-heat plutonium radioactive waste managing"
                   },
                   {
-                     "name": "Ac_30_20_45: High heat radioactive waste managing"
+                     "name": "Ac_30_20_45: High-heat radioactive waste managing"
                   },
                   {
-                     "name": "Ac_30_20_50: High heat spent fuel radioactive waste managing"
+                     "name": "Ac_30_20_50: High-heat spent fuel radioactive waste managing"
                   },
                   {
-                     "name": "Ac_30_20_60: Low heat depleted natural low enrichment uranium managing"
+                     "name": "Ac_30_20_60: Low-heat depleted natural low enrichment uranium managing"
                   },
                   {
-                     "name": "Ac_30_20_65: Low heat robust shielded radioactive waste managing"
+                     "name": "Ac_30_20_65: Low-heat robust shielded radioactive waste managing"
                   },
                   {
-                     "name": "Ac_30_20_70: Low heat shielded radioactive waste managing"
+                     "name": "Ac_30_20_70: Low-heat shielded radioactive waste managing"
                   },
                   {
-                     "name": "Ac_30_20_75: Low heat unshielded radioactive waste managing"
+                     "name": "Ac_30_20_75: Low-heat unshielded radioactive waste managing"
                   }
                ]
             },
@@ -1419,7 +1422,7 @@
                "name": "Ac_30_80: Kinetic power generation"
             },
             {
-               "name": "Ac_30_85: Marine and water storage and maintenance activities",
+               "name": "Ac_30_85: Marine and waterways storage and maintenance activities",
                "children": [
                   {
                      "name": "Ac_30_85_08: Boat repairing"
@@ -2290,7 +2293,7 @@
                      "name": "Ac_70_60_35: Hazardous areas electrical wiring inspection and testing"
                   },
                   {
-                     "name": "Ac_70_60_37: High voltage electrical installations testing"
+                     "name": "Ac_70_60_37: High-voltage electrical installations testing"
                   },
                   {
                      "name": "Ac_70_60_46: Lighting installations testing"
@@ -2299,7 +2302,7 @@
                      "name": "Ac_70_60_47: Lightning protection installations testing"
                   },
                   {
-                     "name": "Ac_70_60_49: Low voltage electrical installation testing and inspecting"
+                     "name": "Ac_70_60_49: Low-voltage electrical installation testing and inspecting"
                   }
                ]
             },
@@ -2655,7 +2658,7 @@
                ]
             },
             {
-               "name": "Ac_80_94: Bridge function",
+               "name": "Ac_80_94: Bridge function activities",
                "children": [
                   {
                      "name": "Ac_80_94_41: Bridge inspecting"

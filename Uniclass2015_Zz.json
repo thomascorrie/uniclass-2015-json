@@ -1,5 +1,5 @@
 ﻿{
-   "name": "Uniclass2015_Zz (v1.0 - 25 January 2017)",
+   "name": "Uniclass2015_Zz CAD - 25 April 2022 - v1.1",
    "children": [
       {
          "name": "Zz_10: Title sheet",
@@ -191,10 +191,10 @@
                "name": "Zz_35_80: Survey control points",
                "children": [
                   {
-                     "name": "Zz_35_80_55: OS bench mark"
+                     "name": "Zz_35_80_55: Bench mark"
                   },
                   {
-                     "name": "Zz_35_80_60: OS trigonometrical station"
+                     "name": "Zz_35_80_60: Trigonometrical station"
                   },
                   {
                      "name": "Zz_35_80_80: Site bench mark"
@@ -238,10 +238,10 @@
                "name": "Zz_50_10: Boundaries",
                "children": [
                   {
-                     "name": "Zz_50_10_10: Blue line boundary (BS 8541-2)"
+                     "name": "Zz_50_10_10: Blue line boundary"
                   },
                   {
-                     "name": "Zz_50_10_70: Red line boundary (BS 8541-2)"
+                     "name": "Zz_50_10_70: Red line boundary"
                   }
                ]
             },
@@ -346,7 +346,7 @@
                "name": "Zz_70_80: Sections"
             },
             {
-               "name": "Zz_70_90: Visualisations"
+               "name": "Zz_70_90: Visualizations"
             }
          ]
       },

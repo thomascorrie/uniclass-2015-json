@@ -1,5 +1,5 @@
 ﻿{
-   "name": "Uniclass2015_PM (v1.13 - 28 July 2021)",
+   "name": "Uniclass2015_PM Project Management - 25 April 2022 - v1.16",
    "children": [
       {
          "name": "PM_10: Project information",
@@ -112,6 +112,9 @@
                      "name": "PM_30_10_22: Dimensional information"
                   },
                   {
+                     "name": "PM_30_10_26: Electrical power quality asessment information"
+                  },
+                  {
                      "name": "PM_30_10_28: Existing structure information"
                   },
                   {
@@ -159,7 +162,7 @@
                ]
             },
             {
-               "name": "PM_30_20: Ground investigation reports",
+               "name": "PM_30_20: Ground investigation and survey reports",
                "children": [
                   {
                      "name": "PM_30_20_02: Archaeological survey report"
@@ -346,6 +349,9 @@
                "name": "PM_35_10: Quality and operational properties performance requirements",
                "children": [
                   {
+                     "name": "PM_35_10_03: Air quality performance requirements"
+                  },
+                  {
                      "name": "PM_35_10_13: Comfort performance requirements"
                   },
                   {
@@ -394,6 +400,9 @@
                   },
                   {
                      "name": "PM_35_20_80: Structural design performance requirements"
+                  },
+                  {
+                     "name": "PM_35_20_81: Structural robustness performance requirements"
                   },
                   {
                      "name": "PM_35_20_82: Subsidence mitigation performance requirements"
@@ -446,6 +455,9 @@
                "children": [
                   {
                      "name": "PM_35_40_08: Biodiversity performance requirements"
+                  },
+                  {
+                     "name": "PM_35_40_28: Earthworks and groundworks schedules"
                   },
                   {
                      "name": "PM_35_40_30: Environmental scheme performance requirements"
@@ -581,6 +593,9 @@
                      "name": "PM_40_20_21: Daylight design strategy"
                   },
                   {
+                     "name": "PM_40_20_24: Drainage strategy"
+                  },
+                  {
                      "name": "PM_40_20_26: Energy strategy"
                   },
                   {
@@ -600,6 +615,9 @@
                   },
                   {
                      "name": "PM_40_20_47: Lighting strategy"
+                  },
+                  {
+                     "name": "PM_40_20_58: Off-site construction strategy"
                   },
                   {
                      "name": "PM_40_20_63: Planning strategy"
@@ -705,7 +723,10 @@
                      "name": "PM_40_35_29: Fittings, furnishings and equipment (FF&E) models"
                   },
                   {
-                     "name": "PM_40_35_45: Landscape model"
+                     "name": "PM_40_35_45: Landscape models"
+                  },
+                  {
+                     "name": "PM_40_35_65: Process models"
                   },
                   {
                      "name": "PM_40_35_83: Structural engineering models"
@@ -782,6 +803,9 @@
                   },
                   {
                      "name": "PM_40_50_16: Contribution agreement"
+                  },
+                  {
+                     "name": "PM_40_50_21: Design submittals"
                   },
                   {
                      "name": "PM_40_50_30: Fire officer approval"
@@ -883,6 +907,9 @@
                   },
                   {
                      "name": "PM_40_60_27: Electronic data interchange (EDI)"
+                  },
+                  {
+                     "name": "PM_40_60_28: Document numbering system"
                   },
                   {
                      "name": "PM_40_60_31: Federated coordination models"
@@ -1108,6 +1135,9 @@
                      "name": "PM_55_15_17: Contract notice"
                   },
                   {
+                     "name": "PM_55_15_28: Escrow agreement"
+                  },
+                  {
                      "name": "PM_55_15_47: Liquidated damages information"
                   },
                   {
@@ -1154,6 +1184,9 @@
                   },
                   {
                      "name": "PM_60_10_60: Site grid reference"
+                  },
+                  {
+                     "name": "PM_60_10_63: Site logistics plan"
                   },
                   {
                      "name": "PM_60_10_65: Site safety plan"
@@ -1224,6 +1257,9 @@
                      "name": "PM_60_20_70: Red, amber, green (RAG) list compliance"
                   },
                   {
+                     "name": "PM_60_20_73: Reuse and recycling information"
+                  },
+                  {
                      "name": "PM_60_20_79: Setting out methodology"
                   },
                   {
@@ -1252,10 +1288,10 @@
                      "name": "PM_60_30_13: Commissioning programme"
                   },
                   {
-                     "name": "PM_60_30_15: Communications log"
+                     "name": "PM_60_30_15: Contract communications log"
                   },
                   {
-                     "name": "PM_60_30_17: Consultation strategy"
+                     "name": "PM_60_30_17: Contract consultation strategy"
                   },
                   {
                      "name": "PM_60_30_19: Contract administration information"
@@ -1405,7 +1441,7 @@
                "name": "PM_60_60: Contract support information",
                "children": [
                   {
-                     "name": "PM_60_60_15: Contacts list"
+                     "name": "PM_60_60_15: Contract contacts list"
                   },
                   {
                      "name": "PM_60_60_26: Environmental protection information"
@@ -1560,6 +1596,9 @@
                      "name": "PM_70_15_16: Control of legionella certificate"
                   },
                   {
+                     "name": "PM_70_15_21: Demolition certificate"
+                  },
+                  {
                      "name": "PM_70_15_23: Disinfection and sterilization certificate"
                   },
                   {
@@ -1626,10 +1665,16 @@
                      "name": "PM_70_15_83: Sports pitch certificate"
                   },
                   {
+                     "name": "PM_70_15_84: Structured data cabling test certificate"
+                  },
+                  {
                      "name": "PM_70_15_85: Sustainable timber certificate"
                   },
                   {
                      "name": "PM_70_15_96: Water quality and flushing test certificate"
+                  },
+                  {
+                     "name": "PM_70_15_98: White lining sign-off certificate"
                   }
                ]
             },
@@ -1676,6 +1721,9 @@
                      "name": "PM_70_30_35: Generator commissioning certificate"
                   },
                   {
+                     "name": "PM_70_30_40: Information and communications technology (ICT) security certification information"
+                  },
+                  {
                      "name": "PM_70_30_45: Kitchen equipment certificate"
                   },
                   {
@@ -1706,6 +1754,9 @@
                      "name": "PM_70_30_92: Uninterruptible power supply (UPS) test certificate"
                   },
                   {
+                     "name": "PM_70_30_97: Window certificates"
+                  },
+                  {
                      "name": "PM_70_30_98: Workshop equipment commissioning certificate"
                   }
                ]
@@ -1732,6 +1783,12 @@
                      "name": "PM_70_75_07: Bell system test report"
                   },
                   {
+                     "name": "PM_70_75_08: Boiler test report"
+                  },
+                  {
+                     "name": "PM_70_75_10: Chlorination test report"
+                  },
+                  {
                      "name": "PM_70_75_11: Cable test report"
                   },
                   {
@@ -1748,6 +1805,9 @@
                   },
                   {
                      "name": "PM_70_75_17: Co-ordinated shut down interface test report"
+                  },
+                  {
+                     "name": "PM_70_75_21: Disabled alarms and disabled refuge alarm test report"
                   },
                   {
                      "name": "PM_70_75_22: Drainage leakage test results"
@@ -1792,7 +1852,7 @@
                      "name": "PM_70_75_36: Heating installation test report"
                   },
                   {
-                     "name": "PM_70_75_37: High voltage electrical installation test report"
+                     "name": "PM_70_75_37: High-voltage electrical installation test report"
                   },
                   {
                      "name": "PM_70_75_40: Information and communications technology (ICT) infrastructure test report"
@@ -1840,6 +1900,12 @@
                      "name": "PM_70_75_85: Surveillance equipment installation test report"
                   },
                   {
+                     "name": "PM_70_75_88: Telecommunications installation test report"
+                  },
+                  {
+                     "name": "PM_70_75_94: Ventilation test report"
+                  },
+                  {
                      "name": "PM_70_75_96: Water distribution pressure test report"
                   },
                   {
@@ -1873,6 +1939,9 @@
                   },
                   {
                      "name": "PM_70_80_13: Combined heat and power (CHP) system commissioning certificate"
+                  },
+                  {
+                     "name": "PM_70_80_14: Communications systems commissioning certificate"
                   },
                   {
                      "name": "PM_70_80_15: Control system commissioning report"
@@ -1920,10 +1989,19 @@
                      "name": "PM_70_80_77: Security system commissioning report"
                   },
                   {
+                     "name": "PM_70_80_80: Smoke extract and control system commissioning report"
+                  },
+                  {
                      "name": "PM_70_80_85: Surveillance system installation commissioning report"
                   },
                   {
+                     "name": "PM_70_80_88: Telecommunications installation certificate"
+                  },
+                  {
                      "name": "PM_70_80_89: Toilet alarm commissioning certificate"
+                  },
+                  {
+                     "name": "PM_70_80_94: Ventilation commissioning certificate"
                   },
                   {
                      "name": "PM_70_80_96: Water distribution commissioning report"
@@ -2021,6 +2099,9 @@
                      "name": "PM_70_85_92: User acceptance information"
                   },
                   {
+                     "name": "PM_70_85_93: Utilities readings"
+                  },
+                  {
                      "name": "PM_70_85_96: Works completion certificate"
                   }
                ]
@@ -2067,6 +2148,9 @@
                      "name": "PM_70_95_20: Design compliance review report"
                   },
                   {
+                     "name": "PM_70_95_21: Design compliance certificate"
+                  },
+                  {
                      "name": "PM_70_95_33: Gateway review information"
                   },
                   {
@@ -2107,16 +2191,31 @@
                      "name": "PM_80_10_07: Asset management responsibility information"
                   },
                   {
+                     "name": "PM_80_10_08: Asset management policy information"
+                  },
+                  {
+                     "name": "PM_80_10_09: Asset management strategy information"
+                  },
+                  {
                      "name": "PM_80_10_10: Asset register"
                   },
                   {
                      "name": "PM_80_10_12: Building performance evaluation plan"
                   },
                   {
+                     "name": "PM_80_10_14: Closed-circuit television (CCTV) strategy"
+                  },
+                  {
                      "name": "PM_80_10_15: Configuration management strategy"
                   },
                   {
                      "name": "PM_80_10_16: Configuration record"
+                  },
+                  {
+                     "name": "PM_80_10_18: Crime prevention strategy"
+                  },
+                  {
+                     "name": "PM_80_10_19: Critical assets list"
                   },
                   {
                      "name": "PM_80_10_20: Deterioration modelling"
@@ -2164,6 +2263,9 @@
                      "name": "PM_80_10_54: Maintenance records"
                   },
                   {
+                     "name": "PM_80_10_55: Metering strategy"
+                  },
+                  {
                      "name": "PM_80_10_56: Non-conformance notification"
                   },
                   {
@@ -2191,7 +2293,13 @@
                      "name": "PM_80_10_78: Scenario modelling"
                   },
                   {
+                     "name": "PM_80_10_79: Security management plan"
+                  },
+                  {
                      "name": "PM_80_10_80: Shoreline management plans"
+                  },
+                  {
+                     "name": "PM_80_10_84: Survey management plan"
                   },
                   {
                      "name": "PM_80_10_88: Telephone system information"
@@ -2200,7 +2308,18 @@
                      "name": "PM_80_10_90: Travel plan information"
                   },
                   {
+                     "name": "PM_80_10_93: Vehicle parking management plans"
+                  },
+                  {
                      "name": "PM_80_10_94: Visit questionnaire information"
+                  }
+               ]
+            },
+            {
+               "name": "PM_80_15: Asset maintenance information",
+               "children": [
+                  {
+                     "name": "PM_80_15_31: Fire safety log book"
                   }
                ]
             },
@@ -2228,10 +2347,39 @@
                ]
             },
             {
+               "name": "PM_80_25: Asset impact assessments",
+               "children": [
+                  {
+                     "name": "PM_80_25_08: Biodiversity net gain assessments"
+                  },
+                  {
+                     "name": "PM_80_25_26: Energy performance assessments"
+                  },
+                  {
+                     "name": "PM_80_25_36: Health impact assessments"
+                  },
+                  {
+                     "name": "PM_80_25_38: Heritage impact assessments"
+                  },
+                  {
+                     "name": "PM_80_25_46: Land use assessments"
+                  },
+                  {
+                     "name": "PM_80_25_47: Life cycle assessments"
+                  },
+                  {
+                     "name": "PM_80_25_80: Socio-economic impact assessments"
+                  }
+               ]
+            },
+            {
                "name": "PM_80_30: Asset life cycle cost information",
                "children": [
                   {
                      "name": "PM_80_30_05: Acquisition costs"
+                  },
+                  {
+                     "name": "PM_80_30_12: Capital investment cost information"
                   },
                   {
                      "name": "PM_80_30_30: Finance charges information"
@@ -2263,6 +2411,14 @@
                ]
             },
             {
+               "name": "PM_80_40: Personnel training information",
+               "children": [
+                  {
+                     "name": "PM_80_40_36: High-voltage systems operator training certificate"
+                  }
+               ]
+            },
+            {
                "name": "PM_80_50: Emergency strategy information",
                "children": [
                   {
@@ -2270,6 +2426,9 @@
                   },
                   {
                      "name": "PM_80_50_25: Disaster response strategy"
+                  },
+                  {
+                     "name": "PM_80_50_27: Emergency response packs"
                   },
                   {
                      "name": "PM_80_50_30: Fire evacuation strategy"
@@ -2290,6 +2449,9 @@
                   },
                   {
                      "name": "PM_80_60_30: Financial risk management information"
+                  },
+                  {
+                     "name": "PM_80_60_31: Fire risk assessment information"
                   },
                   {
                      "name": "PM_80_60_32: Flood risk management information"

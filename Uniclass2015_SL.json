@@ -1,5 +1,5 @@
 ﻿{
-   "name": "Uniclass2015_SL (v1.21 - 28 July 2021)",
+   "name": "Uniclass2015_SL Spaces/ locations - 25 April 2022 - v1.23",
    "children": [
       {
          "name": "SL_20: Administrative, commercial and protective service spaces",
@@ -1186,6 +1186,9 @@
                "name": "SL_32_65: Natural spaces",
                "children": [
                   {
+                     "name": "SL_32_65_12: Caves"
+                  },
+                  {
                      "name": "SL_32_65_71: Riverbeds"
                   },
                   {
@@ -1473,6 +1476,9 @@
             {
                "name": "SL_35_80: Sanitary spaces",
                "children": [
+                  {
+                     "name": "SL_35_80_00: Ablutions rooms"
+                  },
                   {
                      "name": "SL_35_80_01: Accessible changing rooms"
                   },
@@ -2392,10 +2398,10 @@
                      "name": "SL_70_30_26: Electrical distribution pedestals"
                   },
                   {
-                     "name": "SL_70_30_35: High voltage electricity substation chambers"
+                     "name": "SL_70_30_35: High-voltage electricity substation chambers"
                   },
                   {
-                     "name": "SL_70_30_45: Low voltage electricity substation chambers"
+                     "name": "SL_70_30_45: Low-voltage electricity substation chambers"
                   },
                   {
                      "name": "SL_70_30_92: Uninterruptible power supply rooms"
@@ -2460,6 +2466,9 @@
                "children": [
                   {
                      "name": "SL_75_50_30: Exclusion zones"
+                  },
+                  {
+                     "name": "SL_75_50_33: Gas zones"
                   }
                ]
             },
@@ -3274,13 +3283,13 @@
                      "name": "SL_90_60_10: Cavities"
                   },
                   {
-                     "name": "SL_90_60_12: Chimneys"
-                  },
-                  {
                      "name": "SL_90_60_13: Chutes"
                   },
                   {
                      "name": "SL_90_60_18: Crawl spaces"
+                  },
+                  {
+                     "name": "SL_90_60_30: Flues"
                   },
                   {
                      "name": "SL_90_60_49: Lift pits"
